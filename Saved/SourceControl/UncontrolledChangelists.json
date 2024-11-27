@@ -1,0 +1,16 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/schev/source/repos/Escape/Escape/Content/Managers/BP_Manager/EventManager.uasset",
+				"C:/Users/schev/source/repos/Escape/Escape/Content/Managers/BP_Manager/BP_EventManager.uasset",
+				"C:/Users/schev/source/repos/Escape/Escape/Content/Managers/BP_Interfaces/BPI_Event.uasset",
+				"C:/Users/schev/source/repos/Escape/Escape/Content/Managers/BP_Interfaces/Event.uasset",
+				"C:/Users/schev/source/repos/Escape/Escape/Content/Events/Blueprint/BP_Event.uasset"
+			]
+		}
+	]
+}

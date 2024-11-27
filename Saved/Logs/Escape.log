@@ -1199,3 +1199,344 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2024.11.27-09.54.29:611][655]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
 [2024.11.27-09.54.33:656][898]LogContentBrowser: Attempting asset rename: NewFolder -> Blueprint
 [2024.11.27-09.54.33:656][898]LogContentBrowser: End creating deferred item NewFolder
+[2024.11.27-10.10.46:446][521]LogDerivedDataCache: C:/Users/schev/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.032 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 355 files in 642 folders with total size 2 MiB.
+[2024.11.27-10.21.20:936][602]LogViewport: Scene viewport resized to 1033x813, mode Windowed.
+[2024.11.27-10.21.20:963][603]LogViewport: Scene viewport resized to 1042x813, mode Windowed.
+[2024.11.27-10.21.20:972][604]LogViewport: Scene viewport resized to 1049x813, mode Windowed.
+[2024.11.27-10.21.20:992][605]LogViewport: Scene viewport resized to 1065x813, mode Windowed.
+[2024.11.27-10.21.21:009][606]LogViewport: Scene viewport resized to 1078x813, mode Windowed.
+[2024.11.27-10.21.21:028][607]LogViewport: Scene viewport resized to 1089x813, mode Windowed.
+[2024.11.27-10.21.21:045][608]LogViewport: Scene viewport resized to 1098x813, mode Windowed.
+[2024.11.27-10.21.21:064][609]LogViewport: Scene viewport resized to 1106x813, mode Windowed.
+[2024.11.27-10.21.21:082][610]LogViewport: Scene viewport resized to 1114x813, mode Windowed.
+[2024.11.27-10.21.21:099][611]LogViewport: Scene viewport resized to 1123x813, mode Windowed.
+[2024.11.27-10.21.21:116][612]LogViewport: Scene viewport resized to 1128x813, mode Windowed.
+[2024.11.27-10.21.21:137][613]LogViewport: Scene viewport resized to 1132x813, mode Windowed.
+[2024.11.27-10.21.21:155][614]LogViewport: Scene viewport resized to 1134x813, mode Windowed.
+[2024.11.27-10.21.21:171][615]LogViewport: Scene viewport resized to 1138x813, mode Windowed.
+[2024.11.27-10.21.21:188][616]LogViewport: Scene viewport resized to 1140x813, mode Windowed.
+[2024.11.27-10.21.21:209][617]LogViewport: Scene viewport resized to 1146x813, mode Windowed.
+[2024.11.27-10.21.21:226][618]LogViewport: Scene viewport resized to 1148x813, mode Windowed.
+[2024.11.27-10.21.21:245][619]LogViewport: Scene viewport resized to 1151x813, mode Windowed.
+[2024.11.27-10.21.21:261][620]LogViewport: Scene viewport resized to 1153x813, mode Windowed.
+[2024.11.27-10.21.21:278][621]LogViewport: Scene viewport resized to 1154x813, mode Windowed.
+[2024.11.27-10.21.21:312][623]LogViewport: Scene viewport resized to 1155x813, mode Windowed.
+[2024.11.27-10.21.21:328][624]LogViewport: Scene viewport resized to 1158x813, mode Windowed.
+[2024.11.27-10.21.22:771][709]LogViewport: Scene viewport resized to 1152x813, mode Windowed.
+[2024.11.27-10.21.22:791][710]LogViewport: Scene viewport resized to 1147x813, mode Windowed.
+[2024.11.27-10.21.22:806][711]LogViewport: Scene viewport resized to 1142x813, mode Windowed.
+[2024.11.27-10.21.22:825][712]LogViewport: Scene viewport resized to 1137x813, mode Windowed.
+[2024.11.27-10.21.22:842][713]LogViewport: Scene viewport resized to 1132x813, mode Windowed.
+[2024.11.27-10.21.22:859][714]LogViewport: Scene viewport resized to 1129x813, mode Windowed.
+[2024.11.27-10.21.22:908][717]LogViewport: Scene viewport resized to 1128x813, mode Windowed.
+[2024.11.27-10.21.22:926][718]LogViewport: Scene viewport resized to 1127x813, mode Windowed.
+[2024.11.27-10.21.22:943][719]LogViewport: Scene viewport resized to 1126x813, mode Windowed.
+[2024.11.27-10.21.22:959][720]LogViewport: Scene viewport resized to 1124x813, mode Windowed.
+[2024.11.27-10.21.22:976][721]LogViewport: Scene viewport resized to 1122x813, mode Windowed.
+[2024.11.27-10.21.22:993][722]LogViewport: Scene viewport resized to 1117x813, mode Windowed.
+[2024.11.27-10.21.23:009][723]LogViewport: Scene viewport resized to 1114x813, mode Windowed.
+[2024.11.27-10.21.23:026][724]LogViewport: Scene viewport resized to 1112x813, mode Windowed.
+[2024.11.27-10.21.23:042][725]LogViewport: Scene viewport resized to 1107x813, mode Windowed.
+[2024.11.27-10.21.23:059][726]LogViewport: Scene viewport resized to 1102x813, mode Windowed.
+[2024.11.27-10.21.23:076][727]LogViewport: Scene viewport resized to 1096x813, mode Windowed.
+[2024.11.27-10.21.23:095][728]LogViewport: Scene viewport resized to 1089x813, mode Windowed.
+[2024.11.27-10.21.23:112][729]LogViewport: Scene viewport resized to 1087x813, mode Windowed.
+[2024.11.27-10.21.23:160][732]LogViewport: Scene viewport resized to 1086x813, mode Windowed.
+[2024.11.27-10.21.25:598][878]LogViewport: Scene viewport resized to 1088x813, mode Windowed.
+[2024.11.27-10.21.25:617][879]LogViewport: Scene viewport resized to 1090x813, mode Windowed.
+[2024.11.27-10.21.25:633][880]LogViewport: Scene viewport resized to 1092x813, mode Windowed.
+[2024.11.27-10.21.25:652][881]LogViewport: Scene viewport resized to 1095x813, mode Windowed.
+[2024.11.27-10.21.25:667][882]LogViewport: Scene viewport resized to 1096x813, mode Windowed.
+[2024.11.27-10.21.25:687][883]LogViewport: Scene viewport resized to 1100x813, mode Windowed.
+[2024.11.27-10.21.25:702][884]LogViewport: Scene viewport resized to 1102x813, mode Windowed.
+[2024.11.27-10.21.25:719][885]LogViewport: Scene viewport resized to 1103x813, mode Windowed.
+[2024.11.27-10.21.25:736][886]LogViewport: Scene viewport resized to 1106x813, mode Windowed.
+[2024.11.27-10.21.25:753][887]LogViewport: Scene viewport resized to 1107x813, mode Windowed.
+[2024.11.27-10.21.25:771][888]LogViewport: Scene viewport resized to 1109x813, mode Windowed.
+[2024.11.27-10.21.25:787][889]LogViewport: Scene viewport resized to 1111x813, mode Windowed.
+[2024.11.27-10.21.25:804][890]LogViewport: Scene viewport resized to 1113x813, mode Windowed.
+[2024.11.27-10.21.25:824][891]LogViewport: Scene viewport resized to 1114x813, mode Windowed.
+[2024.11.27-10.21.25:841][892]LogViewport: Scene viewport resized to 1116x813, mode Windowed.
+[2024.11.27-10.21.25:859][893]LogViewport: Scene viewport resized to 1118x813, mode Windowed.
+[2024.11.27-10.21.25:876][894]LogViewport: Scene viewport resized to 1120x813, mode Windowed.
+[2024.11.27-10.21.25:908][896]LogViewport: Scene viewport resized to 1122x813, mode Windowed.
+[2024.11.27-10.21.25:925][897]LogViewport: Scene viewport resized to 1125x813, mode Windowed.
+[2024.11.27-10.21.25:942][898]LogViewport: Scene viewport resized to 1126x813, mode Windowed.
+[2024.11.27-10.21.25:959][899]LogViewport: Scene viewport resized to 1128x813, mode Windowed.
+[2024.11.27-10.21.25:991][901]LogViewport: Scene viewport resized to 1130x813, mode Windowed.
+[2024.11.27-10.21.26:224][915]LogViewport: Scene viewport resized to 1128x813, mode Windowed.
+[2024.11.27-10.21.26:242][916]LogViewport: Scene viewport resized to 1125x813, mode Windowed.
+[2024.11.27-10.21.26:265][917]LogViewport: Scene viewport resized to 1121x813, mode Windowed.
+[2024.11.27-10.21.26:279][918]LogViewport: Scene viewport resized to 1118x813, mode Windowed.
+[2024.11.27-10.21.26:297][919]LogViewport: Scene viewport resized to 1116x813, mode Windowed.
+[2024.11.27-10.21.26:313][920]LogViewport: Scene viewport resized to 1114x813, mode Windowed.
+[2024.11.27-10.21.26:331][921]LogViewport: Scene viewport resized to 1112x813, mode Windowed.
+[2024.11.27-10.21.26:347][922]LogViewport: Scene viewport resized to 1111x813, mode Windowed.
+[2024.11.27-10.21.26:363][923]LogViewport: Scene viewport resized to 1108x813, mode Windowed.
+[2024.11.27-10.21.26:380][924]LogViewport: Scene viewport resized to 1105x813, mode Windowed.
+[2024.11.27-10.21.26:397][925]LogViewport: Scene viewport resized to 1103x813, mode Windowed.
+[2024.11.27-10.21.26:414][926]LogViewport: Scene viewport resized to 1100x813, mode Windowed.
+[2024.11.27-10.21.26:446][928]LogViewport: Scene viewport resized to 1098x813, mode Windowed.
+[2024.11.27-10.21.26:463][929]LogViewport: Scene viewport resized to 1095x813, mode Windowed.
+[2024.11.27-10.21.26:480][930]LogViewport: Scene viewport resized to 1094x813, mode Windowed.
+[2024.11.27-10.21.26:497][931]LogViewport: Scene viewport resized to 1089x813, mode Windowed.
+[2024.11.27-10.21.26:514][932]LogViewport: Scene viewport resized to 1086x813, mode Windowed.
+[2024.11.27-10.21.26:529][933]LogViewport: Scene viewport resized to 1082x813, mode Windowed.
+[2024.11.27-10.21.26:547][934]LogViewport: Scene viewport resized to 1079x813, mode Windowed.
+[2024.11.27-10.21.26:614][938]LogViewport: Scene viewport resized to 1077x813, mode Windowed.
+[2024.11.27-10.21.26:631][939]LogViewport: Scene viewport resized to 1075x813, mode Windowed.
+[2024.11.27-10.21.26:664][941]LogViewport: Scene viewport resized to 1074x813, mode Windowed.
+[2024.11.27-10.23.17:293][566]LogViewport: Scene viewport resized to 1072x813, mode Windowed.
+[2024.11.27-10.23.17:311][567]LogViewport: Scene viewport resized to 1069x813, mode Windowed.
+[2024.11.27-10.23.17:328][568]LogViewport: Scene viewport resized to 1066x813, mode Windowed.
+[2024.11.27-10.23.17:344][569]LogViewport: Scene viewport resized to 1062x813, mode Windowed.
+[2024.11.27-10.23.17:362][570]LogViewport: Scene viewport resized to 1056x813, mode Windowed.
+[2024.11.27-10.23.17:378][571]LogViewport: Scene viewport resized to 1053x813, mode Windowed.
+[2024.11.27-10.23.17:394][572]LogViewport: Scene viewport resized to 1048x813, mode Windowed.
+[2024.11.27-10.23.17:411][573]LogViewport: Scene viewport resized to 1040x813, mode Windowed.
+[2024.11.27-10.23.17:428][574]LogViewport: Scene viewport resized to 1031x813, mode Windowed.
+[2024.11.27-10.23.17:444][575]LogViewport: Scene viewport resized to 1023x813, mode Windowed.
+[2024.11.27-10.23.17:461][576]LogViewport: Scene viewport resized to 1015x813, mode Windowed.
+[2024.11.27-10.23.17:485][577]LogViewport: Scene viewport resized to 1001x813, mode Windowed.
+[2024.11.27-10.23.17:509][578]LogViewport: Scene viewport resized to 990x813, mode Windowed.
+[2024.11.27-10.23.17:525][579]LogViewport: Scene viewport resized to 984x813, mode Windowed.
+[2024.11.27-10.23.17:579][580]LogViewport: Scene viewport resized to 963x813, mode Windowed.
+[2024.11.27-10.23.17:598][581]LogViewport: Scene viewport resized to 958x813, mode Windowed.
+[2024.11.27-10.23.17:614][582]LogViewport: Scene viewport resized to 956x813, mode Windowed.
+[2024.11.27-10.23.17:662][583]LogViewport: Scene viewport resized to 948x813, mode Windowed.
+[2024.11.27-10.23.17:681][584]LogViewport: Scene viewport resized to 941x813, mode Windowed.
+[2024.11.27-10.23.17:701][585]LogViewport: Scene viewport resized to 933x813, mode Windowed.
+[2024.11.27-10.23.17:718][586]LogViewport: Scene viewport resized to 921x813, mode Windowed.
+[2024.11.27-10.23.17:736][587]LogViewport: Scene viewport resized to 911x813, mode Windowed.
+[2024.11.27-10.23.17:752][588]LogViewport: Scene viewport resized to 901x813, mode Windowed.
+[2024.11.27-10.23.17:769][589]LogViewport: Scene viewport resized to 893x813, mode Windowed.
+[2024.11.27-10.23.17:786][590]LogViewport: Scene viewport resized to 889x813, mode Windowed.
+[2024.11.27-10.23.17:825][591]LogViewport: Scene viewport resized to 887x813, mode Windowed.
+[2024.11.27-10.23.17:977][600]LogViewport: Scene viewport resized to 886x813, mode Windowed.
+[2024.11.27-10.23.17:995][601]LogViewport: Scene viewport resized to 881x813, mode Windowed.
+[2024.11.27-10.23.18:012][602]LogViewport: Scene viewport resized to 873x813, mode Windowed.
+[2024.11.27-10.23.18:028][603]LogViewport: Scene viewport resized to 868x813, mode Windowed.
+[2024.11.27-10.23.18:054][604]LogViewport: Scene viewport resized to 863x813, mode Windowed.
+[2024.11.27-10.23.18:104][607]LogViewport: Scene viewport resized to 862x813, mode Windowed.
+[2024.11.27-10.23.18:138][609]LogViewport: Scene viewport resized to 861x813, mode Windowed.
+[2024.11.27-10.23.18:155][610]LogViewport: Scene viewport resized to 860x813, mode Windowed.
+[2024.11.27-10.23.18:172][611]LogViewport: Scene viewport resized to 856x813, mode Windowed.
+[2024.11.27-10.23.18:189][612]LogViewport: Scene viewport resized to 855x813, mode Windowed.
+[2024.11.27-10.23.18:206][613]LogViewport: Scene viewport resized to 851x813, mode Windowed.
+[2024.11.27-10.23.18:222][614]LogViewport: Scene viewport resized to 848x813, mode Windowed.
+[2024.11.27-10.23.18:238][615]LogViewport: Scene viewport resized to 846x813, mode Windowed.
+[2024.11.27-10.23.18:255][616]LogViewport: Scene viewport resized to 844x813, mode Windowed.
+[2024.11.27-10.23.18:454][628]LogViewport: Scene viewport resized to 843x813, mode Windowed.
+[2024.11.27-10.24.20:763][376]LogSlate: Window 'Pick Parent Class' being destroyed
+[2024.11.27-10.24.20:817][376]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2024.11.27-10.24.20:822][376]LogContentBrowser: Creating deferred item: NewBlueprint
+[2024.11.27-10.24.20:849][378]LogContentBrowser: Renaming the item being created (Deferred Item: NewBlueprint).
+[2024.11.27-10.24.28:558][834]LogContentBrowser: Attempting asset rename: NewBlueprint -> EventManager
+[2024.11.27-10.24.28:582][834]LogContentBrowser: End creating deferred item NewBlueprint
+[2024.11.27-10.24.29:721][901]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Managers/BP_Manager/EventManager.EventManager
+[2024.11.27-10.24.29:725][901]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.11.27-10.24.29:725][901]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.11.27-10.24.29:737][901]LogSlate: Warning: The command 'BlueprintEditorSpawnNodes.AddActorRefAction->CommandInfo' has the same default chord as 'BlueprintEditorSpawnNodes.(Class=/Script/BlueprintGraph.K2Node_Knot Key=R Shift=false Ctrl=false Alt=false)' [R]
+[2024.11.27-10.24.32:785][  0]LogViewport: Scene viewport resized to 1228x780, mode Windowed.
+[2024.11.27-10.24.36:728][213]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.11.27-10.24.36:808][213]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Managers/BP_Manager/EventManager" FILE="../../../../../../Users/schev/source/repos/Escape/Escape/Content/Managers/BP_Manager/EventManager.uasset" SILENT=true
+[2024.11.27-10.24.36:818][213]LogPackageLocalizationCache: Processed 46 localized package path(s) for 1 prioritized culture(s) in 0.007359 seconds
+[2024.11.27-10.24.36:828][213]LogSavePackage: Moving output files for package: /Game/Managers/BP_Manager/EventManager
+[2024.11.27-10.24.36:828][213]LogSavePackage: Moving '../../../../../../Users/schev/source/repos/Escape/Escape/Saved/EventManager357114A749B75A66255460B134F46F2F.tmp' to '../../../../../../Users/schev/source/repos/Escape/Escape/Content/Managers/BP_Manager/EventManager.uasset'
+[2024.11.27-10.24.36:847][213]LogFileHelpers: InternalPromptForCheckoutAndSave took 119 ms
+[2024.11.27-10.24.36:849][213]AssetCheck: New page: Asset Save: EventManager
+[2024.11.27-10.24.36:849][213]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Managers/BP_Manager/EventManager.EventManager
+[2024.11.27-10.24.37:419][243]BlueprintLog: New page: Compile EventManager
+[2024.11.27-10.24.37:479][243]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2024.11.27-10.24.37:832][246]LogSlate: Took 0.004268 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2024.11.27-10.24.42:511][521]LogSlate: Took 0.005451 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2024.11.27-10.25.07:853][898]LogSlate: Took 0.008741 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf' (3848K)
+[2024.11.27-10.25.07:903][898]LogSlate: Took 0.005935 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2024.11.27-10.25.20:184][370]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.11.27-10.25.20:281][370]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Managers/BP_Manager/EventManager" FILE="../../../../../../Users/schev/source/repos/Escape/Escape/Content/Managers/BP_Manager/EventManager.uasset" SILENT=true
+[2024.11.27-10.25.20:283][370]LogSavePackage: Moving output files for package: /Game/Managers/BP_Manager/EventManager
+[2024.11.27-10.25.20:284][370]LogSavePackage: Moving '../../../../../../Users/schev/source/repos/Escape/Escape/Saved/EventManager0415978742345580D315C49F35DA4CEB.tmp' to '../../../../../../Users/schev/source/repos/Escape/Escape/Content/Managers/BP_Manager/EventManager.uasset'
+[2024.11.27-10.25.20:303][370]LogFileHelpers: InternalPromptForCheckoutAndSave took 120 ms (total: 239 ms)
+[2024.11.27-10.25.20:304][370]AssetCheck: New page: Asset Save: EventManager
+[2024.11.27-10.25.20:304][370]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Managers/BP_Manager/EventManager.EventManager
+[2024.11.27-10.25.20:781][395]BlueprintLog: New page: Compile EventManager
+[2024.11.27-10.25.20:804][395]LogUObjectHash: Compacting FUObjectHashTables data took   1.39ms
+[2024.11.27-10.25.29:812][886]LogContentBrowser: Deferred new asset file creation: NewInterface
+[2024.11.27-10.25.29:818][886]LogContentBrowser: Creating deferred item: NewInterface
+[2024.11.27-10.25.29:875][888]LogContentBrowser: Renaming the item being created (Deferred Item: NewInterface).
+[2024.11.27-10.25.38:049][378]LogContentBrowser: Attempting asset rename: NewInterface -> BPI_Event
+[2024.11.27-10.25.38:053][378]LogContentBrowser: End creating deferred item NewInterface
+[2024.11.27-10.25.50:493][101]LogContentBrowser: Attempting asset rename: EventManager -> BP_EventManager
+[2024.11.27-10.25.50:540][101]LogMetaData: Removing '/Game/Managers/BP_Manager/BP_EventManager.BP_EventManager:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/Managers/BP_Manager/EventManager.PackageMetaData'
+[2024.11.27-10.25.50:540][101]LogMetaData: Removing '/Game/Managers/BP_Manager/BP_EventManager.SKEL_BP_EventManager_C:ReceiveBeginPlay' ref from Metadata '/Game/Managers/BP_Manager/EventManager.PackageMetaData'
+[2024.11.27-10.25.50:540][101]LogMetaData: Removing '/Game/Managers/BP_Manager/BP_EventManager.SKEL_BP_EventManager_C' ref from Metadata '/Game/Managers/BP_Manager/EventManager.PackageMetaData'
+[2024.11.27-10.25.50:540][101]LogMetaData: Removing '/Game/Managers/BP_Manager/BP_EventManager.BP_EventManager_C' ref from Metadata '/Game/Managers/BP_Manager/EventManager.PackageMetaData'
+[2024.11.27-10.25.50:540][101]LogMetaData: Removing '/Game/Managers/BP_Manager/BP_EventManager.BP_EventManager:EventGraph.K2Node_Event_0' ref from Metadata '/Game/Managers/BP_Manager/EventManager.PackageMetaData'
+[2024.11.27-10.25.50:540][101]LogMetaData: Removing '/Game/Managers/BP_Manager/BP_EventManager.BP_EventManager:EventGraph.K2Node_Event_1' ref from Metadata '/Game/Managers/BP_Manager/EventManager.PackageMetaData'
+[2024.11.27-10.25.50:540][101]LogMetaData: Removing '/Game/Managers/BP_Manager/BP_EventManager.BP_EventManager:EventGraph.K2Node_Event_2' ref from Metadata '/Game/Managers/BP_Manager/EventManager.PackageMetaData'
+[2024.11.27-10.25.50:540][101]LogMetaData: Removing '/Game/Managers/BP_Manager/BP_EventManager.SKEL_BP_EventManager_C:ReceiveActorBeginOverlap' ref from Metadata '/Game/Managers/BP_Manager/EventManager.PackageMetaData'
+[2024.11.27-10.25.50:540][101]LogMetaData: Removing '/Game/Managers/BP_Manager/BP_EventManager.SKEL_BP_EventManager_C:ReceiveTick' ref from Metadata '/Game/Managers/BP_Manager/EventManager.PackageMetaData'
+[2024.11.27-10.25.50:540][101]LogMetaData: Removing '/Game/Managers/BP_Manager/BP_EventManager.SKEL_BP_EventManager_C:UserConstructionScript' ref from Metadata '/Game/Managers/BP_Manager/EventManager.PackageMetaData'
+[2024.11.27-10.25.50:546][101]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.11.27-10.25.50:605][101]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Managers/BP_Manager/BP_EventManager" FILE="../../../../../../Users/schev/source/repos/Escape/Escape/Content/Managers/BP_Manager/BP_EventManager.uasset" SILENT=true
+[2024.11.27-10.25.50:607][101]LogSavePackage: Moving output files for package: /Game/Managers/BP_Manager/BP_EventManager
+[2024.11.27-10.25.50:607][101]LogSavePackage: Moving '../../../../../../Users/schev/source/repos/Escape/Escape/Saved/BP_EventManager9C863F74418F11A1030318868B1AFCF6.tmp' to '../../../../../../Users/schev/source/repos/Escape/Escape/Content/Managers/BP_Manager/BP_EventManager.uasset'
+[2024.11.27-10.25.50:627][101]LogFileHelpers: InternalPromptForCheckoutAndSave took 80 ms (total: 320 ms)
+[2024.11.27-10.25.50:645][101]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2024.11.27-10.25.50:657][101]LogUObjectHash: Compacting FUObjectHashTables data took   0.99ms
+[2024.11.27-10.25.50:669][101]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2024.11.27-10.25.50:670][101]AssetCheck: New page: Asset Save: BP_EventManager
+[2024.11.27-10.25.50:670][101]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Managers/BP_Manager/BP_EventManager.BP_EventManager
+[2024.11.27-10.25.53:664][279]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Managers/BP_Interfaces/BPI_Event.BPI_Event
+[2024.11.27-10.25.53:664][279]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.11.27-10.25.53:664][279]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.11.27-10.25.55:925][409]BlueprintLog: New page: Compile BPI_Event
+[2024.11.27-10.25.55:937][409]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2024.11.27-10.26.40:011][715]BlueprintLog: New page: Compile BPI_Event
+[2024.11.27-10.26.40:023][715]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2024.11.27-10.26.40:651][749]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.11.27-10.26.40:723][749]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Managers/BP_Interfaces/BPI_Event" FILE="../../../../../../Users/schev/source/repos/Escape/Escape/Content/Managers/BP_Interfaces/BPI_Event.uasset" SILENT=true
+[2024.11.27-10.26.40:725][749]LogSavePackage: Moving output files for package: /Game/Managers/BP_Interfaces/BPI_Event
+[2024.11.27-10.26.40:725][749]LogSavePackage: Moving '../../../../../../Users/schev/source/repos/Escape/Escape/Saved/BPI_EventCE6D30944CE6DB052840F29EF690DB96.tmp' to '../../../../../../Users/schev/source/repos/Escape/Escape/Content/Managers/BP_Interfaces/BPI_Event.uasset'
+[2024.11.27-10.26.40:745][749]LogFileHelpers: InternalPromptForCheckoutAndSave took 93 ms (total: 414 ms)
+[2024.11.27-10.26.40:746][749]AssetCheck: New page: Asset Save: BPI_Event
+[2024.11.27-10.26.40:746][749]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Managers/BP_Interfaces/BPI_Event.BPI_Event
+[2024.11.27-10.28.00:580][465]BlueprintLog: New page: Compile BP_EventManager
+[2024.11.27-10.28.00:581][465]LogClass: Warning: Type mismatch in EventList of BP_EventManager_C - Previous (BoolProperty) Current(ArrayProperty) for package:  FObjectReader
+[2024.11.27-10.28.00:590][465]LogBlueprint: Warning: [AssetLog] C:\Users\schev\source\repos\Escape\Escape\Content\Managers\BP_Manager\BP_EventManager.uasset: [Compiler] Can't parse default value 'False' for  . Property: EventList.
+[2024.11.27-10.28.00:607][465]LogUObjectHash: Compacting FUObjectHashTables data took   0.98ms
+[2024.11.27-10.28.20:148][515]BlueprintLog: New page: Compile BP_EventManager
+[2024.11.27-10.28.20:171][515]LogUObjectHash: Compacting FUObjectHashTables data took   1.74ms
+[2024.11.27-10.28.25:928][807]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.11.27-10.28.26:000][807]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Managers/BP_Manager/BP_EventManager" FILE="../../../../../../Users/schev/source/repos/Escape/Escape/Content/Managers/BP_Manager/BP_EventManager.uasset" SILENT=true
+[2024.11.27-10.28.26:003][807]LogSavePackage: Moving output files for package: /Game/Managers/BP_Manager/BP_EventManager
+[2024.11.27-10.28.26:003][807]LogSavePackage: Moving '../../../../../../Users/schev/source/repos/Escape/Escape/Saved/BP_EventManager1B3996674CED544F40C6DA9939BE795F.tmp' to '../../../../../../Users/schev/source/repos/Escape/Escape/Content/Managers/BP_Manager/BP_EventManager.uasset'
+[2024.11.27-10.28.26:023][807]LogFileHelpers: InternalPromptForCheckoutAndSave took 94 ms (total: 508 ms)
+[2024.11.27-10.28.26:024][807]AssetCheck: New page: Asset Save: BP_EventManager
+[2024.11.27-10.28.26:024][807]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Managers/BP_Manager/BP_EventManager.BP_EventManager
+[2024.11.27-10.29.07:957][228]BlueprintLog: New page: Compile BPI_Event
+[2024.11.27-10.29.07:979][228]LogUObjectHash: Compacting FUObjectHashTables data took   1.69ms
+[2024.11.27-10.29.36:408][403]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.11.27-10.29.36:482][403]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Managers/BP_Interfaces/BPI_Event" FILE="../../../../../../Users/schev/source/repos/Escape/Escape/Content/Managers/BP_Interfaces/BPI_Event.uasset" SILENT=true
+[2024.11.27-10.29.36:483][403]LogSavePackage: Moving output files for package: /Game/Managers/BP_Interfaces/BPI_Event
+[2024.11.27-10.29.36:484][403]LogSavePackage: Moving '../../../../../../Users/schev/source/repos/Escape/Escape/Saved/BPI_EventF9C7B62E41059B73D758C28E7E83C546.tmp' to '../../../../../../Users/schev/source/repos/Escape/Escape/Content/Managers/BP_Interfaces/BPI_Event.uasset'
+[2024.11.27-10.29.36:505][403]LogFileHelpers: InternalPromptForCheckoutAndSave took 96 ms (total: 604 ms)
+[2024.11.27-10.29.36:506][403]AssetCheck: New page: Asset Save: BPI_Event
+[2024.11.27-10.29.36:506][403]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Managers/BP_Interfaces/BPI_Event.BPI_Event
+[2024.11.27-10.29.37:265][442]BlueprintLog: New page: Compile BPI_Event
+[2024.11.27-10.29.37:278][442]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2024.11.27-10.30.48:977][383]LogContentBrowser: Deferred new asset file creation: NewUserDefinedStruct
+[2024.11.27-10.30.48:985][383]LogContentBrowser: Creating deferred item: NewUserDefinedStruct
+[2024.11.27-10.30.48:995][384]LogContentBrowser: Renaming the item being created (Deferred Item: NewUserDefinedStruct).
+[2024.11.27-10.30.52:634][597]LogContentBrowser: Attempting asset rename: NewUserDefinedStruct -> Event
+[2024.11.27-10.30.52:675][597]LogContentBrowser: End creating deferred item NewUserDefinedStruct
+[2024.11.27-10.30.54:229][686]LogAssetEditorSubsystem: Opening Asset editor for UserDefinedStruct /Game/Managers/BP_Interfaces/Event.Event
+[2024.11.27-10.30.56:669][821]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.11.27-10.30.56:754][821]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Managers/BP_Interfaces/Event" FILE="../../../../../../Users/schev/source/repos/Escape/Escape/Content/Managers/BP_Interfaces/Event.uasset" SILENT=true
+[2024.11.27-10.30.56:755][821]LogSavePackage: Moving output files for package: /Game/Managers/BP_Interfaces/Event
+[2024.11.27-10.30.56:755][821]LogSavePackage: Moving '../../../../../../Users/schev/source/repos/Escape/Escape/Saved/Event5529A4A64F8564FB157FB3B495E43A88.tmp' to '../../../../../../Users/schev/source/repos/Escape/Escape/Content/Managers/BP_Interfaces/Event.uasset'
+[2024.11.27-10.30.56:777][821]LogFileHelpers: InternalPromptForCheckoutAndSave took 107 ms (total: 711 ms)
+[2024.11.27-10.30.56:777][821]AssetCheck: New page: Asset Save: Event
+[2024.11.27-10.30.56:777][821]LogContentValidation: Display: Validating /Script/Engine.UserDefinedStruct /Game/Managers/BP_Interfaces/Event.Event
+[2024.11.27-10.31.20:534][209]LogUObjectHash: Compacting FUObjectHashTables data took   0.88ms
+[2024.11.27-10.31.21:571][209]LogSlate: Window 'Delete Assets' being destroyed
+[2024.11.27-10.31.21:601][209]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2024.11.27-10.31.21:612][209]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2024.11.27-10.31.21:623][209]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2024.11.27-10.31.41:516][ 19]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2024.11.27-10.31.41:523][ 19]LogContentBrowser: Creating deferred item: NewFolder
+[2024.11.27-10.31.41:532][ 20]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2024.11.27-10.31.43:912][161]LogContentBrowser: Attempting asset rename: NewFolder -> Events
+[2024.11.27-10.31.43:912][161]LogContentBrowser: End creating deferred item NewFolder
+[2024.11.27-10.31.47:089][313]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2024.11.27-10.31.47:100][313]LogContentBrowser: Creating deferred item: NewFolder
+[2024.11.27-10.31.47:147][315]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2024.11.27-10.31.50:698][528]LogContentBrowser: Attempting asset rename: NewFolder -> Blueprint4
+[2024.11.27-10.31.50:699][528]LogContentBrowser: End creating deferred item NewFolder
+[2024.11.27-10.31.55:171][754]LogContentBrowser: Attempting asset rename: Blueprint4 -> Blueprint
+[2024.11.27-10.32.51:513][894]LogSlate: Window 'Pick Parent Class' being destroyed
+[2024.11.27-10.32.51:528][894]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2024.11.27-10.32.51:535][894]LogContentBrowser: Creating deferred item: NewBlueprint
+[2024.11.27-10.32.51:560][896]LogContentBrowser: Renaming the item being created (Deferred Item: NewBlueprint).
+[2024.11.27-10.33.06:515][761]LogContentBrowser: Attempting asset rename: NewBlueprint -> BP_Event
+[2024.11.27-10.33.06:520][761]LogContentBrowser: End creating deferred item NewBlueprint
+[2024.11.27-10.33.08:954][891]BlueprintLog: New page: Compile BPI_Event
+[2024.11.27-10.33.08:969][891]LogUObjectHash: Compacting FUObjectHashTables data took   1.11ms
+[2024.11.27-10.33.09:845][936]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.11.27-10.33.09:924][936]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Managers/BP_Interfaces/BPI_Event" FILE="../../../../../../Users/schev/source/repos/Escape/Escape/Content/Managers/BP_Interfaces/BPI_Event.uasset" SILENT=true
+[2024.11.27-10.33.09:925][936]LogSavePackage: Moving output files for package: /Game/Managers/BP_Interfaces/BPI_Event
+[2024.11.27-10.33.09:926][936]LogSavePackage: Moving '../../../../../../Users/schev/source/repos/Escape/Escape/Saved/BPI_EventE19133F345043C7F1A5DA89E76205163.tmp' to '../../../../../../Users/schev/source/repos/Escape/Escape/Content/Managers/BP_Interfaces/BPI_Event.uasset'
+[2024.11.27-10.33.09:946][936]LogFileHelpers: InternalPromptForCheckoutAndSave took 100 ms (total: 812 ms)
+[2024.11.27-10.33.09:947][936]AssetCheck: New page: Asset Save: BPI_Event
+[2024.11.27-10.33.09:947][936]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Managers/BP_Interfaces/BPI_Event.BPI_Event
+[2024.11.27-10.33.58:585][179]BlueprintLog: New page: Compile BPI_Event
+[2024.11.27-10.33.58:598][179]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2024.11.27-10.34.01:867][352]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Events/Blueprint/BP_Event.BP_Event
+[2024.11.27-10.34.01:868][352]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.11.27-10.34.01:868][352]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.11.27-10.34.01:970][352]LogViewport: Scene viewport resized to 1033x780, mode Windowed.
+[2024.11.27-10.34.03:915][461]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.11.27-10.34.04:024][461]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Events/Blueprint/BP_Event" FILE="../../../../../../Users/schev/source/repos/Escape/Escape/Content/Events/Blueprint/BP_Event.uasset" SILENT=true
+[2024.11.27-10.34.04:026][461]LogSavePackage: Moving output files for package: /Game/Events/Blueprint/BP_Event
+[2024.11.27-10.34.04:026][461]LogSavePackage: Moving '../../../../../../Users/schev/source/repos/Escape/Escape/Saved/BP_Event2EC5B6AB4D0E13B8F713B5A3D43F8317.tmp' to '../../../../../../Users/schev/source/repos/Escape/Escape/Content/Events/Blueprint/BP_Event.uasset'
+[2024.11.27-10.34.04:046][461]LogFileHelpers: InternalPromptForCheckoutAndSave took 131 ms (total: 943 ms)
+[2024.11.27-10.34.04:047][461]AssetCheck: New page: Asset Save: BP_Event
+[2024.11.27-10.34.04:047][461]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Events/Blueprint/BP_Event.BP_Event
+[2024.11.27-10.35.13:552][198]BlueprintLog: New page: Compile BP_Event
+[2024.11.27-10.35.13:576][198]LogUObjectHash: Compacting FUObjectHashTables data took   1.26ms
+[2024.11.27-10.35.14:453][239]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.11.27-10.35.14:537][239]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Events/Blueprint/BP_Event" FILE="../../../../../../Users/schev/source/repos/Escape/Escape/Content/Events/Blueprint/BP_Event.uasset" SILENT=true
+[2024.11.27-10.35.14:550][239]LogSavePackage: Moving output files for package: /Game/Events/Blueprint/BP_Event
+[2024.11.27-10.35.14:550][239]LogSavePackage: Moving '../../../../../../Users/schev/source/repos/Escape/Escape/Saved/BP_EventE341C6B7440C32AE3345678F1B8C3A1A.tmp' to '../../../../../../Users/schev/source/repos/Escape/Escape/Content/Events/Blueprint/BP_Event.uasset'
+[2024.11.27-10.35.14:562][239]LogFileHelpers: InternalPromptForCheckoutAndSave took 109 ms (total: 1.05 sec)
+[2024.11.27-10.35.14:563][239]AssetCheck: New page: Asset Save: BP_Event
+[2024.11.27-10.35.14:565][239]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Events/Blueprint/BP_Event.BP_Event
+[2024.11.27-10.35.45:387][937]LogUObjectHash: Compacting FUObjectHashTables data took   1.10ms
+[2024.11.27-10.35.45:388][937]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPerson/Maps/FirstPersonMap' took 0.013
+[2024.11.27-10.35.45:389][937]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Events/Blueprint/BP_Event] ([2] browsable assets)...
+[2024.11.27-10.35.45:389][937]OBJ SavePackage: Finished generating thumbnails for package [/Game/Events/Blueprint/BP_Event]
+[2024.11.27-10.35.45:392][937]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Events/Blueprint/BP_Event_Auto1
+[2024.11.27-10.35.45:392][937]LogSavePackage: Moving '../../../../../../Users/schev/source/repos/Escape/Escape/Saved/BP_Event_Auto139E764C34BE831F6A589A9ABD94D8313.tmp' to '../../../../../../Users/schev/source/repos/Escape/Escape/Saved/Autosaves/Game/Events/Blueprint/BP_Event_Auto1.uasset'
+[2024.11.27-10.35.45:392][937]LogFileHelpers: Auto-saving content packages took 0.004
+[2024.11.27-10.36.03:816][699]BlueprintLog: New page: Compile BP_Event
+[2024.11.27-10.36.03:838][699]LogUObjectHash: Compacting FUObjectHashTables data took   1.50ms
+[2024.11.27-10.36.05:605][799]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.11.27-10.36.05:671][799]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Events/Blueprint/BP_Event" FILE="../../../../../../Users/schev/source/repos/Escape/Escape/Content/Events/Blueprint/BP_Event.uasset" SILENT=true
+[2024.11.27-10.36.05:674][799]LogSavePackage: Moving output files for package: /Game/Events/Blueprint/BP_Event
+[2024.11.27-10.36.05:675][799]LogSavePackage: Moving '../../../../../../Users/schev/source/repos/Escape/Escape/Saved/BP_EventB7F855EE474513BEB3E4358D6E45BF22.tmp' to '../../../../../../Users/schev/source/repos/Escape/Escape/Content/Events/Blueprint/BP_Event.uasset'
+[2024.11.27-10.36.05:694][799]LogFileHelpers: InternalPromptForCheckoutAndSave took 89 ms (total: 1.14 sec)
+[2024.11.27-10.36.05:696][799]AssetCheck: New page: Asset Save: BP_Event
+[2024.11.27-10.36.05:696][799]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Events/Blueprint/BP_Event.BP_Event
+[2024.11.27-10.36.14:689][334]BlueprintLog: New page: Compile BP_Event
+[2024.11.27-10.36.14:711][334]LogUObjectHash: Compacting FUObjectHashTables data took   1.69ms
+[2024.11.27-10.36.15:351][369]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.11.27-10.36.15:429][369]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Events/Blueprint/BP_Event" FILE="../../../../../../Users/schev/source/repos/Escape/Escape/Content/Events/Blueprint/BP_Event.uasset" SILENT=true
+[2024.11.27-10.36.15:432][369]LogSavePackage: Moving output files for package: /Game/Events/Blueprint/BP_Event
+[2024.11.27-10.36.15:433][369]LogSavePackage: Moving '../../../../../../Users/schev/source/repos/Escape/Escape/Saved/BP_EventE932C3774FA8642B303780957114C174.tmp' to '../../../../../../Users/schev/source/repos/Escape/Escape/Content/Events/Blueprint/BP_Event.uasset'
+[2024.11.27-10.36.15:452][369]LogFileHelpers: InternalPromptForCheckoutAndSave took 101 ms (total: 1.24 sec)
+[2024.11.27-10.36.15:452][369]AssetCheck: New page: Asset Save: BP_Event
+[2024.11.27-10.36.15:452][369]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Events/Blueprint/BP_Event.BP_Event
+[2024.11.27-10.36.22:509][764]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2024.11.27-10.36.22:509][764]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.11.27-10.36.23:912][838]BlueprintLog: New page: Compile BP_EventManager
+[2024.11.27-10.36.23:934][838]LogUObjectHash: Compacting FUObjectHashTables data took   1.37ms
+[2024.11.27-10.36.49:502][ 70]BlueprintLog: New page: Compile BP_EventManager
+[2024.11.27-10.36.49:524][ 70]LogUObjectHash: Compacting FUObjectHashTables data took   1.63ms
+[2024.11.27-10.36.52:363][228]BlueprintLog: New page: Compile BP_EventManager
+[2024.11.27-10.36.52:383][228]LogUObjectHash: Compacting FUObjectHashTables data took   1.42ms
+[2024.11.27-10.36.53:230][273]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.11.27-10.36.53:306][273]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Managers/BP_Manager/BP_EventManager" FILE="../../../../../../Users/schev/source/repos/Escape/Escape/Content/Managers/BP_Manager/BP_EventManager.uasset" SILENT=true
+[2024.11.27-10.36.53:309][273]LogSavePackage: Moving output files for package: /Game/Managers/BP_Manager/BP_EventManager
+[2024.11.27-10.36.53:310][273]LogSavePackage: Moving '../../../../../../Users/schev/source/repos/Escape/Escape/Saved/BP_EventManager0525D55541C1B6AD8C3483B3DE295661.tmp' to '../../../../../../Users/schev/source/repos/Escape/Escape/Content/Managers/BP_Manager/BP_EventManager.uasset'
+[2024.11.27-10.36.53:330][273]LogFileHelpers: InternalPromptForCheckoutAndSave took 99 ms (total: 1.34 sec)
+[2024.11.27-10.36.53:331][273]AssetCheck: New page: Asset Save: BP_EventManager
+[2024.11.27-10.36.53:331][273]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Managers/BP_Manager/BP_EventManager.BP_EventManager
+[2024.11.27-10.38.47:655][436]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.11.27-10.38.47:748][436]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Managers/BP_Manager/BP_EventManager" FILE="../../../../../../Users/schev/source/repos/Escape/Escape/Content/Managers/BP_Manager/BP_EventManager.uasset" SILENT=true
+[2024.11.27-10.38.47:751][436]LogSavePackage: Moving output files for package: /Game/Managers/BP_Manager/BP_EventManager
+[2024.11.27-10.38.47:751][436]LogSavePackage: Moving '../../../../../../Users/schev/source/repos/Escape/Escape/Saved/BP_EventManager58C87A92422DB871A0363DB38010F7FE.tmp' to '../../../../../../Users/schev/source/repos/Escape/Escape/Content/Managers/BP_Manager/BP_EventManager.uasset'
+[2024.11.27-10.38.47:769][436]LogFileHelpers: InternalPromptForCheckoutAndSave took 115 ms (total: 1.45 sec)
+[2024.11.27-10.38.47:771][436]AssetCheck: New page: Asset Save: BP_EventManager
+[2024.11.27-10.38.47:772][436]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Managers/BP_Manager/BP_EventManager.BP_EventManager
+[2024.11.27-10.38.48:219][463]BlueprintLog: New page: Compile BP_EventManager
+[2024.11.27-10.38.48:242][463]LogUObjectHash: Compacting FUObjectHashTables data took   1.68ms
