@@ -1189,3 +1189,13 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2024.11.27-09.53.36:078][ 96]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
 [2024.11.27-09.53.42:623][488]LogContentBrowser: Attempting asset rename: NewFolder -> BP_Interfaces
 [2024.11.27-09.53.42:623][488]LogContentBrowser: End creating deferred item NewFolder
+[2024.11.27-09.54.22:501][245]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2024.11.27-09.54.22:511][245]LogContentBrowser: Creating deferred item: NewFolder
+[2024.11.27-09.54.22:517][246]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2024.11.27-09.54.26:788][501]LogContentBrowser: Attempting asset rename: NewFolder -> Enigmes
+[2024.11.27-09.54.26:788][501]LogContentBrowser: End creating deferred item NewFolder
+[2024.11.27-09.54.29:565][653]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2024.11.27-09.54.29:574][653]LogContentBrowser: Creating deferred item: NewFolder
+[2024.11.27-09.54.29:611][655]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2024.11.27-09.54.33:656][898]LogContentBrowser: Attempting asset rename: NewFolder -> Blueprint
+[2024.11.27-09.54.33:656][898]LogContentBrowser: End creating deferred item NewFolder
