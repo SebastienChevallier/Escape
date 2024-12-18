@@ -1,0 +1,13 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/hugof/Documents/Ynov/Cours/B2/Ydays - Escape/Escape/Content/FirstPerson/Input/Actions/IA_Crouch.uasset",
+				"C:/Users/hugof/Documents/Ynov/Cours/B2/Ydays - Escape/Escape/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset"
+			]
+		}
+	]
+}
