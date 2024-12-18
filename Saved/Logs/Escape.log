@@ -2184,3 +2184,1538 @@ LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
 [2024.12.18-13.26.41:884][813]LogSlate: Window 'SM_Door_cadran' being destroyed
 [2024.12.18-13.26.41:980][813]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
 [2024.12.18-13.26.41:981][813]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.18-13.29.39:688][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2024.12.18-13.29.39:690][  0]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/LVL_Escape' took 0.008
+[2024.12.18-13.29.39:698][  0]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/Meshes/Props/Door/SM_Door] ([1] browsable assets)...
+[2024.12.18-13.29.39:714][  0]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Assets/Meshes/Props/Door/SM_Door.SM_Door]
+[2024.12.18-13.29.39:715][  0]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Meshes/Props/Door/SM_Door]
+[2024.12.18-13.29.39:862][  0]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Assets/Meshes/Props/Door/SM_Door_Auto4
+[2024.12.18-13.29.39:862][  0]LogSavePackage: Moving 'E:/YNOV/B3/Escape/Prod/EscapeUE5/Escape/Saved/SM_Door_Auto41E43434E4E9DBFAA4F2D9A904D3CB2E0.tmp' to 'E:/YNOV/B3/Escape/Prod/EscapeUE5/Escape/Saved/Autosaves/Game/Assets/Meshes/Props/Door/SM_Door_Auto4.uasset'
+[2024.12.18-13.29.39:864][  0]LogFileHelpers: Auto-saving content packages took 0.173
+[2024.12.18-13.32.54:409][337]Cmd: TRANSACTION UNDO
+[2024.12.18-13.32.54:409][337]LogEditorTransaction: Undo Move Elements
+[2024.12.18-13.32.56:585][447]Cmd: TRANSACTION UNDO
+[2024.12.18-13.32.56:585][447]LogEditorTransaction: Undo Move Elements
+[2024.12.18-13.33.08:427][ 84]LogCEFBrowser: CEF GPU acceleration enabled
+[2024.12.18-13.34.01:296][190]LogDerivedDataCache: C:/Users/gregb/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:01.142 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 996 files in 1714 folders with total size 89 MiB.
+[2024.12.18-13.39.01:563][860]LogSlate: Window 'Login' being destroyed
+[2024.12.18-13.39.43:079][930]LogWebBrowser: Closing browser during destruction, this may cause a later crash.
+[2024.12.18-13.39.43:079][930]LogWebBrowser: Deleting browser for Url=https://quixel.com/?code=e5257ff6b92243ffbf1013802ab60cef.
+[2024.12.18-13.39.44:954][ 37]LogSlate: Window 'Login' being destroyed
+[2024.12.18-13.40.20:310][735]LogTexture: Display: Building textures: /Game/Megascans/Surfaces/Wooden_Floor_wdipfjw/T_Wooden_Floor_wdipfjw_8K_D.T_Wooden_Floor_wdipfjw_8K_D (TFO_DXT1, 8192x8192 x1x1x1) (Required Memory Estimate: 4736.062483 MB), EncodeSpeed: Fast
+[2024.12.18-13.40.24:040][735]LogTexture: Display: Building textures: /Game/Megascans/Surfaces/Wooden_Floor_wdipfjw/T_Wooden_Floor_wdipfjw_8K_N.T_Wooden_Floor_wdipfjw_8K_N (TFO_BC5, 8192x8192 x1x1x1) (Required Memory Estimate: 4864.062484 MB), EncodeSpeed: Fast
+[2024.12.18-13.40.27:540][735]LogTexture: Display: Building textures: /Game/Megascans/Surfaces/Wooden_Floor_wdipfjw/T_WoodenFloor_wdipfjw_8K_ORDp.T_WoodenFloor_wdipfjw_8K_ORDp (TFO_DXT1, 8192x8192 x1x1x1) (Required Memory Estimate: 4736.062483 MB), EncodeSpeed: Fast
+[2024.12.18-13.40.29:303][736]LogAutomationController: Ignoring very large delta of 15.64 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2024.12.18-13.40.31:731][863]LogSlate: Window 'Megascans' being destroyed
+[2024.12.18-13.40.32:452][864]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2024.12.18-13.40.32:455][864]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/LVL_Escape" FILE="E:/YNOV/B3/Escape/Prod/EscapeUE5/Escape/Saved/Autosaves/Game/Maps/LVL_Escape_Auto5.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2024.12.18-13.40.33:578][864]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Maps/LVL_Escape_Auto5
+[2024.12.18-13.40.33:578][864]LogSavePackage: Moving 'E:/YNOV/B3/Escape/Prod/EscapeUE5/Escape/Saved/LVL_Escape_Auto543A5499C4672FE916BFAAA89C4C8A6FC.tmp' to 'E:/YNOV/B3/Escape/Prod/EscapeUE5/Escape/Saved/Autosaves/Game/Maps/LVL_Escape_Auto5.umap'
+[2024.12.18-13.40.33:582][864]LogAssetRegistry: Warning: ScanPathsSynchronous: E:/YNOV/B3/Escape/Prod/EscapeUE5/Escape/Saved/Autosaves/Game/Maps/LVL_Escape_Auto5.umap is in the /Temp path, will not scan.
+[2024.12.18-13.40.33:582][864]LogAssetRegistry: Warning: ScanPathsSynchronous: /Temp/__ExternalActors__/Autosaves/Game/Maps/LVL_Escape_Auto5 is in the /Temp path, will not scan.
+[2024.12.18-13.40.33:582][864]LogAssetRegistry: Warning: ScanPathsSynchronous: /Temp/__ExternalObjects__/Autosaves/Game/Maps/LVL_Escape_Auto5 is in the /Temp path, will not scan.
+[2024.12.18-13.40.33:583][864]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/LVL_Escape' took 1.135
+[2024.12.18-13.40.33:583][864]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 1.135
+[2024.12.18-13.40.33:583][864]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Assets/Meshes/Props/Door/SM_Door] ([1] browsable assets)...
+[2024.12.18-13.40.33:583][864]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Meshes/Props/Door/SM_Door]
+[2024.12.18-13.40.33:726][864]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Assets/Meshes/Props/Door/SM_Door_Auto5
+[2024.12.18-13.40.33:726][864]LogSavePackage: Moving 'E:/YNOV/B3/Escape/Prod/EscapeUE5/Escape/Saved/SM_Door_Auto5C34F330F400384EC0A6BF6A3619BD48F.tmp' to 'E:/YNOV/B3/Escape/Prod/EscapeUE5/Escape/Saved/Autosaves/Game/Assets/Meshes/Props/Door/SM_Door_Auto5.uasset'
+[2024.12.18-13.40.33:728][864]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Assets/Textures/Props/Meubles/T_meubleTV/T_MeubleTV_ORM] ([1] browsable assets)...
+[2024.12.18-13.40.33:728][864]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Textures/Props/Meubles/T_meubleTV/T_MeubleTV_ORM]
+[2024.12.18-13.40.33:798][864]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Assets/Textures/Props/Meubles/T_meubleTV/T_MeubleTV_ORM_Auto5
+[2024.12.18-13.40.33:798][864]LogSavePackage: Moving 'E:/YNOV/B3/Escape/Prod/EscapeUE5/Escape/Saved/T_MeubleTV_ORM_Auto5EE00770E417C2731BAE1CC82028A16FB.tmp' to 'E:/YNOV/B3/Escape/Prod/EscapeUE5/Escape/Saved/Autosaves/Game/Assets/Textures/Props/Meubles/T_meubleTV/T_MeubleTV_ORM_Auto5.uasset'
+[2024.12.18-13.40.33:801][864]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Assets/Textures/Props/Meubles/T_meubleTV/T_MeubleTV_N] ([1] browsable assets)...
+[2024.12.18-13.40.33:801][864]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Textures/Props/Meubles/T_meubleTV/T_MeubleTV_N]
+[2024.12.18-13.40.33:892][864]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Assets/Textures/Props/Meubles/T_meubleTV/T_MeubleTV_N_Auto5
+[2024.12.18-13.40.33:892][864]LogSavePackage: Moving 'E:/YNOV/B3/Escape/Prod/EscapeUE5/Escape/Saved/T_MeubleTV_N_Auto50C84B9274DAB6904E4FCE78A44D54B39.tmp' to 'E:/YNOV/B3/Escape/Prod/EscapeUE5/Escape/Saved/Autosaves/Game/Assets/Textures/Props/Meubles/T_meubleTV/T_MeubleTV_N_Auto5.uasset'
+[2024.12.18-13.40.33:894][864]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Assets/Textures/Props/Meubles/T_meubleTV/T_MeubleTV_BC] ([1] browsable assets)...
+[2024.12.18-13.40.33:894][864]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Textures/Props/Meubles/T_meubleTV/T_MeubleTV_BC]
+[2024.12.18-13.40.33:962][864]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Assets/Textures/Props/Meubles/T_meubleTV/T_MeubleTV_BC_Auto5
+[2024.12.18-13.40.33:962][864]LogSavePackage: Moving 'E:/YNOV/B3/Escape/Prod/EscapeUE5/Escape/Saved/T_MeubleTV_BC_Auto54BAA0905491F5CD9F8596BB3B4A6F128.tmp' to 'E:/YNOV/B3/Escape/Prod/EscapeUE5/Escape/Saved/Autosaves/Game/Assets/Textures/Props/Meubles/T_meubleTV/T_MeubleTV_BC_Auto5.uasset'
+[2024.12.18-13.40.33:964][864]LogFileHelpers: Auto-saving content packages took 0.382
+[2024.12.18-13.40.54:537][ 36]LogActorFactory: Loading ActorFactory Class /Script/Engine.LevelInstance
+[2024.12.18-13.41.17:299][323]Cmd: TRANSACTION UNDO
+[2024.12.18-13.41.17:299][323]LogEditorTransaction: Undo Create Actors
+[2024.12.18-13.41.26:416][813]Cmd: TRANSACTION UNDO
+[2024.12.18-13.41.26:416][813]LogEditorTransaction: Undo Create Actors
+[2024.12.18-13.41.51:927][284]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@Cine] File [Scalability]
+[2024.12.18-13.41.51:927][284]LogConfig: Set CVar [[r.SkeletalMeshLODBias:0]]
+[2024.12.18-13.41.51:927][284]LogConfig: Set CVar [[r.ViewDistanceScale:10.0]]
+[2024.12.18-13.41.51:927][284]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@Cine] File [Scalability]
+[2024.12.18-13.41.51:927][284]LogConfig: Set CVar [[r.FXAA.Quality:5]]
+[2024.12.18-13.41.51:927][284]LogConfig: Set CVar [[r.TemporalAA.Quality:2]]
+[2024.12.18-13.41.51:927][284]LogConfig: Set CVar [[r.TSR.History.R11G11B10:0]]
+[2024.12.18-13.41.51:927][284]LogConfig: Set CVar [[r.TSR.History.ScreenPercentage:200]]
+[2024.12.18-13.41.51:927][284]LogConfig: Set CVar [[r.TSR.History.UpdateQuality:3]]
+[2024.12.18-13.41.51:927][284]LogConfig: Set CVar [[r.TSR.ShadingRejection.Flickering:1]]
+[2024.12.18-13.41.51:927][284]LogConfig: Set CVar [[r.TSR.ShadingRejection.TileOverscan:3]]
+[2024.12.18-13.41.51:927][284]LogConfig: CVar [[r.TSR.Velocity.Extrapolation:1]] deferred - dummy variable created
+[2024.12.18-13.41.51:927][284]LogConfig: Set CVar [[r.TSR.RejectionAntiAliasingQuality:2]]
+[2024.12.18-13.41.51:927][284]LogConfig: Applying CVar settings from Section [ShadowQuality@Cine] File [Scalability]
+[2024.12.18-13.41.51:927][284]LogConfig: Set CVar [[r.ShadowQuality:5]]
+[2024.12.18-13.41.51:927][284]LogConfig: Set CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2024.12.18-13.41.51:927][284]LogConfig: Set CVar [[r.Shadow.MaxResolution:4096]]
+[2024.12.18-13.41.51:927][284]LogConfig: Set CVar [[r.Shadow.MaxCSMResolution:4096]]
+[2024.12.18-13.41.51:927][284]LogConfig: Set CVar [[r.Shadow.RadiusThreshold:0]]
+[2024.12.18-13.41.51:927][284]LogConfig: Set CVar [[r.Shadow.DistanceScale:1.0]]
+[2024.12.18-13.41.51:927][284]LogConfig: Set CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2024.12.18-13.41.51:927][284]LogConfig: Set CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2024.12.18-13.41.51:927][284]LogConfig: Set CVar [[r.DistanceFieldShadowing:1]]
+[2024.12.18-13.41.51:927][284]LogConfig: Set CVar [[r.VolumetricFog:1]]
+[2024.12.18-13.41.51:927][284]LogConfig: Set CVar [[r.LightMaxDrawDistanceScale:1]]
+[2024.12.18-13.41.51:927][284]LogConfig: Set CVar [[r.Shadow.Virtual.MaxPhysicalPages:8192]]
+[2024.12.18-13.41.51:927][284]LogConfig: Set CVar [[r.Shadow.Virtual.ResolutionLodBiasDirectional:-1.5]]
+[2024.12.18-13.41.51:927][284]LogConfig: Set CVar [[r.Shadow.Virtual.ResolutionLodBiasDirectionalMoving:-1.5]]
+[2024.12.18-13.41.51:927][284]LogConfig: Set CVar [[r.Shadow.Virtual.ResolutionLodBiasLocal:0.0]]
+[2024.12.18-13.41.51:927][284]LogConfig: Set CVar [[r.Shadow.Virtual.ResolutionLodBiasLocalMoving:0.0]]
+[2024.12.18-13.41.51:927][284]LogConfig: Set CVar [[r.Shadow.Virtual.SMRT.RayCountDirectional:16]]
+[2024.12.18-13.41.51:927][284]LogConfig: Set CVar [[r.Shadow.Virtual.SMRT.SamplesPerRayDirectional:8]]
+[2024.12.18-13.41.51:927][284]LogConfig: Set CVar [[r.Shadow.Virtual.SMRT.RayCountLocal:16]]
+[2024.12.18-13.41.51:927][284]LogConfig: Set CVar [[r.Shadow.Virtual.SMRT.SamplesPerRayLocal:8]]
+[2024.12.18-13.41.51:927][284]LogConfig: Applying CVar settings from Section [GlobalIlluminationQuality@Cine] File [Scalability]
+[2024.12.18-13.41.51:927][284]LogConfig: Set CVar [[r.AOQuality:2]]
+[2024.12.18-13.41.51:927][284]LogConfig: Set CVar [[r.Lumen.DiffuseIndirect.Allow:1]]
+[2024.12.18-13.41.51:927][284]LogConfig: Applying CVar settings from Section [ReflectionQuality@Cine] File [Scalability]
+[2024.12.18-13.41.51:927][284]LogConfig: Set CVar [[r.SSR.Quality:4]]
+[2024.12.18-13.41.51:927][284]LogConfig: Set CVar [[r.SSR.HalfResSceneColor:0]]
+[2024.12.18-13.41.51:927][284]LogConfig: Set CVar [[r.Lumen.Reflections.Allow:1]]
+[2024.12.18-13.41.51:927][284]LogConfig: Applying CVar settings from Section [PostProcessQuality@Cine] File [Scalability]
+[2024.12.18-13.41.51:927][284]LogConfig: Set CVar [[r.MotionBlurQuality:4]]
+[2024.12.18-13.41.51:927][284]LogConfig: Set CVar [[r.MotionBlur.HalfResGather:0]]
+[2024.12.18-13.41.51:927][284]LogConfig: Set CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2024.12.18-13.41.51:927][284]LogConfig: Set CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2024.12.18-13.41.51:927][284]LogConfig: Set CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2024.12.18-13.41.51:927][284]LogConfig: Set CVar [[r.DepthOfFieldQuality:4]]
+[2024.12.18-13.41.51:927][284]LogConfig: Set CVar [[r.RenderTargetPoolMin:1000]]
+[2024.12.18-13.41.51:927][284]LogConfig: Set CVar [[r.LensFlareQuality:3]]
+[2024.12.18-13.41.51:928][284]LogConfig: Set CVar [[r.SceneColorFringeQuality:1]]
+[2024.12.18-13.41.51:928][284]LogConfig: Set CVar [[r.BloomQuality:5]]
+[2024.12.18-13.41.51:928][284]LogConfig: Set CVar [[r.Bloom.ScreenPercentage:100]]
+[2024.12.18-13.41.51:928][284]LogConfig: Set CVar [[r.FastBlurThreshold:100]]
+[2024.12.18-13.41.51:928][284]LogConfig: Set CVar [[r.Upscale.Quality:3]]
+[2024.12.18-13.41.51:928][284]LogConfig: Set CVar [[r.LightShaftQuality:1]]
+[2024.12.18-13.41.51:928][284]LogConfig: Set CVar [[r.Filter.SizeScale:1]]
+[2024.12.18-13.41.51:928][284]LogConfig: Set CVar [[r.Tonemapper.Quality:5]]
+[2024.12.18-13.41.51:928][284]LogConfig: Set CVar [[r.DOF.Gather.ResolutionDivisor:1         ; do the gathering at full resolution]]
+[2024.12.18-13.41.51:928][284]LogConfig: Set CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2024.12.18-13.41.51:928][284]LogConfig: Set CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2024.12.18-13.41.51:928][284]LogConfig: Set CVar [[r.DOF.Gather.EnableBokehSettings:1       ; bokeh simulation when gathering]]
+[2024.12.18-13.41.51:928][284]LogConfig: Set CVar [[r.DOF.Gather.RingCount:5                 ; high number of samples when gathering]]
+[2024.12.18-13.41.51:928][284]LogConfig: Set CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2024.12.18-13.41.51:928][284]LogConfig: Set CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; background scattering occlusion]]
+[2024.12.18-13.41.51:928][284]LogConfig: Set CVar [[r.DOF.Recombine.Quality:2                ; highest slight out of focus]]
+[2024.12.18-13.41.51:928][284]LogConfig: Set CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2024.12.18-13.41.51:928][284]LogConfig: Set CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2024.12.18-13.41.51:928][284]LogConfig: Set CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2024.12.18-13.41.51:928][284]LogConfig: Applying CVar settings from Section [TextureQuality@Cine] File [Scalability]
+[2024.12.18-13.41.51:928][284]LogConfig: Set CVar [[r.Streaming.MipBias:0]]
+[2024.12.18-13.41.51:928][284]LogConfig: Set CVar [[r.MaxAnisotropy:8]]
+[2024.12.18-13.41.51:928][284]LogConfig: Set CVar [[r.VT.MaxAnisotropy:8]]
+[2024.12.18-13.41.51:928][284]LogConfig: Set CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2024.12.18-13.41.51:928][284]LogConfig: Set CVar [[r.Streaming.PoolSize:3000]]
+[2024.12.18-13.41.51:928][284]LogConfig: Applying CVar settings from Section [EffectsQuality@Cine] File [Scalability]
+[2024.12.18-13.41.51:928][284]LogConfig: Set CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2024.12.18-13.41.51:928][284]LogConfig: Set CVar [[r.RefractionQuality:2]]
+[2024.12.18-13.41.51:928][284]LogConfig: Set CVar [[r.SceneColorFormat:4]]
+[2024.12.18-13.41.51:928][284]LogConfig: Set CVar [[r.DetailMode:2]]
+[2024.12.18-13.41.51:928][284]LogConfig: Set CVar [[r.TranslucencyVolumeBlur:1]]
+[2024.12.18-13.41.51:928][284]LogConfig: Set CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2024.12.18-13.41.51:928][284]LogConfig: Set CVar [[r.SSS.Scale:1]]
+[2024.12.18-13.41.51:928][284]LogConfig: Set CVar [[r.SSS.SampleSet:2]]
+[2024.12.18-13.41.51:928][284]LogConfig: Set CVar [[r.SSS.Quality:1]]
+[2024.12.18-13.41.51:928][284]LogConfig: Set CVar [[r.SSS.HalfRes:0]]
+[2024.12.18-13.41.51:928][284]LogConfig: Set CVar [[r.SSGI.Quality:4]]
+[2024.12.18-13.41.51:928][284]LogConfig: Set CVar [[r.EmitterSpawnRateScale:1.0]]
+[2024.12.18-13.41.51:928][284]LogConfig: Set CVar [[r.ParticleLightQuality:2]]
+[2024.12.18-13.41.51:928][284]LogConfig: Set CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:0]]
+[2024.12.18-13.41.51:928][284]LogConfig: Set CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:8]]
+[2024.12.18-13.41.51:928][284]LogConfig: Set CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:32.0]]
+[2024.12.18-13.41.51:928][284]LogConfig: Set CVar [[r.SkyAtmosphere.FastSkyLUT:0]]
+[2024.12.18-13.41.51:928][284]LogConfig: Set CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:256.0]]
+[2024.12.18-13.41.51:928][284]LogConfig: Set CVar [[r.SkyAtmosphere.SampleCountMin:8.0]]
+[2024.12.18-13.41.51:928][284]LogConfig: Set CVar [[r.SkyAtmosphere.SampleCountMax:256.0]]
+[2024.12.18-13.41.51:928][284]LogConfig: Set CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:30.0]]
+[2024.12.18-13.41.51:928][284]LogConfig: Set CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:20.0]]
+[2024.12.18-13.41.51:928][284]LogConfig: Set CVar [[r.SkyLight.RealTimeReflectionCapture:1]]
+[2024.12.18-13.41.51:928][284]LogConfig: Set CVar [[fx.Niagara.QualityLevel:4]]
+[2024.12.18-13.41.51:928][284]LogConfig: Applying CVar settings from Section [FoliageQuality@Cine] File [Scalability]
+[2024.12.18-13.41.51:928][284]LogConfig: Set CVar [[foliage.DensityScale:1.0]]
+[2024.12.18-13.41.51:928][284]LogConfig: Set CVar [[grass.DensityScale:1.0]]
+[2024.12.18-13.41.51:928][284]LogConfig: Applying CVar settings from Section [ShadingQuality@Cine] File [Scalability]
+[2024.12.18-13.41.51:928][284]LogConfig: Set CVar [[r.HairStrands.SkyLighting.IntegrationType:1]]
+[2024.12.18-13.41.51:928][284]LogConfig: Set CVar [[r.HairStrands.SkyAO.SampleCount:8]]
+[2024.12.18-13.41.51:928][284]LogConfig: Set CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:8]]
+[2024.12.18-13.41.51:928][284]LogConfig: Set CVar [[r.AnisotropicMaterials:1]]
+[2024.12.18-13.41.52:066][284]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2024.12.18-13.41.52:088][286]LogRenderer: Display: Recreating Shadow.Virtual.PhysicalPagePool due to size or flags change. This will also drop any cached pages.
+[2024.12.18-13.41.52:397][286]LogContentStreaming: Texture pool size now 3000 MB
+[2024.12.18-13.42.49:341][  0]LogLinker: Warning: Failed to load '/Game/FirstPersonArms/Character/Mesh/SKM_Mannequin': Can't find file.
+[2024.12.18-13.42.49:342][  0]LogLinker: Warning: Failed to load '/Game/FirstPersonArms/Character/Mesh/SKM_Mannequin': Can't find file.
+[2024.12.18-13.42.49:342][  0]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/FirstPersonArms/Character/Mesh/SKM_Mannequin.SKM_Mannequin'
+[2024.12.18-13.42.49:741][  5]LogD3D12RHI: Warning: Waited for PSO creation for 100.000000ms
+[2024.12.18-13.42.49:840][  5]LogD3D12RHI: Warning: Waited for PSO creation for 200.000000ms
+[2024.12.18-13.42.56:059][210]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@0] File [Scalability]
+[2024.12.18-13.42.56:059][210]LogConfig: Set CVar [[r.SkeletalMeshLODBias:2]]
+[2024.12.18-13.42.56:059][210]LogConfig: Set CVar [[r.ViewDistanceScale:0.4]]
+[2024.12.18-13.42.56:059][210]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@0] File [Scalability]
+[2024.12.18-13.42.56:059][210]LogConfig: Set CVar [[r.FXAA.Quality:0]]
+[2024.12.18-13.42.56:059][210]LogConfig: Set CVar [[r.TemporalAA.Quality:0]]
+[2024.12.18-13.42.56:059][210]LogConfig: Set CVar [[r.TSR.History.R11G11B10:1]]
+[2024.12.18-13.42.56:059][210]LogConfig: Set CVar [[r.TSR.History.ScreenPercentage:100]]
+[2024.12.18-13.42.56:059][210]LogConfig: Set CVar [[r.TSR.History.UpdateQuality:0]]
+[2024.12.18-13.42.56:059][210]LogConfig: Set CVar [[r.TSR.ShadingRejection.Flickering:0]]
+[2024.12.18-13.42.56:059][210]LogConfig: Set CVar [[r.TSR.ShadingRejection.TileOverscan:2]]
+[2024.12.18-13.42.56:059][210]LogConfig: CVar [[r.TSR.Velocity.Extrapolation:0]] deferred - dummy variable created
+[2024.12.18-13.42.56:059][210]LogConfig: Set CVar [[r.TSR.RejectionAntiAliasingQuality:0]]
+[2024.12.18-13.42.56:059][210]LogConfig: Applying CVar settings from Section [ShadowQuality@0] File [Scalability]
+[2024.12.18-13.42.56:059][210]LogConfig: Set CVar [[r.LightFunctionQuality:0]]
+[2024.12.18-13.42.56:059][210]LogConfig: Set CVar [[r.ShadowQuality:0]]
+[2024.12.18-13.42.56:059][210]LogConfig: Set CVar [[r.Shadow.CSM.MaxCascades:1]]
+[2024.12.18-13.42.56:059][210]LogConfig: Set CVar [[r.Shadow.MaxResolution:512]]
+[2024.12.18-13.42.56:059][210]LogConfig: Set CVar [[r.Shadow.MaxCSMResolution:512]]
+[2024.12.18-13.42.56:059][210]LogConfig: Set CVar [[r.Shadow.RadiusThreshold:0.06]]
+[2024.12.18-13.42.56:059][210]LogConfig: Set CVar [[r.Shadow.DistanceScale:0.6]]
+[2024.12.18-13.42.56:059][210]LogConfig: Set CVar [[r.Shadow.CSM.TransitionScale:0]]
+[2024.12.18-13.42.56:059][210]LogConfig: Set CVar [[r.Shadow.PreShadowResolutionFactor:0.5]]
+[2024.12.18-13.42.56:059][210]LogConfig: Set CVar [[r.DistanceFieldShadowing:0]]
+[2024.12.18-13.42.56:059][210]LogConfig: Set CVar [[r.VolumetricFog:0]]
+[2024.12.18-13.42.56:059][210]LogConfig: Set CVar [[r.LightMaxDrawDistanceScale:0]]
+[2024.12.18-13.42.56:059][210]LogConfig: Set CVar [[r.CapsuleShadows:0]]
+[2024.12.18-13.42.56:059][210]LogConfig: Set CVar [[r.Shadow.Virtual.MaxPhysicalPages:512]]
+[2024.12.18-13.42.56:059][210]LogConfig: Set CVar [[r.Shadow.Virtual.ResolutionLodBiasDirectional:0.0]]
+[2024.12.18-13.42.56:059][210]LogConfig: Set CVar [[r.Shadow.Virtual.ResolutionLodBiasDirectionalMoving:0.0]]
+[2024.12.18-13.42.56:059][210]LogConfig: Set CVar [[r.Shadow.Virtual.ResolutionLodBiasLocal:1.0]]
+[2024.12.18-13.42.56:059][210]LogConfig: Set CVar [[r.Shadow.Virtual.ResolutionLodBiasLocalMoving:2.0]]
+[2024.12.18-13.42.56:059][210]LogConfig: Set CVar [[r.Shadow.Virtual.SMRT.RayCountDirectional:0]]
+[2024.12.18-13.42.56:059][210]LogConfig: Set CVar [[r.Shadow.Virtual.SMRT.SamplesPerRayDirectional:2]]
+[2024.12.18-13.42.56:059][210]LogConfig: Set CVar [[r.Shadow.Virtual.SMRT.RayCountLocal:0]]
+[2024.12.18-13.42.56:059][210]LogConfig: Set CVar [[r.Shadow.Virtual.SMRT.SamplesPerRayLocal:2]]
+[2024.12.18-13.42.56:059][210]LogConfig: Applying CVar settings from Section [GlobalIlluminationQuality@0] File [Scalability]
+[2024.12.18-13.42.56:059][210]LogConfig: Set CVar [[r.DistanceFieldAO:0]]
+[2024.12.18-13.42.56:059][210]LogConfig: Set CVar [[r.Lumen.DiffuseIndirect.Allow:0]]
+[2024.12.18-13.42.56:059][210]LogConfig: Applying CVar settings from Section [ReflectionQuality@0] File [Scalability]
+[2024.12.18-13.42.56:059][210]LogConfig: Set CVar [[r.SSR.Quality:0]]
+[2024.12.18-13.42.56:059][210]LogConfig: Set CVar [[r.SSR.HalfResSceneColor:1]]
+[2024.12.18-13.42.56:059][210]LogConfig: Set CVar [[r.Lumen.Reflections.Allow:0]]
+[2024.12.18-13.42.56:059][210]LogConfig: Applying CVar settings from Section [PostProcessQuality@0] File [Scalability]
+[2024.12.18-13.42.56:059][210]LogConfig: Set CVar [[r.MotionBlurQuality:0]]
+[2024.12.18-13.42.56:059][210]LogConfig: Set CVar [[r.MotionBlur.HalfResGather:1]]
+[2024.12.18-13.42.56:059][210]LogConfig: Set CVar [[r.AmbientOcclusionMipLevelFactor:1.0]]
+[2024.12.18-13.42.56:059][210]LogConfig: Set CVar [[r.AmbientOcclusionMaxQuality:0]]
+[2024.12.18-13.42.56:059][210]LogConfig: Set CVar [[r.AmbientOcclusionLevels:0]]
+[2024.12.18-13.42.56:059][210]LogConfig: Set CVar [[r.AmbientOcclusionRadiusScale:1.2]]
+[2024.12.18-13.42.56:059][210]LogConfig: Set CVar [[r.DepthOfFieldQuality:0]]
+[2024.12.18-13.42.56:059][210]LogConfig: Set CVar [[r.RenderTargetPoolMin:300]]
+[2024.12.18-13.42.56:059][210]LogConfig: Set CVar [[r.LensFlareQuality:0]]
+[2024.12.18-13.42.56:059][210]LogConfig: Set CVar [[r.SceneColorFringeQuality:0]]
+[2024.12.18-13.42.56:059][210]LogConfig: Set CVar [[r.BloomQuality:4]]
+[2024.12.18-13.42.56:059][210]LogConfig: Set CVar [[r.Bloom.ScreenPercentage:25.000]]
+[2024.12.18-13.42.56:059][210]LogConfig: Set CVar [[r.FastBlurThreshold:0]]
+[2024.12.18-13.42.56:059][210]LogConfig: Set CVar [[r.Upscale.Quality:1]]
+[2024.12.18-13.42.56:059][210]LogConfig: Set CVar [[r.LightShaftQuality:0]]
+[2024.12.18-13.42.56:059][210]LogConfig: Set CVar [[r.Filter.SizeScale:0.6]]
+[2024.12.18-13.42.56:059][210]LogConfig: Set CVar [[r.Tonemapper.Quality:0]]
+[2024.12.18-13.42.56:059][210]LogConfig: Applying CVar settings from Section [TextureQuality@0] File [Scalability]
+[2024.12.18-13.42.56:059][210]LogConfig: Set CVar [[r.Streaming.MipBias:16]]
+[2024.12.18-13.42.56:059][210]LogConfig: Set CVar [[r.Streaming.AmortizeCPUToGPUCopy:1]]
+[2024.12.18-13.42.56:059][210]LogConfig: Set CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:1]]
+[2024.12.18-13.42.56:059][210]LogConfig: Set CVar [[r.Streaming.Boost:0.3]]
+[2024.12.18-13.42.56:059][210]LogConfig: Set CVar [[r.MaxAnisotropy:0]]
+[2024.12.18-13.42.56:059][210]LogConfig: Set CVar [[r.VT.MaxAnisotropy:4]]
+[2024.12.18-13.42.56:059][210]LogConfig: Set CVar [[r.Streaming.LimitPoolSizeToVRAM:1]]
+[2024.12.18-13.42.56:059][210]LogConfig: Set CVar [[r.Streaming.PoolSize:400]]
+[2024.12.18-13.42.56:059][210]LogConfig: Applying CVar settings from Section [EffectsQuality@0] File [Scalability]
+[2024.12.18-13.42.56:059][210]LogConfig: Set CVar [[r.TranslucencyLightingVolumeDim:24]]
+[2024.12.18-13.42.56:059][210]LogConfig: Set CVar [[r.RefractionQuality:0]]
+[2024.12.18-13.42.56:059][210]LogConfig: Set CVar [[r.SceneColorFormat:3]]
+[2024.12.18-13.42.56:059][210]LogConfig: Set CVar [[r.DetailMode:0]]
+[2024.12.18-13.42.56:059][210]LogConfig: Set CVar [[r.TranslucencyVolumeBlur:0]]
+[2024.12.18-13.42.56:059][210]LogConfig: Set CVar [[r.MaterialQualityLevel:0 ; Low quality]]
+[2024.12.18-13.42.56:059][210]LogConfig: Set CVar [[r.SSS.Scale:0]]
+[2024.12.18-13.42.56:059][210]LogConfig: Set CVar [[r.SSS.SampleSet:0]]
+[2024.12.18-13.42.56:059][210]LogConfig: Set CVar [[r.SSS.Quality:0]]
+[2024.12.18-13.42.56:059][210]LogConfig: Set CVar [[r.SSS.HalfRes:1]]
+[2024.12.18-13.42.56:059][210]LogConfig: Set CVar [[r.SSGI.Quality:0]]
+[2024.12.18-13.42.56:060][210]LogConfig: Set CVar [[r.EmitterSpawnRateScale:0.125]]
+[2024.12.18-13.42.56:060][210]LogConfig: Set CVar [[r.ParticleLightQuality:0]]
+[2024.12.18-13.42.56:060][210]LogConfig: Set CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2024.12.18-13.42.56:060][210]LogConfig: Set CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:1]]
+[2024.12.18-13.42.56:060][210]LogConfig: Set CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:8.0]]
+[2024.12.18-13.42.56:060][210]LogConfig: Set CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2024.12.18-13.42.56:060][210]LogConfig: Set CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:2.0]]
+[2024.12.18-13.42.56:060][210]LogConfig: Set CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:16.0]]
+[2024.12.18-13.42.56:060][210]LogConfig: Set CVar [[r.SkyAtmosphere.SampleCountMin:2.0]]
+[2024.12.18-13.42.56:060][210]LogConfig: Set CVar [[r.SkyAtmosphere.SampleCountMax:16.0]]
+[2024.12.18-13.42.56:060][210]LogConfig: Set CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:1]]
+[2024.12.18-13.42.56:060][210]LogConfig: Set CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2024.12.18-13.42.56:060][210]LogConfig: Set CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2024.12.18-13.42.56:060][210]LogConfig: Set CVar [[r.SkyLight.RealTimeReflectionCapture:0]]
+[2024.12.18-13.42.56:060][210]LogConfig: Set CVar [[fx.Niagara.QualityLevel:0]]
+[2024.12.18-13.42.56:060][210]LogConfig: Applying CVar settings from Section [FoliageQuality@0] File [Scalability]
+[2024.12.18-13.42.56:060][210]LogConfig: Set CVar [[foliage.DensityScale:0]]
+[2024.12.18-13.42.56:060][210]LogConfig: Set CVar [[grass.DensityScale:0]]
+[2024.12.18-13.42.56:060][210]LogConfig: Applying CVar settings from Section [ShadingQuality@0] File [Scalability]
+[2024.12.18-13.42.56:060][210]LogConfig: Set CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2024.12.18-13.42.56:060][210]LogConfig: Set CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2024.12.18-13.42.56:060][210]LogConfig: Set CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:1]]
+[2024.12.18-13.42.56:060][210]LogConfig: Set CVar [[r.AnisotropicMaterials:0]]
+[2024.12.18-13.42.56:066][210]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2024.12.18-13.42.56:075][211]LogContentStreaming: Texture pool size now 400 MB
+[2024.12.18-13.42.56:095][212]LogRenderer: Display: Recreating Shadow.Virtual.PhysicalPagePool due to size or flags change. This will also drop any cached pages.
+[2024.12.18-13.43.06:035][797]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@2] File [Scalability]
+[2024.12.18-13.43.06:035][797]LogConfig: Set CVar [[r.SkeletalMeshLODBias:0]]
+[2024.12.18-13.43.06:035][797]LogConfig: Set CVar [[r.ViewDistanceScale:0.8]]
+[2024.12.18-13.43.06:035][797]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@2] File [Scalability]
+[2024.12.18-13.43.06:035][797]LogConfig: Set CVar [[r.FXAA.Quality:3]]
+[2024.12.18-13.43.06:035][797]LogConfig: Set CVar [[r.TemporalAA.Quality:1]]
+[2024.12.18-13.43.06:035][797]LogConfig: Set CVar [[r.TSR.History.UpdateQuality:2]]
+[2024.12.18-13.43.06:035][797]LogConfig: Set CVar [[r.TSR.ShadingRejection.Flickering:1]]
+[2024.12.18-13.43.06:035][797]LogConfig: Set CVar [[r.TSR.ShadingRejection.TileOverscan:3]]
+[2024.12.18-13.43.06:035][797]LogConfig: CVar [[r.TSR.Velocity.Extrapolation:0]] deferred - dummy variable created
+[2024.12.18-13.43.06:035][797]LogConfig: Set CVar [[r.TSR.RejectionAntiAliasingQuality:1]]
+[2024.12.18-13.43.06:035][797]LogConfig: Applying CVar settings from Section [ShadowQuality@2] File [Scalability]
+[2024.12.18-13.43.06:035][797]LogConfig: Set CVar [[r.LightFunctionQuality:1]]
+[2024.12.18-13.43.06:035][797]LogConfig: Set CVar [[r.ShadowQuality:5]]
+[2024.12.18-13.43.06:035][797]LogConfig: Set CVar [[r.Shadow.CSM.MaxCascades:4]]
+[2024.12.18-13.43.06:035][797]LogConfig: Set CVar [[r.Shadow.MaxResolution:1024]]
+[2024.12.18-13.43.06:035][797]LogConfig: Set CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2024.12.18-13.43.06:035][797]LogConfig: Set CVar [[r.Shadow.RadiusThreshold:0.04]]
+[2024.12.18-13.43.06:035][797]LogConfig: Set CVar [[r.Shadow.DistanceScale:0.85]]
+[2024.12.18-13.43.06:035][797]LogConfig: Set CVar [[r.Shadow.CSM.TransitionScale:0.8]]
+[2024.12.18-13.43.06:035][797]LogConfig: Set CVar [[r.DistanceFieldShadowing:1]]
+[2024.12.18-13.43.06:035][797]LogConfig: Set CVar [[r.VolumetricFog:1]]
+[2024.12.18-13.43.06:035][797]LogConfig: Set CVar [[r.VolumetricFog.GridPixelSize:16]]
+[2024.12.18-13.43.06:035][797]LogConfig: Set CVar [[r.VolumetricFog.GridSizeZ:64]]
+[2024.12.18-13.43.06:035][797]LogConfig: Set CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2024.12.18-13.43.06:035][797]LogConfig: Set CVar [[r.LightMaxDrawDistanceScale:1]]
+[2024.12.18-13.43.06:035][797]LogConfig: Set CVar [[r.CapsuleShadows:1]]
+[2024.12.18-13.43.06:035][797]LogConfig: Set CVar [[r.Shadow.Virtual.MaxPhysicalPages:2048]]
+[2024.12.18-13.43.06:035][797]LogConfig: Set CVar [[r.Shadow.Virtual.ResolutionLodBiasDirectional:-0.5]]
+[2024.12.18-13.43.06:035][797]LogConfig: Set CVar [[r.Shadow.Virtual.ResolutionLodBiasDirectionalMoving:-0.5]]
+[2024.12.18-13.43.06:035][797]LogConfig: Set CVar [[r.Shadow.Virtual.ResolutionLodBiasLocal:0.0]]
+[2024.12.18-13.43.06:035][797]LogConfig: Set CVar [[r.Shadow.Virtual.ResolutionLodBiasLocalMoving:1.0]]
+[2024.12.18-13.43.06:035][797]LogConfig: Set CVar [[r.Shadow.Virtual.SMRT.RayCountDirectional:8]]
+[2024.12.18-13.43.06:035][797]LogConfig: Set CVar [[r.Shadow.Virtual.SMRT.SamplesPerRayDirectional:4]]
+[2024.12.18-13.43.06:035][797]LogConfig: Set CVar [[r.Shadow.Virtual.SMRT.RayCountLocal:8]]
+[2024.12.18-13.43.06:035][797]LogConfig: Set CVar [[r.Shadow.Virtual.SMRT.SamplesPerRayLocal:4]]
+[2024.12.18-13.43.06:035][797]LogConfig: Applying CVar settings from Section [GlobalIlluminationQuality@2] File [Scalability]
+[2024.12.18-13.43.06:035][797]LogConfig: Set CVar [[r.DistanceFieldAO:1]]
+[2024.12.18-13.43.06:035][797]LogConfig: Set CVar [[r.AOQuality:1]]
+[2024.12.18-13.43.06:035][797]LogConfig: Set CVar [[r.Lumen.DiffuseIndirect.Allow:1]]
+[2024.12.18-13.43.06:035][797]LogConfig: Set CVar [[r.LumenScene.Radiosity.ProbeSpacing:8]]
+[2024.12.18-13.43.06:035][797]LogConfig: Set CVar [[r.LumenScene.Radiosity.HemisphereProbeResolution:3]]
+[2024.12.18-13.43.06:035][797]LogConfig: Set CVar [[r.Lumen.TraceMeshSDFs.Allow:0]]
+[2024.12.18-13.43.06:035][797]LogConfig: Set CVar [[r.Lumen.ScreenProbeGather.RadianceCache.ProbeResolution:16]]
+[2024.12.18-13.43.06:035][797]LogConfig: Set CVar [[r.Lumen.ScreenProbeGather.RadianceCache.NumProbesToTraceBudget:300]]
+[2024.12.18-13.43.06:035][797]LogConfig: Set CVar [[r.Lumen.ScreenProbeGather.DownsampleFactor:32]]
+[2024.12.18-13.43.06:035][797]LogConfig: Set CVar [[r.Lumen.ScreenProbeGather.TracingOctahedronResolution:8]]
+[2024.12.18-13.43.06:035][797]LogConfig: Set CVar [[r.Lumen.ScreenProbeGather.IrradianceFormat:1]]
+[2024.12.18-13.43.06:035][797]LogConfig: Set CVar [[r.Lumen.ScreenProbeGather.StochasticInterpolation:1]]
+[2024.12.18-13.43.06:035][797]LogConfig: Set CVar [[r.Lumen.ScreenProbeGather.FullResolutionJitterWidth:1]]
+[2024.12.18-13.43.06:035][797]LogConfig: Set CVar [[r.Lumen.ScreenProbeGather.TwoSidedFoliageBackfaceDiffuse:0]]
+[2024.12.18-13.43.06:035][797]LogConfig: Set CVar [[r.Lumen.ScreenProbeGather.ScreenTraces.HZBTraversal.FullResDepth:0]]
+[2024.12.18-13.43.06:036][797]LogConfig: Set CVar [[r.Lumen.TranslucencyVolume.GridPixelSize:64]]
+[2024.12.18-13.43.06:036][797]LogConfig: Set CVar [[r.Lumen.TranslucencyVolume.TraceFromVolume:0]]
+[2024.12.18-13.43.06:036][797]LogConfig: Set CVar [[r.Lumen.TranslucencyVolume.RadianceCache.ProbeResolution:8]]
+[2024.12.18-13.43.06:036][797]LogConfig: Set CVar [[r.Lumen.TranslucencyVolume.RadianceCache.NumProbesToTraceBudget:200]]
+[2024.12.18-13.43.06:036][797]LogConfig: Applying CVar settings from Section [ReflectionQuality@2] File [Scalability]
+[2024.12.18-13.43.06:036][797]LogConfig: Set CVar [[r.SSR.Quality:2]]
+[2024.12.18-13.43.06:036][797]LogConfig: Set CVar [[r.Lumen.Reflections.Allow:1]]
+[2024.12.18-13.43.06:036][797]LogConfig: Set CVar [[r.Lumen.Reflections.DownsampleFactor:2]]
+[2024.12.18-13.43.06:036][797]LogConfig: Set CVar [[r.Lumen.Reflections.MaxRoughnessToTraceForFoliage:0.2]]
+[2024.12.18-13.43.06:036][797]LogConfig: Set CVar [[r.Lumen.Reflections.ScreenSpaceReconstruction.TonemapStrength:1]]
+[2024.12.18-13.43.06:036][797]LogConfig: Set CVar [[r.Lumen.TranslucencyReflections.FrontLayer.Allow:0]]
+[2024.12.18-13.43.06:036][797]LogConfig: Set CVar [[r.Lumen.TranslucencyReflections.FrontLayer.Enable:0]]
+[2024.12.18-13.43.06:036][797]LogConfig: Applying CVar settings from Section [PostProcessQuality@2] File [Scalability]
+[2024.12.18-13.43.06:036][797]LogConfig: Set CVar [[r.MotionBlurQuality:3]]
+[2024.12.18-13.43.06:036][797]LogConfig: Set CVar [[r.MotionBlur.HalfResGather:0]]
+[2024.12.18-13.43.06:036][797]LogConfig: Set CVar [[r.AmbientOcclusionMipLevelFactor:0.6]]
+[2024.12.18-13.43.06:036][797]LogConfig: Set CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2024.12.18-13.43.06:036][797]LogConfig: Set CVar [[r.AmbientOcclusionLevels:-1]]
+[2024.12.18-13.43.06:036][797]LogConfig: Set CVar [[r.AmbientOcclusionRadiusScale:1.5]]
+[2024.12.18-13.43.06:036][797]LogConfig: Set CVar [[r.DepthOfFieldQuality:2]]
+[2024.12.18-13.43.06:036][797]LogConfig: Set CVar [[r.RenderTargetPoolMin:400]]
+[2024.12.18-13.43.06:036][797]LogConfig: Set CVar [[r.LensFlareQuality:2]]
+[2024.12.18-13.43.06:036][797]LogConfig: Set CVar [[r.SceneColorFringeQuality:1]]
+[2024.12.18-13.43.06:036][797]LogConfig: Set CVar [[r.BloomQuality:5]]
+[2024.12.18-13.43.06:036][797]LogConfig: Set CVar [[r.Bloom.ScreenPercentage:50.000]]
+[2024.12.18-13.43.06:036][797]LogConfig: Set CVar [[r.FastBlurThreshold:3]]
+[2024.12.18-13.43.06:036][797]LogConfig: Set CVar [[r.Upscale.Quality:2]]
+[2024.12.18-13.43.06:036][797]LogConfig: Set CVar [[r.LightShaftQuality:1]]
+[2024.12.18-13.43.06:036][797]LogConfig: Set CVar [[r.Filter.SizeScale:0.8]]
+[2024.12.18-13.43.06:036][797]LogConfig: Set CVar [[r.Tonemapper.Quality:5]]
+[2024.12.18-13.43.06:036][797]LogConfig: Set CVar [[r.DOF.Gather.ResolutionDivisor:2         ; lower gathering resolution]]
+[2024.12.18-13.43.06:036][797]LogConfig: Set CVar [[r.DOF.Gather.AccumulatorQuality:0        ; lower gathering accumulator quality]]
+[2024.12.18-13.43.06:036][797]LogConfig: Set CVar [[r.DOF.Gather.PostfilterMethod:2          ; Max3x3 postfilering method]]
+[2024.12.18-13.43.06:036][797]LogConfig: Set CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2024.12.18-13.43.06:036][797]LogConfig: Set CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2024.12.18-13.43.06:036][797]LogConfig: Set CVar [[r.DOF.Scatter.BackgroundCompositing:1    ; no background occlusion]]
+[2024.12.18-13.43.06:036][797]LogConfig: Set CVar [[r.DOF.Scatter.EnableBokehSettings:0      ; no bokeh simulation when scattering]]
+[2024.12.18-13.43.06:036][797]LogConfig: Set CVar [[r.DOF.Scatter.MaxSpriteRatio:0.04        ; only a maximum of 4% of scattered bokeh]]
+[2024.12.18-13.43.06:037][797]LogConfig: Set CVar [[r.DOF.Recombine.Quality:0                ; no slight out of focus]]
+[2024.12.18-13.43.06:037][797]LogConfig: Set CVar [[r.DOF.TemporalAAQuality:0                ; faster temporal accumulation]]
+[2024.12.18-13.43.06:037][797]LogConfig: Set CVar [[r.DOF.Kernel.MaxForegroundRadius:0.012   ; required because of AccumulatorQuality=0]]
+[2024.12.18-13.43.06:037][797]LogConfig: Set CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.012   ; required because of AccumulatorQuality=0]]
+[2024.12.18-13.43.06:037][797]LogConfig: Applying CVar settings from Section [TextureQuality@2] File [Scalability]
+[2024.12.18-13.43.06:037][797]LogConfig: Set CVar [[r.Streaming.MipBias:0]]
+[2024.12.18-13.43.06:037][797]LogConfig: Set CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2024.12.18-13.43.06:037][797]LogConfig: Set CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2024.12.18-13.43.06:037][797]LogConfig: Set CVar [[r.Streaming.Boost:1]]
+[2024.12.18-13.43.06:037][797]LogConfig: Set CVar [[r.MaxAnisotropy:4]]
+[2024.12.18-13.43.06:037][797]LogConfig: Set CVar [[r.VT.MaxAnisotropy:8]]
+[2024.12.18-13.43.06:037][797]LogConfig: Set CVar [[r.Streaming.PoolSize:800]]
+[2024.12.18-13.43.06:037][797]LogConfig: Applying CVar settings from Section [EffectsQuality@2] File [Scalability]
+[2024.12.18-13.43.06:037][797]LogConfig: Set CVar [[r.TranslucencyLightingVolumeDim:48]]
+[2024.12.18-13.43.06:037][797]LogConfig: Set CVar [[r.RefractionQuality:2]]
+[2024.12.18-13.43.06:037][797]LogConfig: Set CVar [[r.DetailMode:1]]
+[2024.12.18-13.43.06:037][797]LogConfig: Set CVar [[r.TranslucencyVolumeBlur:1]]
+[2024.12.18-13.43.06:037][797]LogConfig: Set CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2024.12.18-13.43.06:037][797]LogConfig: Set CVar [[r.SSS.Scale:1]]
+[2024.12.18-13.43.06:037][797]LogConfig: Set CVar [[r.SSS.SampleSet:1]]
+[2024.12.18-13.43.06:037][797]LogConfig: Set CVar [[r.SSS.Quality:-1]]
+[2024.12.18-13.43.06:037][797]LogConfig: Set CVar [[r.SSGI.Quality:2]]
+[2024.12.18-13.43.06:037][797]LogConfig: Set CVar [[r.EmitterSpawnRateScale:0.5]]
+[2024.12.18-13.43.06:037][797]LogConfig: Set CVar [[r.ParticleLightQuality:1]]
+[2024.12.18-13.43.06:037][797]LogConfig: Set CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:2]]
+[2024.12.18-13.43.06:037][797]LogConfig: Set CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2024.12.18-13.43.06:037][797]LogConfig: Set CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2024.12.18-13.43.06:037][797]LogConfig: Set CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:64.0]]
+[2024.12.18-13.43.06:037][797]LogConfig: Set CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2024.12.18-13.43.06:037][797]LogConfig: Set CVar [[r.SkyAtmosphere.SampleCountMax:64.0]]
+[2024.12.18-13.43.06:037][797]LogConfig: Set CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2024.12.18-13.43.06:037][797]LogConfig: Set CVar [[r.SkyLight.RealTimeReflectionCapture:1]]
+[2024.12.18-13.43.06:037][797]LogConfig: Set CVar [[fx.Niagara.QualityLevel:2]]
+[2024.12.18-13.43.06:037][797]LogConfig: Applying CVar settings from Section [FoliageQuality@2] File [Scalability]
+[2024.12.18-13.43.06:037][797]LogConfig: Set CVar [[foliage.DensityScale:0.8]]
+[2024.12.18-13.43.06:037][797]LogConfig: Set CVar [[grass.DensityScale:0.8]]
+[2024.12.18-13.43.06:037][797]LogConfig: Applying CVar settings from Section [ShadingQuality@2] File [Scalability]
+[2024.12.18-13.43.06:037][797]LogConfig: Set CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2024.12.18-13.43.06:037][797]LogConfig: Set CVar [[r.AnisotropicMaterials:1]]
+[2024.12.18-13.43.06:043][797]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2024.12.18-13.43.06:418][799]LogContentStreaming: Texture pool size now 800 MB
+[2024.12.18-13.43.07:935][890]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@0] File [Scalability]
+[2024.12.18-13.43.07:935][890]LogConfig: Set CVar [[r.SkeletalMeshLODBias:2]]
+[2024.12.18-13.43.07:935][890]LogConfig: Set CVar [[r.ViewDistanceScale:0.4]]
+[2024.12.18-13.43.07:935][890]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@0] File [Scalability]
+[2024.12.18-13.43.07:935][890]LogConfig: Set CVar [[r.FXAA.Quality:0]]
+[2024.12.18-13.43.07:935][890]LogConfig: Set CVar [[r.TemporalAA.Quality:0]]
+[2024.12.18-13.43.07:935][890]LogConfig: Set CVar [[r.TSR.History.UpdateQuality:0]]
+[2024.12.18-13.43.07:935][890]LogConfig: Set CVar [[r.TSR.ShadingRejection.Flickering:0]]
+[2024.12.18-13.43.07:935][890]LogConfig: Set CVar [[r.TSR.ShadingRejection.TileOverscan:2]]
+[2024.12.18-13.43.07:935][890]LogConfig: CVar [[r.TSR.Velocity.Extrapolation:0]] deferred - dummy variable created
+[2024.12.18-13.43.07:935][890]LogConfig: Set CVar [[r.TSR.RejectionAntiAliasingQuality:0]]
+[2024.12.18-13.43.07:935][890]LogConfig: Applying CVar settings from Section [ShadowQuality@0] File [Scalability]
+[2024.12.18-13.43.07:935][890]LogConfig: Set CVar [[r.LightFunctionQuality:0]]
+[2024.12.18-13.43.07:935][890]LogConfig: Set CVar [[r.ShadowQuality:0]]
+[2024.12.18-13.43.07:935][890]LogConfig: Set CVar [[r.Shadow.CSM.MaxCascades:1]]
+[2024.12.18-13.43.07:935][890]LogConfig: Set CVar [[r.Shadow.MaxResolution:512]]
+[2024.12.18-13.43.07:935][890]LogConfig: Set CVar [[r.Shadow.MaxCSMResolution:512]]
+[2024.12.18-13.43.07:935][890]LogConfig: Set CVar [[r.Shadow.RadiusThreshold:0.06]]
+[2024.12.18-13.43.07:935][890]LogConfig: Set CVar [[r.Shadow.DistanceScale:0.6]]
+[2024.12.18-13.43.07:935][890]LogConfig: Set CVar [[r.Shadow.CSM.TransitionScale:0]]
+[2024.12.18-13.43.07:935][890]LogConfig: Set CVar [[r.DistanceFieldShadowing:0]]
+[2024.12.18-13.43.07:935][890]LogConfig: Set CVar [[r.VolumetricFog:0]]
+[2024.12.18-13.43.07:935][890]LogConfig: Set CVar [[r.LightMaxDrawDistanceScale:0]]
+[2024.12.18-13.43.07:935][890]LogConfig: Set CVar [[r.CapsuleShadows:0]]
+[2024.12.18-13.43.07:935][890]LogConfig: Set CVar [[r.Shadow.Virtual.MaxPhysicalPages:512]]
+[2024.12.18-13.43.07:935][890]LogConfig: Set CVar [[r.Shadow.Virtual.ResolutionLodBiasDirectional:0.0]]
+[2024.12.18-13.43.07:935][890]LogConfig: Set CVar [[r.Shadow.Virtual.ResolutionLodBiasDirectionalMoving:0.0]]
+[2024.12.18-13.43.07:935][890]LogConfig: Set CVar [[r.Shadow.Virtual.ResolutionLodBiasLocal:1.0]]
+[2024.12.18-13.43.07:935][890]LogConfig: Set CVar [[r.Shadow.Virtual.ResolutionLodBiasLocalMoving:2.0]]
+[2024.12.18-13.43.07:935][890]LogConfig: Set CVar [[r.Shadow.Virtual.SMRT.RayCountDirectional:0]]
+[2024.12.18-13.43.07:935][890]LogConfig: Set CVar [[r.Shadow.Virtual.SMRT.SamplesPerRayDirectional:2]]
+[2024.12.18-13.43.07:935][890]LogConfig: Set CVar [[r.Shadow.Virtual.SMRT.RayCountLocal:0]]
+[2024.12.18-13.43.07:935][890]LogConfig: Set CVar [[r.Shadow.Virtual.SMRT.SamplesPerRayLocal:2]]
+[2024.12.18-13.43.07:935][890]LogConfig: Applying CVar settings from Section [GlobalIlluminationQuality@0] File [Scalability]
+[2024.12.18-13.43.07:935][890]LogConfig: Set CVar [[r.DistanceFieldAO:0]]
+[2024.12.18-13.43.07:935][890]LogConfig: Set CVar [[r.Lumen.DiffuseIndirect.Allow:0]]
+[2024.12.18-13.43.07:935][890]LogConfig: Applying CVar settings from Section [ReflectionQuality@0] File [Scalability]
+[2024.12.18-13.43.07:935][890]LogConfig: Set CVar [[r.SSR.Quality:0]]
+[2024.12.18-13.43.07:935][890]LogConfig: Set CVar [[r.Lumen.Reflections.Allow:0]]
+[2024.12.18-13.43.07:935][890]LogConfig: Applying CVar settings from Section [PostProcessQuality@0] File [Scalability]
+[2024.12.18-13.43.07:935][890]LogConfig: Set CVar [[r.MotionBlurQuality:0]]
+[2024.12.18-13.43.07:935][890]LogConfig: Set CVar [[r.MotionBlur.HalfResGather:1]]
+[2024.12.18-13.43.07:935][890]LogConfig: Set CVar [[r.AmbientOcclusionMipLevelFactor:1.0]]
+[2024.12.18-13.43.07:935][890]LogConfig: Set CVar [[r.AmbientOcclusionMaxQuality:0]]
+[2024.12.18-13.43.07:935][890]LogConfig: Set CVar [[r.AmbientOcclusionLevels:0]]
+[2024.12.18-13.43.07:935][890]LogConfig: Set CVar [[r.AmbientOcclusionRadiusScale:1.2]]
+[2024.12.18-13.43.07:935][890]LogConfig: Set CVar [[r.DepthOfFieldQuality:0]]
+[2024.12.18-13.43.07:935][890]LogConfig: Set CVar [[r.RenderTargetPoolMin:300]]
+[2024.12.18-13.43.07:935][890]LogConfig: Set CVar [[r.LensFlareQuality:0]]
+[2024.12.18-13.43.07:935][890]LogConfig: Set CVar [[r.SceneColorFringeQuality:0]]
+[2024.12.18-13.43.07:935][890]LogConfig: Set CVar [[r.BloomQuality:4]]
+[2024.12.18-13.43.07:935][890]LogConfig: Set CVar [[r.Bloom.ScreenPercentage:25.000]]
+[2024.12.18-13.43.07:935][890]LogConfig: Set CVar [[r.FastBlurThreshold:0]]
+[2024.12.18-13.43.07:935][890]LogConfig: Set CVar [[r.Upscale.Quality:1]]
+[2024.12.18-13.43.07:935][890]LogConfig: Set CVar [[r.LightShaftQuality:0]]
+[2024.12.18-13.43.07:935][890]LogConfig: Set CVar [[r.Filter.SizeScale:0.6]]
+[2024.12.18-13.43.07:935][890]LogConfig: Set CVar [[r.Tonemapper.Quality:0]]
+[2024.12.18-13.43.07:935][890]LogConfig: Applying CVar settings from Section [TextureQuality@0] File [Scalability]
+[2024.12.18-13.43.07:935][890]LogConfig: Set CVar [[r.Streaming.MipBias:16]]
+[2024.12.18-13.43.07:935][890]LogConfig: Set CVar [[r.Streaming.AmortizeCPUToGPUCopy:1]]
+[2024.12.18-13.43.07:935][890]LogConfig: Set CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:1]]
+[2024.12.18-13.43.07:935][890]LogConfig: Set CVar [[r.Streaming.Boost:0.3]]
+[2024.12.18-13.43.07:935][890]LogConfig: Set CVar [[r.MaxAnisotropy:0]]
+[2024.12.18-13.43.07:935][890]LogConfig: Set CVar [[r.VT.MaxAnisotropy:4]]
+[2024.12.18-13.43.07:935][890]LogConfig: Set CVar [[r.Streaming.PoolSize:400]]
+[2024.12.18-13.43.07:936][890]LogConfig: Applying CVar settings from Section [EffectsQuality@0] File [Scalability]
+[2024.12.18-13.43.07:936][890]LogConfig: Set CVar [[r.TranslucencyLightingVolumeDim:24]]
+[2024.12.18-13.43.07:936][890]LogConfig: Set CVar [[r.RefractionQuality:0]]
+[2024.12.18-13.43.07:936][890]LogConfig: Set CVar [[r.DetailMode:0]]
+[2024.12.18-13.43.07:936][890]LogConfig: Set CVar [[r.TranslucencyVolumeBlur:0]]
+[2024.12.18-13.43.07:936][890]LogConfig: Set CVar [[r.MaterialQualityLevel:0 ; Low quality]]
+[2024.12.18-13.43.07:936][890]LogConfig: Set CVar [[r.SSS.Scale:0]]
+[2024.12.18-13.43.07:936][890]LogConfig: Set CVar [[r.SSS.SampleSet:0]]
+[2024.12.18-13.43.07:936][890]LogConfig: Set CVar [[r.SSS.Quality:0]]
+[2024.12.18-13.43.07:936][890]LogConfig: Set CVar [[r.SSGI.Quality:0]]
+[2024.12.18-13.43.07:936][890]LogConfig: Set CVar [[r.EmitterSpawnRateScale:0.125]]
+[2024.12.18-13.43.07:936][890]LogConfig: Set CVar [[r.ParticleLightQuality:0]]
+[2024.12.18-13.43.07:936][890]LogConfig: Set CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:1]]
+[2024.12.18-13.43.07:936][890]LogConfig: Set CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:8.0]]
+[2024.12.18-13.43.07:936][890]LogConfig: Set CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:2.0]]
+[2024.12.18-13.43.07:936][890]LogConfig: Set CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:16.0]]
+[2024.12.18-13.43.07:936][890]LogConfig: Set CVar [[r.SkyAtmosphere.SampleCountMin:2.0]]
+[2024.12.18-13.43.07:936][890]LogConfig: Set CVar [[r.SkyAtmosphere.SampleCountMax:16.0]]
+[2024.12.18-13.43.07:936][890]LogConfig: Set CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:1]]
+[2024.12.18-13.43.07:936][890]LogConfig: Set CVar [[r.SkyLight.RealTimeReflectionCapture:0]]
+[2024.12.18-13.43.07:936][890]LogConfig: Set CVar [[fx.Niagara.QualityLevel:0]]
+[2024.12.18-13.43.07:936][890]LogConfig: Applying CVar settings from Section [FoliageQuality@0] File [Scalability]
+[2024.12.18-13.43.07:936][890]LogConfig: Set CVar [[foliage.DensityScale:0]]
+[2024.12.18-13.43.07:936][890]LogConfig: Set CVar [[grass.DensityScale:0]]
+[2024.12.18-13.43.07:936][890]LogConfig: Applying CVar settings from Section [ShadingQuality@0] File [Scalability]
+[2024.12.18-13.43.07:936][890]LogConfig: Set CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:1]]
+[2024.12.18-13.43.07:936][890]LogConfig: Set CVar [[r.AnisotropicMaterials:0]]
+[2024.12.18-13.43.07:944][890]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2024.12.18-13.43.07:946][890]LogContentStreaming: Texture pool size now 400 MB
+[2024.12.18-13.43.07:976][892]LogRenderer: Display: Recreating Shadow.Virtual.PhysicalPagePool due to size or flags change. This will also drop any cached pages.
+[2024.12.18-13.43.25:443][925]Cmd: TRANSACTION UNDO
+[2024.12.18-13.43.25:443][925]LogEditorTransaction: Undo Create Actors
+[2024.12.18-13.44.13:932][335]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.12.18-13.44.14:032][335]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/LVL_Escape" FILE="E:/YNOV/B3/Escape/Prod/EscapeUE5/Escape/Content/Maps/LVL_Escape.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2024.12.18-13.44.14:108][335]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2024.12.18-13.44.15:252][335]LogSavePackage: Moving output files for package: /Game/Maps/LVL_Escape
+[2024.12.18-13.44.15:253][335]LogSavePackage: Moving 'E:/YNOV/B3/Escape/Prod/EscapeUE5/Escape/Saved/LVL_Escape8A8D67AC46BAB9A7DC4D82A3248E20EE.tmp' to 'E:/YNOV/B3/Escape/Prod/EscapeUE5/Escape/Content/Maps/LVL_Escape.umap'
+[2024.12.18-13.44.15:284][335]LogFileHelpers: Saving map 'LVL_Escape' took 1.251
+[2024.12.18-13.44.15:293][335]LogFileHelpers: InternalPromptForCheckoutAndSave took 1.36 sec (total: 5.85 sec)
+[2024.12.18-13.44.15:295][335]AssetCheck: New page: Asset Save: LVL_Escape
+[2024.12.18-13.44.15:295][335]LogContentValidation: Display: Validating /Script/Engine.World /Game/Maps/LVL_Escape.LVL_Escape
+[2024.12.18-13.44.31:727][291]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.RectLight
+[2024.12.18-13.44.31:727][291]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.RectLight
+[2024.12.18-13.45.03:729][186]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@2] File [Scalability]
+[2024.12.18-13.45.03:729][186]LogConfig: Set CVar [[r.SkeletalMeshLODBias:0]]
+[2024.12.18-13.45.03:729][186]LogConfig: Set CVar [[r.ViewDistanceScale:0.8]]
+[2024.12.18-13.45.03:729][186]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@2] File [Scalability]
+[2024.12.18-13.45.03:729][186]LogConfig: Set CVar [[r.FXAA.Quality:3]]
+[2024.12.18-13.45.03:729][186]LogConfig: Set CVar [[r.TemporalAA.Quality:1]]
+[2024.12.18-13.45.03:729][186]LogConfig: Set CVar [[r.TSR.History.UpdateQuality:2]]
+[2024.12.18-13.45.03:729][186]LogConfig: Set CVar [[r.TSR.ShadingRejection.Flickering:1]]
+[2024.12.18-13.45.03:729][186]LogConfig: Set CVar [[r.TSR.ShadingRejection.TileOverscan:3]]
+[2024.12.18-13.45.03:729][186]LogConfig: CVar [[r.TSR.Velocity.Extrapolation:0]] deferred - dummy variable created
+[2024.12.18-13.45.03:729][186]LogConfig: Set CVar [[r.TSR.RejectionAntiAliasingQuality:1]]
+[2024.12.18-13.45.03:729][186]LogConfig: Applying CVar settings from Section [ShadowQuality@2] File [Scalability]
+[2024.12.18-13.45.03:729][186]LogConfig: Set CVar [[r.LightFunctionQuality:1]]
+[2024.12.18-13.45.03:729][186]LogConfig: Set CVar [[r.ShadowQuality:5]]
+[2024.12.18-13.45.03:729][186]LogConfig: Set CVar [[r.Shadow.CSM.MaxCascades:4]]
+[2024.12.18-13.45.03:729][186]LogConfig: Set CVar [[r.Shadow.MaxResolution:1024]]
+[2024.12.18-13.45.03:729][186]LogConfig: Set CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2024.12.18-13.45.03:729][186]LogConfig: Set CVar [[r.Shadow.RadiusThreshold:0.04]]
+[2024.12.18-13.45.03:729][186]LogConfig: Set CVar [[r.Shadow.DistanceScale:0.85]]
+[2024.12.18-13.45.03:729][186]LogConfig: Set CVar [[r.Shadow.CSM.TransitionScale:0.8]]
+[2024.12.18-13.45.03:729][186]LogConfig: Set CVar [[r.DistanceFieldShadowing:1]]
+[2024.12.18-13.45.03:729][186]LogConfig: Set CVar [[r.VolumetricFog:1]]
+[2024.12.18-13.45.03:729][186]LogConfig: Set CVar [[r.LightMaxDrawDistanceScale:1]]
+[2024.12.18-13.45.03:729][186]LogConfig: Set CVar [[r.CapsuleShadows:1]]
+[2024.12.18-13.45.03:729][186]LogConfig: Set CVar [[r.Shadow.Virtual.MaxPhysicalPages:2048]]
+[2024.12.18-13.45.03:729][186]LogConfig: Set CVar [[r.Shadow.Virtual.ResolutionLodBiasDirectional:-0.5]]
+[2024.12.18-13.45.03:729][186]LogConfig: Set CVar [[r.Shadow.Virtual.ResolutionLodBiasDirectionalMoving:-0.5]]
+[2024.12.18-13.45.03:729][186]LogConfig: Set CVar [[r.Shadow.Virtual.ResolutionLodBiasLocal:0.0]]
+[2024.12.18-13.45.03:729][186]LogConfig: Set CVar [[r.Shadow.Virtual.ResolutionLodBiasLocalMoving:1.0]]
+[2024.12.18-13.45.03:729][186]LogConfig: Set CVar [[r.Shadow.Virtual.SMRT.RayCountDirectional:8]]
+[2024.12.18-13.45.03:729][186]LogConfig: Set CVar [[r.Shadow.Virtual.SMRT.SamplesPerRayDirectional:4]]
+[2024.12.18-13.45.03:729][186]LogConfig: Set CVar [[r.Shadow.Virtual.SMRT.RayCountLocal:8]]
+[2024.12.18-13.45.03:729][186]LogConfig: Set CVar [[r.Shadow.Virtual.SMRT.SamplesPerRayLocal:4]]
+[2024.12.18-13.45.03:729][186]LogConfig: Applying CVar settings from Section [GlobalIlluminationQuality@2] File [Scalability]
+[2024.12.18-13.45.03:729][186]LogConfig: Set CVar [[r.DistanceFieldAO:1]]
+[2024.12.18-13.45.03:729][186]LogConfig: Set CVar [[r.Lumen.DiffuseIndirect.Allow:1]]
+[2024.12.18-13.45.03:729][186]LogConfig: Applying CVar settings from Section [ReflectionQuality@2] File [Scalability]
+[2024.12.18-13.45.03:729][186]LogConfig: Set CVar [[r.SSR.Quality:2]]
+[2024.12.18-13.45.03:729][186]LogConfig: Set CVar [[r.Lumen.Reflections.Allow:1]]
+[2024.12.18-13.45.03:729][186]LogConfig: Applying CVar settings from Section [PostProcessQuality@2] File [Scalability]
+[2024.12.18-13.45.03:729][186]LogConfig: Set CVar [[r.MotionBlurQuality:3]]
+[2024.12.18-13.45.03:729][186]LogConfig: Set CVar [[r.MotionBlur.HalfResGather:0]]
+[2024.12.18-13.45.03:729][186]LogConfig: Set CVar [[r.AmbientOcclusionMipLevelFactor:0.6]]
+[2024.12.18-13.45.03:729][186]LogConfig: Set CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2024.12.18-13.45.03:729][186]LogConfig: Set CVar [[r.AmbientOcclusionLevels:-1]]
+[2024.12.18-13.45.03:729][186]LogConfig: Set CVar [[r.AmbientOcclusionRadiusScale:1.5]]
+[2024.12.18-13.45.03:729][186]LogConfig: Set CVar [[r.DepthOfFieldQuality:2]]
+[2024.12.18-13.45.03:729][186]LogConfig: Set CVar [[r.RenderTargetPoolMin:400]]
+[2024.12.18-13.45.03:729][186]LogConfig: Set CVar [[r.LensFlareQuality:2]]
+[2024.12.18-13.45.03:729][186]LogConfig: Set CVar [[r.SceneColorFringeQuality:1]]
+[2024.12.18-13.45.03:729][186]LogConfig: Set CVar [[r.BloomQuality:5]]
+[2024.12.18-13.45.03:729][186]LogConfig: Set CVar [[r.Bloom.ScreenPercentage:50.000]]
+[2024.12.18-13.45.03:729][186]LogConfig: Set CVar [[r.FastBlurThreshold:3]]
+[2024.12.18-13.45.03:729][186]LogConfig: Set CVar [[r.Upscale.Quality:2]]
+[2024.12.18-13.45.03:729][186]LogConfig: Set CVar [[r.LightShaftQuality:1]]
+[2024.12.18-13.45.03:729][186]LogConfig: Set CVar [[r.Filter.SizeScale:0.8]]
+[2024.12.18-13.45.03:729][186]LogConfig: Set CVar [[r.Tonemapper.Quality:5]]
+[2024.12.18-13.45.03:729][186]LogConfig: Applying CVar settings from Section [TextureQuality@2] File [Scalability]
+[2024.12.18-13.45.03:729][186]LogConfig: Set CVar [[r.Streaming.MipBias:0]]
+[2024.12.18-13.45.03:729][186]LogConfig: Set CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2024.12.18-13.45.03:729][186]LogConfig: Set CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2024.12.18-13.45.03:729][186]LogConfig: Set CVar [[r.Streaming.Boost:1]]
+[2024.12.18-13.45.03:729][186]LogConfig: Set CVar [[r.MaxAnisotropy:4]]
+[2024.12.18-13.45.03:729][186]LogConfig: Set CVar [[r.VT.MaxAnisotropy:8]]
+[2024.12.18-13.45.03:729][186]LogConfig: Set CVar [[r.Streaming.PoolSize:800]]
+[2024.12.18-13.45.03:729][186]LogConfig: Applying CVar settings from Section [EffectsQuality@2] File [Scalability]
+[2024.12.18-13.45.03:729][186]LogConfig: Set CVar [[r.TranslucencyLightingVolumeDim:48]]
+[2024.12.18-13.45.03:729][186]LogConfig: Set CVar [[r.RefractionQuality:2]]
+[2024.12.18-13.45.03:729][186]LogConfig: Set CVar [[r.DetailMode:1]]
+[2024.12.18-13.45.03:729][186]LogConfig: Set CVar [[r.TranslucencyVolumeBlur:1]]
+[2024.12.18-13.45.03:729][186]LogConfig: Set CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2024.12.18-13.45.03:729][186]LogConfig: Set CVar [[r.SSS.Scale:1]]
+[2024.12.18-13.45.03:729][186]LogConfig: Set CVar [[r.SSS.SampleSet:1]]
+[2024.12.18-13.45.03:729][186]LogConfig: Set CVar [[r.SSS.Quality:-1]]
+[2024.12.18-13.45.03:729][186]LogConfig: Set CVar [[r.SSGI.Quality:2]]
+[2024.12.18-13.45.03:729][186]LogConfig: Set CVar [[r.EmitterSpawnRateScale:0.5]]
+[2024.12.18-13.45.03:729][186]LogConfig: Set CVar [[r.ParticleLightQuality:1]]
+[2024.12.18-13.45.03:729][186]LogConfig: Set CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:2]]
+[2024.12.18-13.45.03:729][186]LogConfig: Set CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2024.12.18-13.45.03:731][186]LogConfig: Set CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2024.12.18-13.45.03:731][186]LogConfig: Set CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:64.0]]
+[2024.12.18-13.45.03:731][186]LogConfig: Set CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2024.12.18-13.45.03:731][186]LogConfig: Set CVar [[r.SkyAtmosphere.SampleCountMax:64.0]]
+[2024.12.18-13.45.03:731][186]LogConfig: Set CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2024.12.18-13.45.03:731][186]LogConfig: Set CVar [[r.SkyLight.RealTimeReflectionCapture:1]]
+[2024.12.18-13.45.03:731][186]LogConfig: Set CVar [[fx.Niagara.QualityLevel:2]]
+[2024.12.18-13.45.03:731][186]LogConfig: Applying CVar settings from Section [FoliageQuality@2] File [Scalability]
+[2024.12.18-13.45.03:731][186]LogConfig: Set CVar [[foliage.DensityScale:0.8]]
+[2024.12.18-13.45.03:731][186]LogConfig: Set CVar [[grass.DensityScale:0.8]]
+[2024.12.18-13.45.03:731][186]LogConfig: Applying CVar settings from Section [ShadingQuality@2] File [Scalability]
+[2024.12.18-13.45.03:731][186]LogConfig: Set CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2024.12.18-13.45.03:731][186]LogConfig: Set CVar [[r.AnisotropicMaterials:1]]
+[2024.12.18-13.45.03:737][186]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2024.12.18-13.45.03:978][190]LogContentStreaming: Texture pool size now 800 MB
+[2024.12.18-13.45.19:123][ 67]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@Cine] File [Scalability]
+[2024.12.18-13.45.19:123][ 67]LogConfig: Set CVar [[r.ViewDistanceScale:10.0]]
+[2024.12.18-13.45.19:123][ 67]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@Cine] File [Scalability]
+[2024.12.18-13.45.19:123][ 67]LogConfig: Set CVar [[r.FXAA.Quality:5]]
+[2024.12.18-13.45.19:123][ 67]LogConfig: Set CVar [[r.TemporalAA.Quality:2]]
+[2024.12.18-13.45.19:123][ 67]LogConfig: Set CVar [[r.TSR.History.R11G11B10:0]]
+[2024.12.18-13.45.19:123][ 67]LogConfig: Set CVar [[r.TSR.History.ScreenPercentage:200]]
+[2024.12.18-13.45.19:123][ 67]LogConfig: Set CVar [[r.TSR.History.UpdateQuality:3]]
+[2024.12.18-13.45.19:123][ 67]LogConfig: CVar [[r.TSR.Velocity.Extrapolation:1]] deferred - dummy variable created
+[2024.12.18-13.45.19:123][ 67]LogConfig: Set CVar [[r.TSR.RejectionAntiAliasingQuality:2]]
+[2024.12.18-13.45.19:123][ 67]LogConfig: Applying CVar settings from Section [ShadowQuality@Cine] File [Scalability]
+[2024.12.18-13.45.19:123][ 67]LogConfig: Set CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2024.12.18-13.45.19:123][ 67]LogConfig: Set CVar [[r.Shadow.MaxResolution:4096]]
+[2024.12.18-13.45.19:123][ 67]LogConfig: Set CVar [[r.Shadow.MaxCSMResolution:4096]]
+[2024.12.18-13.45.19:123][ 67]LogConfig: Set CVar [[r.Shadow.RadiusThreshold:0]]
+[2024.12.18-13.45.19:123][ 67]LogConfig: Set CVar [[r.Shadow.DistanceScale:1.0]]
+[2024.12.18-13.45.19:123][ 67]LogConfig: Set CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2024.12.18-13.45.19:123][ 67]LogConfig: Set CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2024.12.18-13.45.19:123][ 67]LogConfig: Set CVar [[r.VolumetricFog.GridPixelSize:4]]
+[2024.12.18-13.45.19:123][ 67]LogConfig: Set CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2024.12.18-13.45.19:123][ 67]LogConfig: Set CVar [[r.VolumetricFog.HistoryMissSupersampleCount:16]]
+[2024.12.18-13.45.19:123][ 67]LogConfig: Set CVar [[r.Shadow.Virtual.MaxPhysicalPages:8192]]
+[2024.12.18-13.45.19:123][ 67]LogConfig: Set CVar [[r.Shadow.Virtual.ResolutionLodBiasDirectional:-1.5]]
+[2024.12.18-13.45.19:123][ 67]LogConfig: Set CVar [[r.Shadow.Virtual.ResolutionLodBiasDirectionalMoving:-1.5]]
+[2024.12.18-13.45.19:123][ 67]LogConfig: Set CVar [[r.Shadow.Virtual.ResolutionLodBiasLocalMoving:0.0]]
+[2024.12.18-13.45.19:123][ 67]LogConfig: Set CVar [[r.Shadow.Virtual.SMRT.RayCountDirectional:16]]
+[2024.12.18-13.45.19:123][ 67]LogConfig: Set CVar [[r.Shadow.Virtual.SMRT.SamplesPerRayDirectional:8]]
+[2024.12.18-13.45.19:123][ 67]LogConfig: Set CVar [[r.Shadow.Virtual.SMRT.RayCountLocal:16]]
+[2024.12.18-13.45.19:123][ 67]LogConfig: Set CVar [[r.Shadow.Virtual.SMRT.SamplesPerRayLocal:8]]
+[2024.12.18-13.45.19:123][ 67]LogConfig: Applying CVar settings from Section [GlobalIlluminationQuality@Cine] File [Scalability]
+[2024.12.18-13.45.19:123][ 67]LogConfig: Set CVar [[r.AOQuality:2]]
+[2024.12.18-13.45.19:123][ 67]LogConfig: Set CVar [[r.LumenScene.Radiosity.ProbeSpacing:4]]
+[2024.12.18-13.45.19:123][ 67]LogConfig: Set CVar [[r.LumenScene.Radiosity.HemisphereProbeResolution:4]]
+[2024.12.18-13.45.19:123][ 67]LogConfig: Set CVar [[r.Lumen.TraceMeshSDFs.Allow:1]]
+[2024.12.18-13.45.19:123][ 67]LogConfig: Set CVar [[r.Lumen.ScreenProbeGather.RadianceCache.ProbeResolution:32]]
+[2024.12.18-13.45.19:123][ 67]LogConfig: Set CVar [[r.Lumen.ScreenProbeGather.RadianceCache.NumProbesToTraceBudget:1000]]
+[2024.12.18-13.45.19:123][ 67]LogConfig: Set CVar [[r.Lumen.ScreenProbeGather.DownsampleFactor:8]]
+[2024.12.18-13.45.19:123][ 67]LogConfig: Set CVar [[r.Lumen.ScreenProbeGather.TracingOctahedronResolution:16]]
+[2024.12.18-13.45.19:123][ 67]LogConfig: Set CVar [[r.Lumen.ScreenProbeGather.IrradianceFormat:0]]
+[2024.12.18-13.45.19:123][ 67]LogConfig: Set CVar [[r.Lumen.ScreenProbeGather.StochasticInterpolation:0]]
+[2024.12.18-13.45.19:123][ 67]LogConfig: Set CVar [[r.Lumen.ScreenProbeGather.FullResolutionJitterWidth:.5]]
+[2024.12.18-13.45.19:124][ 67]LogConfig: Set CVar [[r.Lumen.ScreenProbeGather.TwoSidedFoliageBackfaceDiffuse:1]]
+[2024.12.18-13.45.19:124][ 67]LogConfig: Set CVar [[r.Lumen.ScreenProbeGather.ScreenTraces.HZBTraversal.FullResDepth:1]]
+[2024.12.18-13.45.19:124][ 67]LogConfig: Set CVar [[r.Lumen.TranslucencyVolume.GridPixelSize:32]]
+[2024.12.18-13.45.19:124][ 67]LogConfig: Set CVar [[r.Lumen.TranslucencyVolume.TraceFromVolume:1]]
+[2024.12.18-13.45.19:124][ 67]LogConfig: Set CVar [[r.Lumen.TranslucencyVolume.RadianceCache.ProbeResolution:16]]
+[2024.12.18-13.45.19:124][ 67]LogConfig: Set CVar [[r.Lumen.TranslucencyVolume.RadianceCache.NumProbesToTraceBudget:1000]]
+[2024.12.18-13.45.19:124][ 67]LogConfig: Applying CVar settings from Section [ReflectionQuality@Cine] File [Scalability]
+[2024.12.18-13.45.19:124][ 67]LogConfig: Set CVar [[r.SSR.Quality:4]]
+[2024.12.18-13.45.19:124][ 67]LogConfig: Set CVar [[r.SSR.HalfResSceneColor:0]]
+[2024.12.18-13.45.19:124][ 67]LogConfig: Set CVar [[r.Lumen.Reflections.DownsampleFactor:1]]
+[2024.12.18-13.45.19:124][ 67]LogConfig: Set CVar [[r.Lumen.Reflections.MaxRoughnessToTraceForFoliage:0.4]]
+[2024.12.18-13.45.19:124][ 67]LogConfig: Set CVar [[r.Lumen.Reflections.ScreenSpaceReconstruction.TonemapStrength:0]]
+[2024.12.18-13.45.19:124][ 67]LogConfig: Set CVar [[r.Lumen.TranslucencyReflections.FrontLayer.Allow:1]]
+[2024.12.18-13.45.19:124][ 67]LogConfig: Set CVar [[r.Lumen.TranslucencyReflections.FrontLayer.Enable:1]]
+[2024.12.18-13.45.19:124][ 67]LogConfig: Applying CVar settings from Section [PostProcessQuality@Cine] File [Scalability]
+[2024.12.18-13.45.19:124][ 67]LogConfig: Set CVar [[r.MotionBlurQuality:4]]
+[2024.12.18-13.45.19:124][ 67]LogConfig: Set CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2024.12.18-13.45.19:124][ 67]LogConfig: Set CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2024.12.18-13.45.19:124][ 67]LogConfig: Set CVar [[r.DepthOfFieldQuality:4]]
+[2024.12.18-13.45.19:124][ 67]LogConfig: Set CVar [[r.RenderTargetPoolMin:1000]]
+[2024.12.18-13.45.19:124][ 67]LogConfig: Set CVar [[r.LensFlareQuality:3]]
+[2024.12.18-13.45.19:124][ 67]LogConfig: Set CVar [[r.Bloom.ScreenPercentage:100]]
+[2024.12.18-13.45.19:124][ 67]LogConfig: Set CVar [[r.FastBlurThreshold:100]]
+[2024.12.18-13.45.19:124][ 67]LogConfig: Set CVar [[r.Upscale.Quality:3]]
+[2024.12.18-13.45.19:124][ 67]LogConfig: Set CVar [[r.Filter.SizeScale:1]]
+[2024.12.18-13.45.19:124][ 67]LogConfig: Set CVar [[r.DOF.Gather.ResolutionDivisor:1         ; do the gathering at full resolution]]
+[2024.12.18-13.45.19:124][ 67]LogConfig: Set CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2024.12.18-13.45.19:124][ 67]LogConfig: Set CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2024.12.18-13.45.19:124][ 67]LogConfig: Set CVar [[r.DOF.Gather.EnableBokehSettings:1       ; bokeh simulation when gathering]]
+[2024.12.18-13.45.19:124][ 67]LogConfig: Set CVar [[r.DOF.Gather.RingCount:5                 ; high number of samples when gathering]]
+[2024.12.18-13.45.19:124][ 67]LogConfig: Set CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; background scattering occlusion]]
+[2024.12.18-13.45.19:124][ 67]LogConfig: Set CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; no bokeh simulation when scattering]]
+[2024.12.18-13.45.19:124][ 67]LogConfig: Set CVar [[r.DOF.Scatter.MaxSpriteRatio:0.25        ; only a maximum of 10% of scattered bokeh]]
+[2024.12.18-13.45.19:124][ 67]LogConfig: Set CVar [[r.DOF.Recombine.Quality:2                ; highest slight out of focus]]
+[2024.12.18-13.45.19:124][ 67]LogConfig: Set CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2024.12.18-13.45.19:124][ 67]LogConfig: Set CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2024.12.18-13.45.19:124][ 67]LogConfig: Set CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2024.12.18-13.45.19:124][ 67]LogConfig: Applying CVar settings from Section [TextureQuality@Cine] File [Scalability]
+[2024.12.18-13.45.19:124][ 67]LogConfig: Set CVar [[r.MaxAnisotropy:8]]
+[2024.12.18-13.45.19:124][ 67]LogConfig: Set CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2024.12.18-13.45.19:124][ 67]LogConfig: Set CVar [[r.Streaming.PoolSize:3000]]
+[2024.12.18-13.45.19:124][ 67]LogConfig: Applying CVar settings from Section [EffectsQuality@Cine] File [Scalability]
+[2024.12.18-13.45.19:124][ 67]LogConfig: Set CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2024.12.18-13.45.19:124][ 67]LogConfig: Set CVar [[r.SceneColorFormat:4]]
+[2024.12.18-13.45.19:124][ 67]LogConfig: Set CVar [[r.DetailMode:2]]
+[2024.12.18-13.45.19:124][ 67]LogConfig: Set CVar [[r.SSS.SampleSet:2]]
+[2024.12.18-13.45.19:124][ 67]LogConfig: Set CVar [[r.SSS.Quality:1]]
+[2024.12.18-13.45.19:124][ 67]LogConfig: Set CVar [[r.SSS.HalfRes:0]]
+[2024.12.18-13.45.19:124][ 67]LogConfig: Set CVar [[r.SSGI.Quality:4]]
+[2024.12.18-13.45.19:124][ 67]LogConfig: Set CVar [[r.EmitterSpawnRateScale:1.0]]
+[2024.12.18-13.45.19:124][ 67]LogConfig: Set CVar [[r.ParticleLightQuality:2]]
+[2024.12.18-13.45.19:124][ 67]LogConfig: Set CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:0]]
+[2024.12.18-13.45.19:124][ 67]LogConfig: Set CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:8]]
+[2024.12.18-13.45.19:124][ 67]LogConfig: Set CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:32.0]]
+[2024.12.18-13.45.19:124][ 67]LogConfig: Set CVar [[r.SkyAtmosphere.FastSkyLUT:0]]
+[2024.12.18-13.45.19:124][ 67]LogConfig: Set CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:256.0]]
+[2024.12.18-13.45.19:124][ 67]LogConfig: Set CVar [[r.SkyAtmosphere.SampleCountMin:8.0]]
+[2024.12.18-13.45.19:124][ 67]LogConfig: Set CVar [[r.SkyAtmosphere.SampleCountMax:256.0]]
+[2024.12.18-13.45.19:124][ 67]LogConfig: Set CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:30.0]]
+[2024.12.18-13.45.19:124][ 67]LogConfig: Set CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:20.0]]
+[2024.12.18-13.45.19:124][ 67]LogConfig: Set CVar [[fx.Niagara.QualityLevel:4]]
+[2024.12.18-13.45.19:124][ 67]LogConfig: Applying CVar settings from Section [FoliageQuality@Cine] File [Scalability]
+[2024.12.18-13.45.19:124][ 67]LogConfig: Set CVar [[foliage.DensityScale:1.0]]
+[2024.12.18-13.45.19:124][ 67]LogConfig: Set CVar [[grass.DensityScale:1.0]]
+[2024.12.18-13.45.19:124][ 67]LogConfig: Applying CVar settings from Section [ShadingQuality@Cine] File [Scalability]
+[2024.12.18-13.45.19:124][ 67]LogConfig: Set CVar [[r.HairStrands.SkyLighting.IntegrationType:1]]
+[2024.12.18-13.45.19:124][ 67]LogConfig: Set CVar [[r.HairStrands.SkyAO.SampleCount:8]]
+[2024.12.18-13.45.19:124][ 67]LogConfig: Set CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:8]]
+[2024.12.18-13.45.19:152][ 69]LogRenderer: Display: Recreating Shadow.Virtual.PhysicalPagePool due to size or flags change. This will also drop any cached pages.
+[2024.12.18-13.45.19:603][ 72]LogContentStreaming: Texture pool size now 3000 MB
+[2024.12.18-13.46.25:836][232]Cmd: TRANSACTION UNDO
+[2024.12.18-13.46.25:836][232]LogEditorTransaction: Undo Edit Attenuation Radius
+[2024.12.18-13.46.50:422][725]Cmd: TRANSACTION UNDO
+[2024.12.18-13.46.50:422][725]LogEditorTransaction: Undo Edit Source Width
+[2024.12.18-13.47.59:670][506]LogSlate: Window 'Color Picker' being destroyed
+[2024.12.18-13.52.57:231][948]Cmd: EDIT COPY
+[2024.12.18-13.52.57:491][953]Cmd: EDIT PASTE
+[2024.12.18-13.53.25:579][751]Cmd: DUPLICATE
+[2024.12.18-13.53.25:579][751]Cmd: ACTOR DUPLICATE
+[2024.12.18-13.53.27:723][815]Cmd: DUPLICATE
+[2024.12.18-13.53.27:723][815]Cmd: ACTOR DUPLICATE
+[2024.12.18-13.53.57:632][645]Cmd: DUPLICATE
+[2024.12.18-13.53.57:632][645]Cmd: ACTOR DUPLICATE
+[2024.12.18-13.54.32:388][556]Cmd: DUPLICATE
+[2024.12.18-13.54.32:388][556]Cmd: ACTOR DUPLICATE
+[2024.12.18-13.55.00:555][261]Cmd: TRANSACTION UNDO
+[2024.12.18-13.55.00:555][261]LogEditorTransaction: Undo Move Elements
+[2024.12.18-13.55.19:616][653]Cmd: TRANSACTION UNDO
+[2024.12.18-13.55.19:616][653]LogEditorTransaction: Undo Edit Attenuation Radius
+[2024.12.18-13.55.39:499][131]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@0] File [Scalability]
+[2024.12.18-13.55.39:500][131]LogConfig: Set CVar [[r.SkeletalMeshLODBias:2]]
+[2024.12.18-13.55.39:500][131]LogConfig: Set CVar [[r.ViewDistanceScale:0.4]]
+[2024.12.18-13.55.39:500][131]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@0] File [Scalability]
+[2024.12.18-13.55.39:500][131]LogConfig: Set CVar [[r.FXAA.Quality:0]]
+[2024.12.18-13.55.39:500][131]LogConfig: Set CVar [[r.TemporalAA.Quality:0]]
+[2024.12.18-13.55.39:500][131]LogConfig: Set CVar [[r.TSR.History.R11G11B10:1]]
+[2024.12.18-13.55.39:500][131]LogConfig: Set CVar [[r.TSR.History.ScreenPercentage:100]]
+[2024.12.18-13.55.39:500][131]LogConfig: Set CVar [[r.TSR.History.UpdateQuality:0]]
+[2024.12.18-13.55.39:500][131]LogConfig: Set CVar [[r.TSR.ShadingRejection.Flickering:0]]
+[2024.12.18-13.55.39:500][131]LogConfig: Set CVar [[r.TSR.ShadingRejection.TileOverscan:2]]
+[2024.12.18-13.55.39:500][131]LogConfig: CVar [[r.TSR.Velocity.Extrapolation:0]] deferred - dummy variable created
+[2024.12.18-13.55.39:500][131]LogConfig: Set CVar [[r.TSR.RejectionAntiAliasingQuality:0]]
+[2024.12.18-13.55.39:500][131]LogConfig: Applying CVar settings from Section [ShadowQuality@0] File [Scalability]
+[2024.12.18-13.55.39:500][131]LogConfig: Set CVar [[r.LightFunctionQuality:0]]
+[2024.12.18-13.55.39:500][131]LogConfig: Set CVar [[r.ShadowQuality:0]]
+[2024.12.18-13.55.39:500][131]LogConfig: Set CVar [[r.Shadow.CSM.MaxCascades:1]]
+[2024.12.18-13.55.39:500][131]LogConfig: Set CVar [[r.Shadow.MaxResolution:512]]
+[2024.12.18-13.55.39:500][131]LogConfig: Set CVar [[r.Shadow.MaxCSMResolution:512]]
+[2024.12.18-13.55.39:500][131]LogConfig: Set CVar [[r.Shadow.RadiusThreshold:0.06]]
+[2024.12.18-13.55.39:500][131]LogConfig: Set CVar [[r.Shadow.DistanceScale:0.6]]
+[2024.12.18-13.55.39:500][131]LogConfig: Set CVar [[r.Shadow.CSM.TransitionScale:0]]
+[2024.12.18-13.55.39:500][131]LogConfig: Set CVar [[r.Shadow.PreShadowResolutionFactor:0.5]]
+[2024.12.18-13.55.39:500][131]LogConfig: Set CVar [[r.DistanceFieldShadowing:0]]
+[2024.12.18-13.55.39:500][131]LogConfig: Set CVar [[r.VolumetricFog:0]]
+[2024.12.18-13.55.39:500][131]LogConfig: Set CVar [[r.LightMaxDrawDistanceScale:0]]
+[2024.12.18-13.55.39:500][131]LogConfig: Set CVar [[r.CapsuleShadows:0]]
+[2024.12.18-13.55.39:500][131]LogConfig: Set CVar [[r.Shadow.Virtual.MaxPhysicalPages:512]]
+[2024.12.18-13.55.39:500][131]LogConfig: Set CVar [[r.Shadow.Virtual.ResolutionLodBiasDirectional:0.0]]
+[2024.12.18-13.55.39:500][131]LogConfig: Set CVar [[r.Shadow.Virtual.ResolutionLodBiasDirectionalMoving:0.0]]
+[2024.12.18-13.55.39:500][131]LogConfig: Set CVar [[r.Shadow.Virtual.ResolutionLodBiasLocal:1.0]]
+[2024.12.18-13.55.39:500][131]LogConfig: Set CVar [[r.Shadow.Virtual.ResolutionLodBiasLocalMoving:2.0]]
+[2024.12.18-13.55.39:500][131]LogConfig: Set CVar [[r.Shadow.Virtual.SMRT.RayCountDirectional:0]]
+[2024.12.18-13.55.39:500][131]LogConfig: Set CVar [[r.Shadow.Virtual.SMRT.SamplesPerRayDirectional:2]]
+[2024.12.18-13.55.39:500][131]LogConfig: Set CVar [[r.Shadow.Virtual.SMRT.RayCountLocal:0]]
+[2024.12.18-13.55.39:500][131]LogConfig: Set CVar [[r.Shadow.Virtual.SMRT.SamplesPerRayLocal:2]]
+[2024.12.18-13.55.39:500][131]LogConfig: Applying CVar settings from Section [GlobalIlluminationQuality@0] File [Scalability]
+[2024.12.18-13.55.39:500][131]LogConfig: Set CVar [[r.DistanceFieldAO:0]]
+[2024.12.18-13.55.39:500][131]LogConfig: Set CVar [[r.Lumen.DiffuseIndirect.Allow:0]]
+[2024.12.18-13.55.39:500][131]LogConfig: Applying CVar settings from Section [ReflectionQuality@0] File [Scalability]
+[2024.12.18-13.55.39:500][131]LogConfig: Set CVar [[r.SSR.Quality:0]]
+[2024.12.18-13.55.39:500][131]LogConfig: Set CVar [[r.SSR.HalfResSceneColor:1]]
+[2024.12.18-13.55.39:500][131]LogConfig: Set CVar [[r.Lumen.Reflections.Allow:0]]
+[2024.12.18-13.55.39:500][131]LogConfig: Applying CVar settings from Section [PostProcessQuality@0] File [Scalability]
+[2024.12.18-13.55.39:500][131]LogConfig: Set CVar [[r.MotionBlurQuality:0]]
+[2024.12.18-13.55.39:500][131]LogConfig: Set CVar [[r.MotionBlur.HalfResGather:1]]
+[2024.12.18-13.55.39:500][131]LogConfig: Set CVar [[r.AmbientOcclusionMipLevelFactor:1.0]]
+[2024.12.18-13.55.39:500][131]LogConfig: Set CVar [[r.AmbientOcclusionMaxQuality:0]]
+[2024.12.18-13.55.39:500][131]LogConfig: Set CVar [[r.AmbientOcclusionLevels:0]]
+[2024.12.18-13.55.39:500][131]LogConfig: Set CVar [[r.AmbientOcclusionRadiusScale:1.2]]
+[2024.12.18-13.55.39:500][131]LogConfig: Set CVar [[r.DepthOfFieldQuality:0]]
+[2024.12.18-13.55.39:500][131]LogConfig: Set CVar [[r.RenderTargetPoolMin:300]]
+[2024.12.18-13.55.39:500][131]LogConfig: Set CVar [[r.LensFlareQuality:0]]
+[2024.12.18-13.55.39:500][131]LogConfig: Set CVar [[r.SceneColorFringeQuality:0]]
+[2024.12.18-13.55.39:500][131]LogConfig: Set CVar [[r.BloomQuality:4]]
+[2024.12.18-13.55.39:500][131]LogConfig: Set CVar [[r.Bloom.ScreenPercentage:25.000]]
+[2024.12.18-13.55.39:500][131]LogConfig: Set CVar [[r.FastBlurThreshold:0]]
+[2024.12.18-13.55.39:500][131]LogConfig: Set CVar [[r.Upscale.Quality:1]]
+[2024.12.18-13.55.39:501][131]LogConfig: Set CVar [[r.LightShaftQuality:0]]
+[2024.12.18-13.55.39:501][131]LogConfig: Set CVar [[r.Filter.SizeScale:0.6]]
+[2024.12.18-13.55.39:501][131]LogConfig: Set CVar [[r.Tonemapper.Quality:0]]
+[2024.12.18-13.55.39:501][131]LogConfig: Applying CVar settings from Section [TextureQuality@0] File [Scalability]
+[2024.12.18-13.55.39:501][131]LogConfig: Set CVar [[r.Streaming.MipBias:16]]
+[2024.12.18-13.55.39:501][131]LogConfig: Set CVar [[r.Streaming.AmortizeCPUToGPUCopy:1]]
+[2024.12.18-13.55.39:501][131]LogConfig: Set CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:1]]
+[2024.12.18-13.55.39:501][131]LogConfig: Set CVar [[r.Streaming.Boost:0.3]]
+[2024.12.18-13.55.39:501][131]LogConfig: Set CVar [[r.MaxAnisotropy:0]]
+[2024.12.18-13.55.39:501][131]LogConfig: Set CVar [[r.VT.MaxAnisotropy:4]]
+[2024.12.18-13.55.39:501][131]LogConfig: Set CVar [[r.Streaming.LimitPoolSizeToVRAM:1]]
+[2024.12.18-13.55.39:501][131]LogConfig: Set CVar [[r.Streaming.PoolSize:400]]
+[2024.12.18-13.55.39:501][131]LogConfig: Applying CVar settings from Section [EffectsQuality@0] File [Scalability]
+[2024.12.18-13.55.39:501][131]LogConfig: Set CVar [[r.TranslucencyLightingVolumeDim:24]]
+[2024.12.18-13.55.39:501][131]LogConfig: Set CVar [[r.RefractionQuality:0]]
+[2024.12.18-13.55.39:501][131]LogConfig: Set CVar [[r.SceneColorFormat:3]]
+[2024.12.18-13.55.39:501][131]LogConfig: Set CVar [[r.DetailMode:0]]
+[2024.12.18-13.55.39:501][131]LogConfig: Set CVar [[r.TranslucencyVolumeBlur:0]]
+[2024.12.18-13.55.39:501][131]LogConfig: Set CVar [[r.MaterialQualityLevel:0 ; Low quality]]
+[2024.12.18-13.55.39:501][131]LogConfig: Set CVar [[r.SSS.Scale:0]]
+[2024.12.18-13.55.39:501][131]LogConfig: Set CVar [[r.SSS.SampleSet:0]]
+[2024.12.18-13.55.39:501][131]LogConfig: Set CVar [[r.SSS.Quality:0]]
+[2024.12.18-13.55.39:501][131]LogConfig: Set CVar [[r.SSS.HalfRes:1]]
+[2024.12.18-13.55.39:501][131]LogConfig: Set CVar [[r.SSGI.Quality:0]]
+[2024.12.18-13.55.39:501][131]LogConfig: Set CVar [[r.EmitterSpawnRateScale:0.125]]
+[2024.12.18-13.55.39:501][131]LogConfig: Set CVar [[r.ParticleLightQuality:0]]
+[2024.12.18-13.55.39:501][131]LogConfig: Set CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2024.12.18-13.55.39:501][131]LogConfig: Set CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:1]]
+[2024.12.18-13.55.39:501][131]LogConfig: Set CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:8.0]]
+[2024.12.18-13.55.39:501][131]LogConfig: Set CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2024.12.18-13.55.39:501][131]LogConfig: Set CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:2.0]]
+[2024.12.18-13.55.39:501][131]LogConfig: Set CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:16.0]]
+[2024.12.18-13.55.39:501][131]LogConfig: Set CVar [[r.SkyAtmosphere.SampleCountMin:2.0]]
+[2024.12.18-13.55.39:501][131]LogConfig: Set CVar [[r.SkyAtmosphere.SampleCountMax:16.0]]
+[2024.12.18-13.55.39:501][131]LogConfig: Set CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:1]]
+[2024.12.18-13.55.39:501][131]LogConfig: Set CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2024.12.18-13.55.39:501][131]LogConfig: Set CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2024.12.18-13.55.39:501][131]LogConfig: Set CVar [[r.SkyLight.RealTimeReflectionCapture:0]]
+[2024.12.18-13.55.39:501][131]LogConfig: Set CVar [[fx.Niagara.QualityLevel:0]]
+[2024.12.18-13.55.39:501][131]LogConfig: Applying CVar settings from Section [FoliageQuality@0] File [Scalability]
+[2024.12.18-13.55.39:501][131]LogConfig: Set CVar [[foliage.DensityScale:0]]
+[2024.12.18-13.55.39:501][131]LogConfig: Set CVar [[grass.DensityScale:0]]
+[2024.12.18-13.55.39:501][131]LogConfig: Applying CVar settings from Section [ShadingQuality@0] File [Scalability]
+[2024.12.18-13.55.39:501][131]LogConfig: Set CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2024.12.18-13.55.39:501][131]LogConfig: Set CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2024.12.18-13.55.39:501][131]LogConfig: Set CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:1]]
+[2024.12.18-13.55.39:501][131]LogConfig: Set CVar [[r.AnisotropicMaterials:0]]
+[2024.12.18-13.55.39:513][131]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2024.12.18-13.55.39:516][131]LogContentStreaming: Texture pool size now 400 MB
+[2024.12.18-13.55.39:555][133]LogRenderer: Display: Recreating Shadow.Virtual.PhysicalPagePool due to size or flags change. This will also drop any cached pages.
+[2024.12.18-13.55.41:156][219]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.12.18-13.55.41:285][219]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/LVL_Escape" FILE="E:/YNOV/B3/Escape/Prod/EscapeUE5/Escape/Content/Maps/LVL_Escape.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2024.12.18-13.55.41:376][219]LogUObjectHash: Compacting FUObjectHashTables data took   0.82ms
+[2024.12.18-13.55.42:674][219]LogSavePackage: Moving output files for package: /Game/Maps/LVL_Escape
+[2024.12.18-13.55.42:676][219]LogSavePackage: Moving 'E:/YNOV/B3/Escape/Prod/EscapeUE5/Escape/Saved/LVL_EscapeE49E11264E3CB8C7F661A8967A811D52.tmp' to 'E:/YNOV/B3/Escape/Prod/EscapeUE5/Escape/Content/Maps/LVL_Escape.umap'
+[2024.12.18-13.55.42:709][219]LogFileHelpers: Saving map 'LVL_Escape' took 1.425
+[2024.12.18-13.55.42:772][219]LogFileHelpers: InternalPromptForCheckoutAndSave took 1.61 sec (total: 7.47 sec)
+[2024.12.18-13.55.42:775][219]AssetCheck: New page: Asset Save: LVL_Escape
+[2024.12.18-13.55.42:776][219]LogContentValidation: Display: Validating /Script/Engine.World /Game/Maps/LVL_Escape.LVL_Escape
+[2024.12.18-13.56.03:475][446]Cmd: DUPLICATE
+[2024.12.18-13.56.03:475][446]Cmd: ACTOR DUPLICATE
+[2024.12.18-13.56.10:857][869]Cmd: TRANSACTION UNDO
+[2024.12.18-13.56.10:857][869]LogEditorTransaction: Undo Clicking on Elements
+[2024.12.18-13.56.11:295][875]Cmd: TRANSACTION UNDO
+[2024.12.18-13.56.11:295][875]LogEditorTransaction: Undo Rotate Elements
+[2024.12.18-13.56.12:243][924]Cmd: TRANSACTION UNDO
+[2024.12.18-13.56.12:243][924]LogEditorTransaction: Undo Move Elements
+[2024.12.18-13.56.13:667][  8]Cmd: DELETE
+[2024.12.18-13.56.13:669][  8]Cmd: ACTOR DELETE
+[2024.12.18-13.56.13:676][  8]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.12.18-13.56.13:682][  8]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2024.12.18-13.56.13:686][  8]LogEditorActor: Deleted 1 Actors (0.017 secs)
+[2024.12.18-14.02.06:739][263]LogSlate: Window 'Bridge' being destroyed
+[2024.12.18-14.02.06:747][263]LogSlate: Window 'Bridge' being destroyed
+[2024.12.18-14.02.06:747][263]LogWebBrowser: Closing browser during destruction, this may cause a later crash.
+[2024.12.18-14.02.06:747][263]LogWebBrowser: Deleting browser for Url=file:///C:/Program%20Files/Epic%20Games/UE_5.3/Engine/Plugins/Bridge/ThirdParty/megascans/index.html?token=eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6ImZvcnRuaXRlZXRoYW4wMUBnbWFpbC5jb20iLCJzY29wZSI6WyJkZWZhdWx0OnVzZXIiLCJtZWdhc2NhbnM6dXNlciJdLCJlcGljQWNjb3VudElkIjoiYWE1ZGZjODlmZjQxNDIzMDk0OTg2NTIyZjM0M2RlY2YiLCJpc1VucmVhbEVVTEFBY2NlcHRlZCI6dHJ1ZSwiaXNFcGljQWNjb3VudCI6dHJ1ZSwicXVpeGVsQWNjb3VudElkIjoiY2ZiOTQ1MjEtNjE3Ny00Y2RjLWIxOGMtZjI4NWNiZjkzNDVkIiwicmVhbG0iOiJtZWdhc2NhbnMiLCJldWxhc0FjY2VwdGVkIjpbInVlIiwibWhjIiwiZXBpY19jb250ZW50Il0sImlhdCI6MTcxODcyNTE2NSwiZXhwIjoxNzE4NzUzOTY1LCJpc3MiOiJxdWl4ZWwtc3NvLXByb2QiLCJqdGkiOiIxOTk2MDdiNS0zZjdlLTQ1NmYtOWI4NS03NWJhYWRlMzUyMGYifQ.Ks83aZo2A7DdHv1X6fPnmkXY23fbtrjxiW8acvtk-hkcxQt3YWd0CjfUOG1q2nNvjonAsw7rIv02XwG1YYSO2A0M3-aN1DHueJdc5wwm50hro9zOc4ZBDPy9e3Pcekin9D2BWKT5r4FSnCulnIdcEy_8HTzl0HdH6UL6cO-fkPwGRzrNM06NtKphd_6NnPW7SheQCijs8ZS2gk38MrVT2KZUUCMamAfGOoVENBKSnOemlfGX84_v5OIhTPPVtuVr3W6o8NndcZM-OU66rbPi53--NaF1Kvdy9tC-gtsTHwW7WtHi6fs6h-yZRVxEF7MoZNGZs6aERbI5F68jCWA0pg&refreshToken=ZTY2OTIxMTAtNzEyOC00MmNhLTkxOGUtMTc5MTgwOGYxODcw#/megascans/home?category=decal.
+[2024.12.18-14.02.48:986][517]LogSlate: Window 'Interchange Pipeline Configuration (Import Content)' being destroyed
+[2024.12.18-14.02.49:002][517]LogInterchangeEngine: [Pending] Importing
+[2024.12.18-14.02.49:002][517]LogInterchangeEngine: Display: Interchange start importing source [E:/YNOV/Ressources/MannequinUnreal/Mannequin_unreal.obj]
+[2024.12.18-14.02.49:102][518]LogInterchangeEngine: [Pending] Importing
+[2024.12.18-14.02.49:210][522]LogTemp: Display: Interchange Obj translator: Unknown keyword: s
+[2024.12.18-14.02.49:582][529]LogStaticMesh: Display: Building static mesh Mannequin_unreal...
+[2024.12.18-14.02.49:618][530]LogInterchangeEngine: [Success] Import Done
+[2024.12.18-14.02.49:715][531]LogInterchangeEngine: [Success] Import Done
+[2024.12.18-14.02.50:564][567]LogStaticMesh: Built static mesh [0.98s] /Game/Assets/Meshes/Buildings/Mannequin_unreal.Mannequin_unreal
+[2024.12.18-14.02.51:343][605]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/Meshes/Buildings/Mannequin_unreal.Mannequin_unreal
+[2024.12.18-14.02.51:343][605]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/Meshes/Buildings/Mannequin_unreal.Mannequin_unreal
+[2024.12.18-14.02.51:344][605]LogActorFactory: Actor Factory spawned StaticMesh /Game/Assets/Meshes/Buildings/Mannequin_unreal.Mannequin_unreal as actor: StaticMeshActor /Game/Maps/LVL_Escape.LVL_Escape:PersistentLevel.StaticMeshActor_58
+[2024.12.18-14.02.51:885][630]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/Meshes/Buildings/Mannequin_unreal.Mannequin_unreal
+[2024.12.18-14.02.51:885][630]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/Meshes/Buildings/Mannequin_unreal.Mannequin_unreal
+[2024.12.18-14.02.51:887][630]LogActorFactory: Actor Factory spawned StaticMesh /Game/Assets/Meshes/Buildings/Mannequin_unreal.Mannequin_unreal as actor: StaticMeshActor /Game/Maps/LVL_Escape.LVL_Escape:PersistentLevel.StaticMeshActor_59
+[2024.12.18-14.03.24:733][562]Cmd: DELETE
+[2024.12.18-14.03.24:733][562]Cmd: ACTOR DELETE
+[2024.12.18-14.03.49:681][ 26]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: StaticMeshComponent /Game/Maps/LVL_Escape.LVL_Escape:PersistentLevel.StaticMeshActor_23.StaticMeshComponent0, from: Addition to navoctree)
+[2024.12.18-14.03.49:682][ 26]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: StaticMeshComponent /Game/Maps/LVL_Escape.LVL_Escape:PersistentLevel.StaticMeshActor_26.StaticMeshComponent0, from: Addition to navoctree)
+[2024.12.18-14.03.49:682][ 26]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: StaticMeshComponent /Game/Maps/LVL_Escape.LVL_Escape:PersistentLevel.StaticMeshActor_29.StaticMeshComponent0, from: Addition to navoctree)
+[2024.12.18-14.03.49:916][ 40]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: StaticMeshComponent /Game/Maps/LVL_Escape.LVL_Escape:PersistentLevel.StaticMeshActor_23.StaticMeshComponent0, from: Remove from navoctree)
+[2024.12.18-14.03.49:916][ 40]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: StaticMeshComponent /Game/Maps/LVL_Escape.LVL_Escape:PersistentLevel.StaticMeshActor_26.StaticMeshComponent0, from: Remove from navoctree)
+[2024.12.18-14.03.49:916][ 40]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: StaticMeshComponent /Game/Maps/LVL_Escape.LVL_Escape:PersistentLevel.StaticMeshActor_29.StaticMeshComponent0, from: Remove from navoctree)
+[2024.12.18-14.03.50:999][105]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: StaticMeshComponent /Game/Maps/LVL_Escape.LVL_Escape:PersistentLevel.StaticMeshActor_23.StaticMeshComponent0, from: Addition to navoctree)
+[2024.12.18-14.03.50:999][105]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: StaticMeshComponent /Game/Maps/LVL_Escape.LVL_Escape:PersistentLevel.StaticMeshActor_26.StaticMeshComponent0, from: Addition to navoctree)
+[2024.12.18-14.03.50:999][105]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: StaticMeshComponent /Game/Maps/LVL_Escape.LVL_Escape:PersistentLevel.StaticMeshActor_29.StaticMeshComponent0, from: Addition to navoctree)
+[2024.12.18-14.03.51:099][111]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: StaticMeshComponent /Game/Maps/LVL_Escape.LVL_Escape:PersistentLevel.StaticMeshActor_23.StaticMeshComponent0, from: Remove from navoctree)
+[2024.12.18-14.03.51:100][111]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: StaticMeshComponent /Game/Maps/LVL_Escape.LVL_Escape:PersistentLevel.StaticMeshActor_26.StaticMeshComponent0, from: Remove from navoctree)
+[2024.12.18-14.03.51:100][111]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: StaticMeshComponent /Game/Maps/LVL_Escape.LVL_Escape:PersistentLevel.StaticMeshActor_29.StaticMeshComponent0, from: Remove from navoctree)
+[2024.12.18-14.03.51:216][118]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: StaticMeshComponent /Game/Maps/LVL_Escape.LVL_Escape:PersistentLevel.StaticMeshActor_22.StaticMeshComponent0, from: Addition to navoctree)
+[2024.12.18-14.03.51:216][118]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: StaticMeshComponent /Game/Maps/LVL_Escape.LVL_Escape:PersistentLevel.StaticMeshActor_24.StaticMeshComponent0, from: Addition to navoctree)
+[2024.12.18-14.03.51:216][118]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: StaticMeshComponent /Game/Maps/LVL_Escape.LVL_Escape:PersistentLevel.StaticMeshActor_25.StaticMeshComponent0, from: Addition to navoctree)
+[2024.12.18-14.03.51:216][118]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: StaticMeshComponent /Game/Maps/LVL_Escape.LVL_Escape:PersistentLevel.StaticMeshActor_27.StaticMeshComponent0, from: Addition to navoctree)
+[2024.12.18-14.03.51:216][118]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: StaticMeshComponent /Game/Maps/LVL_Escape.LVL_Escape:PersistentLevel.StaticMeshActor_28.StaticMeshComponent0, from: Addition to navoctree)
+[2024.12.18-14.03.51:216][118]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: StaticMeshComponent /Game/Maps/LVL_Escape.LVL_Escape:PersistentLevel.StaticMeshActor_30.StaticMeshComponent0, from: Addition to navoctree)
+[2024.12.18-14.03.51:449][132]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: StaticMeshComponent /Game/Maps/LVL_Escape.LVL_Escape:PersistentLevel.StaticMeshActor_22.StaticMeshComponent0, from: Remove from navoctree)
+[2024.12.18-14.03.51:449][132]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: StaticMeshComponent /Game/Maps/LVL_Escape.LVL_Escape:PersistentLevel.StaticMeshActor_24.StaticMeshComponent0, from: Remove from navoctree)
+[2024.12.18-14.03.51:449][132]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: StaticMeshComponent /Game/Maps/LVL_Escape.LVL_Escape:PersistentLevel.StaticMeshActor_25.StaticMeshComponent0, from: Remove from navoctree)
+[2024.12.18-14.03.51:449][132]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: StaticMeshComponent /Game/Maps/LVL_Escape.LVL_Escape:PersistentLevel.StaticMeshActor_27.StaticMeshComponent0, from: Remove from navoctree)
+[2024.12.18-14.03.51:449][132]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: StaticMeshComponent /Game/Maps/LVL_Escape.LVL_Escape:PersistentLevel.StaticMeshActor_28.StaticMeshComponent0, from: Remove from navoctree)
+[2024.12.18-14.03.51:449][132]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: StaticMeshComponent /Game/Maps/LVL_Escape.LVL_Escape:PersistentLevel.StaticMeshActor_30.StaticMeshComponent0, from: Remove from navoctree)
+[2024.12.18-14.03.51:533][137]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: StaticMeshComponent /Game/Maps/LVL_Escape.LVL_Escape:PersistentLevel.StaticMeshActor_23.StaticMeshComponent0, from: Addition to navoctree)
+[2024.12.18-14.03.51:533][137]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: StaticMeshComponent /Game/Maps/LVL_Escape.LVL_Escape:PersistentLevel.StaticMeshActor_26.StaticMeshComponent0, from: Addition to navoctree)
+[2024.12.18-14.03.51:533][137]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: StaticMeshComponent /Game/Maps/LVL_Escape.LVL_Escape:PersistentLevel.StaticMeshActor_29.StaticMeshComponent0, from: Addition to navoctree)
+[2024.12.18-14.03.51:599][141]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: StaticMeshComponent /Game/Maps/LVL_Escape.LVL_Escape:PersistentLevel.StaticMeshActor_23.StaticMeshComponent0, from: Remove from navoctree)
+[2024.12.18-14.03.51:599][141]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: StaticMeshComponent /Game/Maps/LVL_Escape.LVL_Escape:PersistentLevel.StaticMeshActor_26.StaticMeshComponent0, from: Remove from navoctree)
+[2024.12.18-14.03.51:599][141]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: StaticMeshComponent /Game/Maps/LVL_Escape.LVL_Escape:PersistentLevel.StaticMeshActor_29.StaticMeshComponent0, from: Remove from navoctree)
+[2024.12.18-14.03.57:046][462]Cmd: TRANSACTION UNDO
+[2024.12.18-14.03.57:046][462]LogEditorTransaction: Undo Scale Elements
+[2024.12.18-14.04.18:535][703]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: StaticMeshComponent /Game/Maps/LVL_Escape.LVL_Escape:PersistentLevel.StaticMeshActor_23.StaticMeshComponent0, from: Addition to navoctree)
+[2024.12.18-14.04.18:535][703]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: StaticMeshComponent /Game/Maps/LVL_Escape.LVL_Escape:PersistentLevel.StaticMeshActor_26.StaticMeshComponent0, from: Addition to navoctree)
+[2024.12.18-14.04.18:535][703]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: StaticMeshComponent /Game/Maps/LVL_Escape.LVL_Escape:PersistentLevel.StaticMeshActor_29.StaticMeshComponent0, from: Addition to navoctree)
+[2024.12.18-14.04.18:953][728]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: StaticMeshComponent /Game/Maps/LVL_Escape.LVL_Escape:PersistentLevel.StaticMeshActor_23.StaticMeshComponent0, from: Remove from navoctree)
+[2024.12.18-14.04.18:953][728]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: StaticMeshComponent /Game/Maps/LVL_Escape.LVL_Escape:PersistentLevel.StaticMeshActor_26.StaticMeshComponent0, from: Remove from navoctree)
+[2024.12.18-14.04.18:953][728]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: StaticMeshComponent /Game/Maps/LVL_Escape.LVL_Escape:PersistentLevel.StaticMeshActor_29.StaticMeshComponent0, from: Remove from navoctree)
+[2024.12.18-14.04.19:253][746]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: StaticMeshComponent /Game/Maps/LVL_Escape.LVL_Escape:PersistentLevel.StaticMeshActor_22.StaticMeshComponent0, from: Addition to navoctree)
+[2024.12.18-14.04.19:253][746]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: StaticMeshComponent /Game/Maps/LVL_Escape.LVL_Escape:PersistentLevel.StaticMeshActor_24.StaticMeshComponent0, from: Addition to navoctree)
+[2024.12.18-14.04.19:253][746]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: StaticMeshComponent /Game/Maps/LVL_Escape.LVL_Escape:PersistentLevel.StaticMeshActor_25.StaticMeshComponent0, from: Addition to navoctree)
+[2024.12.18-14.04.19:253][746]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: StaticMeshComponent /Game/Maps/LVL_Escape.LVL_Escape:PersistentLevel.StaticMeshActor_27.StaticMeshComponent0, from: Addition to navoctree)
+[2024.12.18-14.04.19:253][746]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: StaticMeshComponent /Game/Maps/LVL_Escape.LVL_Escape:PersistentLevel.StaticMeshActor_28.StaticMeshComponent0, from: Addition to navoctree)
+[2024.12.18-14.04.19:253][746]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: StaticMeshComponent /Game/Maps/LVL_Escape.LVL_Escape:PersistentLevel.StaticMeshActor_30.StaticMeshComponent0, from: Addition to navoctree)
+[2024.12.18-14.04.19:270][747]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: StaticMeshComponent /Game/Maps/LVL_Escape.LVL_Escape:PersistentLevel.StaticMeshActor_22.StaticMeshComponent0, from: Remove from navoctree)
+[2024.12.18-14.04.19:270][747]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: StaticMeshComponent /Game/Maps/LVL_Escape.LVL_Escape:PersistentLevel.StaticMeshActor_24.StaticMeshComponent0, from: Remove from navoctree)
+[2024.12.18-14.04.19:270][747]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: StaticMeshComponent /Game/Maps/LVL_Escape.LVL_Escape:PersistentLevel.StaticMeshActor_25.StaticMeshComponent0, from: Remove from navoctree)
+[2024.12.18-14.04.19:270][747]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: StaticMeshComponent /Game/Maps/LVL_Escape.LVL_Escape:PersistentLevel.StaticMeshActor_27.StaticMeshComponent0, from: Remove from navoctree)
+[2024.12.18-14.04.19:271][747]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: StaticMeshComponent /Game/Maps/LVL_Escape.LVL_Escape:PersistentLevel.StaticMeshActor_28.StaticMeshComponent0, from: Remove from navoctree)
+[2024.12.18-14.04.19:271][747]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: StaticMeshComponent /Game/Maps/LVL_Escape.LVL_Escape:PersistentLevel.StaticMeshActor_30.StaticMeshComponent0, from: Remove from navoctree)
+[2024.12.18-14.04.19:585][766]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: StaticMeshComponent /Game/Maps/LVL_Escape.LVL_Escape:PersistentLevel.StaticMeshActor_39.StaticMeshComponent0, from: Addition to navoctree)
+[2024.12.18-14.04.19:669][771]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: StaticMeshComponent /Game/Maps/LVL_Escape.LVL_Escape:PersistentLevel.StaticMeshActor_39.StaticMeshComponent0, from: Remove from navoctree)
+[2024.12.18-14.04.20:886][844]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: StaticMeshComponent /Game/Maps/LVL_Escape.LVL_Escape:PersistentLevel.StaticMeshActor_39.StaticMeshComponent0, from: Addition to navoctree)
+[2024.12.18-14.04.20:904][845]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: StaticMeshComponent /Game/Maps/LVL_Escape.LVL_Escape:PersistentLevel.StaticMeshActor_39.StaticMeshComponent0, from: Remove from navoctree)
+[2024.12.18-14.04.21:003][851]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: StaticMeshComponent /Game/Maps/LVL_Escape.LVL_Escape:PersistentLevel.StaticMeshActor_22.StaticMeshComponent0, from: Addition to navoctree)
+[2024.12.18-14.04.21:003][851]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: StaticMeshComponent /Game/Maps/LVL_Escape.LVL_Escape:PersistentLevel.StaticMeshActor_24.StaticMeshComponent0, from: Addition to navoctree)
+[2024.12.18-14.04.21:003][851]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: StaticMeshComponent /Game/Maps/LVL_Escape.LVL_Escape:PersistentLevel.StaticMeshActor_25.StaticMeshComponent0, from: Addition to navoctree)
+[2024.12.18-14.04.21:003][851]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: StaticMeshComponent /Game/Maps/LVL_Escape.LVL_Escape:PersistentLevel.StaticMeshActor_27.StaticMeshComponent0, from: Addition to navoctree)
+[2024.12.18-14.04.21:003][851]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: StaticMeshComponent /Game/Maps/LVL_Escape.LVL_Escape:PersistentLevel.StaticMeshActor_28.StaticMeshComponent0, from: Addition to navoctree)
+[2024.12.18-14.04.21:003][851]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: StaticMeshComponent /Game/Maps/LVL_Escape.LVL_Escape:PersistentLevel.StaticMeshActor_30.StaticMeshComponent0, from: Addition to navoctree)
+[2024.12.18-14.04.21:005][851]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: StaticMeshComponent /Game/Maps/LVL_Escape.LVL_Escape:PersistentLevel.StaticMeshActor_22.StaticMeshComponent0, from: Remove from navoctree)
+[2024.12.18-14.04.21:005][851]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: StaticMeshComponent /Game/Maps/LVL_Escape.LVL_Escape:PersistentLevel.StaticMeshActor_24.StaticMeshComponent0, from: Remove from navoctree)
+[2024.12.18-14.04.21:005][851]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: StaticMeshComponent /Game/Maps/LVL_Escape.LVL_Escape:PersistentLevel.StaticMeshActor_25.StaticMeshComponent0, from: Remove from navoctree)
+[2024.12.18-14.04.21:005][851]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: StaticMeshComponent /Game/Maps/LVL_Escape.LVL_Escape:PersistentLevel.StaticMeshActor_27.StaticMeshComponent0, from: Remove from navoctree)
+[2024.12.18-14.04.21:005][851]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: StaticMeshComponent /Game/Maps/LVL_Escape.LVL_Escape:PersistentLevel.StaticMeshActor_28.StaticMeshComponent0, from: Remove from navoctree)
+[2024.12.18-14.04.21:005][851]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: StaticMeshComponent /Game/Maps/LVL_Escape.LVL_Escape:PersistentLevel.StaticMeshActor_30.StaticMeshComponent0, from: Remove from navoctree)
+[2024.12.18-14.04.21:054][854]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: StaticMeshComponent /Game/Maps/LVL_Escape.LVL_Escape:PersistentLevel.StaticMeshActor_23.StaticMeshComponent0, from: Addition to navoctree)
+[2024.12.18-14.04.21:054][854]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: StaticMeshComponent /Game/Maps/LVL_Escape.LVL_Escape:PersistentLevel.StaticMeshActor_26.StaticMeshComponent0, from: Addition to navoctree)
+[2024.12.18-14.04.21:054][854]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: StaticMeshComponent /Game/Maps/LVL_Escape.LVL_Escape:PersistentLevel.StaticMeshActor_29.StaticMeshComponent0, from: Addition to navoctree)
+[2024.12.18-14.04.21:070][855]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: StaticMeshComponent /Game/Maps/LVL_Escape.LVL_Escape:PersistentLevel.StaticMeshActor_23.StaticMeshComponent0, from: Remove from navoctree)
+[2024.12.18-14.04.21:070][855]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: StaticMeshComponent /Game/Maps/LVL_Escape.LVL_Escape:PersistentLevel.StaticMeshActor_26.StaticMeshComponent0, from: Remove from navoctree)
+[2024.12.18-14.04.21:070][855]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: StaticMeshComponent /Game/Maps/LVL_Escape.LVL_Escape:PersistentLevel.StaticMeshActor_29.StaticMeshComponent0, from: Remove from navoctree)
+[2024.12.18-14.04.22:135][919]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: StaticMeshComponent /Game/Maps/LVL_Escape.LVL_Escape:PersistentLevel.StaticMeshActor_23.StaticMeshComponent0, from: Addition to navoctree)
+[2024.12.18-14.04.22:135][919]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: StaticMeshComponent /Game/Maps/LVL_Escape.LVL_Escape:PersistentLevel.StaticMeshActor_26.StaticMeshComponent0, from: Addition to navoctree)
+[2024.12.18-14.04.22:135][919]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: StaticMeshComponent /Game/Maps/LVL_Escape.LVL_Escape:PersistentLevel.StaticMeshActor_29.StaticMeshComponent0, from: Addition to navoctree)
+[2024.12.18-14.04.22:138][919]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: StaticMeshComponent /Game/Maps/LVL_Escape.LVL_Escape:PersistentLevel.StaticMeshActor_23.StaticMeshComponent0, from: Remove from navoctree)
+[2024.12.18-14.04.22:138][919]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: StaticMeshComponent /Game/Maps/LVL_Escape.LVL_Escape:PersistentLevel.StaticMeshActor_26.StaticMeshComponent0, from: Remove from navoctree)
+[2024.12.18-14.04.22:138][919]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: StaticMeshComponent /Game/Maps/LVL_Escape.LVL_Escape:PersistentLevel.StaticMeshActor_29.StaticMeshComponent0, from: Remove from navoctree)
+[2024.12.18-14.04.22:169][921]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: StaticMeshComponent /Game/Maps/LVL_Escape.LVL_Escape:PersistentLevel.StaticMeshActor_22.StaticMeshComponent0, from: Addition to navoctree)
+[2024.12.18-14.04.22:170][921]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: StaticMeshComponent /Game/Maps/LVL_Escape.LVL_Escape:PersistentLevel.StaticMeshActor_24.StaticMeshComponent0, from: Addition to navoctree)
+[2024.12.18-14.04.22:170][921]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: StaticMeshComponent /Game/Maps/LVL_Escape.LVL_Escape:PersistentLevel.StaticMeshActor_25.StaticMeshComponent0, from: Addition to navoctree)
+[2024.12.18-14.04.22:170][921]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: StaticMeshComponent /Game/Maps/LVL_Escape.LVL_Escape:PersistentLevel.StaticMeshActor_27.StaticMeshComponent0, from: Addition to navoctree)
+[2024.12.18-14.04.22:170][921]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: StaticMeshComponent /Game/Maps/LVL_Escape.LVL_Escape:PersistentLevel.StaticMeshActor_28.StaticMeshComponent0, from: Addition to navoctree)
+[2024.12.18-14.04.22:170][921]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: StaticMeshComponent /Game/Maps/LVL_Escape.LVL_Escape:PersistentLevel.StaticMeshActor_30.StaticMeshComponent0, from: Addition to navoctree)
+[2024.12.18-14.04.22:187][922]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: StaticMeshComponent /Game/Maps/LVL_Escape.LVL_Escape:PersistentLevel.StaticMeshActor_22.StaticMeshComponent0, from: Remove from navoctree)
+[2024.12.18-14.04.22:187][922]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: StaticMeshComponent /Game/Maps/LVL_Escape.LVL_Escape:PersistentLevel.StaticMeshActor_24.StaticMeshComponent0, from: Remove from navoctree)
+[2024.12.18-14.04.22:187][922]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: StaticMeshComponent /Game/Maps/LVL_Escape.LVL_Escape:PersistentLevel.StaticMeshActor_25.StaticMeshComponent0, from: Remove from navoctree)
+[2024.12.18-14.04.22:188][922]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: StaticMeshComponent /Game/Maps/LVL_Escape.LVL_Escape:PersistentLevel.StaticMeshActor_27.StaticMeshComponent0, from: Remove from navoctree)
+[2024.12.18-14.04.22:188][922]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: StaticMeshComponent /Game/Maps/LVL_Escape.LVL_Escape:PersistentLevel.StaticMeshActor_28.StaticMeshComponent0, from: Remove from navoctree)
+[2024.12.18-14.04.22:188][922]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: StaticMeshComponent /Game/Maps/LVL_Escape.LVL_Escape:PersistentLevel.StaticMeshActor_30.StaticMeshComponent0, from: Remove from navoctree)
+[2024.12.18-14.04.22:237][925]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: StaticMeshComponent /Game/Maps/LVL_Escape.LVL_Escape:PersistentLevel.StaticMeshActor_39.StaticMeshComponent0, from: Addition to navoctree)
+[2024.12.18-14.04.22:253][926]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: StaticMeshComponent /Game/Maps/LVL_Escape.LVL_Escape:PersistentLevel.StaticMeshActor_39.StaticMeshComponent0, from: Remove from navoctree)
+[2024.12.18-14.04.22:419][936]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: StaticMeshComponent /Game/Maps/LVL_Escape.LVL_Escape:PersistentLevel.StaticMeshActor_39.StaticMeshComponent0, from: Addition to navoctree)
+[2024.12.18-14.04.22:421][936]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: StaticMeshComponent /Game/Maps/LVL_Escape.LVL_Escape:PersistentLevel.StaticMeshActor_39.StaticMeshComponent0, from: Remove from navoctree)
+[2024.12.18-14.04.22:486][940]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: StaticMeshComponent /Game/Maps/LVL_Escape.LVL_Escape:PersistentLevel.StaticMeshActor_22.StaticMeshComponent0, from: Addition to navoctree)
+[2024.12.18-14.04.22:486][940]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: StaticMeshComponent /Game/Maps/LVL_Escape.LVL_Escape:PersistentLevel.StaticMeshActor_24.StaticMeshComponent0, from: Addition to navoctree)
+[2024.12.18-14.04.22:486][940]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: StaticMeshComponent /Game/Maps/LVL_Escape.LVL_Escape:PersistentLevel.StaticMeshActor_25.StaticMeshComponent0, from: Addition to navoctree)
+[2024.12.18-14.04.22:487][940]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: StaticMeshComponent /Game/Maps/LVL_Escape.LVL_Escape:PersistentLevel.StaticMeshActor_27.StaticMeshComponent0, from: Addition to navoctree)
+[2024.12.18-14.04.22:487][940]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: StaticMeshComponent /Game/Maps/LVL_Escape.LVL_Escape:PersistentLevel.StaticMeshActor_28.StaticMeshComponent0, from: Addition to navoctree)
+[2024.12.18-14.04.22:487][940]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: StaticMeshComponent /Game/Maps/LVL_Escape.LVL_Escape:PersistentLevel.StaticMeshActor_30.StaticMeshComponent0, from: Addition to navoctree)
+[2024.12.18-14.04.22:488][940]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: StaticMeshComponent /Game/Maps/LVL_Escape.LVL_Escape:PersistentLevel.StaticMeshActor_22.StaticMeshComponent0, from: Remove from navoctree)
+[2024.12.18-14.04.22:488][940]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: StaticMeshComponent /Game/Maps/LVL_Escape.LVL_Escape:PersistentLevel.StaticMeshActor_24.StaticMeshComponent0, from: Remove from navoctree)
+[2024.12.18-14.04.22:488][940]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: StaticMeshComponent /Game/Maps/LVL_Escape.LVL_Escape:PersistentLevel.StaticMeshActor_25.StaticMeshComponent0, from: Remove from navoctree)
+[2024.12.18-14.04.22:488][940]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: StaticMeshComponent /Game/Maps/LVL_Escape.LVL_Escape:PersistentLevel.StaticMeshActor_27.StaticMeshComponent0, from: Remove from navoctree)
+[2024.12.18-14.04.22:488][940]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: StaticMeshComponent /Game/Maps/LVL_Escape.LVL_Escape:PersistentLevel.StaticMeshActor_28.StaticMeshComponent0, from: Remove from navoctree)
+[2024.12.18-14.04.22:488][940]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: StaticMeshComponent /Game/Maps/LVL_Escape.LVL_Escape:PersistentLevel.StaticMeshActor_30.StaticMeshComponent0, from: Remove from navoctree)
+[2024.12.18-14.04.22:519][942]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: StaticMeshComponent /Game/Maps/LVL_Escape.LVL_Escape:PersistentLevel.StaticMeshActor_23.StaticMeshComponent0, from: Addition to navoctree)
+[2024.12.18-14.04.22:519][942]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: StaticMeshComponent /Game/Maps/LVL_Escape.LVL_Escape:PersistentLevel.StaticMeshActor_26.StaticMeshComponent0, from: Addition to navoctree)
+[2024.12.18-14.04.22:519][942]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: StaticMeshComponent /Game/Maps/LVL_Escape.LVL_Escape:PersistentLevel.StaticMeshActor_29.StaticMeshComponent0, from: Addition to navoctree)
+[2024.12.18-14.04.22:521][942]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: StaticMeshComponent /Game/Maps/LVL_Escape.LVL_Escape:PersistentLevel.StaticMeshActor_23.StaticMeshComponent0, from: Remove from navoctree)
+[2024.12.18-14.04.22:522][942]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: StaticMeshComponent /Game/Maps/LVL_Escape.LVL_Escape:PersistentLevel.StaticMeshActor_26.StaticMeshComponent0, from: Remove from navoctree)
+[2024.12.18-14.04.22:522][942]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: StaticMeshComponent /Game/Maps/LVL_Escape.LVL_Escape:PersistentLevel.StaticMeshActor_29.StaticMeshComponent0, from: Remove from navoctree)
+[2024.12.18-14.04.25:319][110]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: StaticMeshComponent /Game/Maps/LVL_Escape.LVL_Escape:PersistentLevel.StaticMeshActor_23.StaticMeshComponent0, from: Addition to navoctree)
+[2024.12.18-14.04.25:319][110]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: StaticMeshComponent /Game/Maps/LVL_Escape.LVL_Escape:PersistentLevel.StaticMeshActor_26.StaticMeshComponent0, from: Addition to navoctree)
+[2024.12.18-14.04.25:319][110]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: StaticMeshComponent /Game/Maps/LVL_Escape.LVL_Escape:PersistentLevel.StaticMeshActor_29.StaticMeshComponent0, from: Addition to navoctree)
+[2024.12.18-14.04.25:354][112]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: StaticMeshComponent /Game/Maps/LVL_Escape.LVL_Escape:PersistentLevel.StaticMeshActor_23.StaticMeshComponent0, from: Remove from navoctree)
+[2024.12.18-14.04.25:354][112]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: StaticMeshComponent /Game/Maps/LVL_Escape.LVL_Escape:PersistentLevel.StaticMeshActor_26.StaticMeshComponent0, from: Remove from navoctree)
+[2024.12.18-14.04.25:354][112]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: StaticMeshComponent /Game/Maps/LVL_Escape.LVL_Escape:PersistentLevel.StaticMeshActor_29.StaticMeshComponent0, from: Remove from navoctree)
+[2024.12.18-14.04.25:419][116]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: StaticMeshComponent /Game/Maps/LVL_Escape.LVL_Escape:PersistentLevel.StaticMeshActor_22.StaticMeshComponent0, from: Addition to navoctree)
+[2024.12.18-14.04.25:419][116]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: StaticMeshComponent /Game/Maps/LVL_Escape.LVL_Escape:PersistentLevel.StaticMeshActor_24.StaticMeshComponent0, from: Addition to navoctree)
+[2024.12.18-14.04.25:419][116]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: StaticMeshComponent /Game/Maps/LVL_Escape.LVL_Escape:PersistentLevel.StaticMeshActor_25.StaticMeshComponent0, from: Addition to navoctree)
+[2024.12.18-14.04.25:419][116]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: StaticMeshComponent /Game/Maps/LVL_Escape.LVL_Escape:PersistentLevel.StaticMeshActor_27.StaticMeshComponent0, from: Addition to navoctree)
+[2024.12.18-14.04.25:420][116]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: StaticMeshComponent /Game/Maps/LVL_Escape.LVL_Escape:PersistentLevel.StaticMeshActor_28.StaticMeshComponent0, from: Addition to navoctree)
+[2024.12.18-14.04.25:420][116]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: StaticMeshComponent /Game/Maps/LVL_Escape.LVL_Escape:PersistentLevel.StaticMeshActor_30.StaticMeshComponent0, from: Addition to navoctree)
+[2024.12.18-14.04.25:437][117]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: StaticMeshComponent /Game/Maps/LVL_Escape.LVL_Escape:PersistentLevel.StaticMeshActor_22.StaticMeshComponent0, from: Remove from navoctree)
+[2024.12.18-14.04.25:437][117]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: StaticMeshComponent /Game/Maps/LVL_Escape.LVL_Escape:PersistentLevel.StaticMeshActor_24.StaticMeshComponent0, from: Remove from navoctree)
+[2024.12.18-14.04.25:437][117]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: StaticMeshComponent /Game/Maps/LVL_Escape.LVL_Escape:PersistentLevel.StaticMeshActor_25.StaticMeshComponent0, from: Remove from navoctree)
+[2024.12.18-14.04.25:437][117]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: StaticMeshComponent /Game/Maps/LVL_Escape.LVL_Escape:PersistentLevel.StaticMeshActor_27.StaticMeshComponent0, from: Remove from navoctree)
+[2024.12.18-14.04.25:437][117]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: StaticMeshComponent /Game/Maps/LVL_Escape.LVL_Escape:PersistentLevel.StaticMeshActor_28.StaticMeshComponent0, from: Remove from navoctree)
+[2024.12.18-14.04.25:437][117]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: StaticMeshComponent /Game/Maps/LVL_Escape.LVL_Escape:PersistentLevel.StaticMeshActor_30.StaticMeshComponent0, from: Remove from navoctree)
+[2024.12.18-14.04.25:502][121]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: StaticMeshComponent /Game/Maps/LVL_Escape.LVL_Escape:PersistentLevel.StaticMeshActor_39.StaticMeshComponent0, from: Addition to navoctree)
+[2024.12.18-14.04.25:520][122]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: StaticMeshComponent /Game/Maps/LVL_Escape.LVL_Escape:PersistentLevel.StaticMeshActor_39.StaticMeshComponent0, from: Remove from navoctree)
+[2024.12.18-14.04.26:003][151]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: StaticMeshComponent /Game/Maps/LVL_Escape.LVL_Escape:PersistentLevel.StaticMeshActor_82.StaticMeshComponent0, from: Addition to navoctree)
+[2024.12.18-14.04.26:003][151]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: StaticMeshComponent /Game/Maps/LVL_Escape.LVL_Escape:PersistentLevel.StaticMeshActor_83.StaticMeshComponent0, from: Addition to navoctree)
+[2024.12.18-14.04.26:003][151]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: StaticMeshComponent /Game/Maps/LVL_Escape.LVL_Escape:PersistentLevel.StaticMeshActor_84.StaticMeshComponent0, from: Addition to navoctree)
+[2024.12.18-14.04.26:003][151]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: StaticMeshComponent /Game/Maps/LVL_Escape.LVL_Escape:PersistentLevel.StaticMeshActor_88.StaticMeshComponent0, from: Addition to navoctree)
+[2024.12.18-14.04.26:003][151]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: StaticMeshComponent /Game/Maps/LVL_Escape.LVL_Escape:PersistentLevel.StaticMeshActor_89.StaticMeshComponent0, from: Addition to navoctree)
+[2024.12.18-14.04.26:003][151]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: StaticMeshComponent /Game/Maps/LVL_Escape.LVL_Escape:PersistentLevel.StaticMeshActor_90.StaticMeshComponent0, from: Addition to navoctree)
+[2024.12.18-14.04.26:003][151]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: StaticMeshComponent /Game/Maps/LVL_Escape.LVL_Escape:PersistentLevel.StaticMeshActor_91.StaticMeshComponent0, from: Addition to navoctree)
+[2024.12.18-14.04.26:003][151]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: StaticMeshComponent /Game/Maps/LVL_Escape.LVL_Escape:PersistentLevel.StaticMeshActor_92.StaticMeshComponent0, from: Addition to navoctree)
+[2024.12.18-14.04.26:003][151]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: StaticMeshComponent /Game/Maps/LVL_Escape.LVL_Escape:PersistentLevel.StaticMeshActor_93.StaticMeshComponent0, from: Addition to navoctree)
+[2024.12.18-14.04.26:003][151]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: StaticMeshComponent /Game/Maps/LVL_Escape.LVL_Escape:PersistentLevel.StaticMeshActor_94.StaticMeshComponent0, from: Addition to navoctree)
+[2024.12.18-14.04.26:003][151]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: StaticMeshComponent /Game/Maps/LVL_Escape.LVL_Escape:PersistentLevel.StaticMeshActor_95.StaticMeshComponent0, from: Addition to navoctree)
+[2024.12.18-14.04.26:003][151]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: StaticMeshComponent /Game/Maps/LVL_Escape.LVL_Escape:PersistentLevel.StaticMeshActor_96.StaticMeshComponent0, from: Addition to navoctree)
+[2024.12.18-14.04.26:021][152]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: StaticMeshComponent /Game/Maps/LVL_Escape.LVL_Escape:PersistentLevel.StaticMeshActor_82.StaticMeshComponent0, from: Remove from navoctree)
+[2024.12.18-14.04.26:021][152]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: StaticMeshComponent /Game/Maps/LVL_Escape.LVL_Escape:PersistentLevel.StaticMeshActor_83.StaticMeshComponent0, from: Remove from navoctree)
+[2024.12.18-14.04.26:021][152]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: StaticMeshComponent /Game/Maps/LVL_Escape.LVL_Escape:PersistentLevel.StaticMeshActor_84.StaticMeshComponent0, from: Remove from navoctree)
+[2024.12.18-14.04.26:021][152]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: StaticMeshComponent /Game/Maps/LVL_Escape.LVL_Escape:PersistentLevel.StaticMeshActor_88.StaticMeshComponent0, from: Remove from navoctree)
+[2024.12.18-14.04.26:021][152]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: StaticMeshComponent /Game/Maps/LVL_Escape.LVL_Escape:PersistentLevel.StaticMeshActor_89.StaticMeshComponent0, from: Remove from navoctree)
+[2024.12.18-14.04.26:021][152]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: StaticMeshComponent /Game/Maps/LVL_Escape.LVL_Escape:PersistentLevel.StaticMeshActor_90.StaticMeshComponent0, from: Remove from navoctree)
+[2024.12.18-14.04.26:021][152]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: StaticMeshComponent /Game/Maps/LVL_Escape.LVL_Escape:PersistentLevel.StaticMeshActor_91.StaticMeshComponent0, from: Remove from navoctree)
+[2024.12.18-14.04.26:021][152]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: StaticMeshComponent /Game/Maps/LVL_Escape.LVL_Escape:PersistentLevel.StaticMeshActor_92.StaticMeshComponent0, from: Remove from navoctree)
+[2024.12.18-14.04.26:021][152]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: StaticMeshComponent /Game/Maps/LVL_Escape.LVL_Escape:PersistentLevel.StaticMeshActor_93.StaticMeshComponent0, from: Remove from navoctree)
+[2024.12.18-14.04.26:021][152]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: StaticMeshComponent /Game/Maps/LVL_Escape.LVL_Escape:PersistentLevel.StaticMeshActor_94.StaticMeshComponent0, from: Remove from navoctree)
+[2024.12.18-14.04.26:021][152]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: StaticMeshComponent /Game/Maps/LVL_Escape.LVL_Escape:PersistentLevel.StaticMeshActor_95.StaticMeshComponent0, from: Remove from navoctree)
+[2024.12.18-14.04.26:021][152]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: StaticMeshComponent /Game/Maps/LVL_Escape.LVL_Escape:PersistentLevel.StaticMeshActor_96.StaticMeshComponent0, from: Remove from navoctree)
+[2024.12.18-14.04.26:553][184]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: StaticMeshComponent /Game/Maps/LVL_Escape.LVL_Escape:PersistentLevel.StaticMeshActor_82.StaticMeshComponent0, from: Addition to navoctree)
+[2024.12.18-14.04.26:553][184]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: StaticMeshComponent /Game/Maps/LVL_Escape.LVL_Escape:PersistentLevel.StaticMeshActor_83.StaticMeshComponent0, from: Addition to navoctree)
+[2024.12.18-14.04.26:553][184]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: StaticMeshComponent /Game/Maps/LVL_Escape.LVL_Escape:PersistentLevel.StaticMeshActor_84.StaticMeshComponent0, from: Addition to navoctree)
+[2024.12.18-14.04.26:553][184]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: StaticMeshComponent /Game/Maps/LVL_Escape.LVL_Escape:PersistentLevel.StaticMeshActor_88.StaticMeshComponent0, from: Addition to navoctree)
+[2024.12.18-14.04.26:553][184]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: StaticMeshComponent /Game/Maps/LVL_Escape.LVL_Escape:PersistentLevel.StaticMeshActor_89.StaticMeshComponent0, from: Addition to navoctree)
+[2024.12.18-14.04.26:553][184]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: StaticMeshComponent /Game/Maps/LVL_Escape.LVL_Escape:PersistentLevel.StaticMeshActor_90.StaticMeshComponent0, from: Addition to navoctree)
+[2024.12.18-14.04.26:553][184]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: StaticMeshComponent /Game/Maps/LVL_Escape.LVL_Escape:PersistentLevel.StaticMeshActor_91.StaticMeshComponent0, from: Addition to navoctree)
+[2024.12.18-14.04.26:553][184]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: StaticMeshComponent /Game/Maps/LVL_Escape.LVL_Escape:PersistentLevel.StaticMeshActor_92.StaticMeshComponent0, from: Addition to navoctree)
+[2024.12.18-14.04.26:553][184]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: StaticMeshComponent /Game/Maps/LVL_Escape.LVL_Escape:PersistentLevel.StaticMeshActor_93.StaticMeshComponent0, from: Addition to navoctree)
+[2024.12.18-14.04.26:553][184]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: StaticMeshComponent /Game/Maps/LVL_Escape.LVL_Escape:PersistentLevel.StaticMeshActor_94.StaticMeshComponent0, from: Addition to navoctree)
+[2024.12.18-14.04.26:553][184]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: StaticMeshComponent /Game/Maps/LVL_Escape.LVL_Escape:PersistentLevel.StaticMeshActor_95.StaticMeshComponent0, from: Addition to navoctree)
+[2024.12.18-14.04.26:553][184]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: StaticMeshComponent /Game/Maps/LVL_Escape.LVL_Escape:PersistentLevel.StaticMeshActor_96.StaticMeshComponent0, from: Addition to navoctree)
+[2024.12.18-14.04.26:571][185]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: StaticMeshComponent /Game/Maps/LVL_Escape.LVL_Escape:PersistentLevel.StaticMeshActor_82.StaticMeshComponent0, from: Remove from navoctree)
+[2024.12.18-14.04.26:571][185]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: StaticMeshComponent /Game/Maps/LVL_Escape.LVL_Escape:PersistentLevel.StaticMeshActor_83.StaticMeshComponent0, from: Remove from navoctree)
+[2024.12.18-14.04.26:571][185]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: StaticMeshComponent /Game/Maps/LVL_Escape.LVL_Escape:PersistentLevel.StaticMeshActor_84.StaticMeshComponent0, from: Remove from navoctree)
+[2024.12.18-14.04.26:571][185]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: StaticMeshComponent /Game/Maps/LVL_Escape.LVL_Escape:PersistentLevel.StaticMeshActor_88.StaticMeshComponent0, from: Remove from navoctree)
+[2024.12.18-14.04.26:571][185]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: StaticMeshComponent /Game/Maps/LVL_Escape.LVL_Escape:PersistentLevel.StaticMeshActor_89.StaticMeshComponent0, from: Remove from navoctree)
+[2024.12.18-14.04.26:571][185]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: StaticMeshComponent /Game/Maps/LVL_Escape.LVL_Escape:PersistentLevel.StaticMeshActor_90.StaticMeshComponent0, from: Remove from navoctree)
+[2024.12.18-14.04.26:571][185]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: StaticMeshComponent /Game/Maps/LVL_Escape.LVL_Escape:PersistentLevel.StaticMeshActor_91.StaticMeshComponent0, from: Remove from navoctree)
+[2024.12.18-14.04.26:571][185]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: StaticMeshComponent /Game/Maps/LVL_Escape.LVL_Escape:PersistentLevel.StaticMeshActor_92.StaticMeshComponent0, from: Remove from navoctree)
+[2024.12.18-14.04.26:571][185]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: StaticMeshComponent /Game/Maps/LVL_Escape.LVL_Escape:PersistentLevel.StaticMeshActor_93.StaticMeshComponent0, from: Remove from navoctree)
+[2024.12.18-14.04.26:571][185]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: StaticMeshComponent /Game/Maps/LVL_Escape.LVL_Escape:PersistentLevel.StaticMeshActor_94.StaticMeshComponent0, from: Remove from navoctree)
+[2024.12.18-14.04.26:571][185]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: StaticMeshComponent /Game/Maps/LVL_Escape.LVL_Escape:PersistentLevel.StaticMeshActor_95.StaticMeshComponent0, from: Remove from navoctree)
+[2024.12.18-14.04.26:571][185]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: StaticMeshComponent /Game/Maps/LVL_Escape.LVL_Escape:PersistentLevel.StaticMeshActor_96.StaticMeshComponent0, from: Remove from navoctree)
+[2024.12.18-14.04.27:550][241]Cmd: TRANSACTION UNDO
+[2024.12.18-14.04.27:550][241]LogEditorTransaction: Undo Scale Elements
+[2024.12.18-14.04.30:491][395]LogEditorViewport: Clicking Background
+[2024.12.18-14.04.46:828][353]Cmd: TRANSACTION UNDO
+[2024.12.18-14.04.46:828][353]LogEditorTransaction: Undo Scale Elements
+[2024.12.18-14.04.59:869][ 83]Cmd: TRANSACTION UNDO
+[2024.12.18-14.04.59:869][ 83]LogEditorTransaction: Undo Scale Elements
+[2024.12.18-14.05.01:652][173]Cmd: MODE SCALEGRID=0
+[2024.12.18-14.05.10:476][687]Cmd: TRANSACTION UNDO
+[2024.12.18-14.05.10:477][687]LogEditorTransaction: Undo Scale Elements
+[2024.12.18-14.05.21:897][338]Cmd: TRANSACTION UNDO
+[2024.12.18-14.05.21:897][338]LogEditorTransaction: Undo Scale Elements
+[2024.12.18-14.05.48:154][838]Cmd: TRANSACTION UNDO
+[2024.12.18-14.05.48:154][838]LogEditorTransaction: Undo Move Elements
+[2024.12.18-14.05.48:655][848]Cmd: TRANSACTION UNDO
+[2024.12.18-14.05.48:655][848]LogEditorTransaction: Undo Scale Elements
+[2024.12.18-14.06.24:097][904]Cmd: TRANSACTION UNDO
+[2024.12.18-14.06.24:097][904]LogEditorTransaction: Undo Move Elements
+[2024.12.18-14.06.26:816][ 42]Cmd: TRANSACTION UNDO
+[2024.12.18-14.06.26:816][ 42]LogEditorTransaction: Undo Move Elements
+[2024.12.18-14.06.32:458][366]Cmd: TRANSACTION UNDO
+[2024.12.18-14.06.32:458][366]LogEditorTransaction: Undo Scale Elements
+[2024.12.18-14.06.34:831][481]Cmd: TRANSACTION UNDO
+[2024.12.18-14.06.34:831][481]LogEditorTransaction: Undo Move Elements
+[2024.12.18-14.06.39:745][756]Cmd: TRANSACTION UNDO
+[2024.12.18-14.06.39:745][756]LogEditorTransaction: Undo Scale Elements
+[2024.12.18-14.06.47:071][156]Cmd: DELETE
+[2024.12.18-14.06.47:072][156]Cmd: ACTOR DELETE
+[2024.12.18-14.06.47:074][156]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.12.18-14.06.47:076][156]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.12.18-14.06.47:076][156]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.12.18-14.06.47:083][156]LogWebBrowser: Closing browser during destruction, this may cause a later crash.
+[2024.12.18-14.06.47:083][156]LogWebBrowser: Deleting browser for Url=https://quixel.com/?code=561786a80901498584ce39cb141f2b80.
+[2024.12.18-14.06.47:084][156]LogUObjectHash: Compacting FUObjectHashTables data took   0.97ms
+[2024.12.18-14.06.47:087][156]LogEditorActor: Deleted 3 Actors (0.015 secs)
+[2024.12.18-14.06.49:986][316]Cmd: DELETE
+[2024.12.18-14.06.49:986][316]Cmd: ACTOR DELETE
+[2024.12.18-14.06.49:987][316]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.12.18-14.06.49:988][316]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.12.18-14.06.49:988][316]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.12.18-14.06.49:993][316]LogUObjectHash: Compacting FUObjectHashTables data took   0.29ms
+[2024.12.18-14.06.49:996][316]LogEditorActor: Deleted 3 Actors (0.010 secs)
+[2024.12.18-14.07.08:026][356]Cmd: TRANSACTION UNDO
+[2024.12.18-14.07.08:026][356]LogEditorTransaction: Undo Scale Elements
+[2024.12.18-14.07.19:022][968]Cmd: DUPLICATE
+[2024.12.18-14.07.19:022][968]Cmd: ACTOR DUPLICATE
+[2024.12.18-14.07.24:435][281]Cmd: DUPLICATE
+[2024.12.18-14.07.24:435][281]Cmd: ACTOR DUPLICATE
+[2024.12.18-14.07.54:968][ 64]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2024.12.18-14.07.54:972][ 64]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/LVL_Escape" FILE="E:/YNOV/B3/Escape/Prod/EscapeUE5/Escape/Saved/Autosaves/Game/Maps/LVL_Escape_Auto6.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2024.12.18-14.07.56:239][ 64]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Maps/LVL_Escape_Auto6
+[2024.12.18-14.07.56:239][ 64]LogSavePackage: Moving 'E:/YNOV/B3/Escape/Prod/EscapeUE5/Escape/Saved/LVL_Escape_Auto6BDF9E8D946A12AD0A968448E56C776F6.tmp' to 'E:/YNOV/B3/Escape/Prod/EscapeUE5/Escape/Saved/Autosaves/Game/Maps/LVL_Escape_Auto6.umap'
+[2024.12.18-14.07.56:249][ 64]LogAssetRegistry: Warning: ScanPathsSynchronous: E:/YNOV/B3/Escape/Prod/EscapeUE5/Escape/Saved/Autosaves/Game/Maps/LVL_Escape_Auto6.umap is in the /Temp path, will not scan.
+[2024.12.18-14.07.56:249][ 64]LogAssetRegistry: Warning: ScanPathsSynchronous: /Temp/__ExternalActors__/Autosaves/Game/Maps/LVL_Escape_Auto6 is in the /Temp path, will not scan.
+[2024.12.18-14.07.56:249][ 64]LogAssetRegistry: Warning: ScanPathsSynchronous: /Temp/__ExternalObjects__/Autosaves/Game/Maps/LVL_Escape_Auto6 is in the /Temp path, will not scan.
+[2024.12.18-14.07.56:249][ 64]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/LVL_Escape' took 1.286
+[2024.12.18-14.07.56:249][ 64]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 1.286
+[2024.12.18-14.07.56:249][ 64]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Assets/Meshes/Props/Door/SM_Door] ([1] browsable assets)...
+[2024.12.18-14.07.56:250][ 64]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Meshes/Props/Door/SM_Door]
+[2024.12.18-14.07.56:392][ 64]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Assets/Meshes/Props/Door/SM_Door_Auto6
+[2024.12.18-14.07.56:392][ 64]LogSavePackage: Moving 'E:/YNOV/B3/Escape/Prod/EscapeUE5/Escape/Saved/SM_Door_Auto6C8CD7DC749B64C489D38A1BDAD06FA6C.tmp' to 'E:/YNOV/B3/Escape/Prod/EscapeUE5/Escape/Saved/Autosaves/Game/Assets/Meshes/Props/Door/SM_Door_Auto6.uasset'
+[2024.12.18-14.07.56:394][ 64]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Assets/Textures/Props/Meubles/T_meubleTV/T_MeubleTV_ORM] ([1] browsable assets)...
+[2024.12.18-14.07.56:394][ 64]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Textures/Props/Meubles/T_meubleTV/T_MeubleTV_ORM]
+[2024.12.18-14.07.56:475][ 64]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Assets/Textures/Props/Meubles/T_meubleTV/T_MeubleTV_ORM_Auto6
+[2024.12.18-14.07.56:476][ 64]LogSavePackage: Moving 'E:/YNOV/B3/Escape/Prod/EscapeUE5/Escape/Saved/T_MeubleTV_ORM_Auto6EB5D239F4C4A51E41704FB80254BACDD.tmp' to 'E:/YNOV/B3/Escape/Prod/EscapeUE5/Escape/Saved/Autosaves/Game/Assets/Textures/Props/Meubles/T_meubleTV/T_MeubleTV_ORM_Auto6.uasset'
+[2024.12.18-14.07.56:477][ 64]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Assets/Textures/Props/Meubles/T_meubleTV/T_MeubleTV_N] ([1] browsable assets)...
+[2024.12.18-14.07.56:477][ 64]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Textures/Props/Meubles/T_meubleTV/T_MeubleTV_N]
+[2024.12.18-14.07.56:576][ 64]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Assets/Textures/Props/Meubles/T_meubleTV/T_MeubleTV_N_Auto6
+[2024.12.18-14.07.56:576][ 64]LogSavePackage: Moving 'E:/YNOV/B3/Escape/Prod/EscapeUE5/Escape/Saved/T_MeubleTV_N_Auto6AD2F328545A741F55C726FA3BDFBFC1A.tmp' to 'E:/YNOV/B3/Escape/Prod/EscapeUE5/Escape/Saved/Autosaves/Game/Assets/Textures/Props/Meubles/T_meubleTV/T_MeubleTV_N_Auto6.uasset'
+[2024.12.18-14.07.56:580][ 64]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Assets/Textures/Props/Meubles/T_meubleTV/T_MeubleTV_BC] ([1] browsable assets)...
+[2024.12.18-14.07.56:580][ 64]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Textures/Props/Meubles/T_meubleTV/T_MeubleTV_BC]
+[2024.12.18-14.07.56:652][ 64]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Assets/Textures/Props/Meubles/T_meubleTV/T_MeubleTV_BC_Auto6
+[2024.12.18-14.07.56:652][ 64]LogSavePackage: Moving 'E:/YNOV/B3/Escape/Prod/EscapeUE5/Escape/Saved/T_MeubleTV_BC_Auto64B4E37914B2581E08A432D82271C0526.tmp' to 'E:/YNOV/B3/Escape/Prod/EscapeUE5/Escape/Saved/Autosaves/Game/Assets/Textures/Props/Meubles/T_meubleTV/T_MeubleTV_BC_Auto6.uasset'
+[2024.12.18-14.07.56:661][ 64]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/Meshes/Buildings/Mannequin_unreal] ([1] browsable assets)...
+[2024.12.18-14.07.56:677][ 64]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Assets/Meshes/Buildings/Mannequin_unreal.Mannequin_unreal]
+[2024.12.18-14.07.56:677][ 64]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Meshes/Buildings/Mannequin_unreal]
+[2024.12.18-14.07.56:832][ 64]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Assets/Meshes/Buildings/Mannequin_unreal_Auto6
+[2024.12.18-14.07.56:832][ 64]LogSavePackage: Moving 'E:/YNOV/B3/Escape/Prod/EscapeUE5/Escape/Saved/Mannequin_unreal_Auto6F545A9D045B0A9845E6AE4861BD1DAE1.tmp' to 'E:/YNOV/B3/Escape/Prod/EscapeUE5/Escape/Saved/Autosaves/Game/Assets/Meshes/Buildings/Mannequin_unreal_Auto6.uasset'
+[2024.12.18-14.07.56:834][ 64]LogFileHelpers: Auto-saving content packages took 0.584
+[2024.12.18-14.07.56:892][ 65]LogAutomationController: Ignoring very large delta of 2.05 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2024.12.18-14.09.25:682][370]Cmd: TRANSACTION UNDO
+[2024.12.18-14.09.25:682][370]LogEditorTransaction: Undo Move Elements
+[2024.12.18-14.11.43:608][538]Cmd: DELETE
+[2024.12.18-14.11.43:608][538]Cmd: ACTOR DELETE
+[2024.12.18-14.11.43:611][538]LogEditorActor: Deleted Actor: DirectionalLight
+[2024.12.18-14.11.43:617][538]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2024.12.18-14.11.43:621][538]LogEditorActor: Deleted 1 Actors (0.013 secs)
+[2024.12.18-14.11.45:230][630]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@Cine] File [Scalability]
+[2024.12.18-14.11.45:230][630]LogConfig: Set CVar [[r.SkeletalMeshLODBias:0]]
+[2024.12.18-14.11.45:230][630]LogConfig: Set CVar [[r.ViewDistanceScale:10.0]]
+[2024.12.18-14.11.45:230][630]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@Cine] File [Scalability]
+[2024.12.18-14.11.45:230][630]LogConfig: Set CVar [[r.FXAA.Quality:5]]
+[2024.12.18-14.11.45:230][630]LogConfig: Set CVar [[r.TemporalAA.Quality:2]]
+[2024.12.18-14.11.45:230][630]LogConfig: Set CVar [[r.TSR.History.R11G11B10:0]]
+[2024.12.18-14.11.45:230][630]LogConfig: Set CVar [[r.TSR.History.ScreenPercentage:200]]
+[2024.12.18-14.11.45:231][630]LogConfig: Set CVar [[r.TSR.History.UpdateQuality:3]]
+[2024.12.18-14.11.45:231][630]LogConfig: Set CVar [[r.TSR.ShadingRejection.Flickering:1]]
+[2024.12.18-14.11.45:231][630]LogConfig: Set CVar [[r.TSR.ShadingRejection.TileOverscan:3]]
+[2024.12.18-14.11.45:231][630]LogConfig: CVar [[r.TSR.Velocity.Extrapolation:1]] deferred - dummy variable created
+[2024.12.18-14.11.45:231][630]LogConfig: Set CVar [[r.TSR.RejectionAntiAliasingQuality:2]]
+[2024.12.18-14.11.45:231][630]LogConfig: Applying CVar settings from Section [ShadowQuality@Cine] File [Scalability]
+[2024.12.18-14.11.45:231][630]LogConfig: Set CVar [[r.LightFunctionQuality:1]]
+[2024.12.18-14.11.45:231][630]LogConfig: Set CVar [[r.ShadowQuality:5]]
+[2024.12.18-14.11.45:231][630]LogConfig: Set CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2024.12.18-14.11.45:231][630]LogConfig: Set CVar [[r.Shadow.MaxResolution:4096]]
+[2024.12.18-14.11.45:231][630]LogConfig: Set CVar [[r.Shadow.MaxCSMResolution:4096]]
+[2024.12.18-14.11.45:231][630]LogConfig: Set CVar [[r.Shadow.RadiusThreshold:0]]
+[2024.12.18-14.11.45:231][630]LogConfig: Set CVar [[r.Shadow.DistanceScale:1.0]]
+[2024.12.18-14.11.45:231][630]LogConfig: Set CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2024.12.18-14.11.45:231][630]LogConfig: Set CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2024.12.18-14.11.45:231][630]LogConfig: Set CVar [[r.DistanceFieldShadowing:1]]
+[2024.12.18-14.11.45:231][630]LogConfig: Set CVar [[r.VolumetricFog:1]]
+[2024.12.18-14.11.45:231][630]LogConfig: Set CVar [[r.LightMaxDrawDistanceScale:1]]
+[2024.12.18-14.11.45:231][630]LogConfig: Set CVar [[r.CapsuleShadows:1]]
+[2024.12.18-14.11.45:231][630]LogConfig: Set CVar [[r.Shadow.Virtual.MaxPhysicalPages:8192]]
+[2024.12.18-14.11.45:231][630]LogConfig: Set CVar [[r.Shadow.Virtual.ResolutionLodBiasDirectional:-1.5]]
+[2024.12.18-14.11.45:231][630]LogConfig: Set CVar [[r.Shadow.Virtual.ResolutionLodBiasDirectionalMoving:-1.5]]
+[2024.12.18-14.11.45:231][630]LogConfig: Set CVar [[r.Shadow.Virtual.ResolutionLodBiasLocal:0.0]]
+[2024.12.18-14.11.45:231][630]LogConfig: Set CVar [[r.Shadow.Virtual.ResolutionLodBiasLocalMoving:0.0]]
+[2024.12.18-14.11.45:231][630]LogConfig: Set CVar [[r.Shadow.Virtual.SMRT.RayCountDirectional:16]]
+[2024.12.18-14.11.45:231][630]LogConfig: Set CVar [[r.Shadow.Virtual.SMRT.SamplesPerRayDirectional:8]]
+[2024.12.18-14.11.45:231][630]LogConfig: Set CVar [[r.Shadow.Virtual.SMRT.RayCountLocal:16]]
+[2024.12.18-14.11.45:231][630]LogConfig: Set CVar [[r.Shadow.Virtual.SMRT.SamplesPerRayLocal:8]]
+[2024.12.18-14.11.45:231][630]LogConfig: Applying CVar settings from Section [GlobalIlluminationQuality@Cine] File [Scalability]
+[2024.12.18-14.11.45:231][630]LogConfig: Set CVar [[r.DistanceFieldAO:1]]
+[2024.12.18-14.11.45:231][630]LogConfig: Set CVar [[r.Lumen.DiffuseIndirect.Allow:1]]
+[2024.12.18-14.11.45:231][630]LogConfig: Applying CVar settings from Section [ReflectionQuality@Cine] File [Scalability]
+[2024.12.18-14.11.45:231][630]LogConfig: Set CVar [[r.SSR.Quality:4]]
+[2024.12.18-14.11.45:231][630]LogConfig: Set CVar [[r.SSR.HalfResSceneColor:0]]
+[2024.12.18-14.11.45:231][630]LogConfig: Set CVar [[r.Lumen.Reflections.Allow:1]]
+[2024.12.18-14.11.45:231][630]LogConfig: Applying CVar settings from Section [PostProcessQuality@Cine] File [Scalability]
+[2024.12.18-14.11.45:231][630]LogConfig: Set CVar [[r.MotionBlurQuality:4]]
+[2024.12.18-14.11.45:231][630]LogConfig: Set CVar [[r.MotionBlur.HalfResGather:0]]
+[2024.12.18-14.11.45:231][630]LogConfig: Set CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2024.12.18-14.11.45:231][630]LogConfig: Set CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2024.12.18-14.11.45:231][630]LogConfig: Set CVar [[r.AmbientOcclusionLevels:-1]]
+[2024.12.18-14.11.45:231][630]LogConfig: Set CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2024.12.18-14.11.45:231][630]LogConfig: Set CVar [[r.DepthOfFieldQuality:4]]
+[2024.12.18-14.11.45:231][630]LogConfig: Set CVar [[r.RenderTargetPoolMin:1000]]
+[2024.12.18-14.11.45:231][630]LogConfig: Set CVar [[r.LensFlareQuality:3]]
+[2024.12.18-14.11.45:231][630]LogConfig: Set CVar [[r.SceneColorFringeQuality:1]]
+[2024.12.18-14.11.45:231][630]LogConfig: Set CVar [[r.BloomQuality:5]]
+[2024.12.18-14.11.45:231][630]LogConfig: Set CVar [[r.Bloom.ScreenPercentage:100]]
+[2024.12.18-14.11.45:231][630]LogConfig: Set CVar [[r.FastBlurThreshold:100]]
+[2024.12.18-14.11.45:231][630]LogConfig: Set CVar [[r.Upscale.Quality:3]]
+[2024.12.18-14.11.45:231][630]LogConfig: Set CVar [[r.LightShaftQuality:1]]
+[2024.12.18-14.11.45:231][630]LogConfig: Set CVar [[r.Filter.SizeScale:1]]
+[2024.12.18-14.11.45:231][630]LogConfig: Set CVar [[r.Tonemapper.Quality:5]]
+[2024.12.18-14.11.45:231][630]LogConfig: Applying CVar settings from Section [TextureQuality@Cine] File [Scalability]
+[2024.12.18-14.11.45:231][630]LogConfig: Set CVar [[r.Streaming.MipBias:0]]
+[2024.12.18-14.11.45:231][630]LogConfig: Set CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2024.12.18-14.11.45:231][630]LogConfig: Set CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2024.12.18-14.11.45:231][630]LogConfig: Set CVar [[r.Streaming.Boost:1]]
+[2024.12.18-14.11.45:231][630]LogConfig: Set CVar [[r.MaxAnisotropy:8]]
+[2024.12.18-14.11.45:231][630]LogConfig: Set CVar [[r.VT.MaxAnisotropy:8]]
+[2024.12.18-14.11.45:231][630]LogConfig: Set CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2024.12.18-14.11.45:231][630]LogConfig: Set CVar [[r.Streaming.PoolSize:3000]]
+[2024.12.18-14.11.45:231][630]LogConfig: Applying CVar settings from Section [EffectsQuality@Cine] File [Scalability]
+[2024.12.18-14.11.45:231][630]LogConfig: Set CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2024.12.18-14.11.45:231][630]LogConfig: Set CVar [[r.RefractionQuality:2]]
+[2024.12.18-14.11.45:231][630]LogConfig: Set CVar [[r.SceneColorFormat:4]]
+[2024.12.18-14.11.45:231][630]LogConfig: Set CVar [[r.DetailMode:2]]
+[2024.12.18-14.11.45:231][630]LogConfig: Set CVar [[r.TranslucencyVolumeBlur:1]]
+[2024.12.18-14.11.45:231][630]LogConfig: Set CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2024.12.18-14.11.45:231][630]LogConfig: Set CVar [[r.SSS.Scale:1]]
+[2024.12.18-14.11.45:231][630]LogConfig: Set CVar [[r.SSS.SampleSet:2]]
+[2024.12.18-14.11.45:231][630]LogConfig: Set CVar [[r.SSS.Quality:1]]
+[2024.12.18-14.11.45:231][630]LogConfig: Set CVar [[r.SSS.HalfRes:0]]
+[2024.12.18-14.11.45:231][630]LogConfig: Set CVar [[r.SSGI.Quality:4]]
+[2024.12.18-14.11.45:231][630]LogConfig: Set CVar [[r.EmitterSpawnRateScale:1.0]]
+[2024.12.18-14.11.45:231][630]LogConfig: Set CVar [[r.ParticleLightQuality:2]]
+[2024.12.18-14.11.45:231][630]LogConfig: Set CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:0]]
+[2024.12.18-14.11.45:231][630]LogConfig: Set CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:8]]
+[2024.12.18-14.11.45:231][630]LogConfig: Set CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:32.0]]
+[2024.12.18-14.11.45:231][630]LogConfig: Set CVar [[r.SkyAtmosphere.FastSkyLUT:0]]
+[2024.12.18-14.11.45:231][630]LogConfig: Set CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2024.12.18-14.11.45:231][630]LogConfig: Set CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:256.0]]
+[2024.12.18-14.11.45:231][630]LogConfig: Set CVar [[r.SkyAtmosphere.SampleCountMin:8.0]]
+[2024.12.18-14.11.45:231][630]LogConfig: Set CVar [[r.SkyAtmosphere.SampleCountMax:256.0]]
+[2024.12.18-14.11.45:232][630]LogConfig: Set CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2024.12.18-14.11.45:232][630]LogConfig: Set CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:30.0]]
+[2024.12.18-14.11.45:232][630]LogConfig: Set CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:20.0]]
+[2024.12.18-14.11.45:232][630]LogConfig: Set CVar [[r.SkyLight.RealTimeReflectionCapture:1]]
+[2024.12.18-14.11.45:232][630]LogConfig: Set CVar [[fx.Niagara.QualityLevel:4]]
+[2024.12.18-14.11.45:232][630]LogConfig: Applying CVar settings from Section [FoliageQuality@Cine] File [Scalability]
+[2024.12.18-14.11.45:232][630]LogConfig: Set CVar [[foliage.DensityScale:1.0]]
+[2024.12.18-14.11.45:232][630]LogConfig: Set CVar [[grass.DensityScale:1.0]]
+[2024.12.18-14.11.45:232][630]LogConfig: Applying CVar settings from Section [ShadingQuality@Cine] File [Scalability]
+[2024.12.18-14.11.45:232][630]LogConfig: Set CVar [[r.HairStrands.SkyLighting.IntegrationType:1]]
+[2024.12.18-14.11.45:232][630]LogConfig: Set CVar [[r.HairStrands.SkyAO.SampleCount:8]]
+[2024.12.18-14.11.45:232][630]LogConfig: Set CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:8]]
+[2024.12.18-14.11.45:232][630]LogConfig: Set CVar [[r.AnisotropicMaterials:1]]
+[2024.12.18-14.11.45:239][630]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2024.12.18-14.11.45:808][632]LogContentStreaming: Texture pool size now 3000 MB
+[2024.12.18-14.11.51:798][768]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@0] File [Scalability]
+[2024.12.18-14.11.51:798][768]LogConfig: Set CVar [[r.SkeletalMeshLODBias:2]]
+[2024.12.18-14.11.51:798][768]LogConfig: Set CVar [[r.ViewDistanceScale:0.4]]
+[2024.12.18-14.11.51:798][768]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@0] File [Scalability]
+[2024.12.18-14.11.51:798][768]LogConfig: Set CVar [[r.FXAA.Quality:0]]
+[2024.12.18-14.11.51:798][768]LogConfig: Set CVar [[r.TemporalAA.Quality:0]]
+[2024.12.18-14.11.51:798][768]LogConfig: Set CVar [[r.TSR.History.R11G11B10:1]]
+[2024.12.18-14.11.51:798][768]LogConfig: Set CVar [[r.TSR.History.ScreenPercentage:100]]
+[2024.12.18-14.11.51:798][768]LogConfig: Set CVar [[r.TSR.History.UpdateQuality:0]]
+[2024.12.18-14.11.51:798][768]LogConfig: Set CVar [[r.TSR.ShadingRejection.Flickering:0]]
+[2024.12.18-14.11.51:798][768]LogConfig: Set CVar [[r.TSR.ShadingRejection.TileOverscan:2]]
+[2024.12.18-14.11.51:798][768]LogConfig: CVar [[r.TSR.Velocity.Extrapolation:0]] deferred - dummy variable created
+[2024.12.18-14.11.51:798][768]LogConfig: Set CVar [[r.TSR.RejectionAntiAliasingQuality:0]]
+[2024.12.18-14.11.51:798][768]LogConfig: Applying CVar settings from Section [ShadowQuality@0] File [Scalability]
+[2024.12.18-14.11.51:798][768]LogConfig: Set CVar [[r.LightFunctionQuality:0]]
+[2024.12.18-14.11.51:798][768]LogConfig: Set CVar [[r.ShadowQuality:0]]
+[2024.12.18-14.11.51:798][768]LogConfig: Set CVar [[r.Shadow.CSM.MaxCascades:1]]
+[2024.12.18-14.11.51:798][768]LogConfig: Set CVar [[r.Shadow.MaxResolution:512]]
+[2024.12.18-14.11.51:798][768]LogConfig: Set CVar [[r.Shadow.MaxCSMResolution:512]]
+[2024.12.18-14.11.51:798][768]LogConfig: Set CVar [[r.Shadow.RadiusThreshold:0.06]]
+[2024.12.18-14.11.51:798][768]LogConfig: Set CVar [[r.Shadow.DistanceScale:0.6]]
+[2024.12.18-14.11.51:798][768]LogConfig: Set CVar [[r.Shadow.CSM.TransitionScale:0]]
+[2024.12.18-14.11.51:798][768]LogConfig: Set CVar [[r.Shadow.PreShadowResolutionFactor:0.5]]
+[2024.12.18-14.11.51:798][768]LogConfig: Set CVar [[r.DistanceFieldShadowing:0]]
+[2024.12.18-14.11.51:798][768]LogConfig: Set CVar [[r.VolumetricFog:0]]
+[2024.12.18-14.11.51:798][768]LogConfig: Set CVar [[r.LightMaxDrawDistanceScale:0]]
+[2024.12.18-14.11.51:798][768]LogConfig: Set CVar [[r.CapsuleShadows:0]]
+[2024.12.18-14.11.51:798][768]LogConfig: Set CVar [[r.Shadow.Virtual.MaxPhysicalPages:512]]
+[2024.12.18-14.11.51:798][768]LogConfig: Set CVar [[r.Shadow.Virtual.ResolutionLodBiasDirectional:0.0]]
+[2024.12.18-14.11.51:798][768]LogConfig: Set CVar [[r.Shadow.Virtual.ResolutionLodBiasDirectionalMoving:0.0]]
+[2024.12.18-14.11.51:798][768]LogConfig: Set CVar [[r.Shadow.Virtual.ResolutionLodBiasLocal:1.0]]
+[2024.12.18-14.11.51:798][768]LogConfig: Set CVar [[r.Shadow.Virtual.ResolutionLodBiasLocalMoving:2.0]]
+[2024.12.18-14.11.51:798][768]LogConfig: Set CVar [[r.Shadow.Virtual.SMRT.RayCountDirectional:0]]
+[2024.12.18-14.11.51:798][768]LogConfig: Set CVar [[r.Shadow.Virtual.SMRT.SamplesPerRayDirectional:2]]
+[2024.12.18-14.11.51:798][768]LogConfig: Set CVar [[r.Shadow.Virtual.SMRT.RayCountLocal:0]]
+[2024.12.18-14.11.51:798][768]LogConfig: Set CVar [[r.Shadow.Virtual.SMRT.SamplesPerRayLocal:2]]
+[2024.12.18-14.11.51:798][768]LogConfig: Applying CVar settings from Section [GlobalIlluminationQuality@0] File [Scalability]
+[2024.12.18-14.11.51:798][768]LogConfig: Set CVar [[r.DistanceFieldAO:0]]
+[2024.12.18-14.11.51:798][768]LogConfig: Set CVar [[r.Lumen.DiffuseIndirect.Allow:0]]
+[2024.12.18-14.11.51:798][768]LogConfig: Applying CVar settings from Section [ReflectionQuality@0] File [Scalability]
+[2024.12.18-14.11.51:798][768]LogConfig: Set CVar [[r.SSR.Quality:0]]
+[2024.12.18-14.11.51:798][768]LogConfig: Set CVar [[r.SSR.HalfResSceneColor:1]]
+[2024.12.18-14.11.51:798][768]LogConfig: Set CVar [[r.Lumen.Reflections.Allow:0]]
+[2024.12.18-14.11.51:798][768]LogConfig: Applying CVar settings from Section [PostProcessQuality@0] File [Scalability]
+[2024.12.18-14.11.51:798][768]LogConfig: Set CVar [[r.MotionBlurQuality:0]]
+[2024.12.18-14.11.51:798][768]LogConfig: Set CVar [[r.MotionBlur.HalfResGather:1]]
+[2024.12.18-14.11.51:798][768]LogConfig: Set CVar [[r.AmbientOcclusionMipLevelFactor:1.0]]
+[2024.12.18-14.11.51:798][768]LogConfig: Set CVar [[r.AmbientOcclusionMaxQuality:0]]
+[2024.12.18-14.11.51:798][768]LogConfig: Set CVar [[r.AmbientOcclusionLevels:0]]
+[2024.12.18-14.11.51:798][768]LogConfig: Set CVar [[r.AmbientOcclusionRadiusScale:1.2]]
+[2024.12.18-14.11.51:798][768]LogConfig: Set CVar [[r.DepthOfFieldQuality:0]]
+[2024.12.18-14.11.51:798][768]LogConfig: Set CVar [[r.RenderTargetPoolMin:300]]
+[2024.12.18-14.11.51:798][768]LogConfig: Set CVar [[r.LensFlareQuality:0]]
+[2024.12.18-14.11.51:798][768]LogConfig: Set CVar [[r.SceneColorFringeQuality:0]]
+[2024.12.18-14.11.51:798][768]LogConfig: Set CVar [[r.BloomQuality:4]]
+[2024.12.18-14.11.51:798][768]LogConfig: Set CVar [[r.Bloom.ScreenPercentage:25.000]]
+[2024.12.18-14.11.51:798][768]LogConfig: Set CVar [[r.FastBlurThreshold:0]]
+[2024.12.18-14.11.51:798][768]LogConfig: Set CVar [[r.Upscale.Quality:1]]
+[2024.12.18-14.11.51:798][768]LogConfig: Set CVar [[r.LightShaftQuality:0]]
+[2024.12.18-14.11.51:798][768]LogConfig: Set CVar [[r.Filter.SizeScale:0.6]]
+[2024.12.18-14.11.51:798][768]LogConfig: Set CVar [[r.Tonemapper.Quality:0]]
+[2024.12.18-14.11.51:798][768]LogConfig: Applying CVar settings from Section [TextureQuality@0] File [Scalability]
+[2024.12.18-14.11.51:798][768]LogConfig: Set CVar [[r.Streaming.MipBias:16]]
+[2024.12.18-14.11.51:798][768]LogConfig: Set CVar [[r.Streaming.AmortizeCPUToGPUCopy:1]]
+[2024.12.18-14.11.51:798][768]LogConfig: Set CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:1]]
+[2024.12.18-14.11.51:798][768]LogConfig: Set CVar [[r.Streaming.Boost:0.3]]
+[2024.12.18-14.11.51:798][768]LogConfig: Set CVar [[r.MaxAnisotropy:0]]
+[2024.12.18-14.11.51:798][768]LogConfig: Set CVar [[r.VT.MaxAnisotropy:4]]
+[2024.12.18-14.11.51:798][768]LogConfig: Set CVar [[r.Streaming.LimitPoolSizeToVRAM:1]]
+[2024.12.18-14.11.51:798][768]LogConfig: Set CVar [[r.Streaming.PoolSize:400]]
+[2024.12.18-14.11.51:798][768]LogConfig: Applying CVar settings from Section [EffectsQuality@0] File [Scalability]
+[2024.12.18-14.11.51:798][768]LogConfig: Set CVar [[r.TranslucencyLightingVolumeDim:24]]
+[2024.12.18-14.11.51:798][768]LogConfig: Set CVar [[r.RefractionQuality:0]]
+[2024.12.18-14.11.51:798][768]LogConfig: Set CVar [[r.SceneColorFormat:3]]
+[2024.12.18-14.11.51:798][768]LogConfig: Set CVar [[r.DetailMode:0]]
+[2024.12.18-14.11.51:798][768]LogConfig: Set CVar [[r.TranslucencyVolumeBlur:0]]
+[2024.12.18-14.11.51:798][768]LogConfig: Set CVar [[r.MaterialQualityLevel:0 ; Low quality]]
+[2024.12.18-14.11.51:798][768]LogConfig: Set CVar [[r.SSS.Scale:0]]
+[2024.12.18-14.11.51:798][768]LogConfig: Set CVar [[r.SSS.SampleSet:0]]
+[2024.12.18-14.11.51:798][768]LogConfig: Set CVar [[r.SSS.Quality:0]]
+[2024.12.18-14.11.51:798][768]LogConfig: Set CVar [[r.SSS.HalfRes:1]]
+[2024.12.18-14.11.51:798][768]LogConfig: Set CVar [[r.SSGI.Quality:0]]
+[2024.12.18-14.11.51:798][768]LogConfig: Set CVar [[r.EmitterSpawnRateScale:0.125]]
+[2024.12.18-14.11.51:800][768]LogConfig: Set CVar [[r.ParticleLightQuality:0]]
+[2024.12.18-14.11.51:800][768]LogConfig: Set CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2024.12.18-14.11.51:800][768]LogConfig: Set CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:1]]
+[2024.12.18-14.11.51:800][768]LogConfig: Set CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:8.0]]
+[2024.12.18-14.11.51:800][768]LogConfig: Set CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2024.12.18-14.11.51:800][768]LogConfig: Set CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:2.0]]
+[2024.12.18-14.11.51:800][768]LogConfig: Set CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:16.0]]
+[2024.12.18-14.11.51:800][768]LogConfig: Set CVar [[r.SkyAtmosphere.SampleCountMin:2.0]]
+[2024.12.18-14.11.51:800][768]LogConfig: Set CVar [[r.SkyAtmosphere.SampleCountMax:16.0]]
+[2024.12.18-14.11.51:800][768]LogConfig: Set CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:1]]
+[2024.12.18-14.11.51:800][768]LogConfig: Set CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2024.12.18-14.11.51:800][768]LogConfig: Set CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2024.12.18-14.11.51:800][768]LogConfig: Set CVar [[r.SkyLight.RealTimeReflectionCapture:0]]
+[2024.12.18-14.11.51:800][768]LogConfig: Set CVar [[fx.Niagara.QualityLevel:0]]
+[2024.12.18-14.11.51:800][768]LogConfig: Applying CVar settings from Section [FoliageQuality@0] File [Scalability]
+[2024.12.18-14.11.51:800][768]LogConfig: Set CVar [[foliage.DensityScale:0]]
+[2024.12.18-14.11.51:800][768]LogConfig: Set CVar [[grass.DensityScale:0]]
+[2024.12.18-14.11.51:800][768]LogConfig: Applying CVar settings from Section [ShadingQuality@0] File [Scalability]
+[2024.12.18-14.11.51:800][768]LogConfig: Set CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2024.12.18-14.11.51:800][768]LogConfig: Set CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2024.12.18-14.11.51:800][768]LogConfig: Set CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:1]]
+[2024.12.18-14.11.51:800][768]LogConfig: Set CVar [[r.AnisotropicMaterials:0]]
+[2024.12.18-14.11.51:808][768]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2024.12.18-14.11.51:844][770]LogRenderer: Display: Recreating Shadow.Virtual.PhysicalPagePool due to size or flags change. This will also drop any cached pages.
+[2024.12.18-14.11.51:936][772]LogContentStreaming: Texture pool size now 400 MB
+[2024.12.18-14.11.52:453][803]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.12.18-14.11.52:496][803]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.12.18-14.11.52:497][803]PIE: New page: PIE session: LVL_Escape (18 déc. 2024 à 16:11:52)
+[2024.12.18-14.11.52:501][803]LogPlayLevel: Display: Creating online subsystem for client :Context_8
+[2024.12.18-14.11.52:506][803]LogOnline: OSS: Created online subsystem instance for: :Context_8
+[2024.12.18-14.11.52:530][804]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_LVL_Escape
+[2024.12.18-14.11.52:547][804]LogPlayLevel: PIE: StaticDuplicateObject took: (0.017023s)
+[2024.12.18-14.11.52:547][804]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/LVL_Escape.LVL_Escape to /Game/Maps/UEDPIE_0_LVL_Escape.LVL_Escape (0.017512s)
+[2024.12.18-14.11.52:552][804]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2024.12.18-14.11.52:558][804]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.12.18-14.11.52:566][804]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.12.18-14.11.52:568][804]LogAIModule: Creating AISystem for world LVL_Escape
+[2024.12.18-14.11.52:577][804]LogPlayLevel: PIE: World Init took: (0.021095s)
+[2024.12.18-14.11.52:579][804]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2024.12.18-14.11.52:581][804]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.12.18-14.11.52:581][804]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.12.18-14.11.52:581][804]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.12.18-14.11.52:581][804]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.12.18-14.11.52:581][804]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2024.12.18-14.11.52:581][804]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.12.18-14.11.52:581][804]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2024.12.18-14.11.52:581][804]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.12.18-14.11.52:584][804]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.12.18-14.11.52:584][804]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.12.18-14.11.52:584][804]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.12.18-14.11.52:612][804]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.12.18-14.11.52:650][804]LogAudioMixer: Display: Using Audio Hardware Device Haut-parleurs (Realtek(R) Audio)
+[2024.12.18-14.11.52:653][804]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.12.18-14.11.52:653][804]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.12.18-14.11.52:654][804]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.12.18-14.11.52:659][804]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=2
+[2024.12.18-14.11.52:659][804]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=2
+[2024.12.18-14.11.52:662][804]LogInit: FAudioDevice initialized with ID 2.
+[2024.12.18-14.11.52:662][804]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=2
+[2024.12.18-14.11.52:662][804]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=2
+[2024.12.18-14.11.52:663][804]LogAudio: Display: Audio Device (ID: 2) registered with world 'LVL_Escape'.
+[2024.12.18-14.11.52:663][804]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 2
+[2024.12.18-14.11.52:697][804]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2024.12.18-14.11.52:702][804]LogWorld: Bringing World /Game/Maps/UEDPIE_0_LVL_Escape.LVL_Escape up for play (max tick rate 60) at 2024.12.18-15.11.52
+[2024.12.18-14.11.52:704][804]LogWorld: Bringing up level for play took: 0.005813
+[2024.12.18-14.11.52:805][804]PIE: Server logged in
+[2024.12.18-14.11.52:806][804]PIE: Play in editor total start time 0,325 seconds.
+[2024.12.18-14.13.00:465][857]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.12.18-14.13.00:465][857]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_LVL_Escape
+[2024.12.18-14.13.00:466][857]LogWorld: UWorld::CleanupWorld for LVL_Escape, bSessionEnded=true, bCleanupResources=true
+[2024.12.18-14.13.00:468][857]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.18-14.13.00:477][857]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.12.18-14.13.00:481][857]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.18-14.13.00:486][857]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.12.18-14.13.00:486][857]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 2
+[2024.12.18-14.13.00:488][857]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2
+[2024.12.18-14.13.00:490][857]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2
+[2024.12.18-14.13.00:496][857]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.12.18-14.13.00:506][857]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2024.12.18-14.13.00:718][858]LogPlayLevel: Display: Destroying online subsystem :Context_8
+[2024.12.18-14.13.52:745][238]LogContentBrowser: Attempting asset rename: Wooden_Floor_wdipfjw -> Wooden_Floor
+[2024.12.18-14.13.58:630][238]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.12.18-14.13.58:771][238]LogSavePackage: Moving output files for package: /Game/Megascans/Surfaces/Wooden_Floor/MI_Wooden_Floor_wdipfjw_8K
+[2024.12.18-14.13.58:771][238]LogSavePackage: Moving 'E:/YNOV/B3/Escape/Prod/EscapeUE5/Escape/Saved/MI_Wooden_Floor_wdipfjw_8K0ACA50274D55552EDFF2169BF39BCEEC.tmp' to 'E:/YNOV/B3/Escape/Prod/EscapeUE5/Escape/Content/Megascans/Surfaces/Wooden_Floor/MI_Wooden_Floor_wdipfjw_8K.uasset'
+[2024.12.18-14.13.58:784][238]LogSavePackage: Moving output files for package: /Game/Megascans/Surfaces/Wooden_Floor_wdipfjw/MI_Wooden_Floor_wdipfjw_8K
+[2024.12.18-14.13.58:785][238]LogSavePackage: Moving 'E:/YNOV/B3/Escape/Prod/EscapeUE5/Escape/Saved/MI_Wooden_Floor_wdipfjw_8K9F5B06DB4D5173FB093ADCB8205A394E.tmp' to 'E:/YNOV/B3/Escape/Prod/EscapeUE5/Escape/Content/Megascans/Surfaces/Wooden_Floor_wdipfjw/MI_Wooden_Floor_wdipfjw_8K.uasset'
+[2024.12.18-14.14.02:132][238]LogSavePackage: Moving output files for package: /Game/Megascans/Surfaces/Wooden_Floor/T_WoodenFloor_wdipfjw_8K_ORDp
+[2024.12.18-14.14.02:132][238]LogSavePackage: Moving 'E:/YNOV/B3/Escape/Prod/EscapeUE5/Escape/Saved/T_WoodenFloor_wdipfjw_8K_ORDpDF74DEFE41D37DB703F587A060EEEF78.tmp' to 'E:/YNOV/B3/Escape/Prod/EscapeUE5/Escape/Content/Megascans/Surfaces/Wooden_Floor/T_WoodenFloor_wdipfjw_8K_ORDp.uasset'
+[2024.12.18-14.14.04:625][238]LogSavePackage: Moving output files for package: /Game/Megascans/Surfaces/Wooden_Floor/T_Wooden_Floor_wdipfjw_8K_N
+[2024.12.18-14.14.04:625][238]LogSavePackage: Moving 'E:/YNOV/B3/Escape/Prod/EscapeUE5/Escape/Saved/T_Wooden_Floor_wdipfjw_8K_N92FF5C02450FC068B0979AA7FA3104E0.tmp' to 'E:/YNOV/B3/Escape/Prod/EscapeUE5/Escape/Content/Megascans/Surfaces/Wooden_Floor/T_Wooden_Floor_wdipfjw_8K_N.uasset'
+[2024.12.18-14.14.08:211][238]LogSavePackage: Moving output files for package: /Game/Megascans/Surfaces/Wooden_Floor/T_Wooden_Floor_wdipfjw_8K_D
+[2024.12.18-14.14.08:211][238]LogSavePackage: Moving 'E:/YNOV/B3/Escape/Prod/EscapeUE5/Escape/Saved/T_Wooden_Floor_wdipfjw_8K_DD503206F4963DADE6E7A10B01F1C654F.tmp' to 'E:/YNOV/B3/Escape/Prod/EscapeUE5/Escape/Content/Megascans/Surfaces/Wooden_Floor/T_Wooden_Floor_wdipfjw_8K_D.uasset'
+[2024.12.18-14.14.08:226][238]LogFileHelpers: InternalPromptForCheckoutAndSave took 9.59 sec (total: 17.0 sec)
+[2024.12.18-14.14.08:247][238]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2024.12.18-14.14.08:256][238]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2024.12.18-14.14.08:261][238]LogUObjectHash: Compacting FUObjectHashTables data took   0.29ms
+[2024.12.18-14.14.08:275][238]AssetCheck: New page: Asset Save: multiple assets
+[2024.12.18-14.14.08:275][238]LogContentValidation: Display: Validating /Script/Engine.MaterialInstanceConstant /Game/Megascans/Surfaces/Wooden_Floor/MI_Wooden_Floor_wdipfjw_8K.MI_Wooden_Floor_wdipfjw_8K
+[2024.12.18-14.14.08:275][238]LogContentValidation: Display: Validating /Script/CoreUObject.ObjectRedirector /Game/Megascans/Surfaces/Wooden_Floor_wdipfjw/MI_Wooden_Floor_wdipfjw_8K.MI_Wooden_Floor_wdipfjw_8K
+[2024.12.18-14.14.08:275][238]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Megascans/Surfaces/Wooden_Floor/T_WoodenFloor_wdipfjw_8K_ORDp.T_WoodenFloor_wdipfjw_8K_ORDp
+[2024.12.18-14.14.08:275][238]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Megascans/Surfaces/Wooden_Floor/T_Wooden_Floor_wdipfjw_8K_N.T_Wooden_Floor_wdipfjw_8K_N
+[2024.12.18-14.14.08:275][238]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Megascans/Surfaces/Wooden_Floor/T_Wooden_Floor_wdipfjw_8K_D.T_Wooden_Floor_wdipfjw_8K_D
+[2024.12.18-14.14.08:282][239]LogAutomationController: Ignoring very large delta of 15.55 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2024.12.18-14.14.15:321][650]LogUObjectHash: Compacting FUObjectHashTables data took   0.29ms
+[2024.12.18-14.14.16:251][650]LogSlate: Window 'Delete Assets' being destroyed
+[2024.12.18-14.14.16:263][650]LogUObjectGlobals: Force Deleting 1 Package(s):
+	Asset Name: /Game/Megascans/Surfaces/Wooden_Floor_wdipfjw/MI_Wooden_Floor_wdipfjw_8K.MI_Wooden_Floor_wdipfjw_8K
+	Asset Type: ObjectRedirector
+[2024.12.18-14.14.16:801][650]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2024.12.18-14.14.16:806][650]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2024.12.18-14.14.16:811][650]LogUObjectHash: Compacting FUObjectHashTables data took   0.34ms
+[2024.12.18-14.14.20:219][852]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.12.18-14.14.20:314][852]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/LVL_Escape" FILE="E:/YNOV/B3/Escape/Prod/EscapeUE5/Escape/Content/Maps/LVL_Escape.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2024.12.18-14.14.20:390][852]LogUObjectHash: Compacting FUObjectHashTables data took   0.31ms
+[2024.12.18-14.14.21:661][852]LogSavePackage: Moving output files for package: /Game/Maps/LVL_Escape
+[2024.12.18-14.14.21:663][852]LogSavePackage: Moving 'E:/YNOV/B3/Escape/Prod/EscapeUE5/Escape/Saved/LVL_Escape935528B045DA565F4D70569B0AA9E5F8.tmp' to 'E:/YNOV/B3/Escape/Prod/EscapeUE5/Escape/Content/Maps/LVL_Escape.umap'
+[2024.12.18-14.14.21:693][852]LogFileHelpers: Saving map 'LVL_Escape' took 1.379
+[2024.12.18-14.14.21:704][852]LogFileHelpers: InternalPromptForCheckoutAndSave took 1.48 sec (total: 18.5 sec)
+[2024.12.18-14.14.21:705][852]AssetCheck: New page: Asset Save: LVL_Escape
+[2024.12.18-14.14.21:705][852]LogContentValidation: Display: Validating /Script/Engine.World /Game/Maps/LVL_Escape.LVL_Escape
+[2024.12.18-14.15.13:504][813]LogUObjectHash: Compacting FUObjectHashTables data took   0.34ms
+[2024.12.18-14.15.14:403][813]LogSlate: Window 'Delete Assets' being destroyed
+[2024.12.18-14.15.14:455][813]LogUObjectGlobals: Force Deleting 4 Package(s):
+	Asset Name: /Game/Megascans/Surfaces/Wooden_Floor/MI_Wooden_Floor_wdipfjw_8K.MI_Wooden_Floor_wdipfjw_8K
+	Asset Type: MaterialInstanceConstant
+	Asset Name: /Game/Megascans/Surfaces/Wooden_Floor/T_WoodenFloor_wdipfjw_8K_ORDp.T_WoodenFloor_wdipfjw_8K_ORDp
+	Asset Type: Texture2D
+	Asset Name: /Game/Megascans/Surfaces/Wooden_Floor/T_Wooden_Floor_wdipfjw_8K_N.T_Wooden_Floor_wdipfjw_8K_N
+	Asset Type: Texture2D
+	Asset Name: /Game/Megascans/Surfaces/Wooden_Floor/T_Wooden_Floor_wdipfjw_8K_D.T_Wooden_Floor_wdipfjw_8K_D
+	Asset Type: Texture2D
+[2024.12.18-14.15.14:629][813]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2024.12.18-14.15.14:637][813]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2024.12.18-14.15.14:642][813]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
+[2024.12.18-14.16.19:881][360]LogTexture: Display: Building textures: /Game/Megascans/Surfaces/Worn_Wooden_Planks_whnfbg3/T_Worn_Wooden_Planks_whnfbg3_2K_D.T_Worn_Wooden_Planks_whnfbg3_2K_D (TFO_DXT1, 2048x2048 x1x1x1) (Required Memory Estimate: 296.062483 MB), EncodeSpeed: Fast
+[2024.12.18-14.16.20:243][360]LogTexture: Display: Building textures: /Game/Megascans/Surfaces/Worn_Wooden_Planks_whnfbg3/T_Worn_Wooden_Planks_whnfbg3_2K_N.T_Worn_Wooden_Planks_whnfbg3_2K_N (TFO_BC5, 2048x2048 x1x1x1) (Required Memory Estimate: 397.562488 MB), EncodeSpeed: Fast
+[2024.12.18-14.16.20:520][360]LogTexture: Display: Building textures: /Game/Megascans/Surfaces/Worn_Wooden_Planks_whnfbg3/T_WornWoodenPlanks_whnfbg3_2K_ORDp.T_WornWoodenPlanks_whnfbg3_2K_ORDp (TFO_DXT1, 2048x2048 x1x1x1) (Required Memory Estimate: 296.062483 MB), EncodeSpeed: Fast
+[2024.12.18-14.16.20:689][361]LogAutomationController: Ignoring very large delta of 2.34 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2024.12.18-14.17.46:431][ 42]LogTexture: Display: Building textures: /Game/Megascans/Surfaces/Wooden_Planks_vjisagn/T_Wooden_Planks_vjisagn_2K_D.T_Wooden_Planks_vjisagn_2K_D (TFO_DXT1, 2048x1024 x1x1x1) (Required Memory Estimate: 194.479148 MB), EncodeSpeed: Fast
+[2024.12.18-14.17.46:586][ 42]LogTexture: Display: Building textures: /Game/Megascans/Surfaces/Wooden_Planks_vjisagn/T_Wooden_Planks_vjisagn_2K_N.T_Wooden_Planks_vjisagn_2K_N (TFO_BC5, 2048x1024 x1x1x1) (Required Memory Estimate: 277.562475 MB), EncodeSpeed: Fast
+[2024.12.18-14.17.46:723][ 42]LogTexture: Display: Building textures: /Game/Megascans/Surfaces/Wooden_Planks_vjisagn/T_WoodenPlanks_vjisagn_2K_ORDp.T_WoodenPlanks_vjisagn_2K_ORDp (TFO_DXT1, 2048x1024 x1x1x1) (Required Memory Estimate: 194.479148 MB), EncodeSpeed: Fast
+[2024.12.18-14.17.47:688][ 91]LogSlate: Window 'Bridge' being destroyed
+[2024.12.18-14.17.47:698][ 91]LogSlate: Window 'Bridge' being destroyed
+[2024.12.18-14.17.47:698][ 91]LogWebBrowser: Closing browser during destruction, this may cause a later crash.
+[2024.12.18-14.17.47:698][ 91]LogWebBrowser: Deleting browser for Url=file:///C:/Program%20Files/Epic%20Games/UE_5.3/Engine/Plugins/Bridge/ThirdParty/megascans/index.html?token=eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6ImZvcnRuaXRlZXRoYW4wMUBnbWFpbC5jb20iLCJzY29wZSI6WyJkZWZhdWx0OnVzZXIiLCJtZWdhc2NhbnM6dXNlciJdLCJlcGljQWNjb3VudElkIjoiYWE1ZGZjODlmZjQxNDIzMDk0OTg2NTIyZjM0M2RlY2YiLCJpc1VucmVhbEVVTEFBY2NlcHRlZCI6dHJ1ZSwiaXNFcGljQWNjb3VudCI6dHJ1ZSwicXVpeGVsQWNjb3VudElkIjoiY2ZiOTQ1MjEtNjE3Ny00Y2RjLWIxOGMtZjI4NWNiZjkzNDVkIiwicmVhbG0iOiJtZWdhc2NhbnMiLCJldWxhc0FjY2VwdGVkIjpbInVlIiwibWhjIiwiZXBpY19jb250ZW50Il0sImlhdCI6MTczNDUyOTE4NSwiZXhwIjoxNzM0NTU3OTg1LCJpc3MiOiJxdWl4ZWwtc3NvLXByb2QiLCJqdGkiOiIwOTAzY2RjYS1lY2UwLTQ1ZGMtYWNjMy05YjU0MDgyZGJiNzQifQ.QhwAc_q4ktRt1YmFV3A2-BV5tCPzAbasJ3aAeCx5oyLugQftLdFJIOGMmEY7LS8XxxE_HLGKf8jXQ3EaR4WSIs2yQ7iB7ZrsaXkUomOgeWp-QsPCqBuW-vcGEJysDn0vlqK1aVQLxeN52i7jVJr7MPXKlJl6g1lXcYod3tJ_G80eV7FGXcxy0ClaHCxO60dieVmxNHUxDY26Sfa58s8gsjRGYu4RU-Lowm3GfuBstJvXegSztJ2VY9ANKtHQY6YQH0LqTm3fGX1rVjmYkP_ocJPABphLBCJLdj4WRwR9QeAk8YodCqWNAS2Mw-VlPPDZ3MPeTa0NpGedApdA0ivM5w&refreshToken=MjFhNjMxNjUtNzIzZi00ZWQ2LWJiN2MtOTA4YTBmZmI3OWVl#/megascans/home?category=surface&search=wood.
+[2024.12.18-14.17.57:968][701]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2024.12.18-14.17.58:943][701]LogSlate: Window 'Delete Assets' being destroyed
+[2024.12.18-14.17.58:962][701]LogUObjectGlobals: Force Deleting 4 Package(s):
+	Asset Name: /Game/Megascans/Surfaces/Worn_Wooden_Planks_whnfbg3/MI_Worn_Wooden_Planks_whnfbg3_2K.MI_Worn_Wooden_Planks_whnfbg3_2K
+	Asset Type: MaterialInstanceConstant
+	Asset Name: /Game/Megascans/Surfaces/Worn_Wooden_Planks_whnfbg3/T_Worn_Wooden_Planks_whnfbg3_2K_D.T_Worn_Wooden_Planks_whnfbg3_2K_D
+	Asset Type: Texture2D
+	Asset Name: /Game/Megascans/Surfaces/Worn_Wooden_Planks_whnfbg3/T_Worn_Wooden_Planks_whnfbg3_2K_N.T_Worn_Wooden_Planks_whnfbg3_2K_N
+	Asset Type: Texture2D
+	Asset Name: /Game/Megascans/Surfaces/Worn_Wooden_Planks_whnfbg3/T_WornWoodenPlanks_whnfbg3_2K_ORDp.T_WornWoodenPlanks_whnfbg3_2K_ORDp
+	Asset Type: Texture2D
+[2024.12.18-14.17.59:588][701]LogUObjectHash: Compacting FUObjectHashTables data took   0.97ms
+[2024.12.18-14.17.59:594][701]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2024.12.18-14.17.59:600][701]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2024.12.18-14.18.02:474][854]LogContentBrowser: Attempting asset rename: MI_Wooden_Planks_vjisagn_2K -> MI_Wooden_Planks_vjisagn_2K
+[2024.12.18-14.18.20:531][848]Cmd: TRANSACTION UNDO
+[2024.12.18-14.18.20:531][848]LogEditorTransaction: Undo Create Actors
+[2024.12.18-14.18.20:825][854]Cmd: TRANSACTION UNDO
+[2024.12.18-14.18.20:825][854]LogEditorTransaction: Undo Create Actors
+[2024.12.18-14.18.21:511][886]Cmd: TRANSACTION UNDO
+[2024.12.18-14.18.21:511][886]LogEditorTransaction: Undo Create Actors
+[2024.12.18-14.18.21:727][899]Cmd: TRANSACTION UNDO
+[2024.12.18-14.18.21:728][899]LogEditorTransaction: Undo Create Actors
+[2024.12.18-14.18.21:912][910]Cmd: TRANSACTION UNDO
+[2024.12.18-14.18.21:912][910]LogEditorTransaction: Undo Create Actors
+[2024.12.18-14.18.22:693][956]Cmd: TRANSACTION UNDO
+[2024.12.18-14.18.22:693][956]LogEditorTransaction: Undo Create Actors
+[2024.12.18-14.18.22:892][968]Cmd: TRANSACTION UNDO
+[2024.12.18-14.18.22:892][968]LogEditorTransaction: Undo Create Actors
+[2024.12.18-14.18.23:193][986]Cmd: TRANSACTION UNDO
+[2024.12.18-14.18.23:193][986]LogEditorTransaction: Undo Create Actors
+[2024.12.18-14.18.26:194][163]LogUObjectHash: Compacting FUObjectHashTables data took   0.31ms
+[2024.12.18-14.18.27:321][163]LogSlate: Window 'Delete Assets' being destroyed
+[2024.12.18-14.18.27:552][163]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2024.12.18-14.18.27:558][163]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2024.12.18-14.18.27:563][163]LogUObjectHash: Compacting FUObjectHashTables data took   0.32ms
+[2024.12.18-14.18.29:068][246]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.12.18-14.18.29:230][254]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.12.18-14.18.29:266][255]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.12.18-14.18.29:297][256]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.12.18-14.18.29:324][257]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
