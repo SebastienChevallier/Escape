@@ -5,6 +5,18 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"E:/YNOV/B3/Escape/Prod/EscapeUE5/Escape/Content/Maps/LVL_Escape.umap",
+				"E:/YNOV/B3/Escape/Prod/EscapeUE5/Escape/Content/Assets/Meshes/Props/Door/SM_Door_cadran.uasset",
+				"E:/YNOV/B3/Escape/Prod/EscapeUE5/Escape/Content/Assets/Meshes/Props/Door/SM_Door.uasset",
+				"E:/YNOV/B3/Escape/Prod/EscapeUE5/Escape/Content/Assets/Textures/Props/Door/T_Door/T_Door_BC.uasset",
+				"E:/YNOV/B3/Escape/Prod/EscapeUE5/Escape/Content/Assets/Textures/Props/Door/T_Door/T_Door_N.uasset",
+				"E:/YNOV/B3/Escape/Prod/EscapeUE5/Escape/Content/Assets/Textures/Props/Door/T_Door/T_Door_ORM.uasset",
+				"E:/YNOV/B3/Escape/Prod/EscapeUE5/Escape/Content/Assets/Materials/Props/Meubles/M_MeubleTV.uasset",
+				"E:/YNOV/B3/Escape/Prod/EscapeUE5/Escape/Content/Assets/Meshes/Props/Meubles/SM_MeubleTV.uasset",
+				"E:/YNOV/B3/Escape/Prod/EscapeUE5/Escape/Content/Assets/Materials/Props/Door/M_Door.uasset",
+				"E:/YNOV/B3/Escape/Prod/EscapeUE5/Escape/Content/Assets/Textures/Props/Door/T_Door/T_KitchenDoor_ORM.uasset",
+				"E:/YNOV/B3/Escape/Prod/EscapeUE5/Escape/Content/Assets/Textures/Props/Door/T_Door/T_KitchenDoor_N.uasset",
+				"E:/YNOV/B3/Escape/Prod/EscapeUE5/Escape/Content/Assets/Textures/Props/Door/T_Door/T_KitchenDoor_BC.uasset",
 				"C:/Users/hugof/Documents/Ynov/Cours/B2/Ydays - Escape/Escape/Content/FirstPerson/Input/Actions/IA_Crouch.uasset",
 				"C:/Users/hugof/Documents/Ynov/Cours/B2/Ydays - Escape/Escape/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset"
 			]
