@@ -1688,3 +1688,43 @@ LogConfig: CVar [[fx.NiagaraAllowRuntimeScalabilityChanges:1]] deferred - dummy 
 [2024.12.19-08.54.16:240][714]Cmd: EDIT COPY
 [2024.12.19-08.54.16:412][724]Cmd: EDIT PASTE
 [2024.12.19-08.54.41:298][157]LogEditorViewport: Clicking Background
+[2024.12.19-08.55.14:960][178]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.12.19-08.55.15:061][178]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/LVL_Escape" FILE="E:/YNOV/B3/Escape/Prod/EscapeUE5/Escape/Content/Maps/LVL_Escape.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2024.12.19-08.55.15:149][178]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2024.12.19-08.55.16:444][178]LogSavePackage: Moving output files for package: /Game/Maps/LVL_Escape
+[2024.12.19-08.55.16:445][178]LogSavePackage: Moving 'E:/YNOV/B3/Escape/Prod/EscapeUE5/Escape/Saved/LVL_EscapeB0390FD9440358A1425BC7A2028ABCAE.tmp' to 'E:/YNOV/B3/Escape/Prod/EscapeUE5/Escape/Content/Maps/LVL_Escape.umap'
+[2024.12.19-08.55.16:481][178]LogFileHelpers: Saving map 'LVL_Escape' took 1.419
+[2024.12.19-08.55.16:494][178]LogFileHelpers: InternalPromptForCheckoutAndSave took 1.53 sec (total: 2.64 sec)
+[2024.12.19-08.55.16:497][178]AssetCheck: New page: Asset Save: LVL_Escape
+[2024.12.19-08.55.16:497][178]LogContentValidation: Display: Validating /Script/Engine.World /Game/Maps/LVL_Escape.LVL_Escape
+[2024.12.19-08.55.17:149][217]LogUObjectHash: Compacting FUObjectHashTables data took   0.27ms
+[2024.12.19-08.55.18:135][217]LogSlate: Window 'Save Content' being destroyed
+[2024.12.19-08.55.18:166][217]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.12.19-08.55.18:287][217]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Meshes/Buildings/SM_Walls_SM_Wall_001" FILE="E:/YNOV/B3/Escape/Prod/EscapeUE5/Escape/Content/Assets/Meshes/Buildings/SM_Walls_SM_Wall_001.uasset" SILENT=true
+[2024.12.19-08.55.18:404][217]LogSavePackage: Moving output files for package: /Game/Assets/Meshes/Buildings/SM_Walls_SM_Wall_001
+[2024.12.19-08.55.18:404][217]LogSavePackage: Moving 'E:/YNOV/B3/Escape/Prod/EscapeUE5/Escape/Saved/SM_Walls_SM_Wall_00105B8A45A48EF8DE08102CCB2D782FB79.tmp' to 'E:/YNOV/B3/Escape/Prod/EscapeUE5/Escape/Content/Assets/Meshes/Buildings/SM_Walls_SM_Wall_001.uasset'
+[2024.12.19-08.55.18:412][217]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Meshes/Buildings/SM_Walls_SM_Wall_002" FILE="E:/YNOV/B3/Escape/Prod/EscapeUE5/Escape/Content/Assets/Meshes/Buildings/SM_Walls_SM_Wall_002.uasset" SILENT=true
+[2024.12.19-08.55.18:547][217]LogSavePackage: Moving output files for package: /Game/Assets/Meshes/Buildings/SM_Walls_SM_Wall_002
+[2024.12.19-08.55.18:547][217]LogSavePackage: Moving 'E:/YNOV/B3/Escape/Prod/EscapeUE5/Escape/Saved/SM_Walls_SM_Wall_00236686B7146A8D58631239A965B00FD1B.tmp' to 'E:/YNOV/B3/Escape/Prod/EscapeUE5/Escape/Content/Assets/Meshes/Buildings/SM_Walls_SM_Wall_002.uasset'
+[2024.12.19-08.55.18:668][217]LogSavePackage: Moving output files for package: /Game/Assets/Meshes/Buildings/SM_Walls_SM_Wall_Door_001
+[2024.12.19-08.55.18:668][217]LogSavePackage: Moving 'E:/YNOV/B3/Escape/Prod/EscapeUE5/Escape/Saved/SM_Walls_SM_Wall_Door_0012E605C3D4D46B025F92A2D9295DA64DE.tmp' to 'E:/YNOV/B3/Escape/Prod/EscapeUE5/Escape/Content/Assets/Meshes/Buildings/SM_Walls_SM_Wall_Door_001.uasset'
+[2024.12.19-08.55.18:802][217]LogSavePackage: Moving output files for package: /Game/Assets/Meshes/Buildings/SM_Walls_SM_Wall_Door_002
+[2024.12.19-08.55.18:802][217]LogSavePackage: Moving 'E:/YNOV/B3/Escape/Prod/EscapeUE5/Escape/Saved/SM_Walls_SM_Wall_Door_002532023584735085BFB3E57BC891FCA1B.tmp' to 'E:/YNOV/B3/Escape/Prod/EscapeUE5/Escape/Content/Assets/Meshes/Buildings/SM_Walls_SM_Wall_Door_002.uasset'
+[2024.12.19-08.55.18:806][217]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Textures/Buildings/T_Door/T_Door_BC" FILE="E:/YNOV/B3/Escape/Prod/EscapeUE5/Escape/Content/Assets/Textures/Buildings/T_Door/T_Door_BC.uasset" SILENT=true
+[2024.12.19-08.55.18:879][217]LogSavePackage: Moving output files for package: /Game/Assets/Textures/Buildings/T_Door/T_Door_BC
+[2024.12.19-08.55.18:879][217]LogSavePackage: Moving 'E:/YNOV/B3/Escape/Prod/EscapeUE5/Escape/Saved/T_Door_BCF549C5714F7618EE0534F3B9C83BB3C2.tmp' to 'E:/YNOV/B3/Escape/Prod/EscapeUE5/Escape/Content/Assets/Textures/Buildings/T_Door/T_Door_BC.uasset'
+[2024.12.19-08.55.18:883][217]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Textures/Buildings/T_Door/T_Door_N" FILE="E:/YNOV/B3/Escape/Prod/EscapeUE5/Escape/Content/Assets/Textures/Buildings/T_Door/T_Door_N.uasset" SILENT=true
+[2024.12.19-08.55.18:968][217]LogSavePackage: Moving output files for package: /Game/Assets/Textures/Buildings/T_Door/T_Door_N
+[2024.12.19-08.55.18:968][217]LogSavePackage: Moving 'E:/YNOV/B3/Escape/Prod/EscapeUE5/Escape/Saved/T_Door_NF8CA545449A40D52D0E77786814203A6.tmp' to 'E:/YNOV/B3/Escape/Prod/EscapeUE5/Escape/Content/Assets/Textures/Buildings/T_Door/T_Door_N.uasset'
+[2024.12.19-08.55.18:972][217]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Textures/Buildings/T_Door/T_Door_ORM" FILE="E:/YNOV/B3/Escape/Prod/EscapeUE5/Escape/Content/Assets/Textures/Buildings/T_Door/T_Door_ORM.uasset" SILENT=true
+[2024.12.19-08.55.19:048][217]LogSavePackage: Moving output files for package: /Game/Assets/Textures/Buildings/T_Door/T_Door_ORM
+[2024.12.19-08.55.19:048][217]LogSavePackage: Moving 'E:/YNOV/B3/Escape/Prod/EscapeUE5/Escape/Saved/T_Door_ORM8D4C4DC64451456B3889ADBA58B6883D.tmp' to 'E:/YNOV/B3/Escape/Prod/EscapeUE5/Escape/Content/Assets/Textures/Buildings/T_Door/T_Door_ORM.uasset'
+[2024.12.19-08.55.19:062][217]LogFileHelpers: InternalPromptForCheckoutAndSave took 896 ms (total: 3.53 sec)
+[2024.12.19-08.55.19:063][217]AssetCheck: New page: Asset Save: multiple assets
+[2024.12.19-08.55.19:063][217]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/Assets/Meshes/Buildings/SM_Walls_SM_Wall_001.SM_Walls_SM_Wall_001
+[2024.12.19-08.55.19:063][217]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/Assets/Meshes/Buildings/SM_Walls_SM_Wall_002.SM_Walls_SM_Wall_002
+[2024.12.19-08.55.19:063][217]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/Assets/Meshes/Buildings/SM_Walls_SM_Wall_Door_001.SM_Walls_SM_Wall_Door_001
+[2024.12.19-08.55.19:063][217]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/Assets/Meshes/Buildings/SM_Walls_SM_Wall_Door_002.SM_Walls_SM_Wall_Door_002
+[2024.12.19-08.55.19:063][217]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Assets/Textures/Buildings/T_Door/T_Door_BC.T_Door_BC
+[2024.12.19-08.55.19:063][217]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Assets/Textures/Buildings/T_Door/T_Door_N.T_Door_N
+[2024.12.19-08.55.19:063][217]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Assets/Textures/Buildings/T_Door/T_Door_ORM.T_Door_ORM
