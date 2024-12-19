@@ -1728,3 +1728,1351 @@ LogConfig: CVar [[fx.NiagaraAllowRuntimeScalabilityChanges:1]] deferred - dummy 
 [2024.12.19-08.55.19:063][217]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Assets/Textures/Buildings/T_Door/T_Door_BC.T_Door_BC
 [2024.12.19-08.55.19:063][217]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Assets/Textures/Buildings/T_Door/T_Door_N.T_Door_N
 [2024.12.19-08.55.19:063][217]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Assets/Textures/Buildings/T_Door/T_Door_ORM.T_Door_ORM
+[2024.12.19-08.58.37:975][357]Cmd: DUPLICATE
+[2024.12.19-08.58.37:975][357]Cmd: ACTOR DUPLICATE
+[2024.12.19-08.58.39:068][417]Cmd: TRANSACTION UNDO
+[2024.12.19-08.58.39:068][417]LogEditorTransaction: Undo Duplicate Elements
+[2024.12.19-08.58.39:987][452]Cmd: EDIT COPY
+[2024.12.19-08.58.40:137][461]Cmd: EDIT PASTE
+[2024.12.19-08.58.55:605][380]Cmd: EDIT COPY
+[2024.12.19-08.58.55:772][390]Cmd: EDIT PASTE
+[2024.12.19-08.59.03:498][847]Cmd: EDIT COPY
+[2024.12.19-08.59.03:681][858]Cmd: EDIT PASTE
+[2024.12.19-08.59.06:877][ 40]Cmd: TRANSACTION UNDO
+[2024.12.19-08.59.06:877][ 40]LogEditorTransaction: Undo Rotate Elements
+[2024.12.19-08.59.08:030][ 92]Cmd: MODE ROTGRID=1
+[2024.12.19-08.59.26:447][187]Cmd: EDIT COPY
+[2024.12.19-08.59.26:630][198]Cmd: EDIT PASTE
+[2024.12.19-08.59.30:004][391]Cmd: EDIT COPY
+[2024.12.19-08.59.30:521][422]Cmd: EDIT PASTE
+[2024.12.19-08.59.34:684][664]LogEditorViewport: Clicking Background
+[2024.12.19-08.59.46:231][322]Cmd: DELETE
+[2024.12.19-08.59.46:231][322]Cmd: ACTOR DELETE
+[2024.12.19-08.59.46:233][322]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.12.19-08.59.46:238][322]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2024.12.19-08.59.46:243][322]LogEditorActor: Deleted 1 Actors (0.013 secs)
+[2024.12.19-09.00.00:526][139]LogEditorViewport: Clicking Background
+[2024.12.19-09.00.04:851][388]LogEditorViewport: Clicking Background
+[2024.12.19-09.00.16:905][ 90]LogEditorViewport: Clicking Background
+[2024.12.19-09.00.18:599][185]Cmd: EDIT COPY
+[2024.12.19-09.00.18:766][195]Cmd: EDIT PASTE
+[2024.12.19-09.00.20:830][308]Cmd: TRANSACTION UNDO
+[2024.12.19-09.00.20:831][308]LogEditorTransaction: Undo Move Elements
+[2024.12.19-09.00.39:261][377]LogEditorViewport: Clicking Background
+[2024.12.19-09.00.56:623][417]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.12.19-09.00.56:651][417]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.12.19-09.00.56:652][417]PIE: New page: PIE session: LVL_Escape (19 déc. 2024 à 11:00:56)
+[2024.12.19-09.00.56:654][417]LogPlayLevel: Display: Creating online subsystem for client :Context_8
+[2024.12.19-09.00.56:657][417]LogOnline: OSS: Created online subsystem instance for: :Context_8
+[2024.12.19-09.00.56:678][418]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_LVL_Escape
+[2024.12.19-09.00.56:687][418]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008849s)
+[2024.12.19-09.00.56:687][418]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/LVL_Escape.LVL_Escape to /Game/Maps/UEDPIE_0_LVL_Escape.LVL_Escape (0.008941s)
+[2024.12.19-09.00.56:692][418]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2024.12.19-09.00.56:696][418]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.12.19-09.00.56:696][418]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.12.19-09.00.56:697][418]LogAIModule: Creating AISystem for world LVL_Escape
+[2024.12.19-09.00.56:698][418]LogPlayLevel: PIE: World Init took: (0.001431s)
+[2024.12.19-09.00.56:698][418]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2024.12.19-09.00.56:698][418]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.12.19-09.00.56:698][418]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.12.19-09.00.56:698][418]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.12.19-09.00.56:698][418]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.12.19-09.00.56:698][418]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2024.12.19-09.00.56:698][418]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.12.19-09.00.56:698][418]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2024.12.19-09.00.56:698][418]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.12.19-09.00.56:699][418]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.12.19-09.00.56:699][418]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.12.19-09.00.56:699][418]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.12.19-09.00.56:701][418]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.12.19-09.00.56:734][418]LogAudioMixer: Display: Using Audio Hardware Device Haut-parleurs (Realtek(R) Audio)
+[2024.12.19-09.00.56:734][418]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.12.19-09.00.56:734][418]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.12.19-09.00.56:734][418]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.12.19-09.00.56:735][418]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=2
+[2024.12.19-09.00.56:735][418]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=2
+[2024.12.19-09.00.56:739][418]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=2
+[2024.12.19-09.00.56:739][418]LogInit: FAudioDevice initialized with ID 2.
+[2024.12.19-09.00.56:739][418]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=2
+[2024.12.19-09.00.56:739][418]LogAudio: Display: Audio Device (ID: 2) registered with world 'LVL_Escape'.
+[2024.12.19-09.00.56:739][418]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 2
+[2024.12.19-09.00.57:788][418]LogDeviceProfileManager: Going up to parent DeviceProfile []
+[2024.12.19-09.00.57:836][418]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2024.12.19-09.00.57:839][418]LogWorld: Bringing World /Game/Maps/UEDPIE_0_LVL_Escape.LVL_Escape up for play (max tick rate 60) at 2024.12.19-10.00.57
+[2024.12.19-09.00.57:840][418]LogWorld: Bringing up level for play took: 0.003852
+[2024.12.19-09.00.57:879][418]PIE: Server logged in
+[2024.12.19-09.00.57:879][418]PIE: Play in editor total start time 1,232 seconds.
+[2024.12.19-09.01.05:474][865]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.12.19-09.01.05:474][865]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_LVL_Escape
+[2024.12.19-09.01.05:474][865]LogWorld: UWorld::CleanupWorld for LVL_Escape, bSessionEnded=true, bCleanupResources=true
+[2024.12.19-09.01.05:475][865]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.19-09.01.05:480][865]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.12.19-09.01.05:482][865]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.19-09.01.05:486][865]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.12.19-09.01.05:487][865]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 2
+[2024.12.19-09.01.05:487][865]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2
+[2024.12.19-09.01.05:488][865]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2
+[2024.12.19-09.01.05:500][865]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2024.12.19-09.01.05:558][866]LogPlayLevel: Display: Destroying online subsystem :Context_8
+[2024.12.19-09.01.35:802][640]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.12.19-09.01.35:830][640]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.12.19-09.01.35:830][640]PIE: New page: PIE session: LVL_Escape (19 déc. 2024 à 11:01:35)
+[2024.12.19-09.01.35:871][640]LogPlayLevel: Display: Creating online subsystem for client :Context_9
+[2024.12.19-09.01.35:874][640]LogOnline: OSS: Created online subsystem instance for: :Context_9
+[2024.12.19-09.01.35:912][641]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_LVL_Escape
+[2024.12.19-09.01.35:919][641]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006572s)
+[2024.12.19-09.01.35:919][641]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/LVL_Escape.LVL_Escape to /Game/Maps/UEDPIE_0_LVL_Escape.LVL_Escape (0.006623s)
+[2024.12.19-09.01.35:923][641]LogUObjectHash: Compacting FUObjectHashTables data took   0.87ms
+[2024.12.19-09.01.35:926][641]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.12.19-09.01.35:926][641]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.12.19-09.01.35:927][641]LogAIModule: Creating AISystem for world LVL_Escape
+[2024.12.19-09.01.35:927][641]LogPlayLevel: PIE: World Init took: (0.001122s)
+[2024.12.19-09.01.35:927][641]LogAudio: Display: Creating Audio Device:                 Id: 3, Scope: Unique, Realtime: True
+[2024.12.19-09.01.35:927][641]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.12.19-09.01.35:927][641]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.12.19-09.01.35:927][641]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.12.19-09.01.35:927][641]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.12.19-09.01.35:927][641]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2024.12.19-09.01.35:927][641]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.12.19-09.01.35:927][641]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2024.12.19-09.01.35:927][641]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.12.19-09.01.35:928][641]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.12.19-09.01.35:928][641]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.12.19-09.01.35:928][641]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.12.19-09.01.35:930][641]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.12.19-09.01.35:958][641]LogAudioMixer: Display: Using Audio Hardware Device Haut-parleurs (Realtek(R) Audio)
+[2024.12.19-09.01.35:959][641]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.12.19-09.01.35:959][641]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.12.19-09.01.35:959][641]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.12.19-09.01.35:959][641]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=3
+[2024.12.19-09.01.35:959][641]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=3
+[2024.12.19-09.01.35:962][641]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=3
+[2024.12.19-09.01.35:962][641]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=3
+[2024.12.19-09.01.35:962][641]LogInit: FAudioDevice initialized with ID 3.
+[2024.12.19-09.01.35:962][641]LogAudio: Display: Audio Device (ID: 3) registered with world 'LVL_Escape'.
+[2024.12.19-09.01.35:962][641]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 3
+[2024.12.19-09.01.35:965][641]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2024.12.19-09.01.35:967][641]LogWorld: Bringing World /Game/Maps/UEDPIE_0_LVL_Escape.LVL_Escape up for play (max tick rate 60) at 2024.12.19-10.01.35
+[2024.12.19-09.01.35:968][641]LogWorld: Bringing up level for play took: 0.002975
+[2024.12.19-09.01.35:971][641]PIE: Server logged in
+[2024.12.19-09.01.35:972][641]PIE: Play in editor total start time 0,145 seconds.
+[2024.12.19-09.02.10:721][720]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.12.19-09.02.10:721][720]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_LVL_Escape
+[2024.12.19-09.02.10:721][720]LogWorld: UWorld::CleanupWorld for LVL_Escape, bSessionEnded=true, bCleanupResources=true
+[2024.12.19-09.02.10:721][720]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.19-09.02.10:725][720]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.12.19-09.02.10:727][720]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.19-09.02.10:732][720]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.12.19-09.02.10:732][720]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 3
+[2024.12.19-09.02.10:732][720]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3
+[2024.12.19-09.02.10:733][720]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3
+[2024.12.19-09.02.10:742][720]LogUObjectHash: Compacting FUObjectHashTables data took   0.85ms
+[2024.12.19-09.02.11:011][721]LogPlayLevel: Display: Destroying online subsystem :Context_9
+[2024.12.19-09.02.26:186][604]LogEditorViewport: Clicking Background
+[2024.12.19-09.02.30:001][827]Cmd: EDIT COPY
+[2024.12.19-09.02.30:184][838]Cmd: EDIT PASTE
+[2024.12.19-09.02.34:866][108]LogEditorViewport: Clicking Background
+[2024.12.19-09.02.37:634][268]Cmd: EDIT COPY
+[2024.12.19-09.02.37:801][278]Cmd: EDIT PASTE
+[2024.12.19-09.02.43:991][640]LogEditorViewport: Clicking Background
+[2024.12.19-09.02.52:388][133]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/Meshes/Buildings/SM_Walls_SM_Wall_002.SM_Walls_SM_Wall_002
+[2024.12.19-09.02.52:388][133]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/Meshes/Buildings/SM_Walls_SM_Wall_002.SM_Walls_SM_Wall_002
+[2024.12.19-09.02.52:388][133]LogActorFactory: Actor Factory spawned StaticMesh /Game/Assets/Meshes/Buildings/SM_Walls_SM_Wall_002.SM_Walls_SM_Wall_002 as actor: StaticMeshActor /Game/Maps/LVL_Escape.LVL_Escape:PersistentLevel.StaticMeshActor_104
+[2024.12.19-09.02.53:421][192]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/Meshes/Buildings/SM_Walls_SM_Wall_002.SM_Walls_SM_Wall_002
+[2024.12.19-09.02.53:421][192]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/Meshes/Buildings/SM_Walls_SM_Wall_002.SM_Walls_SM_Wall_002
+[2024.12.19-09.02.53:423][192]LogActorFactory: Actor Factory spawned StaticMesh /Game/Assets/Meshes/Buildings/SM_Walls_SM_Wall_002.SM_Walls_SM_Wall_002 as actor: StaticMeshActor /Game/Maps/LVL_Escape.LVL_Escape:PersistentLevel.StaticMeshActor_105
+[2024.12.19-09.03.02:746][732]Cmd: DELETE
+[2024.12.19-09.03.02:746][732]Cmd: ACTOR DELETE
+[2024.12.19-09.03.02:749][732]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.12.19-09.03.02:755][732]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2024.12.19-09.03.02:759][732]LogEditorActor: Deleted 1 Actors (0.012 secs)
+[2024.12.19-09.03.46:958][326]Cmd: TRANSACTION UNDO
+[2024.12.19-09.03.46:958][326]LogEditorTransaction: Undo Move Elements
+[2024.12.19-09.03.55:806][819]Cmd: EDIT COPY
+[2024.12.19-09.03.56:012][831]Cmd: EDIT PASTE
+[2024.12.19-09.04.09:057][578]Cmd: TRANSACTION UNDO
+[2024.12.19-09.04.09:057][578]LogEditorTransaction: Undo Move Elements
+[2024.12.19-09.04.12:407][761]Cmd: TRANSACTION UNDO
+[2024.12.19-09.04.12:407][761]LogEditorTransaction: Undo Move Elements
+[2024.12.19-09.04.18:767][125]LogEditorViewport: Clicking Background
+[2024.12.19-09.04.27:601][647]Cmd: EDIT COPY
+[2024.12.19-09.04.27:807][659]Cmd: EDIT PASTE
+[2024.12.19-09.04.37:130][203]LogEditorViewport: Clicking Background
+[2024.12.19-09.04.39:231][320]Cmd: EDIT COPY
+[2024.12.19-09.04.39:407][329]Cmd: EDIT PASTE
+[2024.12.19-09.04.49:973][944]LogEditorViewport: Clicking Background
+[2024.12.19-09.05.15:690][422]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.12.19-09.05.15:715][422]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.12.19-09.05.15:715][422]PIE: New page: PIE session: LVL_Escape (19 déc. 2024 à 11:05:15)
+[2024.12.19-09.05.15:715][422]LogPlayLevel: Display: Creating online subsystem for client :Context_10
+[2024.12.19-09.05.15:719][422]LogOnline: OSS: Created online subsystem instance for: :Context_10
+[2024.12.19-09.05.15:738][423]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_LVL_Escape
+[2024.12.19-09.05.15:746][423]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007395s)
+[2024.12.19-09.05.15:746][423]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/LVL_Escape.LVL_Escape to /Game/Maps/UEDPIE_0_LVL_Escape.LVL_Escape (0.007449s)
+[2024.12.19-09.05.15:751][423]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2024.12.19-09.05.15:755][423]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.12.19-09.05.15:755][423]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.12.19-09.05.15:756][423]LogAIModule: Creating AISystem for world LVL_Escape
+[2024.12.19-09.05.15:756][423]LogPlayLevel: PIE: World Init took: (0.001053s)
+[2024.12.19-09.05.15:756][423]LogAudio: Display: Creating Audio Device:                 Id: 4, Scope: Unique, Realtime: True
+[2024.12.19-09.05.15:756][423]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.12.19-09.05.15:756][423]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.12.19-09.05.15:756][423]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.12.19-09.05.15:756][423]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.12.19-09.05.15:756][423]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2024.12.19-09.05.15:756][423]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.12.19-09.05.15:756][423]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2024.12.19-09.05.15:756][423]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.12.19-09.05.15:757][423]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.12.19-09.05.15:757][423]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.12.19-09.05.15:757][423]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.12.19-09.05.15:759][423]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.12.19-09.05.15:790][423]LogAudioMixer: Display: Using Audio Hardware Device Haut-parleurs (Realtek(R) Audio)
+[2024.12.19-09.05.15:790][423]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.12.19-09.05.15:790][423]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.12.19-09.05.15:790][423]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.12.19-09.05.15:791][423]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=4
+[2024.12.19-09.05.15:791][423]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=4
+[2024.12.19-09.05.15:793][423]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=4
+[2024.12.19-09.05.15:793][423]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=4
+[2024.12.19-09.05.15:793][423]LogInit: FAudioDevice initialized with ID 4.
+[2024.12.19-09.05.15:793][423]LogAudio: Display: Audio Device (ID: 4) registered with world 'LVL_Escape'.
+[2024.12.19-09.05.15:793][423]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 4
+[2024.12.19-09.05.15:796][423]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2024.12.19-09.05.15:799][423]LogWorld: Bringing World /Game/Maps/UEDPIE_0_LVL_Escape.LVL_Escape up for play (max tick rate 60) at 2024.12.19-10.05.15
+[2024.12.19-09.05.15:799][423]LogWorld: Bringing up level for play took: 0.002997
+[2024.12.19-09.05.15:801][423]PIE: Server logged in
+[2024.12.19-09.05.15:802][423]PIE: Play in editor total start time 0,087 seconds.
+[2024.12.19-09.05.22:945][848]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.12.19-09.05.22:945][848]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_LVL_Escape
+[2024.12.19-09.05.22:945][848]LogWorld: UWorld::CleanupWorld for LVL_Escape, bSessionEnded=true, bCleanupResources=true
+[2024.12.19-09.05.22:945][848]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.19-09.05.22:949][848]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.12.19-09.05.22:951][848]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.19-09.05.22:955][848]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.12.19-09.05.22:955][848]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 4
+[2024.12.19-09.05.22:955][848]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=4
+[2024.12.19-09.05.22:957][848]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=4
+[2024.12.19-09.05.22:965][848]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2024.12.19-09.05.23:046][849]LogPlayLevel: Display: Destroying online subsystem :Context_10
+[2024.12.19-09.05.42:607][965]Cmd: DUPLICATE
+[2024.12.19-09.05.42:607][965]Cmd: ACTOR DUPLICATE
+[2024.12.19-09.05.51:745][494]LogEditorViewport: Clicking Background
+[2024.12.19-09.05.58:623][900]Cmd: DUPLICATE
+[2024.12.19-09.05.58:623][900]Cmd: ACTOR DUPLICATE
+[2024.12.19-09.05.59:776][958]Cmd: TRANSACTION UNDO
+[2024.12.19-09.05.59:776][958]LogEditorTransaction: Undo Duplicate Elements
+[2024.12.19-09.06.00:578][982]Cmd: EDIT COPY
+[2024.12.19-09.06.00:578][982]LogConsoleManager: Warning: Performance warning: Many (31) failed FindConsoleObject() for 'EDIT'. 
+[2024.12.19-09.06.00:729][991]Cmd: EDIT PASTE
+[2024.12.19-09.06.05:621][279]Cmd: EDIT COPY
+[2024.12.19-09.06.05:793][289]Cmd: EDIT PASTE
+[2024.12.19-09.06.11:967][646]LogEditorViewport: Clicking Background
+[2024.12.19-09.06.21:720][225]Cmd: EDIT COPY
+[2024.12.19-09.06.21:884][234]Cmd: EDIT PASTE
+[2024.12.19-09.06.43:766][478]LogContentBrowser: Deferred new asset file creation: NewMaterial
+[2024.12.19-09.06.43:778][478]LogContentBrowser: Creating deferred item: NewMaterial
+[2024.12.19-09.06.43:794][479]LogContentBrowser: Renaming the item being created (Deferred Item: NewMaterial).
+[2024.12.19-09.06.49:798][840]LogContentBrowser: Attempting asset rename: NewMaterial -> M_Tapisserie
+[2024.12.19-09.06.49:799][840]LogContentBrowser: End creating deferred item NewMaterial
+[2024.12.19-09.06.51:489][929]LogContentBrowser: Deferred new asset file creation: NewMaterial
+[2024.12.19-09.06.51:501][929]LogContentBrowser: Creating deferred item: NewMaterial
+[2024.12.19-09.06.51:515][930]LogContentBrowser: Renaming the item being created (Deferred Item: NewMaterial).
+[2024.12.19-09.06.58:371][342]LogContentBrowser: Attempting asset rename: NewMaterial -> M_WoodWalls
+[2024.12.19-09.06.58:372][342]LogContentBrowser: End creating deferred item NewMaterial
+[2024.12.19-09.07.01:417][523]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/Assets/Materials/Buildings/M_Tapisserie.M_Tapisserie
+[2024.12.19-09.07.01:421][523]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.12.19-09.07.01:421][523]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.12.19-09.07.01:753][523]MaterialEditorStats: Texture samplers: 0/16
+[2024.12.19-09.07.01:754][523]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.12.19-09.07.01:754][523]MaterialEditorStats: Shader Count: 0
+[2024.12.19-09.07.01:764][523]LogViewport: Scene viewport resized to 376x444, mode Windowed.
+[2024.12.19-09.07.01:798][524]LogShaderCompilers: Display: ================================================
+[2024.12.19-09.07.01:798][524]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.12.19-09.07.01:798][524]LogShaderCompilers: Display: Total job queries 125, among them cache hits 75 (60.00%)
+[2024.12.19-09.07.01:798][524]LogShaderCompilers: Display: Tracking 50 distinct input hashes that result in 27 distinct outputs (54.00%)
+[2024.12.19-09.07.01:798][524]LogShaderCompilers: Display: RAM used: 1,09 MiB of 819,20 MiB budget. Usage: 0.13%
+[2024.12.19-09.07.01:798][524]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.12.19-09.07.01:798][524]LogShaderCompilers: Display: Shaders Compiled: 12
+[2024.12.19-09.07.01:798][524]LogShaderCompilers: Display: Jobs assigned 12, completed 12 (100%)
+[2024.12.19-09.07.01:798][524]LogShaderCompilers: Display: Average time worker was idle: 38.86 s
+[2024.12.19-09.07.01:798][524]LogShaderCompilers: Display: Time job spent in pending queue: average 0.05 s, longest 0.12 s
+[2024.12.19-09.07.01:798][524]LogShaderCompilers: Display: Job execution time: average 0.93 s, max 1.13 s
+[2024.12.19-09.07.01:798][524]LogShaderCompilers: Display: Job life time (pending + execution): average 0.98 s, max 1.15
+[2024.12.19-09.07.01:798][524]LogShaderCompilers: Display: Shader code size: average 34,853 KiB, min 32,02 KiB, max 37,676 KiB
+[2024.12.19-09.07.01:798][524]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 2.20 s
+[2024.12.19-09.07.01:798][524]LogShaderCompilers: Display: Jobs were issued in 12 batches (only local compilation was used), average 1.00 jobs/batch
+[2024.12.19-09.07.01:798][524]LogShaderCompilers: Display: Average processing rate: 5.47 jobs/sec
+[2024.12.19-09.07.01:798][524]LogShaderCompilers: Display: Total thread time: 6,246 s
+[2024.12.19-09.07.01:798][524]LogShaderCompilers: Display: Total thread preprocess time: 0,765 s
+[2024.12.19-09.07.01:798][524]LogShaderCompilers: Display: Percentage time preprocessing: 12.25%
+[2024.12.19-09.07.01:798][524]LogShaderCompilers: Display: Effective parallelization: 2.84 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2024.12.19-09.07.01:799][524]LogShaderCompilers: Display: Top 4 most expensive shader types by average time:
+[2024.12.19-09.07.01:799][524]LogShaderCompilers: Display:                                                 FLumenCardVS (compiled    2 times, average 0.58 sec, max 0.69 sec, min 0.47 sec)
+[2024.12.19-09.07.01:799][524]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy (compiled    4 times, average 0.57 sec, max 0.64 sec, min 0.47 sec)
+[2024.12.19-09.07.01:799][524]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled    4 times, average 0.56 sec, max 0.71 sec, min 0.48 sec)
+[2024.12.19-09.07.01:799][524]LogShaderCompilers: Display:                                          FLumenCardPS<false> (compiled    2 times, average 0.28 sec, max 0.32 sec, min 0.24 sec)
+[2024.12.19-09.07.01:799][524]LogShaderCompilers: Display: Top 4 shader types by total compile time:
+[2024.12.19-09.07.01:799][524]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 36.67% of total time (compiled    4 times, average 0.57 sec, max 0.64 sec, min 0.47 sec)
+[2024.12.19-09.07.01:799][524]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 35.72% of total time (compiled    4 times, average 0.56 sec, max 0.71 sec, min 0.48 sec)
+[2024.12.19-09.07.01:799][524]LogShaderCompilers: Display:                                                 FLumenCardVS - 18.60% of total time (compiled    2 times, average 0.58 sec, max 0.69 sec, min 0.47 sec)
+[2024.12.19-09.07.01:799][524]LogShaderCompilers: Display:                                          FLumenCardPS<false> - 9.02% of total time (compiled    2 times, average 0.28 sec, max 0.32 sec, min 0.24 sec)
+[2024.12.19-09.07.01:799][524]LogShaderCompilers: Display: ================================================
+[2024.12.19-09.07.01:836][525]MaterialEditorStats: Base pass shader: 187 instructions
+[2024.12.19-09.07.01:836][525]MaterialEditorStats: Base pass vertex shader: 131 instructions
+[2024.12.19-09.07.01:836][525]MaterialEditorStats: Texture samplers: 2/16
+[2024.12.19-09.07.01:836][525]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.12.19-09.07.01:836][525]MaterialEditorStats: Shader Count: 4
+[2024.12.19-09.07.26:164][608]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2024.12.19-09.07.26:168][608]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/LVL_Escape" FILE="E:/YNOV/B3/Escape/Prod/EscapeUE5/Escape/Saved/Autosaves/Game/Maps/LVL_Escape_Auto1.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2024.12.19-09.07.27:592][608]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Maps/LVL_Escape_Auto1
+[2024.12.19-09.07.27:593][608]LogSavePackage: Moving 'E:/YNOV/B3/Escape/Prod/EscapeUE5/Escape/Saved/LVL_Escape_Auto1068890B2420EC9222C0B8AA9E1E08911.tmp' to 'E:/YNOV/B3/Escape/Prod/EscapeUE5/Escape/Saved/Autosaves/Game/Maps/LVL_Escape_Auto1.umap'
+[2024.12.19-09.07.27:606][608]LogAssetRegistry: Warning: ScanPathsSynchronous: E:/YNOV/B3/Escape/Prod/EscapeUE5/Escape/Saved/Autosaves/Game/Maps/LVL_Escape_Auto1.umap is in the /Temp path, will not scan.
+[2024.12.19-09.07.27:606][608]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/LVL_Escape' took 1.448
+[2024.12.19-09.07.27:606][608]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 1.448
+[2024.12.19-09.07.27:621][608]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/Materials/Buildings/M_Tapisserie] ([1] browsable assets)...
+[2024.12.19-09.07.27:645][608]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Assets/Materials/Buildings/M_Tapisserie.M_Tapisserie]
+[2024.12.19-09.07.27:645][608]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Materials/Buildings/M_Tapisserie]
+[2024.12.19-09.07.27:655][608]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Assets/Materials/Buildings/M_Tapisserie_Auto1
+[2024.12.19-09.07.27:655][608]LogSavePackage: Moving 'E:/YNOV/B3/Escape/Prod/EscapeUE5/Escape/Saved/M_Tapisserie_Auto181527CA946CF5528553FCB8CCD633992.tmp' to 'E:/YNOV/B3/Escape/Prod/EscapeUE5/Escape/Saved/Autosaves/Game/Assets/Materials/Buildings/M_Tapisserie_Auto1.uasset'
+[2024.12.19-09.07.27:657][608]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/Materials/Buildings/M_WoodWalls] ([1] browsable assets)...
+[2024.12.19-09.07.27:667][608]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Assets/Materials/Buildings/M_WoodWalls.M_WoodWalls]
+[2024.12.19-09.07.27:667][608]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Materials/Buildings/M_WoodWalls]
+[2024.12.19-09.07.27:677][608]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Assets/Materials/Buildings/M_WoodWalls_Auto1
+[2024.12.19-09.07.27:678][608]LogSavePackage: Moving 'E:/YNOV/B3/Escape/Prod/EscapeUE5/Escape/Saved/M_WoodWalls_Auto15154B5494671C0D6183A0888B3E66F3E.tmp' to 'E:/YNOV/B3/Escape/Prod/EscapeUE5/Escape/Saved/Autosaves/Game/Assets/Materials/Buildings/M_WoodWalls_Auto1.uasset'
+[2024.12.19-09.07.27:679][608]LogFileHelpers: Auto-saving content packages took 0.073
+[2024.12.19-09.24.36:206][ 33]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2024.12.19-09.24.36:227][ 33]LogContentBrowser: Creating deferred item: NewFolder
+[2024.12.19-09.24.36:248][ 34]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2024.12.19-09.24.42:442][403]LogContentBrowser: Attempting asset rename: NewFolder -> T_Walls
+[2024.12.19-09.24.42:452][403]LogContentBrowser: End creating deferred item NewFolder
+[2024.12.19-09.24.48:680][572]LogInterchangeEngine: [Pending] Importing
+[2024.12.19-09.24.48:680][572]LogInterchangeEngine: Display: Interchange start importing source [E:/YNOV/B3/Escape/Pr.../TextureMaps/T_Walls/T_Tapisserie.png]
+[2024.12.19-09.24.48:742][573]LogInterchangeEngine: [Pending] Importing
+[2024.12.19-09.24.48:901][578]LogTexture: Display: Building textures: /Game/Assets/Textures/Buildings/T_Walls/T_Tapisserie.T_Tapisserie (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 288.062484 MB), EncodeSpeed: Fast
+[2024.12.19-09.24.49:040][578]LogInterchangeEngine: [Success] Import Done
+[2024.12.19-09.24.49:153][579]LogInterchangeEngine: [Success] Import Done
+[2024.12.19-09.24.54:230][852]MaterialEditorStats: Texture samplers: 0/16
+[2024.12.19-09.24.54:230][852]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.12.19-09.24.54:230][852]MaterialEditorStats: Shader Count: 0
+[2024.12.19-09.24.54:287][853]LogShaderCompilers: Display: ================================================
+[2024.12.19-09.24.54:287][853]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.12.19-09.24.54:287][853]LogShaderCompilers: Display: Total job queries 131, among them cache hits 81 (61.83%)
+[2024.12.19-09.24.54:287][853]LogShaderCompilers: Display: Tracking 50 distinct input hashes that result in 27 distinct outputs (54.00%)
+[2024.12.19-09.24.54:287][853]LogShaderCompilers: Display: RAM used: 1,09 MiB of 819,20 MiB budget. Usage: 0.13%
+[2024.12.19-09.24.54:287][853]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.12.19-09.24.54:287][853]LogShaderCompilers: Display: Shaders Compiled: 12
+[2024.12.19-09.24.54:287][853]LogShaderCompilers: Display: Jobs assigned 12, completed 12 (100%)
+[2024.12.19-09.24.54:287][853]LogShaderCompilers: Display: Average time worker was idle: 38.86 s
+[2024.12.19-09.24.54:287][853]LogShaderCompilers: Display: Time job spent in pending queue: average 0.05 s, longest 0.12 s
+[2024.12.19-09.24.54:287][853]LogShaderCompilers: Display: Job execution time: average 0.93 s, max 1.13 s
+[2024.12.19-09.24.54:287][853]LogShaderCompilers: Display: Job life time (pending + execution): average 0.98 s, max 1.15
+[2024.12.19-09.24.54:287][853]LogShaderCompilers: Display: Shader code size: average 34,853 KiB, min 32,02 KiB, max 37,676 KiB
+[2024.12.19-09.24.54:287][853]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 2.20 s
+[2024.12.19-09.24.54:287][853]LogShaderCompilers: Display: Jobs were issued in 12 batches (only local compilation was used), average 1.00 jobs/batch
+[2024.12.19-09.24.54:287][853]LogShaderCompilers: Display: Average processing rate: 5.47 jobs/sec
+[2024.12.19-09.24.54:287][853]LogShaderCompilers: Display: Total thread time: 6,246 s
+[2024.12.19-09.24.54:287][853]LogShaderCompilers: Display: Total thread preprocess time: 0,765 s
+[2024.12.19-09.24.54:287][853]LogShaderCompilers: Display: Percentage time preprocessing: 12.25%
+[2024.12.19-09.24.54:287][853]LogShaderCompilers: Display: Effective parallelization: 2.84 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2024.12.19-09.24.54:287][853]LogShaderCompilers: Display: Top 4 most expensive shader types by average time:
+[2024.12.19-09.24.54:287][853]LogShaderCompilers: Display:                                                 FLumenCardVS (compiled    2 times, average 0.58 sec, max 0.69 sec, min 0.47 sec)
+[2024.12.19-09.24.54:287][853]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy (compiled    4 times, average 0.57 sec, max 0.64 sec, min 0.47 sec)
+[2024.12.19-09.24.54:287][853]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled    4 times, average 0.56 sec, max 0.71 sec, min 0.48 sec)
+[2024.12.19-09.24.54:287][853]LogShaderCompilers: Display:                                          FLumenCardPS<false> (compiled    2 times, average 0.28 sec, max 0.32 sec, min 0.24 sec)
+[2024.12.19-09.24.54:287][853]LogShaderCompilers: Display: Top 4 shader types by total compile time:
+[2024.12.19-09.24.54:287][853]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 36.67% of total time (compiled    4 times, average 0.57 sec, max 0.64 sec, min 0.47 sec)
+[2024.12.19-09.24.54:287][853]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 35.72% of total time (compiled    4 times, average 0.56 sec, max 0.71 sec, min 0.48 sec)
+[2024.12.19-09.24.54:287][853]LogShaderCompilers: Display:                                                 FLumenCardVS - 18.60% of total time (compiled    2 times, average 0.58 sec, max 0.69 sec, min 0.47 sec)
+[2024.12.19-09.24.54:287][853]LogShaderCompilers: Display:                                          FLumenCardPS<false> - 9.02% of total time (compiled    2 times, average 0.28 sec, max 0.32 sec, min 0.24 sec)
+[2024.12.19-09.24.54:287][853]LogShaderCompilers: Display: ================================================
+[2024.12.19-09.24.54:322][854]MaterialEditorStats: Base pass shader: 187 instructions
+[2024.12.19-09.24.54:322][854]MaterialEditorStats: Base pass vertex shader: 131 instructions
+[2024.12.19-09.24.54:322][854]MaterialEditorStats: Texture samplers: 2/16
+[2024.12.19-09.24.54:322][854]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.12.19-09.24.54:322][854]MaterialEditorStats: Shader Count: 4
+[2024.12.19-09.24.56:360][965]MaterialEditorStats: Texture samplers: 0/16
+[2024.12.19-09.24.56:360][965]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2024.12.19-09.24.56:360][965]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.12.19-09.24.56:360][965]MaterialEditorStats: Shader Count: 0
+[2024.12.19-09.24.56:429][967]MaterialEditorStats: Base pass shader: 194 instructions
+[2024.12.19-09.24.56:429][967]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2024.12.19-09.24.56:429][967]MaterialEditorStats: Texture samplers: 3/16
+[2024.12.19-09.24.56:429][967]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2024.12.19-09.24.56:429][967]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.12.19-09.24.56:429][967]MaterialEditorStats: Shader Count: 4
+[2024.12.19-09.24.58:083][ 61]LogMaterialEditor: Applying material M_Tapisserie
+[2024.12.19-09.24.58:142][ 61]LogUObjectHash: Compacting FUObjectHashTables data took   1.65ms
+[2024.12.19-09.24.59:017][ 61]LogUObjectHash: Compacting FUObjectHashTables data took   0.29ms
+[2024.12.19-09.24.59:030][ 61]MaterialEditorStats: Texture samplers: 1/16
+[2024.12.19-09.24.59:030][ 61]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2024.12.19-09.24.59:030][ 61]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.12.19-09.24.59:030][ 61]MaterialEditorStats: Shader Count: 2
+[2024.12.19-09.24.59:562][ 92]LogMaterialEditor: Saving and Compiling material M_Tapisserie
+[2024.12.19-09.24.59:567][ 92]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.12.19-09.25.00:885][ 92]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Materials/Buildings/M_Tapisserie" FILE="E:/YNOV/B3/Escape/Prod/EscapeUE5/Escape/Content/Assets/Materials/Buildings/M_Tapisserie.uasset" SILENT=true
+[2024.12.19-09.25.00:897][ 92]LogSavePackage: Moving output files for package: /Game/Assets/Materials/Buildings/M_Tapisserie
+[2024.12.19-09.25.00:897][ 92]LogSavePackage: Moving 'E:/YNOV/B3/Escape/Prod/EscapeUE5/Escape/Saved/M_Tapisserie3BE3550544DDB3474949E1B3821154DB.tmp' to 'E:/YNOV/B3/Escape/Prod/EscapeUE5/Escape/Content/Assets/Materials/Buildings/M_Tapisserie.uasset'
+[2024.12.19-09.25.00:911][ 92]LogFileHelpers: InternalPromptForCheckoutAndSave took 1.34 sec (total: 4.88 sec)
+[2024.12.19-09.25.00:912][ 92]AssetCheck: New page: Asset Save: M_Tapisserie
+[2024.12.19-09.25.00:912][ 92]LogContentValidation: Display: Validating /Script/Engine.Material /Game/Assets/Materials/Buildings/M_Tapisserie.M_Tapisserie
+[2024.12.19-09.25.00:913][ 92]MaterialEditorStats: Base pass shader: 194 instructions
+[2024.12.19-09.25.00:913][ 92]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2024.12.19-09.25.00:913][ 92]MaterialEditorStats: MaxSampler: 244 instructions
+[2024.12.19-09.25.00:913][ 92]MaterialEditorStats: Texture samplers: 4/16
+[2024.12.19-09.25.00:913][ 92]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2024.12.19-09.25.00:913][ 92]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.12.19-09.25.00:913][ 92]MaterialEditorStats: Shader Count: 16
+[2024.12.19-09.25.01:476][122]LogSlate: Window 'M_Tapisserie' being destroyed
+[2024.12.19-09.25.01:551][122]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2024.12.19-09.25.01:551][122]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.19-09.25.27:260][632]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/Assets/Meshes/Buildings/SM_Walls_SM_Wall_002.SM_Walls_SM_Wall_002
+[2024.12.19-09.25.27:349][632]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.12.19-09.25.27:349][632]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.12.19-09.25.28:115][632]LogViewport: Scene viewport resized to 1405x894, mode Windowed.
+[2024.12.19-09.25.38:281][230]LogSlate: Window 'SM_Walls_SM_Wall_002' being destroyed
+[2024.12.19-09.25.38:432][230]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2024.12.19-09.25.38:433][230]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.19-09.26.06:338][506]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2024.12.19-09.26.06:340][506]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/LVL_Escape' took 0.007
+[2024.12.19-09.26.06:354][506]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/Textures/Buildings/T_Walls/T_Tapisserie] ([1] browsable assets)...
+[2024.12.19-09.26.06:357][506]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Assets/Textures/Buildings/T_Walls/T_Tapisserie.T_Tapisserie]
+[2024.12.19-09.26.06:357][506]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Textures/Buildings/T_Walls/T_Tapisserie]
+[2024.12.19-09.26.06:426][506]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Assets/Textures/Buildings/T_Walls/T_Tapisserie_Auto2
+[2024.12.19-09.26.06:426][506]LogSavePackage: Moving 'E:/YNOV/B3/Escape/Prod/EscapeUE5/Escape/Saved/T_Tapisserie_Auto2C872D5BE4206F44934D29A8CD1D9D753.tmp' to 'E:/YNOV/B3/Escape/Prod/EscapeUE5/Escape/Saved/Autosaves/Game/Assets/Textures/Buildings/T_Walls/T_Tapisserie_Auto2.uasset'
+[2024.12.19-09.26.06:428][506]LogFileHelpers: Auto-saving content packages took 0.088
+[2024.12.19-09.29.34:421][277]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 E:\YNOV\B3\Escape\Prod\AssetsImported\Props\SM_Walls.fbx)
+[2024.12.19-09.29.34:426][277]LogFbx: Loading FBX Scene from E:\YNOV\B3\Escape\Prod\AssetsImported\Props\SM_Walls.fbx
+[2024.12.19-09.29.34:434][277]LogFbx: FBX Scene Loaded Succesfully
+[2024.12.19-09.29.35:767][277]LogSlate: Window 'FBX Import Options' being destroyed
+[2024.12.19-09.29.35:964][277]LogFbx: Display: Triangulating static mesh SM_Wall_001
+[2024.12.19-09.29.35:979][277]LogFbx: Display: Triangulating static mesh SM_Wall_Door_001
+[2024.12.19-09.29.35:991][277]LogFbx: Display: Triangulating static mesh SM_Wall_002
+[2024.12.19-09.29.35:992][277]LogStaticMesh: Display: Building static mesh SM_Walls_SM_Wall_002...
+[2024.12.19-09.29.35:994][277]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/Meshes/Buildings/SM_Walls_SM_Wall_002.SM_Walls_SM_Wall_002
+[2024.12.19-09.29.36:007][277]LogFbx: Display: Triangulating static mesh SM_Wall_Door_002
+[2024.12.19-09.29.36:009][277]LogStaticMesh: Display: Building static mesh SM_Walls_SM_Wall_Door_002...
+[2024.12.19-09.29.36:014][277]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/Meshes/Buildings/SM_Walls_SM_Wall_Door_002.SM_Walls_SM_Wall_Door_002
+[2024.12.19-09.29.36:091][277]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2024.12.19-09.29.38:789][428]LogSlate: Window 'Message Log' being destroyed
+[2024.12.19-09.29.38:799][428]LogSlate: Window 'Message Log' being destroyed
+[2024.12.19-09.29.41:241][573]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/Assets/Meshes/Buildings/SM_Walls_SM_Wall_002.SM_Walls_SM_Wall_002
+[2024.12.19-09.29.41:339][573]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.12.19-09.29.41:339][573]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.12.19-09.29.42:059][573]LogViewport: Scene viewport resized to 1405x894, mode Windowed.
+[2024.12.19-09.30.09:268][ 38]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/Assets/Materials/Buildings/M_Tapisserie.M_Tapisserie
+[2024.12.19-09.30.09:274][ 38]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.12.19-09.30.09:274][ 38]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.12.19-09.30.09:528][ 38]MaterialEditorStats: Texture samplers: 0/16
+[2024.12.19-09.30.09:528][ 38]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2024.12.19-09.30.09:528][ 38]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.12.19-09.30.09:528][ 38]MaterialEditorStats: Shader Count: 0
+[2024.12.19-09.30.09:539][ 38]LogViewport: Scene viewport resized to 376x444, mode Windowed.
+[2024.12.19-09.30.09:573][ 39]LogShaderCompilers: Display: ================================================
+[2024.12.19-09.30.09:573][ 39]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.12.19-09.30.09:573][ 39]LogShaderCompilers: Display: Total job queries 167, among them cache hits 105 (62.87%)
+[2024.12.19-09.30.09:573][ 39]LogShaderCompilers: Display: Tracking 62 distinct input hashes that result in 35 distinct outputs (56.45%)
+[2024.12.19-09.30.09:573][ 39]LogShaderCompilers: Display: RAM used: 1,39 MiB of 819,20 MiB budget. Usage: 0.17%
+[2024.12.19-09.30.09:573][ 39]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.12.19-09.30.09:573][ 39]LogShaderCompilers: Display: Shaders Compiled: 24
+[2024.12.19-09.30.09:573][ 39]LogShaderCompilers: Display: Jobs assigned 24, completed 24 (100%)
+[2024.12.19-09.30.09:573][ 39]LogShaderCompilers: Display: Average time worker was idle: 1141.56 s
+[2024.12.19-09.30.09:573][ 39]LogShaderCompilers: Display: Time job spent in pending queue: average 0.12 s, longest 0.77 s
+[2024.12.19-09.30.09:573][ 39]LogShaderCompilers: Display: Job execution time: average 0.81 s, max 1.13 s
+[2024.12.19-09.30.09:573][ 39]LogShaderCompilers: Display: Job life time (pending + execution): average 0.93 s, max 1.18
+[2024.12.19-09.30.09:573][ 39]LogShaderCompilers: Display: Shader code size: average 40,09 KiB, min 32,02 KiB, max 61,465 KiB
+[2024.12.19-09.30.09:573][ 39]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 3.99 s
+[2024.12.19-09.30.09:573][ 39]LogShaderCompilers: Display: Jobs were issued in 24 batches (only local compilation was used), average 1.00 jobs/batch
+[2024.12.19-09.30.09:574][ 39]LogShaderCompilers: Display: Average processing rate: 6.01 jobs/sec
+[2024.12.19-09.30.09:574][ 39]LogShaderCompilers: Display: Total thread time: 11,708 s
+[2024.12.19-09.30.09:574][ 39]LogShaderCompilers: Display: Total thread preprocess time: 1,325 s
+[2024.12.19-09.30.09:574][ 39]LogShaderCompilers: Display: Percentage time preprocessing: 11.31%
+[2024.12.19-09.30.09:574][ 39]LogShaderCompilers: Display: Effective parallelization: 2.93 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2024.12.19-09.30.09:574][ 39]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2024.12.19-09.30.09:574][ 39]LogShaderCompilers: Display: TBasePassPSFPrecomputedVolumetricLightmapLightingPolicySkylight (compiled    1 times, average 0.58 sec, max 0.58 sec, min 0.58 sec)
+[2024.12.19-09.30.09:574][ 39]LogShaderCompilers: Display:                                                 FLumenCardVS (compiled    2 times, average 0.58 sec, max 0.69 sec, min 0.47 sec)
+[2024.12.19-09.30.09:574][ 39]LogShaderCompilers: Display:        TBasePassPSFCachedPointIndirectLightingPolicySkylight (compiled    1 times, average 0.58 sec, max 0.58 sec, min 0.58 sec)
+[2024.12.19-09.30.09:574][ 39]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy (compiled    4 times, average 0.57 sec, max 0.64 sec, min 0.47 sec)
+[2024.12.19-09.30.09:574][ 39]LogShaderCompilers: Display:                TBasePassPSFCachedPointIndirectLightingPolicy (compiled    1 times, average 0.57 sec, max 0.57 sec, min 0.57 sec)
+[2024.12.19-09.30.09:574][ 39]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2024.12.19-09.30.09:574][ 39]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 19.56% of total time (compiled    4 times, average 0.57 sec, max 0.64 sec, min 0.47 sec)
+[2024.12.19-09.30.09:574][ 39]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 19.05% of total time (compiled    4 times, average 0.56 sec, max 0.71 sec, min 0.48 sec)
+[2024.12.19-09.30.09:574][ 39]LogShaderCompilers: Display:                                                 FLumenCardVS - 9.92% of total time (compiled    2 times, average 0.58 sec, max 0.69 sec, min 0.47 sec)
+[2024.12.19-09.30.09:574][ 39]LogShaderCompilers: Display: TBasePassPSFPrecomputedVolumetricLightmapLightingPolicySkylight - 4.98% of total time (compiled    1 times, average 0.58 sec, max 0.58 sec, min 0.58 sec)
+[2024.12.19-09.30.09:574][ 39]LogShaderCompilers: Display:        TBasePassPSFCachedPointIndirectLightingPolicySkylight - 4.96% of total time (compiled    1 times, average 0.58 sec, max 0.58 sec, min 0.58 sec)
+[2024.12.19-09.30.09:574][ 39]LogShaderCompilers: Display: ================================================
+[2024.12.19-09.30.09:608][ 40]MaterialEditorStats: Base pass shader: 194 instructions
+[2024.12.19-09.30.09:608][ 40]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2024.12.19-09.30.09:608][ 40]MaterialEditorStats: Texture samplers: 3/16
+[2024.12.19-09.30.09:608][ 40]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2024.12.19-09.30.09:608][ 40]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.12.19-09.30.09:608][ 40]MaterialEditorStats: Shader Count: 4
+[2024.12.19-09.30.17:952][510]MaterialEditorStats: Texture samplers: 0/16
+[2024.12.19-09.30.17:952][510]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2024.12.19-09.30.17:952][510]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.12.19-09.30.17:952][510]MaterialEditorStats: Shader Count: 0
+[2024.12.19-09.30.18:021][512]MaterialEditorStats: Base pass shader: 194 instructions
+[2024.12.19-09.30.18:021][512]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2024.12.19-09.30.18:021][512]MaterialEditorStats: Texture samplers: 3/16
+[2024.12.19-09.30.18:021][512]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2024.12.19-09.30.18:021][512]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.12.19-09.30.18:021][512]MaterialEditorStats: Shader Count: 4
+[2024.12.19-09.30.21:488][705]MaterialEditorStats: Texture samplers: 0/16
+[2024.12.19-09.30.21:488][705]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2024.12.19-09.30.21:488][705]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.12.19-09.30.21:488][705]MaterialEditorStats: Shader Count: 0
+[2024.12.19-09.30.21:544][707]MaterialEditorStats: Base pass shader: 194 instructions
+[2024.12.19-09.30.21:544][707]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2024.12.19-09.30.21:544][707]MaterialEditorStats: Texture samplers: 3/16
+[2024.12.19-09.30.21:544][707]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2024.12.19-09.30.21:544][707]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.12.19-09.30.21:544][707]MaterialEditorStats: Shader Count: 4
+[2024.12.19-09.30.27:038][940]LogSlate: Window 'Message' being destroyed
+[2024.12.19-09.30.27:049][940]Message dialog closed, result: Yes, title: Message, text: Would you like to apply the changes of the modified material to the original material?
+/Game/Assets/Materials/Buildings/M_Tapisserie.M_Tapisserie
+(Selecting 'No' will cause all changes to be lost!)
+[2024.12.19-09.30.27:140][940]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2024.12.19-09.30.27:358][940]LogUObjectHash: Compacting FUObjectHashTables data took   0.31ms
+[2024.12.19-09.30.27:448][940]LogWorld: UWorld::CleanupWorld for World_10, bSessionEnded=true, bCleanupResources=true
+[2024.12.19-09.30.27:448][940]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.19-09.30.31:081][118]LogContentBrowser: Deferred new asset file creation: M_Tapisserie_Inst
+[2024.12.19-09.30.31:102][118]LogContentBrowser: Creating deferred item: M_Tapisserie_Inst
+[2024.12.19-09.30.31:127][119]LogContentBrowser: Renaming the item being created (Deferred Item: M_Tapisserie_Inst).
+[2024.12.19-09.30.35:049][347]LogContentBrowser: Attempting asset rename: M_Tapisserie_Inst -> M8_Tapisserie
+[2024.12.19-09.30.35:050][347]LogContentBrowser: End creating deferred item M_Tapisserie_Inst
+[2024.12.19-09.31.40:157][473]LogContentBrowser: Attempting asset rename: M8_Tapisserie -> MI_Tapisserie
+[2024.12.19-09.31.40:196][473]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.12.19-09.31.40:314][473]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Materials/Buildings/MI_Tapisserie" FILE="E:/YNOV/B3/Escape/Prod/EscapeUE5/Escape/Content/Assets/Materials/Buildings/MI_Tapisserie.uasset" SILENT=true
+[2024.12.19-09.31.40:389][473]LogSavePackage: Moving output files for package: /Game/Assets/Materials/Buildings/MI_Tapisserie
+[2024.12.19-09.31.40:389][473]LogSavePackage: Moving 'E:/YNOV/B3/Escape/Prod/EscapeUE5/Escape/Saved/MI_TapisserieC1D16D3D4E8CCE3DD32213BFA29410B6.tmp' to 'E:/YNOV/B3/Escape/Prod/EscapeUE5/Escape/Content/Assets/Materials/Buildings/MI_Tapisserie.uasset'
+[2024.12.19-09.31.40:409][473]LogFileHelpers: InternalPromptForCheckoutAndSave took 213 ms (total: 5.09 sec)
+[2024.12.19-09.31.40:418][473]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2024.12.19-09.31.40:426][473]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2024.12.19-09.31.40:431][473]LogUObjectHash: Compacting FUObjectHashTables data took   0.29ms
+[2024.12.19-09.31.40:433][473]AssetCheck: New page: Asset Save: MI_Tapisserie
+[2024.12.19-09.31.40:433][473]LogContentValidation: Display: Validating /Script/Engine.MaterialInstanceConstant /Game/Assets/Materials/Buildings/MI_Tapisserie.MI_Tapisserie
+[2024.12.19-09.31.50:925][996]LogAssetEditorSubsystem: Opening Asset editor for MaterialInstanceConstant /Game/Assets/Materials/Buildings/MI_Tapisserie.MI_Tapisserie
+[2024.12.19-09.31.50:929][996]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.12.19-09.31.50:929][996]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.12.19-09.31.51:181][996]LogViewport: Scene viewport resized to 478x894, mode Windowed.
+[2024.12.19-09.31.53:922][158]LogViewport: Scene viewport resized to 481x894, mode Windowed.
+[2024.12.19-09.31.53:944][159]LogViewport: Scene viewport resized to 489x894, mode Windowed.
+[2024.12.19-09.31.53:970][160]LogViewport: Scene viewport resized to 497x894, mode Windowed.
+[2024.12.19-09.31.53:995][161]LogViewport: Scene viewport resized to 510x894, mode Windowed.
+[2024.12.19-09.31.54:018][162]LogViewport: Scene viewport resized to 523x894, mode Windowed.
+[2024.12.19-09.31.54:046][163]LogViewport: Scene viewport resized to 537x894, mode Windowed.
+[2024.12.19-09.31.54:067][164]LogViewport: Scene viewport resized to 551x894, mode Windowed.
+[2024.12.19-09.31.54:094][165]LogViewport: Scene viewport resized to 565x894, mode Windowed.
+[2024.12.19-09.31.54:118][166]LogViewport: Scene viewport resized to 578x894, mode Windowed.
+[2024.12.19-09.31.54:140][167]LogViewport: Scene viewport resized to 593x894, mode Windowed.
+[2024.12.19-09.31.54:176][168]LogViewport: Scene viewport resized to 608x894, mode Windowed.
+[2024.12.19-09.31.54:201][169]LogViewport: Scene viewport resized to 619x894, mode Windowed.
+[2024.12.19-09.31.54:221][170]LogViewport: Scene viewport resized to 626x894, mode Windowed.
+[2024.12.19-09.31.54:259][171]LogViewport: Scene viewport resized to 638x894, mode Windowed.
+[2024.12.19-09.31.54:283][172]LogViewport: Scene viewport resized to 641x894, mode Windowed.
+[2024.12.19-09.31.54:303][173]LogViewport: Scene viewport resized to 645x894, mode Windowed.
+[2024.12.19-09.31.54:344][174]LogViewport: Scene viewport resized to 649x894, mode Windowed.
+[2024.12.19-09.31.54:430][179]LogViewport: Scene viewport resized to 650x894, mode Windowed.
+[2024.12.19-09.31.54:469][181]LogViewport: Scene viewport resized to 651x894, mode Windowed.
+[2024.12.19-09.31.54:492][182]LogViewport: Scene viewport resized to 654x894, mode Windowed.
+[2024.12.19-09.31.54:514][183]LogViewport: Scene viewport resized to 655x894, mode Windowed.
+[2024.12.19-09.31.54:539][184]LogViewport: Scene viewport resized to 658x894, mode Windowed.
+[2024.12.19-09.31.54:563][185]LogViewport: Scene viewport resized to 661x894, mode Windowed.
+[2024.12.19-09.31.54:587][186]LogViewport: Scene viewport resized to 663x894, mode Windowed.
+[2024.12.19-09.31.54:611][187]LogViewport: Scene viewport resized to 668x894, mode Windowed.
+[2024.12.19-09.31.54:639][188]LogViewport: Scene viewport resized to 670x894, mode Windowed.
+[2024.12.19-09.31.54:661][189]LogViewport: Scene viewport resized to 673x894, mode Windowed.
+[2024.12.19-09.31.54:686][190]LogViewport: Scene viewport resized to 675x894, mode Windowed.
+[2024.12.19-09.31.54:710][191]LogViewport: Scene viewport resized to 679x894, mode Windowed.
+[2024.12.19-09.31.54:734][192]LogViewport: Scene viewport resized to 680x894, mode Windowed.
+[2024.12.19-09.31.54:787][195]LogViewport: Scene viewport resized to 681x894, mode Windowed.
+[2024.12.19-09.31.54:809][196]LogViewport: Scene viewport resized to 682x894, mode Windowed.
+[2024.12.19-09.31.54:833][197]LogViewport: Scene viewport resized to 685x894, mode Windowed.
+[2024.12.19-09.32.01:233][577]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.12.19-09.32.01:340][577]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Materials/Buildings/MI_Tapisserie" FILE="E:/YNOV/B3/Escape/Prod/EscapeUE5/Escape/Content/Assets/Materials/Buildings/MI_Tapisserie.uasset" SILENT=true
+[2024.12.19-09.32.01:344][577]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2024.12.19-09.32.01:354][577]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
+[2024.12.19-09.32.01:366][577]LogSavePackage: Moving output files for package: /Game/Assets/Materials/Buildings/MI_Tapisserie
+[2024.12.19-09.32.01:368][577]LogSavePackage: Moving 'E:/YNOV/B3/Escape/Prod/EscapeUE5/Escape/Saved/MI_TapisserieE79737F94D119DBDC01EC49519BFFA22.tmp' to 'E:/YNOV/B3/Escape/Prod/EscapeUE5/Escape/Content/Assets/Materials/Buildings/MI_Tapisserie.uasset'
+[2024.12.19-09.32.01:384][577]LogFileHelpers: InternalPromptForCheckoutAndSave took 151 ms (total: 5.24 sec)
+[2024.12.19-09.32.01:386][577]AssetCheck: New page: Asset Save: MI_Tapisserie
+[2024.12.19-09.32.01:386][577]LogContentValidation: Display: Validating /Script/Engine.MaterialInstanceConstant /Game/Assets/Materials/Buildings/MI_Tapisserie.MI_Tapisserie
+[2024.12.19-09.32.03:006][670]LogWorld: UWorld::CleanupWorld for World_11, bSessionEnded=true, bCleanupResources=true
+[2024.12.19-09.32.03:006][670]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.19-09.32.04:158][736]LogSlate: Window 'SM_Walls_SM_Wall_002' being destroyed
+[2024.12.19-09.32.04:287][736]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2024.12.19-09.32.04:287][736]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.19-09.32.05:483][806]LogAssetEditorSubsystem: Opening Asset editor for MaterialInstanceConstant /Game/Assets/Materials/Buildings/MI_Tapisserie.MI_Tapisserie
+[2024.12.19-09.32.05:484][806]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.12.19-09.32.05:485][806]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.12.19-09.32.05:820][806]LogViewport: Scene viewport resized to 685x894, mode Windowed.
+[2024.12.19-09.32.07:443][899]LogViewport: Scene viewport resized to 546x271, mode Windowed.
+[2024.12.19-09.32.09:303][972]LogViewport: Scene viewport resized to 538x285, mode Windowed.
+[2024.12.19-09.32.09:337][972]LogViewport: Scene viewport resized to 512x323, mode Windowed.
+[2024.12.19-09.32.09:373][972]LogViewport: Scene viewport resized to 475x361, mode Windowed.
+[2024.12.19-09.32.09:407][972]LogViewport: Scene viewport resized to 440x386, mode Windowed.
+[2024.12.19-09.32.09:443][972]LogViewport: Scene viewport resized to 411x419, mode Windowed.
+[2024.12.19-09.32.09:477][972]LogViewport: Scene viewport resized to 386x447, mode Windowed.
+[2024.12.19-09.32.09:513][972]LogViewport: Scene viewport resized to 362x469, mode Windowed.
+[2024.12.19-09.32.09:546][972]LogViewport: Scene viewport resized to 337x481, mode Windowed.
+[2024.12.19-09.32.09:582][972]LogViewport: Scene viewport resized to 320x493, mode Windowed.
+[2024.12.19-09.32.09:616][972]LogViewport: Scene viewport resized to 308x512, mode Windowed.
+[2024.12.19-09.32.09:651][972]LogViewport: Scene viewport resized to 302x520, mode Windowed.
+[2024.12.19-09.32.09:685][972]LogViewport: Scene viewport resized to 299x524, mode Windowed.
+[2024.12.19-09.32.09:719][972]LogViewport: Scene viewport resized to 298x526, mode Windowed.
+[2024.12.19-09.32.09:754][972]LogViewport: Scene viewport resized to 295x535, mode Windowed.
+[2024.12.19-09.32.09:788][972]LogViewport: Scene viewport resized to 289x546, mode Windowed.
+[2024.12.19-09.32.09:823][972]LogViewport: Scene viewport resized to 284x556, mode Windowed.
+[2024.12.19-09.32.09:858][972]LogViewport: Scene viewport resized to 280x565, mode Windowed.
+[2024.12.19-09.32.09:893][972]LogViewport: Scene viewport resized to 277x571, mode Windowed.
+[2024.12.19-09.32.09:928][972]LogViewport: Scene viewport resized to 274x579, mode Windowed.
+[2024.12.19-09.32.09:962][972]LogViewport: Scene viewport resized to 274x582, mode Windowed.
+[2024.12.19-09.32.09:997][972]LogViewport: Scene viewport resized to 273x582, mode Windowed.
+[2024.12.19-09.32.12:885][127]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/Assets/Materials/Buildings/M_Tapisserie.M_Tapisserie
+[2024.12.19-09.32.12:890][127]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.12.19-09.32.12:890][127]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.12.19-09.32.13:131][127]MaterialEditorStats: Texture samplers: 0/16
+[2024.12.19-09.32.13:131][127]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2024.12.19-09.32.13:131][127]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.12.19-09.32.13:131][127]MaterialEditorStats: Shader Count: 0
+[2024.12.19-09.32.13:142][127]LogViewport: Scene viewport resized to 147x288, mode Windowed.
+[2024.12.19-09.32.13:210][129]MaterialEditorStats: Base pass shader: 194 instructions
+[2024.12.19-09.32.13:210][129]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2024.12.19-09.32.13:210][129]MaterialEditorStats: Texture samplers: 3/16
+[2024.12.19-09.32.13:210][129]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2024.12.19-09.32.13:210][129]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.12.19-09.32.13:210][129]MaterialEditorStats: Shader Count: 4
+[2024.12.19-09.32.28:224][  3]LogWorld: UWorld::CleanupWorld for World_12, bSessionEnded=true, bCleanupResources=true
+[2024.12.19-09.32.28:224][  3]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.19-09.32.42:588][694]LogViewport: Scene viewport resized to 376x444, mode Windowed.
+[2024.12.19-09.32.43:944][760]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/Assets/Meshes/Buildings/SM_Walls_SM_Wall_002.SM_Walls_SM_Wall_002
+[2024.12.19-09.32.43:956][760]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.12.19-09.32.43:956][760]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.12.19-09.32.44:665][760]LogViewport: Scene viewport resized to 1405x894, mode Windowed.
+[2024.12.19-09.32.52:532][152]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.12.19-09.32.52:655][152]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Meshes/Buildings/SM_Walls_SM_Wall_002" FILE="E:/YNOV/B3/Escape/Prod/EscapeUE5/Escape/Content/Assets/Meshes/Buildings/SM_Walls_SM_Wall_002.uasset" SILENT=true
+[2024.12.19-09.32.52:796][152]LogSavePackage: Moving output files for package: /Game/Assets/Meshes/Buildings/SM_Walls_SM_Wall_002
+[2024.12.19-09.32.52:798][152]LogSavePackage: Moving 'E:/YNOV/B3/Escape/Prod/EscapeUE5/Escape/Saved/SM_Walls_SM_Wall_00267FFB4524286324D1FB69B88579A1C3E.tmp' to 'E:/YNOV/B3/Escape/Prod/EscapeUE5/Escape/Content/Assets/Meshes/Buildings/SM_Walls_SM_Wall_002.uasset'
+[2024.12.19-09.32.52:813][152]LogFileHelpers: InternalPromptForCheckoutAndSave took 281 ms (total: 5.52 sec)
+[2024.12.19-09.32.52:815][152]AssetCheck: New page: Asset Save: SM_Walls_SM_Wall_002
+[2024.12.19-09.32.52:815][152]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/Assets/Meshes/Buildings/SM_Walls_SM_Wall_002.SM_Walls_SM_Wall_002
+[2024.12.19-09.32.57:641][405]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2024.12.19-09.32.58:510][405]LogSlate: Window 'Delete Assets' being destroyed
+[2024.12.19-09.32.58:550][405]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2024.12.19-09.32.58:557][405]LogUObjectHash: Compacting FUObjectHashTables data took   0.99ms
+[2024.12.19-09.32.58:563][405]LogUObjectHash: Compacting FUObjectHashTables data took   0.36ms
+[2024.12.19-09.33.01:512][558]LogViewport: Scene viewport resized to 147x288, mode Windowed.
+[2024.12.19-09.33.03:456][605]LogViewport: Scene viewport resized to 561x582, mode Windowed.
+[2024.12.19-09.33.04:267][647]LogViewport: Scene viewport resized to 1402x917, mode Windowed.
+[2024.12.19-09.33.04:449][649]LogViewport: Scene viewport resized to 577x315, mode Windowed.
+[2024.12.19-09.33.04:787][661]LogViewport: Scene viewport resized to 580x326, mode Windowed.
+[2024.12.19-09.33.05:537][690]LogViewport: Scene viewport resized to 1405x894, mode Windowed.
+[2024.12.19-09.33.08:039][793]LogViewport: Scene viewport resized to 376x444, mode Windowed.
+[2024.12.19-09.33.11:911][952]MaterialEditorStats: Texture samplers: 0/16
+[2024.12.19-09.33.11:911][952]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2024.12.19-09.33.11:911][952]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.12.19-09.33.11:911][952]MaterialEditorStats: Shader Count: 0
+[2024.12.19-09.33.12:561][972]LogShaderCompilers: Display: ================================================
+[2024.12.19-09.33.12:561][972]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.12.19-09.33.12:561][972]LogShaderCompilers: Display: Total job queries 207, among them cache hits 141 (68.12%)
+[2024.12.19-09.33.12:561][972]LogShaderCompilers: Display: Tracking 63 distinct input hashes that result in 36 distinct outputs (57.14%)
+[2024.12.19-09.33.12:561][972]LogShaderCompilers: Display: RAM used: 1,41 MiB of 819,20 MiB budget. Usage: 0.17%
+[2024.12.19-09.33.12:561][972]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.12.19-09.33.12:561][972]LogShaderCompilers: Display: Shaders Compiled: 25
+[2024.12.19-09.33.12:561][972]LogShaderCompilers: Display: Jobs assigned 28, completed 25 (89.29%)
+[2024.12.19-09.33.12:561][972]LogShaderCompilers: Display: Average time worker was idle: 1011.51 s
+[2024.12.19-09.33.12:561][972]LogShaderCompilers: Display: Time job spent in pending queue: average 0.12 s, longest 0.77 s
+[2024.12.19-09.33.12:561][972]LogShaderCompilers: Display: Job execution time: average 0.80 s, max 1.13 s
+[2024.12.19-09.33.12:561][972]LogShaderCompilers: Display: Job life time (pending + execution): average 0.92 s, max 1.18
+[2024.12.19-09.33.12:562][972]LogShaderCompilers: Display: Shader code size: average 39,76 KiB, min 31,836 KiB, max 61,465 KiB
+[2024.12.19-09.33.12:562][972]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 4.62 s
+[2024.12.19-09.33.12:562][972]LogShaderCompilers: Display: Jobs were issued in 28 batches (only local compilation was used), average 1.00 jobs/batch
+[2024.12.19-09.33.12:562][972]LogShaderCompilers: Display: Average processing rate: 5.41 jobs/sec
+[2024.12.19-09.33.12:562][972]LogShaderCompilers: Display: Total thread time: 11,906 s
+[2024.12.19-09.33.12:562][972]LogShaderCompilers: Display: Total thread preprocess time: 1,36 s
+[2024.12.19-09.33.12:562][972]LogShaderCompilers: Display: Percentage time preprocessing: 11.42%
+[2024.12.19-09.33.12:562][972]LogShaderCompilers: Display: Effective parallelization: 2.58 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2024.12.19-09.33.12:562][972]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2024.12.19-09.33.12:562][972]LogShaderCompilers: Display: TBasePassPSFPrecomputedVolumetricLightmapLightingPolicySkylight (compiled    1 times, average 0.58 sec, max 0.58 sec, min 0.58 sec)
+[2024.12.19-09.33.12:562][972]LogShaderCompilers: Display:                                                 FLumenCardVS (compiled    2 times, average 0.58 sec, max 0.69 sec, min 0.47 sec)
+[2024.12.19-09.33.12:562][972]LogShaderCompilers: Display:        TBasePassPSFCachedPointIndirectLightingPolicySkylight (compiled    1 times, average 0.58 sec, max 0.58 sec, min 0.58 sec)
+[2024.12.19-09.33.12:562][972]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy (compiled    4 times, average 0.57 sec, max 0.64 sec, min 0.47 sec)
+[2024.12.19-09.33.12:562][972]LogShaderCompilers: Display:                TBasePassPSFCachedPointIndirectLightingPolicy (compiled    1 times, average 0.57 sec, max 0.57 sec, min 0.57 sec)
+[2024.12.19-09.33.12:562][972]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2024.12.19-09.33.12:562][972]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 19.24% of total time (compiled    4 times, average 0.57 sec, max 0.64 sec, min 0.47 sec)
+[2024.12.19-09.33.12:562][972]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 18.74% of total time (compiled    4 times, average 0.56 sec, max 0.71 sec, min 0.48 sec)
+[2024.12.19-09.33.12:562][972]LogShaderCompilers: Display:                                                 FLumenCardVS - 9.76% of total time (compiled    2 times, average 0.58 sec, max 0.69 sec, min 0.47 sec)
+[2024.12.19-09.33.12:562][972]LogShaderCompilers: Display:                                          FLumenCardPS<false> - 6.39% of total time (compiled    3 times, average 0.25 sec, max 0.32 sec, min 0.20 sec)
+[2024.12.19-09.33.12:562][972]LogShaderCompilers: Display: TBasePassPSFPrecomputedVolumetricLightmapLightingPolicySkylight - 4.90% of total time (compiled    1 times, average 0.58 sec, max 0.58 sec, min 0.58 sec)
+[2024.12.19-09.33.12:562][972]LogShaderCompilers: Display: ================================================
+[2024.12.19-09.33.12:591][973]MaterialEditorStats: Texture samplers: 1/16
+[2024.12.19-09.33.12:591][973]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2024.12.19-09.33.12:591][973]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.12.19-09.33.12:591][973]MaterialEditorStats: Shader Count: 1
+[2024.12.19-09.33.12:888][983]MaterialEditorStats: Base pass shader: 195 instructions
+[2024.12.19-09.33.12:888][983]MaterialEditorStats: Texture samplers: 3/16
+[2024.12.19-09.33.12:888][983]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2024.12.19-09.33.12:888][983]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.12.19-09.33.12:888][983]MaterialEditorStats: Shader Count: 3
+[2024.12.19-09.33.12:984][987]MaterialEditorStats: Base pass shader: 195 instructions
+[2024.12.19-09.33.12:984][987]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2024.12.19-09.33.12:984][987]MaterialEditorStats: Texture samplers: 3/16
+[2024.12.19-09.33.12:984][987]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2024.12.19-09.33.12:984][987]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.12.19-09.33.12:984][987]MaterialEditorStats: Shader Count: 4
+[2024.12.19-09.33.13:196][993]MaterialEditorStats: Texture samplers: 0/16
+[2024.12.19-09.33.13:196][993]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2024.12.19-09.33.13:196][993]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.12.19-09.33.13:196][993]MaterialEditorStats: Shader Count: 0
+[2024.12.19-09.33.13:647][  8]MaterialEditorStats: Texture samplers: 1/16
+[2024.12.19-09.33.13:647][  8]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2024.12.19-09.33.13:647][  8]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.12.19-09.33.13:647][  8]MaterialEditorStats: Shader Count: 1
+[2024.12.19-09.33.13:850][ 15]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2024.12.19-09.33.13:850][ 15]MaterialEditorStats: Texture samplers: 1/16
+[2024.12.19-09.33.13:850][ 15]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2024.12.19-09.33.13:850][ 15]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.12.19-09.33.13:850][ 15]MaterialEditorStats: Shader Count: 3
+[2024.12.19-09.33.13:948][ 19]MaterialEditorStats: Base pass shader: 195 instructions
+[2024.12.19-09.33.13:948][ 19]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2024.12.19-09.33.13:948][ 19]MaterialEditorStats: Texture samplers: 3/16
+[2024.12.19-09.33.13:948][ 19]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2024.12.19-09.33.13:948][ 19]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.12.19-09.33.13:948][ 19]MaterialEditorStats: Shader Count: 4
+[2024.12.19-09.33.19:502][251]LogMaterialEditor: Applying material M_Tapisserie
+[2024.12.19-09.33.19:561][251]LogUObjectHash: Compacting FUObjectHashTables data took   0.90ms
+[2024.12.19-09.33.20:259][251]LogUObjectHash: Compacting FUObjectHashTables data took   0.30ms
+[2024.12.19-09.33.27:797][563]MaterialEditorStats: Texture samplers: 0/16
+[2024.12.19-09.33.27:797][563]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2024.12.19-09.33.27:797][563]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.12.19-09.33.27:797][563]MaterialEditorStats: Shader Count: 0
+[2024.12.19-09.33.28:281][579]MaterialEditorStats: Texture samplers: 1/16
+[2024.12.19-09.33.28:281][579]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2024.12.19-09.33.28:281][579]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.12.19-09.33.28:281][579]MaterialEditorStats: Shader Count: 1
+[2024.12.19-09.33.28:473][585]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2024.12.19-09.33.28:473][585]MaterialEditorStats: Texture samplers: 1/16
+[2024.12.19-09.33.28:473][585]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2024.12.19-09.33.28:473][585]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.12.19-09.33.28:473][585]MaterialEditorStats: Shader Count: 3
+[2024.12.19-09.33.28:597][589]MaterialEditorStats: Base pass shader: 195 instructions
+[2024.12.19-09.33.28:597][589]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2024.12.19-09.33.28:597][589]MaterialEditorStats: Texture samplers: 3/16
+[2024.12.19-09.33.28:597][589]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2024.12.19-09.33.28:597][589]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.12.19-09.33.28:597][589]MaterialEditorStats: Shader Count: 4
+[2024.12.19-09.33.29:879][640]MaterialEditorStats: Texture samplers: 0/16
+[2024.12.19-09.33.29:879][640]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2024.12.19-09.33.29:879][640]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.12.19-09.33.29:879][640]MaterialEditorStats: Shader Count: 0
+[2024.12.19-09.33.30:341][656]MaterialEditorStats: Texture samplers: 1/16
+[2024.12.19-09.33.30:341][656]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2024.12.19-09.33.30:341][656]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.12.19-09.33.30:341][656]MaterialEditorStats: Shader Count: 1
+[2024.12.19-09.33.30:660][667]MaterialEditorStats: Base pass shader: 195 instructions
+[2024.12.19-09.33.30:660][667]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2024.12.19-09.33.30:660][667]MaterialEditorStats: Texture samplers: 3/16
+[2024.12.19-09.33.30:660][667]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2024.12.19-09.33.30:660][667]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.12.19-09.33.30:660][667]MaterialEditorStats: Shader Count: 4
+[2024.12.19-09.33.31:166][686]LogMaterialEditor: Applying material M_Tapisserie
+[2024.12.19-09.33.31:226][686]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2024.12.19-09.33.31:820][686]LogUObjectHash: Compacting FUObjectHashTables data took   0.32ms
+[2024.12.19-09.33.32:301][705]LogMaterialEditor: Saving and Compiling material M_Tapisserie
+[2024.12.19-09.33.32:305][705]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.12.19-09.33.33:508][705]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Materials/Buildings/M_Tapisserie" FILE="E:/YNOV/B3/Escape/Prod/EscapeUE5/Escape/Content/Assets/Materials/Buildings/M_Tapisserie.uasset" SILENT=true
+[2024.12.19-09.33.33:521][705]LogSavePackage: Moving output files for package: /Game/Assets/Materials/Buildings/M_Tapisserie
+[2024.12.19-09.33.33:523][705]LogSavePackage: Moving 'E:/YNOV/B3/Escape/Prod/EscapeUE5/Escape/Saved/M_TapisserieD1956B694EF273D1DE8E3ABFBDB2E167.tmp' to 'E:/YNOV/B3/Escape/Prod/EscapeUE5/Escape/Content/Assets/Materials/Buildings/M_Tapisserie.uasset'
+[2024.12.19-09.33.33:539][705]LogFileHelpers: InternalPromptForCheckoutAndSave took 1.23 sec (total: 6.76 sec)
+[2024.12.19-09.33.33:540][705]AssetCheck: New page: Asset Save: M_Tapisserie
+[2024.12.19-09.33.33:540][705]LogContentValidation: Display: Validating /Script/Engine.Material /Game/Assets/Materials/Buildings/M_Tapisserie.M_Tapisserie
+[2024.12.19-09.33.33:541][705]MaterialEditorStats: Base pass shader: 195 instructions
+[2024.12.19-09.33.33:541][705]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2024.12.19-09.33.33:541][705]MaterialEditorStats: MaxSampler: 244 instructions
+[2024.12.19-09.33.33:541][705]MaterialEditorStats: Texture samplers: 4/16
+[2024.12.19-09.33.33:541][705]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2024.12.19-09.33.33:541][705]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.12.19-09.33.33:541][705]MaterialEditorStats: Shader Count: 16
+[2024.12.19-09.33.33:721][711]LogSlate: Window 'M_Tapisserie' being destroyed
+[2024.12.19-09.33.33:798][711]LogWorld: UWorld::CleanupWorld for World_13, bSessionEnded=true, bCleanupResources=true
+[2024.12.19-09.33.33:798][711]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.19-09.33.41:973][152]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@Cine] File [Scalability]
+[2024.12.19-09.33.41:973][152]LogConfig: Set CVar [[r.SkeletalMeshLODBias:0]]
+[2024.12.19-09.33.41:973][152]LogConfig: Set CVar [[r.ViewDistanceScale:10.0]]
+[2024.12.19-09.33.41:973][152]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@Cine] File [Scalability]
+[2024.12.19-09.33.41:973][152]LogConfig: Set CVar [[r.FXAA.Quality:5]]
+[2024.12.19-09.33.41:973][152]LogConfig: Set CVar [[r.TemporalAA.Quality:2]]
+[2024.12.19-09.33.41:973][152]LogConfig: Set CVar [[r.TSR.History.R11G11B10:0]]
+[2024.12.19-09.33.41:973][152]LogConfig: Set CVar [[r.TSR.History.ScreenPercentage:200]]
+[2024.12.19-09.33.41:973][152]LogConfig: Set CVar [[r.TSR.History.UpdateQuality:3]]
+[2024.12.19-09.33.41:973][152]LogConfig: Set CVar [[r.TSR.ShadingRejection.Flickering:1]]
+[2024.12.19-09.33.41:973][152]LogConfig: Set CVar [[r.TSR.ShadingRejection.TileOverscan:3]]
+[2024.12.19-09.33.41:973][152]LogConfig: CVar [[r.TSR.Velocity.Extrapolation:1]] deferred - dummy variable created
+[2024.12.19-09.33.41:973][152]LogConfig: Set CVar [[r.TSR.RejectionAntiAliasingQuality:2]]
+[2024.12.19-09.33.41:973][152]LogConfig: Applying CVar settings from Section [ShadowQuality@Cine] File [Scalability]
+[2024.12.19-09.33.41:973][152]LogConfig: Set CVar [[r.LightFunctionQuality:1]]
+[2024.12.19-09.33.41:973][152]LogConfig: Set CVar [[r.ShadowQuality:5]]
+[2024.12.19-09.33.41:973][152]LogConfig: Set CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2024.12.19-09.33.41:973][152]LogConfig: Set CVar [[r.Shadow.MaxResolution:4096]]
+[2024.12.19-09.33.41:973][152]LogConfig: Set CVar [[r.Shadow.MaxCSMResolution:4096]]
+[2024.12.19-09.33.41:973][152]LogConfig: Set CVar [[r.Shadow.RadiusThreshold:0]]
+[2024.12.19-09.33.41:973][152]LogConfig: Set CVar [[r.Shadow.DistanceScale:1.0]]
+[2024.12.19-09.33.41:973][152]LogConfig: Set CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2024.12.19-09.33.41:973][152]LogConfig: Set CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2024.12.19-09.33.41:973][152]LogConfig: Set CVar [[r.DistanceFieldShadowing:1]]
+[2024.12.19-09.33.41:973][152]LogConfig: Set CVar [[r.VolumetricFog:1]]
+[2024.12.19-09.33.41:973][152]LogConfig: Set CVar [[r.VolumetricFog.GridPixelSize:4]]
+[2024.12.19-09.33.41:973][152]LogConfig: Set CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2024.12.19-09.33.41:973][152]LogConfig: Set CVar [[r.VolumetricFog.HistoryMissSupersampleCount:16]]
+[2024.12.19-09.33.41:973][152]LogConfig: Set CVar [[r.LightMaxDrawDistanceScale:1]]
+[2024.12.19-09.33.41:973][152]LogConfig: Set CVar [[r.CapsuleShadows:1]]
+[2024.12.19-09.33.41:973][152]LogConfig: Set CVar [[r.Shadow.Virtual.MaxPhysicalPages:8192]]
+[2024.12.19-09.33.41:973][152]LogConfig: Set CVar [[r.Shadow.Virtual.ResolutionLodBiasDirectional:-1.5]]
+[2024.12.19-09.33.41:973][152]LogConfig: Set CVar [[r.Shadow.Virtual.ResolutionLodBiasDirectionalMoving:-1.5]]
+[2024.12.19-09.33.41:973][152]LogConfig: Set CVar [[r.Shadow.Virtual.ResolutionLodBiasLocal:0.0]]
+[2024.12.19-09.33.41:973][152]LogConfig: Set CVar [[r.Shadow.Virtual.ResolutionLodBiasLocalMoving:0.0]]
+[2024.12.19-09.33.41:973][152]LogConfig: Set CVar [[r.Shadow.Virtual.SMRT.RayCountDirectional:16]]
+[2024.12.19-09.33.41:973][152]LogConfig: Set CVar [[r.Shadow.Virtual.SMRT.SamplesPerRayDirectional:8]]
+[2024.12.19-09.33.41:973][152]LogConfig: Set CVar [[r.Shadow.Virtual.SMRT.RayCountLocal:16]]
+[2024.12.19-09.33.41:973][152]LogConfig: Set CVar [[r.Shadow.Virtual.SMRT.SamplesPerRayLocal:8]]
+[2024.12.19-09.33.41:973][152]LogConfig: Applying CVar settings from Section [GlobalIlluminationQuality@Cine] File [Scalability]
+[2024.12.19-09.33.41:974][152]LogConfig: Set CVar [[r.DistanceFieldAO:1]]
+[2024.12.19-09.33.41:974][152]LogConfig: Set CVar [[r.AOQuality:2]]
+[2024.12.19-09.33.41:974][152]LogConfig: Set CVar [[r.Lumen.DiffuseIndirect.Allow:1]]
+[2024.12.19-09.33.41:974][152]LogConfig: Set CVar [[r.LumenScene.Radiosity.ProbeSpacing:4]]
+[2024.12.19-09.33.41:974][152]LogConfig: Set CVar [[r.LumenScene.Radiosity.HemisphereProbeResolution:4]]
+[2024.12.19-09.33.41:974][152]LogConfig: Set CVar [[r.Lumen.TraceMeshSDFs.Allow:1]]
+[2024.12.19-09.33.41:974][152]LogConfig: Set CVar [[r.Lumen.ScreenProbeGather.RadianceCache.ProbeResolution:32]]
+[2024.12.19-09.33.41:974][152]LogConfig: Set CVar [[r.Lumen.ScreenProbeGather.RadianceCache.NumProbesToTraceBudget:1000]]
+[2024.12.19-09.33.41:974][152]LogConfig: Set CVar [[r.Lumen.ScreenProbeGather.DownsampleFactor:8]]
+[2024.12.19-09.33.41:974][152]LogConfig: Set CVar [[r.Lumen.ScreenProbeGather.TracingOctahedronResolution:16]]
+[2024.12.19-09.33.41:974][152]LogConfig: Set CVar [[r.Lumen.ScreenProbeGather.IrradianceFormat:0]]
+[2024.12.19-09.33.41:974][152]LogConfig: Set CVar [[r.Lumen.ScreenProbeGather.StochasticInterpolation:0]]
+[2024.12.19-09.33.41:974][152]LogConfig: Set CVar [[r.Lumen.ScreenProbeGather.FullResolutionJitterWidth:.5]]
+[2024.12.19-09.33.41:974][152]LogConfig: Set CVar [[r.Lumen.ScreenProbeGather.TwoSidedFoliageBackfaceDiffuse:1]]
+[2024.12.19-09.33.41:974][152]LogConfig: Set CVar [[r.Lumen.ScreenProbeGather.ScreenTraces.HZBTraversal.FullResDepth:1]]
+[2024.12.19-09.33.41:974][152]LogConfig: Set CVar [[r.Lumen.TranslucencyVolume.GridPixelSize:32]]
+[2024.12.19-09.33.41:974][152]LogConfig: Set CVar [[r.Lumen.TranslucencyVolume.TraceFromVolume:1]]
+[2024.12.19-09.33.41:974][152]LogConfig: Set CVar [[r.Lumen.TranslucencyVolume.TracingOctahedronResolution:4]]
+[2024.12.19-09.33.41:974][152]LogConfig: Set CVar [[r.Lumen.TranslucencyVolume.RadianceCache.ProbeResolution:16]]
+[2024.12.19-09.33.41:974][152]LogConfig: Set CVar [[r.Lumen.TranslucencyVolume.RadianceCache.NumProbesToTraceBudget:1000]]
+[2024.12.19-09.33.41:974][152]LogConfig: Applying CVar settings from Section [ReflectionQuality@Cine] File [Scalability]
+[2024.12.19-09.33.41:974][152]LogConfig: Set CVar [[r.SSR.Quality:4]]
+[2024.12.19-09.33.41:974][152]LogConfig: Set CVar [[r.SSR.HalfResSceneColor:0]]
+[2024.12.19-09.33.41:974][152]LogConfig: Set CVar [[r.Lumen.Reflections.Allow:1]]
+[2024.12.19-09.33.41:974][152]LogConfig: Set CVar [[r.Lumen.Reflections.DownsampleFactor:1]]
+[2024.12.19-09.33.41:974][152]LogConfig: Set CVar [[r.Lumen.Reflections.MaxRoughnessToTraceForFoliage:0.4]]
+[2024.12.19-09.33.41:974][152]LogConfig: Set CVar [[r.Lumen.Reflections.ScreenSpaceReconstruction.TonemapStrength:0]]
+[2024.12.19-09.33.41:974][152]LogConfig: Set CVar [[r.Lumen.TranslucencyReflections.FrontLayer.Allow:1]]
+[2024.12.19-09.33.41:974][152]LogConfig: Set CVar [[r.Lumen.TranslucencyReflections.FrontLayer.Enable:1]]
+[2024.12.19-09.33.41:974][152]LogConfig: Applying CVar settings from Section [PostProcessQuality@Cine] File [Scalability]
+[2024.12.19-09.33.41:974][152]LogConfig: Set CVar [[r.MotionBlurQuality:4]]
+[2024.12.19-09.33.41:974][152]LogConfig: Set CVar [[r.MotionBlur.HalfResGather:0]]
+[2024.12.19-09.33.41:974][152]LogConfig: Set CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2024.12.19-09.33.41:974][152]LogConfig: Set CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2024.12.19-09.33.41:974][152]LogConfig: Set CVar [[r.AmbientOcclusionLevels:-1]]
+[2024.12.19-09.33.41:974][152]LogConfig: Set CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2024.12.19-09.33.41:974][152]LogConfig: Set CVar [[r.GTAO.Numangles:4]]
+[2024.12.19-09.33.41:974][152]LogConfig: Set CVar [[r.DepthOfFieldQuality:4]]
+[2024.12.19-09.33.41:974][152]LogConfig: Set CVar [[r.RenderTargetPoolMin:1000]]
+[2024.12.19-09.33.41:974][152]LogConfig: Set CVar [[r.LensFlareQuality:3]]
+[2024.12.19-09.33.41:974][152]LogConfig: Set CVar [[r.SceneColorFringeQuality:1]]
+[2024.12.19-09.33.41:974][152]LogConfig: Set CVar [[r.BloomQuality:5]]
+[2024.12.19-09.33.41:974][152]LogConfig: Set CVar [[r.Bloom.ScreenPercentage:100]]
+[2024.12.19-09.33.41:974][152]LogConfig: Set CVar [[r.FastBlurThreshold:100]]
+[2024.12.19-09.33.41:974][152]LogConfig: Set CVar [[r.Upscale.Quality:3]]
+[2024.12.19-09.33.41:974][152]LogConfig: Set CVar [[r.LightShaftQuality:1]]
+[2024.12.19-09.33.41:974][152]LogConfig: Set CVar [[r.Filter.SizeScale:1]]
+[2024.12.19-09.33.41:974][152]LogConfig: Set CVar [[r.Tonemapper.Quality:5]]
+[2024.12.19-09.33.41:974][152]LogConfig: Set CVar [[r.DOF.Gather.ResolutionDivisor:1         ; do the gathering at full resolution]]
+[2024.12.19-09.33.41:974][152]LogConfig: Set CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2024.12.19-09.33.41:974][152]LogConfig: Set CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2024.12.19-09.33.41:974][152]LogConfig: Set CVar [[r.DOF.Gather.EnableBokehSettings:1       ; bokeh simulation when gathering]]
+[2024.12.19-09.33.41:974][152]LogConfig: Set CVar [[r.DOF.Gather.RingCount:5                 ; high number of samples when gathering]]
+[2024.12.19-09.33.41:974][152]LogConfig: Set CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; background scattering occlusion]]
+[2024.12.19-09.33.41:974][152]LogConfig: Set CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; no bokeh simulation when scattering]]
+[2024.12.19-09.33.41:974][152]LogConfig: Set CVar [[r.DOF.Scatter.MaxSpriteRatio:0.25        ; only a maximum of 10% of scattered bokeh]]
+[2024.12.19-09.33.41:974][152]LogConfig: Set CVar [[r.DOF.Recombine.Quality:2                ; highest slight out of focus]]
+[2024.12.19-09.33.41:974][152]LogConfig: Set CVar [[r.DOF.Recombine.EnableBokehSettings:1    ; bokeh simulation on slight out of focus]]
+[2024.12.19-09.33.41:974][152]LogConfig: Set CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2024.12.19-09.33.41:974][152]LogConfig: Set CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2024.12.19-09.33.41:974][152]LogConfig: Set CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2024.12.19-09.33.41:974][152]LogConfig: Applying CVar settings from Section [TextureQuality@Cine] File [Scalability]
+[2024.12.19-09.33.41:974][152]LogConfig: Set CVar [[r.Streaming.MipBias:0]]
+[2024.12.19-09.33.41:974][152]LogConfig: Set CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2024.12.19-09.33.41:974][152]LogConfig: Set CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2024.12.19-09.33.41:974][152]LogConfig: Set CVar [[r.Streaming.Boost:1]]
+[2024.12.19-09.33.41:974][152]LogConfig: Set CVar [[r.MaxAnisotropy:8]]
+[2024.12.19-09.33.41:974][152]LogConfig: Set CVar [[r.VT.MaxAnisotropy:8]]
+[2024.12.19-09.33.41:974][152]LogConfig: Set CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2024.12.19-09.33.41:974][152]LogConfig: Set CVar [[r.Streaming.PoolSize:3000]]
+[2024.12.19-09.33.41:974][152]LogConfig: Applying CVar settings from Section [EffectsQuality@Cine] File [Scalability]
+[2024.12.19-09.33.41:974][152]LogConfig: Set CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2024.12.19-09.33.41:974][152]LogConfig: Set CVar [[r.RefractionQuality:2]]
+[2024.12.19-09.33.41:974][152]LogConfig: Set CVar [[r.SceneColorFormat:4]]
+[2024.12.19-09.33.41:974][152]LogConfig: Set CVar [[r.DetailMode:2]]
+[2024.12.19-09.33.41:974][152]LogConfig: Set CVar [[r.TranslucencyVolumeBlur:1]]
+[2024.12.19-09.33.41:974][152]LogConfig: Set CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2024.12.19-09.33.41:974][152]LogConfig: Set CVar [[r.SSS.Scale:1]]
+[2024.12.19-09.33.41:974][152]LogConfig: Set CVar [[r.SSS.SampleSet:2]]
+[2024.12.19-09.33.41:974][152]LogConfig: Set CVar [[r.SSS.Quality:1]]
+[2024.12.19-09.33.41:974][152]LogConfig: Set CVar [[r.SSS.HalfRes:0]]
+[2024.12.19-09.33.41:974][152]LogConfig: Set CVar [[r.SSGI.Quality:4]]
+[2024.12.19-09.33.41:974][152]LogConfig: Set CVar [[r.EmitterSpawnRateScale:1.0]]
+[2024.12.19-09.33.41:974][152]LogConfig: Set CVar [[r.ParticleLightQuality:2]]
+[2024.12.19-09.33.41:974][152]LogConfig: Set CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:0]]
+[2024.12.19-09.33.41:974][152]LogConfig: Set CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:8]]
+[2024.12.19-09.33.41:974][152]LogConfig: Set CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:32.0]]
+[2024.12.19-09.33.41:974][152]LogConfig: Set CVar [[r.SkyAtmosphere.FastSkyLUT:0]]
+[2024.12.19-09.33.41:974][152]LogConfig: Set CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2024.12.19-09.33.41:974][152]LogConfig: Set CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:256.0]]
+[2024.12.19-09.33.41:974][152]LogConfig: Set CVar [[r.SkyAtmosphere.SampleCountMin:8.0]]
+[2024.12.19-09.33.41:974][152]LogConfig: Set CVar [[r.SkyAtmosphere.SampleCountMax:256.0]]
+[2024.12.19-09.33.41:974][152]LogConfig: Set CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2024.12.19-09.33.41:974][152]LogConfig: Set CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:30.0]]
+[2024.12.19-09.33.41:974][152]LogConfig: Set CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:20.0]]
+[2024.12.19-09.33.41:974][152]LogConfig: Set CVar [[r.SkyLight.RealTimeReflectionCapture:1]]
+[2024.12.19-09.33.41:974][152]LogConfig: Set CVar [[fx.Niagara.QualityLevel:4]]
+[2024.12.19-09.33.41:974][152]LogConfig: Applying CVar settings from Section [FoliageQuality@Cine] File [Scalability]
+[2024.12.19-09.33.41:974][152]LogConfig: Set CVar [[foliage.DensityScale:1.0]]
+[2024.12.19-09.33.41:975][152]LogConfig: Set CVar [[grass.DensityScale:1.0]]
+[2024.12.19-09.33.41:975][152]LogConfig: Applying CVar settings from Section [ShadingQuality@Cine] File [Scalability]
+[2024.12.19-09.33.41:975][152]LogConfig: Set CVar [[r.HairStrands.SkyLighting.IntegrationType:1]]
+[2024.12.19-09.33.41:975][152]LogConfig: Set CVar [[r.HairStrands.SkyAO.SampleCount:8]]
+[2024.12.19-09.33.41:975][152]LogConfig: Set CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:8]]
+[2024.12.19-09.33.41:975][152]LogConfig: Set CVar [[r.AnisotropicMaterials:1]]
+[2024.12.19-09.33.42:101][152]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2024.12.19-09.33.45:162][154]LogContentStreaming: Texture pool size now 3000 MB
+[2024.12.19-09.33.46:244][155]LogSlate: Took 0.000997 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2024.12.19-09.34.13:189][399]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@0] File [Scalability]
+[2024.12.19-09.34.13:191][399]LogConfig: Set CVar [[r.SkeletalMeshLODBias:2]]
+[2024.12.19-09.34.13:191][399]LogConfig: Set CVar [[r.ViewDistanceScale:0.4]]
+[2024.12.19-09.34.13:191][399]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@0] File [Scalability]
+[2024.12.19-09.34.13:191][399]LogConfig: Set CVar [[r.FXAA.Quality:0]]
+[2024.12.19-09.34.13:191][399]LogConfig: Set CVar [[r.TemporalAA.Quality:0]]
+[2024.12.19-09.34.13:191][399]LogConfig: Set CVar [[r.TSR.History.R11G11B10:1]]
+[2024.12.19-09.34.13:191][399]LogConfig: Set CVar [[r.TSR.History.ScreenPercentage:100]]
+[2024.12.19-09.34.13:191][399]LogConfig: Set CVar [[r.TSR.History.UpdateQuality:0]]
+[2024.12.19-09.34.13:191][399]LogConfig: Set CVar [[r.TSR.ShadingRejection.Flickering:0]]
+[2024.12.19-09.34.13:191][399]LogConfig: Set CVar [[r.TSR.ShadingRejection.TileOverscan:2]]
+[2024.12.19-09.34.13:191][399]LogConfig: CVar [[r.TSR.Velocity.Extrapolation:0]] deferred - dummy variable created
+[2024.12.19-09.34.13:191][399]LogConfig: Set CVar [[r.TSR.RejectionAntiAliasingQuality:0]]
+[2024.12.19-09.34.13:191][399]LogConfig: Applying CVar settings from Section [ShadowQuality@0] File [Scalability]
+[2024.12.19-09.34.13:191][399]LogConfig: Set CVar [[r.LightFunctionQuality:0]]
+[2024.12.19-09.34.13:191][399]LogConfig: Set CVar [[r.ShadowQuality:0]]
+[2024.12.19-09.34.13:191][399]LogConfig: Set CVar [[r.Shadow.CSM.MaxCascades:1]]
+[2024.12.19-09.34.13:191][399]LogConfig: Set CVar [[r.Shadow.MaxResolution:512]]
+[2024.12.19-09.34.13:191][399]LogConfig: Set CVar [[r.Shadow.MaxCSMResolution:512]]
+[2024.12.19-09.34.13:191][399]LogConfig: Set CVar [[r.Shadow.RadiusThreshold:0.06]]
+[2024.12.19-09.34.13:191][399]LogConfig: Set CVar [[r.Shadow.DistanceScale:0.6]]
+[2024.12.19-09.34.13:191][399]LogConfig: Set CVar [[r.Shadow.CSM.TransitionScale:0]]
+[2024.12.19-09.34.13:191][399]LogConfig: Set CVar [[r.Shadow.PreShadowResolutionFactor:0.5]]
+[2024.12.19-09.34.13:191][399]LogConfig: Set CVar [[r.DistanceFieldShadowing:0]]
+[2024.12.19-09.34.13:191][399]LogConfig: Set CVar [[r.VolumetricFog:0]]
+[2024.12.19-09.34.13:191][399]LogConfig: Set CVar [[r.LightMaxDrawDistanceScale:0]]
+[2024.12.19-09.34.13:191][399]LogConfig: Set CVar [[r.CapsuleShadows:0]]
+[2024.12.19-09.34.13:191][399]LogConfig: Set CVar [[r.Shadow.Virtual.MaxPhysicalPages:512]]
+[2024.12.19-09.34.13:191][399]LogConfig: Set CVar [[r.Shadow.Virtual.ResolutionLodBiasDirectional:0.0]]
+[2024.12.19-09.34.13:191][399]LogConfig: Set CVar [[r.Shadow.Virtual.ResolutionLodBiasDirectionalMoving:0.0]]
+[2024.12.19-09.34.13:191][399]LogConfig: Set CVar [[r.Shadow.Virtual.ResolutionLodBiasLocal:1.0]]
+[2024.12.19-09.34.13:191][399]LogConfig: Set CVar [[r.Shadow.Virtual.ResolutionLodBiasLocalMoving:2.0]]
+[2024.12.19-09.34.13:191][399]LogConfig: Set CVar [[r.Shadow.Virtual.SMRT.RayCountDirectional:0]]
+[2024.12.19-09.34.13:191][399]LogConfig: Set CVar [[r.Shadow.Virtual.SMRT.SamplesPerRayDirectional:2]]
+[2024.12.19-09.34.13:191][399]LogConfig: Set CVar [[r.Shadow.Virtual.SMRT.RayCountLocal:0]]
+[2024.12.19-09.34.13:191][399]LogConfig: Set CVar [[r.Shadow.Virtual.SMRT.SamplesPerRayLocal:2]]
+[2024.12.19-09.34.13:191][399]LogConfig: Applying CVar settings from Section [GlobalIlluminationQuality@0] File [Scalability]
+[2024.12.19-09.34.13:191][399]LogConfig: Set CVar [[r.DistanceFieldAO:0]]
+[2024.12.19-09.34.13:191][399]LogConfig: Set CVar [[r.Lumen.DiffuseIndirect.Allow:0]]
+[2024.12.19-09.34.13:191][399]LogConfig: Applying CVar settings from Section [ReflectionQuality@0] File [Scalability]
+[2024.12.19-09.34.13:191][399]LogConfig: Set CVar [[r.SSR.Quality:0]]
+[2024.12.19-09.34.13:191][399]LogConfig: Set CVar [[r.SSR.HalfResSceneColor:1]]
+[2024.12.19-09.34.13:191][399]LogConfig: Set CVar [[r.Lumen.Reflections.Allow:0]]
+[2024.12.19-09.34.13:191][399]LogConfig: Applying CVar settings from Section [PostProcessQuality@0] File [Scalability]
+[2024.12.19-09.34.13:191][399]LogConfig: Set CVar [[r.MotionBlurQuality:0]]
+[2024.12.19-09.34.13:191][399]LogConfig: Set CVar [[r.MotionBlur.HalfResGather:1]]
+[2024.12.19-09.34.13:191][399]LogConfig: Set CVar [[r.AmbientOcclusionMipLevelFactor:1.0]]
+[2024.12.19-09.34.13:191][399]LogConfig: Set CVar [[r.AmbientOcclusionMaxQuality:0]]
+[2024.12.19-09.34.13:191][399]LogConfig: Set CVar [[r.AmbientOcclusionLevels:0]]
+[2024.12.19-09.34.13:191][399]LogConfig: Set CVar [[r.AmbientOcclusionRadiusScale:1.2]]
+[2024.12.19-09.34.13:191][399]LogConfig: Set CVar [[r.DepthOfFieldQuality:0]]
+[2024.12.19-09.34.13:191][399]LogConfig: Set CVar [[r.RenderTargetPoolMin:300]]
+[2024.12.19-09.34.13:191][399]LogConfig: Set CVar [[r.LensFlareQuality:0]]
+[2024.12.19-09.34.13:191][399]LogConfig: Set CVar [[r.SceneColorFringeQuality:0]]
+[2024.12.19-09.34.13:191][399]LogConfig: Set CVar [[r.BloomQuality:4]]
+[2024.12.19-09.34.13:191][399]LogConfig: Set CVar [[r.Bloom.ScreenPercentage:25.000]]
+[2024.12.19-09.34.13:191][399]LogConfig: Set CVar [[r.FastBlurThreshold:0]]
+[2024.12.19-09.34.13:191][399]LogConfig: Set CVar [[r.Upscale.Quality:1]]
+[2024.12.19-09.34.13:191][399]LogConfig: Set CVar [[r.LightShaftQuality:0]]
+[2024.12.19-09.34.13:191][399]LogConfig: Set CVar [[r.Filter.SizeScale:0.6]]
+[2024.12.19-09.34.13:191][399]LogConfig: Set CVar [[r.Tonemapper.Quality:0]]
+[2024.12.19-09.34.13:191][399]LogConfig: Applying CVar settings from Section [TextureQuality@0] File [Scalability]
+[2024.12.19-09.34.13:191][399]LogConfig: Set CVar [[r.Streaming.MipBias:16]]
+[2024.12.19-09.34.13:191][399]LogConfig: Set CVar [[r.Streaming.AmortizeCPUToGPUCopy:1]]
+[2024.12.19-09.34.13:191][399]LogConfig: Set CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:1]]
+[2024.12.19-09.34.13:191][399]LogConfig: Set CVar [[r.Streaming.Boost:0.3]]
+[2024.12.19-09.34.13:191][399]LogConfig: Set CVar [[r.MaxAnisotropy:0]]
+[2024.12.19-09.34.13:191][399]LogConfig: Set CVar [[r.VT.MaxAnisotropy:4]]
+[2024.12.19-09.34.13:191][399]LogConfig: Set CVar [[r.Streaming.LimitPoolSizeToVRAM:1]]
+[2024.12.19-09.34.13:191][399]LogConfig: Set CVar [[r.Streaming.PoolSize:400]]
+[2024.12.19-09.34.13:191][399]LogConfig: Applying CVar settings from Section [EffectsQuality@0] File [Scalability]
+[2024.12.19-09.34.13:191][399]LogConfig: Set CVar [[r.TranslucencyLightingVolumeDim:24]]
+[2024.12.19-09.34.13:191][399]LogConfig: Set CVar [[r.RefractionQuality:0]]
+[2024.12.19-09.34.13:191][399]LogConfig: Set CVar [[r.SceneColorFormat:3]]
+[2024.12.19-09.34.13:191][399]LogConfig: Set CVar [[r.DetailMode:0]]
+[2024.12.19-09.34.13:191][399]LogConfig: Set CVar [[r.TranslucencyVolumeBlur:0]]
+[2024.12.19-09.34.13:191][399]LogConfig: Set CVar [[r.MaterialQualityLevel:0 ; Low quality]]
+[2024.12.19-09.34.13:191][399]LogConfig: Set CVar [[r.SSS.Scale:0]]
+[2024.12.19-09.34.13:191][399]LogConfig: Set CVar [[r.SSS.SampleSet:0]]
+[2024.12.19-09.34.13:191][399]LogConfig: Set CVar [[r.SSS.Quality:0]]
+[2024.12.19-09.34.13:191][399]LogConfig: Set CVar [[r.SSS.HalfRes:1]]
+[2024.12.19-09.34.13:191][399]LogConfig: Set CVar [[r.SSGI.Quality:0]]
+[2024.12.19-09.34.13:191][399]LogConfig: Set CVar [[r.EmitterSpawnRateScale:0.125]]
+[2024.12.19-09.34.13:191][399]LogConfig: Set CVar [[r.ParticleLightQuality:0]]
+[2024.12.19-09.34.13:191][399]LogConfig: Set CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2024.12.19-09.34.13:191][399]LogConfig: Set CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:1]]
+[2024.12.19-09.34.13:191][399]LogConfig: Set CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:8.0]]
+[2024.12.19-09.34.13:191][399]LogConfig: Set CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2024.12.19-09.34.13:191][399]LogConfig: Set CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:2.0]]
+[2024.12.19-09.34.13:191][399]LogConfig: Set CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:16.0]]
+[2024.12.19-09.34.13:191][399]LogConfig: Set CVar [[r.SkyAtmosphere.SampleCountMin:2.0]]
+[2024.12.19-09.34.13:191][399]LogConfig: Set CVar [[r.SkyAtmosphere.SampleCountMax:16.0]]
+[2024.12.19-09.34.13:191][399]LogConfig: Set CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:1]]
+[2024.12.19-09.34.13:191][399]LogConfig: Set CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2024.12.19-09.34.13:191][399]LogConfig: Set CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2024.12.19-09.34.13:191][399]LogConfig: Set CVar [[r.SkyLight.RealTimeReflectionCapture:0]]
+[2024.12.19-09.34.13:191][399]LogConfig: Set CVar [[fx.Niagara.QualityLevel:0]]
+[2024.12.19-09.34.13:191][399]LogConfig: Applying CVar settings from Section [FoliageQuality@0] File [Scalability]
+[2024.12.19-09.34.13:191][399]LogConfig: Set CVar [[foliage.DensityScale:0]]
+[2024.12.19-09.34.13:192][399]LogConfig: Set CVar [[grass.DensityScale:0]]
+[2024.12.19-09.34.13:192][399]LogConfig: Applying CVar settings from Section [ShadingQuality@0] File [Scalability]
+[2024.12.19-09.34.13:192][399]LogConfig: Set CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2024.12.19-09.34.13:192][399]LogConfig: Set CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2024.12.19-09.34.13:192][399]LogConfig: Set CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:1]]
+[2024.12.19-09.34.13:192][399]LogConfig: Set CVar [[r.AnisotropicMaterials:0]]
+[2024.12.19-09.34.13:320][399]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2024.12.19-09.34.13:324][399]LogContentStreaming: Texture pool size now 400 MB
+[2024.12.19-09.34.13:458][401]LogRenderer: Display: Recreating Shadow.Virtual.PhysicalPagePool due to size or flags change. This will also drop any cached pages.
+[2024.12.19-09.34.15:974][493]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.12.19-09.34.16:104][493]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/LVL_Escape" FILE="E:/YNOV/B3/Escape/Prod/EscapeUE5/Escape/Content/Maps/LVL_Escape.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2024.12.19-09.34.16:197][493]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2024.12.19-09.34.17:665][493]LogSavePackage: Moving output files for package: /Game/Maps/LVL_Escape
+[2024.12.19-09.34.17:667][493]LogSavePackage: Moving 'E:/YNOV/B3/Escape/Prod/EscapeUE5/Escape/Saved/LVL_Escape25FB03BD4B2BBAF8DB81609C4D5ACC0B.tmp' to 'E:/YNOV/B3/Escape/Prod/EscapeUE5/Escape/Content/Maps/LVL_Escape.umap'
+[2024.12.19-09.34.17:694][493]LogFileHelpers: Saving map 'LVL_Escape' took 1.590
+[2024.12.19-09.34.17:705][493]LogFileHelpers: InternalPromptForCheckoutAndSave took 1.73 sec (total: 8.49 sec)
+[2024.12.19-09.34.17:707][493]AssetCheck: New page: Asset Save: LVL_Escape
+[2024.12.19-09.34.17:707][493]LogContentValidation: Display: Validating /Script/Engine.World /Game/Maps/LVL_Escape.LVL_Escape
+[2024.12.19-09.34.18:423][520]LogUObjectHash: Compacting FUObjectHashTables data took   0.91ms
+[2024.12.19-09.34.19:361][520]LogSlate: Window 'Save Content' being destroyed
+[2024.12.19-09.34.19:390][520]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.12.19-09.34.19:534][520]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Materials/Buildings/M_WoodWalls" FILE="E:/YNOV/B3/Escape/Prod/EscapeUE5/Escape/Content/Assets/Materials/Buildings/M_WoodWalls.uasset" SILENT=true
+[2024.12.19-09.34.19:546][520]LogSavePackage: Moving output files for package: /Game/Assets/Materials/Buildings/M_WoodWalls
+[2024.12.19-09.34.19:546][520]LogSavePackage: Moving 'E:/YNOV/B3/Escape/Prod/EscapeUE5/Escape/Saved/M_WoodWalls23CBC06E45BF2065777D92933AD46892.tmp' to 'E:/YNOV/B3/Escape/Prod/EscapeUE5/Escape/Content/Assets/Materials/Buildings/M_WoodWalls.uasset'
+[2024.12.19-09.34.19:571][520]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Meshes/Buildings/SM_Walls_SM_Wall_001" FILE="E:/YNOV/B3/Escape/Prod/EscapeUE5/Escape/Content/Assets/Meshes/Buildings/SM_Walls_SM_Wall_001.uasset" SILENT=true
+[2024.12.19-09.34.19:690][520]LogSavePackage: Moving output files for package: /Game/Assets/Meshes/Buildings/SM_Walls_SM_Wall_001
+[2024.12.19-09.34.19:693][520]LogSavePackage: Moving 'E:/YNOV/B3/Escape/Prod/EscapeUE5/Escape/Saved/SM_Walls_SM_Wall_00129622A384D9301BB02CC40B6554A75D9.tmp' to 'E:/YNOV/B3/Escape/Prod/EscapeUE5/Escape/Content/Assets/Meshes/Buildings/SM_Walls_SM_Wall_001.uasset'
+[2024.12.19-09.34.19:845][520]LogSavePackage: Moving output files for package: /Game/Assets/Meshes/Buildings/SM_Walls_SM_Wall_Door_001
+[2024.12.19-09.34.19:847][520]LogSavePackage: Moving 'E:/YNOV/B3/Escape/Prod/EscapeUE5/Escape/Saved/SM_Walls_SM_Wall_Door_001B338CB154A0F9750092F0EA9B78D0AD4.tmp' to 'E:/YNOV/B3/Escape/Prod/EscapeUE5/Escape/Content/Assets/Meshes/Buildings/SM_Walls_SM_Wall_Door_001.uasset'
+[2024.12.19-09.34.20:005][520]LogSavePackage: Moving output files for package: /Game/Assets/Meshes/Buildings/SM_Walls_SM_Wall_Door_002
+[2024.12.19-09.34.20:006][520]LogSavePackage: Moving 'E:/YNOV/B3/Escape/Prod/EscapeUE5/Escape/Saved/SM_Walls_SM_Wall_Door_0026A788C0343C0A2A03BB05B803E04551F.tmp' to 'E:/YNOV/B3/Escape/Prod/EscapeUE5/Escape/Content/Assets/Meshes/Buildings/SM_Walls_SM_Wall_Door_002.uasset'
+[2024.12.19-09.34.20:010][520]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Textures/Buildings/T_Walls/T_Tapisserie" FILE="E:/YNOV/B3/Escape/Prod/EscapeUE5/Escape/Content/Assets/Textures/Buildings/T_Walls/T_Tapisserie.uasset" SILENT=true
+[2024.12.19-09.34.20:133][520]LogSavePackage: Moving output files for package: /Game/Assets/Textures/Buildings/T_Walls/T_Tapisserie
+[2024.12.19-09.34.20:134][520]LogSavePackage: Moving 'E:/YNOV/B3/Escape/Prod/EscapeUE5/Escape/Saved/T_TapisserieDB8829874227C54CB3DDC189E9C2EEB4.tmp' to 'E:/YNOV/B3/Escape/Prod/EscapeUE5/Escape/Content/Assets/Textures/Buildings/T_Walls/T_Tapisserie.uasset'
+[2024.12.19-09.34.20:156][520]LogFileHelpers: InternalPromptForCheckoutAndSave took 765 ms (total: 9.25 sec)
+[2024.12.19-09.34.20:160][520]AssetCheck: New page: Asset Save: multiple assets
+[2024.12.19-09.34.20:160][520]LogContentValidation: Display: Validating /Script/Engine.Material /Game/Assets/Materials/Buildings/M_WoodWalls.M_WoodWalls
+[2024.12.19-09.34.20:160][520]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/Assets/Meshes/Buildings/SM_Walls_SM_Wall_001.SM_Walls_SM_Wall_001
+[2024.12.19-09.34.20:160][520]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/Assets/Meshes/Buildings/SM_Walls_SM_Wall_Door_001.SM_Walls_SM_Wall_Door_001
+[2024.12.19-09.34.20:160][520]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/Assets/Meshes/Buildings/SM_Walls_SM_Wall_Door_002.SM_Walls_SM_Wall_Door_002
+[2024.12.19-09.34.20:160][520]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Assets/Textures/Buildings/T_Walls/T_Tapisserie.T_Tapisserie
+[2024.12.19-09.34.41:940][759]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@2] File [Scalability]
+[2024.12.19-09.34.41:940][759]LogConfig: Set CVar [[r.SkeletalMeshLODBias:0]]
+[2024.12.19-09.34.41:940][759]LogConfig: Set CVar [[r.ViewDistanceScale:0.8]]
+[2024.12.19-09.34.41:940][759]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@2] File [Scalability]
+[2024.12.19-09.34.41:940][759]LogConfig: Set CVar [[r.FXAA.Quality:3]]
+[2024.12.19-09.34.41:940][759]LogConfig: Set CVar [[r.TemporalAA.Quality:1]]
+[2024.12.19-09.34.41:940][759]LogConfig: Set CVar [[r.TSR.History.UpdateQuality:2]]
+[2024.12.19-09.34.41:940][759]LogConfig: Set CVar [[r.TSR.ShadingRejection.Flickering:1]]
+[2024.12.19-09.34.41:940][759]LogConfig: Set CVar [[r.TSR.ShadingRejection.TileOverscan:3]]
+[2024.12.19-09.34.41:940][759]LogConfig: CVar [[r.TSR.Velocity.Extrapolation:0]] deferred - dummy variable created
+[2024.12.19-09.34.41:940][759]LogConfig: Set CVar [[r.TSR.RejectionAntiAliasingQuality:1]]
+[2024.12.19-09.34.41:940][759]LogConfig: Applying CVar settings from Section [ShadowQuality@2] File [Scalability]
+[2024.12.19-09.34.41:940][759]LogConfig: Set CVar [[r.LightFunctionQuality:1]]
+[2024.12.19-09.34.41:940][759]LogConfig: Set CVar [[r.ShadowQuality:5]]
+[2024.12.19-09.34.41:940][759]LogConfig: Set CVar [[r.Shadow.CSM.MaxCascades:4]]
+[2024.12.19-09.34.41:940][759]LogConfig: Set CVar [[r.Shadow.MaxResolution:1024]]
+[2024.12.19-09.34.41:940][759]LogConfig: Set CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2024.12.19-09.34.41:940][759]LogConfig: Set CVar [[r.Shadow.RadiusThreshold:0.04]]
+[2024.12.19-09.34.41:940][759]LogConfig: Set CVar [[r.Shadow.DistanceScale:0.85]]
+[2024.12.19-09.34.41:940][759]LogConfig: Set CVar [[r.Shadow.CSM.TransitionScale:0.8]]
+[2024.12.19-09.34.41:940][759]LogConfig: Set CVar [[r.DistanceFieldShadowing:1]]
+[2024.12.19-09.34.41:940][759]LogConfig: Set CVar [[r.VolumetricFog:1]]
+[2024.12.19-09.34.41:940][759]LogConfig: Set CVar [[r.VolumetricFog.GridPixelSize:16]]
+[2024.12.19-09.34.41:940][759]LogConfig: Set CVar [[r.VolumetricFog.GridSizeZ:64]]
+[2024.12.19-09.34.41:940][759]LogConfig: Set CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2024.12.19-09.34.41:940][759]LogConfig: Set CVar [[r.LightMaxDrawDistanceScale:1]]
+[2024.12.19-09.34.41:940][759]LogConfig: Set CVar [[r.CapsuleShadows:1]]
+[2024.12.19-09.34.41:940][759]LogConfig: Set CVar [[r.Shadow.Virtual.MaxPhysicalPages:2048]]
+[2024.12.19-09.34.41:940][759]LogConfig: Set CVar [[r.Shadow.Virtual.ResolutionLodBiasDirectional:-0.5]]
+[2024.12.19-09.34.41:940][759]LogConfig: Set CVar [[r.Shadow.Virtual.ResolutionLodBiasDirectionalMoving:-0.5]]
+[2024.12.19-09.34.41:940][759]LogConfig: Set CVar [[r.Shadow.Virtual.ResolutionLodBiasLocal:0.0]]
+[2024.12.19-09.34.41:940][759]LogConfig: Set CVar [[r.Shadow.Virtual.ResolutionLodBiasLocalMoving:1.0]]
+[2024.12.19-09.34.41:940][759]LogConfig: Set CVar [[r.Shadow.Virtual.SMRT.RayCountDirectional:8]]
+[2024.12.19-09.34.41:940][759]LogConfig: Set CVar [[r.Shadow.Virtual.SMRT.SamplesPerRayDirectional:4]]
+[2024.12.19-09.34.41:940][759]LogConfig: Set CVar [[r.Shadow.Virtual.SMRT.RayCountLocal:8]]
+[2024.12.19-09.34.41:940][759]LogConfig: Set CVar [[r.Shadow.Virtual.SMRT.SamplesPerRayLocal:4]]
+[2024.12.19-09.34.41:940][759]LogConfig: Applying CVar settings from Section [GlobalIlluminationQuality@2] File [Scalability]
+[2024.12.19-09.34.41:940][759]LogConfig: Set CVar [[r.DistanceFieldAO:1]]
+[2024.12.19-09.34.41:940][759]LogConfig: Set CVar [[r.AOQuality:1]]
+[2024.12.19-09.34.41:940][759]LogConfig: Set CVar [[r.Lumen.DiffuseIndirect.Allow:1]]
+[2024.12.19-09.34.41:940][759]LogConfig: Set CVar [[r.LumenScene.Radiosity.ProbeSpacing:8]]
+[2024.12.19-09.34.41:940][759]LogConfig: Set CVar [[r.LumenScene.Radiosity.HemisphereProbeResolution:3]]
+[2024.12.19-09.34.41:940][759]LogConfig: Set CVar [[r.Lumen.TraceMeshSDFs.Allow:0]]
+[2024.12.19-09.34.41:940][759]LogConfig: Set CVar [[r.Lumen.ScreenProbeGather.RadianceCache.ProbeResolution:16]]
+[2024.12.19-09.34.41:940][759]LogConfig: Set CVar [[r.Lumen.ScreenProbeGather.RadianceCache.NumProbesToTraceBudget:300]]
+[2024.12.19-09.34.41:940][759]LogConfig: Set CVar [[r.Lumen.ScreenProbeGather.DownsampleFactor:32]]
+[2024.12.19-09.34.41:940][759]LogConfig: Set CVar [[r.Lumen.ScreenProbeGather.TracingOctahedronResolution:8]]
+[2024.12.19-09.34.41:940][759]LogConfig: Set CVar [[r.Lumen.ScreenProbeGather.IrradianceFormat:1]]
+[2024.12.19-09.34.41:940][759]LogConfig: Set CVar [[r.Lumen.ScreenProbeGather.StochasticInterpolation:1]]
+[2024.12.19-09.34.41:941][759]LogConfig: Set CVar [[r.Lumen.ScreenProbeGather.FullResolutionJitterWidth:1]]
+[2024.12.19-09.34.41:941][759]LogConfig: Set CVar [[r.Lumen.ScreenProbeGather.TwoSidedFoliageBackfaceDiffuse:0]]
+[2024.12.19-09.34.41:941][759]LogConfig: Set CVar [[r.Lumen.ScreenProbeGather.ScreenTraces.HZBTraversal.FullResDepth:0]]
+[2024.12.19-09.34.41:941][759]LogConfig: Set CVar [[r.Lumen.TranslucencyVolume.GridPixelSize:64]]
+[2024.12.19-09.34.41:941][759]LogConfig: Set CVar [[r.Lumen.TranslucencyVolume.TraceFromVolume:0]]
+[2024.12.19-09.34.41:941][759]LogConfig: Set CVar [[r.Lumen.TranslucencyVolume.RadianceCache.ProbeResolution:8]]
+[2024.12.19-09.34.41:941][759]LogConfig: Set CVar [[r.Lumen.TranslucencyVolume.RadianceCache.NumProbesToTraceBudget:200]]
+[2024.12.19-09.34.41:941][759]LogConfig: Applying CVar settings from Section [ReflectionQuality@2] File [Scalability]
+[2024.12.19-09.34.41:941][759]LogConfig: Set CVar [[r.SSR.Quality:2]]
+[2024.12.19-09.34.41:941][759]LogConfig: Set CVar [[r.Lumen.Reflections.Allow:1]]
+[2024.12.19-09.34.41:941][759]LogConfig: Set CVar [[r.Lumen.Reflections.DownsampleFactor:2]]
+[2024.12.19-09.34.41:941][759]LogConfig: Set CVar [[r.Lumen.Reflections.MaxRoughnessToTraceForFoliage:0.2]]
+[2024.12.19-09.34.41:941][759]LogConfig: Set CVar [[r.Lumen.Reflections.ScreenSpaceReconstruction.TonemapStrength:1]]
+[2024.12.19-09.34.41:941][759]LogConfig: Set CVar [[r.Lumen.TranslucencyReflections.FrontLayer.Allow:0]]
+[2024.12.19-09.34.41:941][759]LogConfig: Set CVar [[r.Lumen.TranslucencyReflections.FrontLayer.Enable:0]]
+[2024.12.19-09.34.41:941][759]LogConfig: Applying CVar settings from Section [PostProcessQuality@2] File [Scalability]
+[2024.12.19-09.34.41:941][759]LogConfig: Set CVar [[r.MotionBlurQuality:3]]
+[2024.12.19-09.34.41:941][759]LogConfig: Set CVar [[r.MotionBlur.HalfResGather:0]]
+[2024.12.19-09.34.41:941][759]LogConfig: Set CVar [[r.AmbientOcclusionMipLevelFactor:0.6]]
+[2024.12.19-09.34.41:941][759]LogConfig: Set CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2024.12.19-09.34.41:941][759]LogConfig: Set CVar [[r.AmbientOcclusionLevels:-1]]
+[2024.12.19-09.34.41:941][759]LogConfig: Set CVar [[r.AmbientOcclusionRadiusScale:1.5]]
+[2024.12.19-09.34.41:941][759]LogConfig: Set CVar [[r.DepthOfFieldQuality:2]]
+[2024.12.19-09.34.41:941][759]LogConfig: Set CVar [[r.RenderTargetPoolMin:400]]
+[2024.12.19-09.34.41:941][759]LogConfig: Set CVar [[r.LensFlareQuality:2]]
+[2024.12.19-09.34.41:941][759]LogConfig: Set CVar [[r.SceneColorFringeQuality:1]]
+[2024.12.19-09.34.41:941][759]LogConfig: Set CVar [[r.BloomQuality:5]]
+[2024.12.19-09.34.41:941][759]LogConfig: Set CVar [[r.Bloom.ScreenPercentage:50.000]]
+[2024.12.19-09.34.41:941][759]LogConfig: Set CVar [[r.FastBlurThreshold:3]]
+[2024.12.19-09.34.41:941][759]LogConfig: Set CVar [[r.Upscale.Quality:2]]
+[2024.12.19-09.34.41:941][759]LogConfig: Set CVar [[r.LightShaftQuality:1]]
+[2024.12.19-09.34.41:941][759]LogConfig: Set CVar [[r.Filter.SizeScale:0.8]]
+[2024.12.19-09.34.41:941][759]LogConfig: Set CVar [[r.Tonemapper.Quality:5]]
+[2024.12.19-09.34.41:941][759]LogConfig: Set CVar [[r.DOF.Gather.ResolutionDivisor:2         ; lower gathering resolution]]
+[2024.12.19-09.34.41:941][759]LogConfig: Set CVar [[r.DOF.Gather.AccumulatorQuality:0        ; lower gathering accumulator quality]]
+[2024.12.19-09.34.41:941][759]LogConfig: Set CVar [[r.DOF.Gather.PostfilterMethod:2          ; Max3x3 postfilering method]]
+[2024.12.19-09.34.41:941][759]LogConfig: Set CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2024.12.19-09.34.41:941][759]LogConfig: Set CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2024.12.19-09.34.41:941][759]LogConfig: Set CVar [[r.DOF.Scatter.BackgroundCompositing:1    ; no background occlusion]]
+[2024.12.19-09.34.41:941][759]LogConfig: Set CVar [[r.DOF.Scatter.EnableBokehSettings:0      ; no bokeh simulation when scattering]]
+[2024.12.19-09.34.41:941][759]LogConfig: Set CVar [[r.DOF.Scatter.MaxSpriteRatio:0.04        ; only a maximum of 4% of scattered bokeh]]
+[2024.12.19-09.34.41:941][759]LogConfig: Set CVar [[r.DOF.Recombine.Quality:0                ; no slight out of focus]]
+[2024.12.19-09.34.41:941][759]LogConfig: Set CVar [[r.DOF.TemporalAAQuality:0                ; faster temporal accumulation]]
+[2024.12.19-09.34.41:941][759]LogConfig: Set CVar [[r.DOF.Kernel.MaxForegroundRadius:0.012   ; required because of AccumulatorQuality=0]]
+[2024.12.19-09.34.41:941][759]LogConfig: Set CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.012   ; required because of AccumulatorQuality=0]]
+[2024.12.19-09.34.41:941][759]LogConfig: Applying CVar settings from Section [TextureQuality@2] File [Scalability]
+[2024.12.19-09.34.41:941][759]LogConfig: Set CVar [[r.Streaming.MipBias:0]]
+[2024.12.19-09.34.41:941][759]LogConfig: Set CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2024.12.19-09.34.41:941][759]LogConfig: Set CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2024.12.19-09.34.41:941][759]LogConfig: Set CVar [[r.Streaming.Boost:1]]
+[2024.12.19-09.34.41:941][759]LogConfig: Set CVar [[r.MaxAnisotropy:4]]
+[2024.12.19-09.34.41:941][759]LogConfig: Set CVar [[r.VT.MaxAnisotropy:8]]
+[2024.12.19-09.34.41:941][759]LogConfig: Set CVar [[r.Streaming.PoolSize:800]]
+[2024.12.19-09.34.41:941][759]LogConfig: Applying CVar settings from Section [EffectsQuality@2] File [Scalability]
+[2024.12.19-09.34.41:941][759]LogConfig: Set CVar [[r.TranslucencyLightingVolumeDim:48]]
+[2024.12.19-09.34.41:941][759]LogConfig: Set CVar [[r.RefractionQuality:2]]
+[2024.12.19-09.34.41:941][759]LogConfig: Set CVar [[r.DetailMode:1]]
+[2024.12.19-09.34.41:941][759]LogConfig: Set CVar [[r.TranslucencyVolumeBlur:1]]
+[2024.12.19-09.34.41:941][759]LogConfig: Set CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2024.12.19-09.34.41:941][759]LogConfig: Set CVar [[r.SSS.Scale:1]]
+[2024.12.19-09.34.41:941][759]LogConfig: Set CVar [[r.SSS.SampleSet:1]]
+[2024.12.19-09.34.41:941][759]LogConfig: Set CVar [[r.SSS.Quality:-1]]
+[2024.12.19-09.34.41:941][759]LogConfig: Set CVar [[r.SSGI.Quality:2]]
+[2024.12.19-09.34.41:941][759]LogConfig: Set CVar [[r.EmitterSpawnRateScale:0.5]]
+[2024.12.19-09.34.41:941][759]LogConfig: Set CVar [[r.ParticleLightQuality:1]]
+[2024.12.19-09.34.41:941][759]LogConfig: Set CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:2]]
+[2024.12.19-09.34.41:941][759]LogConfig: Set CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2024.12.19-09.34.41:941][759]LogConfig: Set CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2024.12.19-09.34.41:941][759]LogConfig: Set CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:64.0]]
+[2024.12.19-09.34.41:941][759]LogConfig: Set CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2024.12.19-09.34.41:941][759]LogConfig: Set CVar [[r.SkyAtmosphere.SampleCountMax:64.0]]
+[2024.12.19-09.34.41:941][759]LogConfig: Set CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2024.12.19-09.34.41:941][759]LogConfig: Set CVar [[r.SkyLight.RealTimeReflectionCapture:1]]
+[2024.12.19-09.34.41:941][759]LogConfig: Set CVar [[fx.Niagara.QualityLevel:2]]
+[2024.12.19-09.34.41:941][759]LogConfig: Applying CVar settings from Section [FoliageQuality@2] File [Scalability]
+[2024.12.19-09.34.41:941][759]LogConfig: Set CVar [[foliage.DensityScale:0.8]]
+[2024.12.19-09.34.41:941][759]LogConfig: Set CVar [[grass.DensityScale:0.8]]
+[2024.12.19-09.34.41:941][759]LogConfig: Applying CVar settings from Section [ShadingQuality@2] File [Scalability]
+[2024.12.19-09.34.41:941][759]LogConfig: Set CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2024.12.19-09.34.41:941][759]LogConfig: Set CVar [[r.AnisotropicMaterials:1]]
+[2024.12.19-09.34.41:951][759]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2024.12.19-09.34.42:207][764]LogContentStreaming: Texture pool size now 800 MB
+[2024.12.19-09.35.45:137][363]Cmd: TRANSACTION UNDO
+[2024.12.19-09.35.45:137][363]LogEditorTransaction: Undo Scale Elements
+[2024.12.19-09.35.57:539][835]Cmd: TRANSACTION UNDO
+[2024.12.19-09.35.57:539][835]LogEditorTransaction: Undo Move Elements
+[2024.12.19-09.35.59:816][905]Cmd: TRANSACTION UNDO
+[2024.12.19-09.35.59:816][905]LogEditorTransaction: Undo Move Elements
+[2024.12.19-09.38.50:183][481]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@0] File [Scalability]
+[2024.12.19-09.38.50:184][481]LogConfig: Set CVar [[r.SkeletalMeshLODBias:2]]
+[2024.12.19-09.38.50:184][481]LogConfig: Set CVar [[r.ViewDistanceScale:0.4]]
+[2024.12.19-09.38.50:184][481]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@0] File [Scalability]
+[2024.12.19-09.38.50:184][481]LogConfig: Set CVar [[r.FXAA.Quality:0]]
+[2024.12.19-09.38.50:184][481]LogConfig: Set CVar [[r.TemporalAA.Quality:0]]
+[2024.12.19-09.38.50:184][481]LogConfig: Set CVar [[r.TSR.History.UpdateQuality:0]]
+[2024.12.19-09.38.50:184][481]LogConfig: Set CVar [[r.TSR.ShadingRejection.Flickering:0]]
+[2024.12.19-09.38.50:184][481]LogConfig: Set CVar [[r.TSR.ShadingRejection.TileOverscan:2]]
+[2024.12.19-09.38.50:184][481]LogConfig: CVar [[r.TSR.Velocity.Extrapolation:0]] deferred - dummy variable created
+[2024.12.19-09.38.50:184][481]LogConfig: Set CVar [[r.TSR.RejectionAntiAliasingQuality:0]]
+[2024.12.19-09.38.50:184][481]LogConfig: Applying CVar settings from Section [ShadowQuality@0] File [Scalability]
+[2024.12.19-09.38.50:184][481]LogConfig: Set CVar [[r.LightFunctionQuality:0]]
+[2024.12.19-09.38.50:184][481]LogConfig: Set CVar [[r.ShadowQuality:0]]
+[2024.12.19-09.38.50:184][481]LogConfig: Set CVar [[r.Shadow.CSM.MaxCascades:1]]
+[2024.12.19-09.38.50:184][481]LogConfig: Set CVar [[r.Shadow.MaxResolution:512]]
+[2024.12.19-09.38.50:184][481]LogConfig: Set CVar [[r.Shadow.MaxCSMResolution:512]]
+[2024.12.19-09.38.50:184][481]LogConfig: Set CVar [[r.Shadow.RadiusThreshold:0.06]]
+[2024.12.19-09.38.50:184][481]LogConfig: Set CVar [[r.Shadow.DistanceScale:0.6]]
+[2024.12.19-09.38.50:184][481]LogConfig: Set CVar [[r.Shadow.CSM.TransitionScale:0]]
+[2024.12.19-09.38.50:184][481]LogConfig: Set CVar [[r.DistanceFieldShadowing:0]]
+[2024.12.19-09.38.50:184][481]LogConfig: Set CVar [[r.VolumetricFog:0]]
+[2024.12.19-09.38.50:184][481]LogConfig: Set CVar [[r.LightMaxDrawDistanceScale:0]]
+[2024.12.19-09.38.50:184][481]LogConfig: Set CVar [[r.CapsuleShadows:0]]
+[2024.12.19-09.38.50:184][481]LogConfig: Set CVar [[r.Shadow.Virtual.MaxPhysicalPages:512]]
+[2024.12.19-09.38.50:184][481]LogConfig: Set CVar [[r.Shadow.Virtual.ResolutionLodBiasDirectional:0.0]]
+[2024.12.19-09.38.50:184][481]LogConfig: Set CVar [[r.Shadow.Virtual.ResolutionLodBiasDirectionalMoving:0.0]]
+[2024.12.19-09.38.50:184][481]LogConfig: Set CVar [[r.Shadow.Virtual.ResolutionLodBiasLocal:1.0]]
+[2024.12.19-09.38.50:184][481]LogConfig: Set CVar [[r.Shadow.Virtual.ResolutionLodBiasLocalMoving:2.0]]
+[2024.12.19-09.38.50:184][481]LogConfig: Set CVar [[r.Shadow.Virtual.SMRT.RayCountDirectional:0]]
+[2024.12.19-09.38.50:184][481]LogConfig: Set CVar [[r.Shadow.Virtual.SMRT.SamplesPerRayDirectional:2]]
+[2024.12.19-09.38.50:184][481]LogConfig: Set CVar [[r.Shadow.Virtual.SMRT.RayCountLocal:0]]
+[2024.12.19-09.38.50:184][481]LogConfig: Set CVar [[r.Shadow.Virtual.SMRT.SamplesPerRayLocal:2]]
+[2024.12.19-09.38.50:184][481]LogConfig: Applying CVar settings from Section [GlobalIlluminationQuality@0] File [Scalability]
+[2024.12.19-09.38.50:184][481]LogConfig: Set CVar [[r.DistanceFieldAO:0]]
+[2024.12.19-09.38.50:184][481]LogConfig: Set CVar [[r.Lumen.DiffuseIndirect.Allow:0]]
+[2024.12.19-09.38.50:184][481]LogConfig: Applying CVar settings from Section [ReflectionQuality@0] File [Scalability]
+[2024.12.19-09.38.50:184][481]LogConfig: Set CVar [[r.SSR.Quality:0]]
+[2024.12.19-09.38.50:184][481]LogConfig: Set CVar [[r.Lumen.Reflections.Allow:0]]
+[2024.12.19-09.38.50:184][481]LogConfig: Applying CVar settings from Section [PostProcessQuality@0] File [Scalability]
+[2024.12.19-09.38.50:184][481]LogConfig: Set CVar [[r.MotionBlurQuality:0]]
+[2024.12.19-09.38.50:184][481]LogConfig: Set CVar [[r.MotionBlur.HalfResGather:1]]
+[2024.12.19-09.38.50:184][481]LogConfig: Set CVar [[r.AmbientOcclusionMipLevelFactor:1.0]]
+[2024.12.19-09.38.50:184][481]LogConfig: Set CVar [[r.AmbientOcclusionMaxQuality:0]]
+[2024.12.19-09.38.50:184][481]LogConfig: Set CVar [[r.AmbientOcclusionLevels:0]]
+[2024.12.19-09.38.50:184][481]LogConfig: Set CVar [[r.AmbientOcclusionRadiusScale:1.2]]
+[2024.12.19-09.38.50:184][481]LogConfig: Set CVar [[r.DepthOfFieldQuality:0]]
+[2024.12.19-09.38.50:184][481]LogConfig: Set CVar [[r.RenderTargetPoolMin:300]]
+[2024.12.19-09.38.50:184][481]LogConfig: Set CVar [[r.LensFlareQuality:0]]
+[2024.12.19-09.38.50:184][481]LogConfig: Set CVar [[r.SceneColorFringeQuality:0]]
+[2024.12.19-09.38.50:184][481]LogConfig: Set CVar [[r.BloomQuality:4]]
+[2024.12.19-09.38.50:184][481]LogConfig: Set CVar [[r.Bloom.ScreenPercentage:25.000]]
+[2024.12.19-09.38.50:184][481]LogConfig: Set CVar [[r.FastBlurThreshold:0]]
+[2024.12.19-09.38.50:184][481]LogConfig: Set CVar [[r.Upscale.Quality:1]]
+[2024.12.19-09.38.50:184][481]LogConfig: Set CVar [[r.LightShaftQuality:0]]
+[2024.12.19-09.38.50:184][481]LogConfig: Set CVar [[r.Filter.SizeScale:0.6]]
+[2024.12.19-09.38.50:184][481]LogConfig: Set CVar [[r.Tonemapper.Quality:0]]
+[2024.12.19-09.38.50:184][481]LogConfig: Applying CVar settings from Section [TextureQuality@0] File [Scalability]
+[2024.12.19-09.38.50:184][481]LogConfig: Set CVar [[r.Streaming.MipBias:16]]
+[2024.12.19-09.38.50:184][481]LogConfig: Set CVar [[r.Streaming.AmortizeCPUToGPUCopy:1]]
+[2024.12.19-09.38.50:184][481]LogConfig: Set CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:1]]
+[2024.12.19-09.38.50:184][481]LogConfig: Set CVar [[r.Streaming.Boost:0.3]]
+[2024.12.19-09.38.50:184][481]LogConfig: Set CVar [[r.MaxAnisotropy:0]]
+[2024.12.19-09.38.50:184][481]LogConfig: Set CVar [[r.VT.MaxAnisotropy:4]]
+[2024.12.19-09.38.50:184][481]LogConfig: Set CVar [[r.Streaming.PoolSize:400]]
+[2024.12.19-09.38.50:184][481]LogConfig: Applying CVar settings from Section [EffectsQuality@0] File [Scalability]
+[2024.12.19-09.38.50:184][481]LogConfig: Set CVar [[r.TranslucencyLightingVolumeDim:24]]
+[2024.12.19-09.38.50:184][481]LogConfig: Set CVar [[r.RefractionQuality:0]]
+[2024.12.19-09.38.50:184][481]LogConfig: Set CVar [[r.DetailMode:0]]
+[2024.12.19-09.38.50:184][481]LogConfig: Set CVar [[r.TranslucencyVolumeBlur:0]]
+[2024.12.19-09.38.50:184][481]LogConfig: Set CVar [[r.MaterialQualityLevel:0 ; Low quality]]
+[2024.12.19-09.38.50:184][481]LogConfig: Set CVar [[r.SSS.Scale:0]]
+[2024.12.19-09.38.50:184][481]LogConfig: Set CVar [[r.SSS.SampleSet:0]]
+[2024.12.19-09.38.50:184][481]LogConfig: Set CVar [[r.SSS.Quality:0]]
+[2024.12.19-09.38.50:184][481]LogConfig: Set CVar [[r.SSGI.Quality:0]]
+[2024.12.19-09.38.50:184][481]LogConfig: Set CVar [[r.EmitterSpawnRateScale:0.125]]
+[2024.12.19-09.38.50:184][481]LogConfig: Set CVar [[r.ParticleLightQuality:0]]
+[2024.12.19-09.38.50:184][481]LogConfig: Set CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:1]]
+[2024.12.19-09.38.50:184][481]LogConfig: Set CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:8.0]]
+[2024.12.19-09.38.50:184][481]LogConfig: Set CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:2.0]]
+[2024.12.19-09.38.50:184][481]LogConfig: Set CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:16.0]]
+[2024.12.19-09.38.50:184][481]LogConfig: Set CVar [[r.SkyAtmosphere.SampleCountMin:2.0]]
+[2024.12.19-09.38.50:184][481]LogConfig: Set CVar [[r.SkyAtmosphere.SampleCountMax:16.0]]
+[2024.12.19-09.38.50:184][481]LogConfig: Set CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:1]]
+[2024.12.19-09.38.50:184][481]LogConfig: Set CVar [[r.SkyLight.RealTimeReflectionCapture:0]]
+[2024.12.19-09.38.50:184][481]LogConfig: Set CVar [[fx.Niagara.QualityLevel:0]]
+[2024.12.19-09.38.50:184][481]LogConfig: Applying CVar settings from Section [FoliageQuality@0] File [Scalability]
+[2024.12.19-09.38.50:184][481]LogConfig: Set CVar [[foliage.DensityScale:0]]
+[2024.12.19-09.38.50:184][481]LogConfig: Set CVar [[grass.DensityScale:0]]
+[2024.12.19-09.38.50:184][481]LogConfig: Applying CVar settings from Section [ShadingQuality@0] File [Scalability]
+[2024.12.19-09.38.50:184][481]LogConfig: Set CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:1]]
+[2024.12.19-09.38.50:184][481]LogConfig: Set CVar [[r.AnisotropicMaterials:0]]
+[2024.12.19-09.38.50:212][481]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2024.12.19-09.38.50:230][482]LogContentStreaming: Texture pool size now 400 MB
+[2024.12.19-09.38.50:246][483]LogRenderer: Display: Recreating Shadow.Virtual.PhysicalPagePool due to size or flags change. This will also drop any cached pages.
+[2024.12.19-09.40.01:997][639]Cmd: DELETE
+[2024.12.19-09.40.01:997][639]Cmd: ACTOR DELETE
+[2024.12.19-09.40.02:000][639]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.12.19-09.40.02:007][639]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2024.12.19-09.40.02:010][639]LogEditorActor: Deleted 1 Actors (0.013 secs)
+[2024.12.19-09.40.11:331][181]Cmd: DELETE
+[2024.12.19-09.40.11:331][181]Cmd: ACTOR DELETE
+[2024.12.19-09.40.11:334][181]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.12.19-09.40.11:338][181]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2024.12.19-09.40.11:342][181]LogEditorActor: Deleted 1 Actors (0.010 secs)
+[2024.12.19-09.40.17:666][542]Cmd: DELETE
+[2024.12.19-09.40.17:666][542]Cmd: ACTOR DELETE
+[2024.12.19-09.40.17:670][542]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.12.19-09.40.17:674][542]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2024.12.19-09.40.17:679][542]LogEditorActor: Deleted 1 Actors (0.012 secs)
+[2024.12.19-09.40.18:905][614]Cmd: DELETE
+[2024.12.19-09.40.18:906][614]Cmd: ACTOR DELETE
+[2024.12.19-09.40.18:908][614]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.12.19-09.40.18:914][614]LogUObjectHash: Compacting FUObjectHashTables data took   0.30ms
+[2024.12.19-09.40.18:916][614]LogEditorActor: Deleted 1 Actors (0.010 secs)
+[2024.12.19-09.41.00:249][ 26]Cmd: DELETE
+[2024.12.19-09.41.00:249][ 26]Cmd: ACTOR DELETE
+[2024.12.19-09.41.02:696][171]Cmd: DELETE
+[2024.12.19-09.41.02:697][171]Cmd: ACTOR DELETE
+[2024.12.19-09.41.02:698][171]LogEditorActor: Deleted Actor: DirectionalLight
+[2024.12.19-09.41.02:704][171]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2024.12.19-09.41.02:709][171]LogEditorActor: Deleted 1 Actors (0.012 secs)
+[2024.12.19-09.41.03:929][243]Cmd: DELETE
+[2024.12.19-09.41.03:929][243]Cmd: ACTOR DELETE
+[2024.12.19-09.41.03:932][243]LogEditorActor: Deleted Actor: SkyAtmosphere
+[2024.12.19-09.41.03:937][243]LogUObjectHash: Compacting FUObjectHashTables data took   0.30ms
+[2024.12.19-09.41.03:939][243]LogEditorActor: Deleted 1 Actors (0.010 secs)
+[2024.12.19-09.41.04:493][275]Cmd: DELETE
+[2024.12.19-09.41.04:493][275]Cmd: ACTOR DELETE
+[2024.12.19-09.41.04:496][275]LogEditorActor: Deleted Actor: SkyLight
+[2024.12.19-09.41.04:501][275]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
+[2024.12.19-09.41.04:503][275]LogEditorActor: Deleted 1 Actors (0.010 secs)
+[2024.12.19-09.41.05:283][321]Cmd: DELETE
+[2024.12.19-09.41.05:284][321]Cmd: ACTOR DELETE
+[2024.12.19-09.41.05:287][321]LogEditorActor: Deleted Actor: VolumetricCloud
+[2024.12.19-09.41.05:292][321]LogUObjectHash: Compacting FUObjectHashTables data took   0.31ms
+[2024.12.19-09.41.05:293][321]LogEditorActor: Deleted 1 Actors (0.009 secs)
+[2024.12.19-09.41.44:878][618]Cmd: TRANSACTION UNDO
+[2024.12.19-09.41.44:878][618]LogEditorTransaction: Undo Clicking on Elements
+[2024.12.19-09.41.46:525][685]Cmd: TRANSACTION UNDO
+[2024.12.19-09.41.46:525][685]LogEditorTransaction: Undo Move Elements
+[2024.12.19-09.42.08:656][829]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.12.19-09.42.08:810][829]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/LVL_Escape" FILE="E:/YNOV/B3/Escape/Prod/EscapeUE5/Escape/Content/Maps/LVL_Escape.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2024.12.19-09.42.08:931][829]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2024.12.19-09.42.10:412][829]LogSavePackage: Moving output files for package: /Game/Maps/LVL_Escape
+[2024.12.19-09.42.10:414][829]LogSavePackage: Moving 'E:/YNOV/B3/Escape/Prod/EscapeUE5/Escape/Saved/LVL_EscapeA24242C8489391FCCE79FAAC49B79287.tmp' to 'E:/YNOV/B3/Escape/Prod/EscapeUE5/Escape/Content/Maps/LVL_Escape.umap'
+[2024.12.19-09.42.10:465][829]LogFileHelpers: Saving map 'LVL_Escape' took 1.654
+[2024.12.19-09.42.10:473][829]LogFileHelpers: InternalPromptForCheckoutAndSave took 1.81 sec (total: 11.0 sec)
+[2024.12.19-09.42.10:476][829]AssetCheck: New page: Asset Save: LVL_Escape
+[2024.12.19-09.42.10:476][829]LogContentValidation: Display: Validating /Script/Engine.World /Game/Maps/LVL_Escape.LVL_Escape
+[2024.12.19-09.42.12:588][921]LogViewport: Scene viewport resized to 580x326, mode Windowed.
+[2024.12.19-09.42.13:428][951]LogSlate: Window 'SM_Walls_SM_Wall_002' being destroyed
+[2024.12.19-09.42.13:442][951]LogSlate: Window 'SM_Walls_SM_Wall_002' being destroyed
+[2024.12.19-09.42.13:611][951]LogWorld: UWorld::CleanupWorld for World_14, bSessionEnded=true, bCleanupResources=true
+[2024.12.19-09.42.13:611][951]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
