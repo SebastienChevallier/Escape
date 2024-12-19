@@ -2199,3 +2199,25 @@ LogConfig: CVar [[con.DebugLateCheat:1]] deferred - dummy variable created
 [2024.12.19-13.40.10:560][181]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Assets/Textures/Props/Flashlight/T_AORM.T_AORM
 [2024.12.19-13.40.10:560][181]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Assets/Textures/Props/Flashlight/T_BC.T_BC
 [2024.12.19-13.40.10:560][181]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Assets/Textures/Props/Flashlight/T_N.T_N
+[2024.12.19-13.44.51:500][583]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.12.19-13.44.51:611][583]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/LVL_EscapeLD" FILE="E:/YNOV/B3/Escape/Prod/EscapeUE5/Escape/Content/Maps/LVL_EscapeLD.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2024.12.19-13.44.51:716][583]LogUObjectHash: Compacting FUObjectHashTables data took   1.60ms
+[2024.12.19-13.44.53:324][583]LogSavePackage: Moving output files for package: /Game/Maps/LVL_EscapeLD
+[2024.12.19-13.44.53:326][583]LogSavePackage: Moving 'E:/YNOV/B3/Escape/Prod/EscapeUE5/Escape/Saved/LVL_EscapeLDC0C9CD6245C422AD9193CC83C35A83FD.tmp' to 'E:/YNOV/B3/Escape/Prod/EscapeUE5/Escape/Content/Maps/LVL_EscapeLD.umap'
+[2024.12.19-13.44.53:360][583]LogFileHelpers: Saving map 'LVL_EscapeLD' took 1.750
+[2024.12.19-13.44.53:370][583]LogFileHelpers: InternalPromptForCheckoutAndSave took 1.87 sec (total: 11.1 sec)
+[2024.12.19-13.44.53:373][583]AssetCheck: New page: Asset Save: LVL_EscapeLD
+[2024.12.19-13.44.53:373][583]LogContentValidation: Display: Validating /Script/Engine.World /Game/Maps/LVL_EscapeLD.LVL_EscapeLD
+[2024.12.19-13.44.58:587][877]LogContentBrowser: Attempting asset rename: SM-Flashlight -> SM-Flashlight
+[2024.12.19-13.45.05:179][262]LogContentBrowser: Attempting asset rename: SM-Flashlight -> SM_Flashlight
+[2024.12.19-13.45.05:402][262]LogMetaData: Removing '/Game/Assets/Meshes/Props/SM_Flashlight.SM_Flashlight' ref from Metadata '/Game/Assets/Meshes/Props/SM-Flashlight.PackageMetaData'
+[2024.12.19-13.45.05:449][262]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.12.19-13.45.05:566][262]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Meshes/Props/SM_Flashlight" FILE="E:/YNOV/B3/Escape/Prod/EscapeUE5/Escape/Content/Assets/Meshes/Props/SM_Flashlight.uasset" SILENT=true
+[2024.12.19-13.45.05:753][262]LogSavePackage: Moving output files for package: /Game/Assets/Meshes/Props/SM_Flashlight
+[2024.12.19-13.45.05:754][262]LogSavePackage: Moving 'E:/YNOV/B3/Escape/Prod/EscapeUE5/Escape/Saved/SM_Flashlight628FA9074B3F30EA1FF997A4C54743B7.tmp' to 'E:/YNOV/B3/Escape/Prod/EscapeUE5/Escape/Content/Assets/Meshes/Props/SM_Flashlight.uasset'
+[2024.12.19-13.45.05:768][262]LogFileHelpers: InternalPromptForCheckoutAndSave took 318 ms (total: 11.5 sec)
+[2024.12.19-13.45.05:811][262]LogUObjectHash: Compacting FUObjectHashTables data took   1.47ms
+[2024.12.19-13.45.05:828][262]LogUObjectHash: Compacting FUObjectHashTables data took   1.47ms
+[2024.12.19-13.45.05:844][262]LogUObjectHash: Compacting FUObjectHashTables data took   1.00ms
+[2024.12.19-13.45.05:848][262]AssetCheck: New page: Asset Save: SM_Flashlight
+[2024.12.19-13.45.05:848][262]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/Assets/Meshes/Props/SM_Flashlight.SM_Flashlight
