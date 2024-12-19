@@ -1233,3 +1233,6 @@ LogConfig: Set CVar [[r.setres:1280x720]]
 [2024.12.19-10.48.08:902][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.3/FeaturePacks/TP_VehicleAdvBP.upack', mount point: 'root:/'
 [2024.12.19-10.48.08:903][  0]LogPakFile: Initializing PakPlatformFile
 [2024.12.19-10.48.08:912][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.3/FeaturePacks/TP_VirtualRealityBP.upack', mount point: 'root:/'
+[2024.12.19-10.49.54:838][  0]LogDerivedDataCache: C:/Users/gregb/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:01.159 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 1438 files in 2379 folders with total size 229 MiB.
+[2024.12.19-11.49.55:764][  0]LogDerivedDataCache: C:/Users/gregb/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:02.083 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 1506 files in 2487 folders with total size 239 MiB.
+[2024.12.19-12.49.56:744][  0]LogDerivedDataCache: C:/Users/gregb/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:03.063 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 1575 files in 2570 folders with total size 241 MiB.
