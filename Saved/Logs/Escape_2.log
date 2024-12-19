@@ -1857,3 +1857,19 @@ LogConfig: CVar [[con.DebugLateCheat:1]] deferred - dummy variable created
 [2024.12.19-12.48.27:878][102]LogSavePackage: Moving 'E:/YNOV/B3/Escape/Prod/EscapeUE5/Escape/Saved/T_Table_Basse_N_Auto12E34A1AA42DFFB6CB2E0C0A0A5A666B2.tmp' to 'E:/YNOV/B3/Escape/Prod/EscapeUE5/Escape/Saved/Autosaves/Game/Assets/Textures/Props/TableBasse/T_Table_Basse_N_Auto1.uasset'
 [2024.12.19-12.48.27:881][102]LogFileHelpers: Auto-saving content packages took 0.053
 [2024.12.19-13.29.53:549][930]LogUObjectHash: Compacting FUObjectHashTables data took   8.04ms
+[2024.12.19-13.29.54:472][930]LogSlate: Window 'Save Content' being destroyed
+[2024.12.19-13.29.54:488][930]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.12.19-13.29.54:638][930]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/LVL_EscapeLD" FILE="E:/YNOV/B3/Escape/Prod/EscapeUE5/Escape/Content/Maps/LVL_EscapeLD.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2024.12.19-13.29.54:756][930]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2024.12.19-13.29.56:497][930]LogSavePackage: Moving output files for package: /Game/Maps/LVL_EscapeLD
+[2024.12.19-13.29.56:499][930]LogSavePackage: Moving 'E:/YNOV/B3/Escape/Prod/EscapeUE5/Escape/Saved/LVL_EscapeLD9144072F42A943C750D8F5B58128F7BE.tmp' to 'E:/YNOV/B3/Escape/Prod/EscapeUE5/Escape/Content/Maps/LVL_EscapeLD.umap'
+[2024.12.19-13.29.56:541][930]LogFileHelpers: Saving map 'LVL_EscapeLD' took 1.904
+[2024.12.19-13.29.56:569][930]LogSavePackage: Moving output files for package: /Game/Assets/Textures/Props/TableBasse/T_Table_Basse_BC
+[2024.12.19-13.29.56:569][930]LogSavePackage: Moving 'E:/YNOV/B3/Escape/Prod/EscapeUE5/Escape/Saved/T_Table_Basse_BC29E0D495428FCEA0DCF885ADB54B29DC.tmp' to 'E:/YNOV/B3/Escape/Prod/EscapeUE5/Escape/Content/Assets/Textures/Props/TableBasse/T_Table_Basse_BC.uasset'
+[2024.12.19-13.29.56:597][930]LogSavePackage: Moving output files for package: /Game/Assets/Textures/Props/TableBasse/T_Table_Basse_N
+[2024.12.19-13.29.56:597][930]LogSavePackage: Moving 'E:/YNOV/B3/Escape/Prod/EscapeUE5/Escape/Saved/T_Table_Basse_NAFD0EAC9434BA6BA8D1224996E7C2AF2.tmp' to 'E:/YNOV/B3/Escape/Prod/EscapeUE5/Escape/Content/Assets/Textures/Props/TableBasse/T_Table_Basse_N.uasset'
+[2024.12.19-13.29.56:617][930]LogFileHelpers: InternalPromptForCheckoutAndSave took 2.12 sec (total: 7.35 sec)
+[2024.12.19-13.29.56:622][930]AssetCheck: New page: Asset Save: multiple assets
+[2024.12.19-13.29.56:623][930]LogContentValidation: Display: Validating /Script/Engine.World /Game/Maps/LVL_EscapeLD.LVL_EscapeLD
+[2024.12.19-13.29.56:623][930]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Assets/Textures/Props/TableBasse/T_Table_Basse_BC.T_Table_Basse_BC
+[2024.12.19-13.29.56:623][930]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Assets/Textures/Props/TableBasse/T_Table_Basse_N.T_Table_Basse_N
