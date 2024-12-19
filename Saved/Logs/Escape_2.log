@@ -1873,3 +1873,329 @@ LogConfig: CVar [[con.DebugLateCheat:1]] deferred - dummy variable created
 [2024.12.19-13.29.56:623][930]LogContentValidation: Display: Validating /Script/Engine.World /Game/Maps/LVL_EscapeLD.LVL_EscapeLD
 [2024.12.19-13.29.56:623][930]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Assets/Textures/Props/TableBasse/T_Table_Basse_BC.T_Table_Basse_BC
 [2024.12.19-13.29.56:623][930]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Assets/Textures/Props/TableBasse/T_Table_Basse_N.T_Table_Basse_N
+[2024.12.19-13.33.25:275][528]LogDerivedDataCache: C:/Users/gregb/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:02.109 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 1575 files in 2570 folders with total size 241 MiB.
+[2024.12.19-13.35.25:763][903]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 E:\YNOV\B3\Escape\Prod\AssetsImported\Props\SM-Flashlight.fbx)
+[2024.12.19-13.35.25:796][903]LogFbx: Loading FBX Scene from E:\YNOV\B3\Escape\Prod\AssetsImported\Props\SM-Flashlight.fbx
+[2024.12.19-13.35.25:807][903]LogFbx: FBX Scene Loaded Succesfully
+[2024.12.19-13.35.27:630][903]LogSlate: Window 'FBX Import Options' being destroyed
+[2024.12.19-13.35.27:834][903]LogFbx: Display: Triangulating static mesh SM_Lamp
+[2024.12.19-13.35.27:858][903]LogStaticMesh: Display: Building static mesh SM-Flashlight...
+[2024.12.19-13.35.27:874][903]LogStaticMesh: Built static mesh [0.02s] /Game/Assets/Meshes/Props/SM-Flashlight.SM-Flashlight
+[2024.12.19-13.35.27:908][903]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2024.12.19-13.35.29:747][  1]LogSlate: Window 'Message Log' being destroyed
+[2024.12.19-13.35.29:757][  1]LogSlate: Window 'Message Log' being destroyed
+[2024.12.19-13.37.29:407][ 82]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2024.12.19-13.37.29:426][ 82]LogContentBrowser: Creating deferred item: NewFolder
+[2024.12.19-13.37.29:444][ 83]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2024.12.19-13.37.38:198][606]LogContentBrowser: Attempting asset rename: NewFolder -> Flashlight
+[2024.12.19-13.37.38:212][606]LogContentBrowser: End creating deferred item NewFolder
+[2024.12.19-13.38.22:386][881]LogInterchangeEngine: [Pending] Importing
+[2024.12.19-13.38.22:386][881]LogInterchangeEngine: Display: Interchange start importing source [E:/YNOV/B3/Escape/Pr...ureMaps/T_Flashlight/T_BC.png]
+[2024.12.19-13.38.22:388][881]LogInterchangeEngine: [Pending] Importing -  (2)
+[2024.12.19-13.38.22:388][881]LogInterchangeEngine: Display: Interchange start importing source [E:/YNOV/B3/Escape/Pr...ureMaps/T_Flashlight/T_AORM.png]
+[2024.12.19-13.38.22:389][881]LogInterchangeEngine: [Pending] Importing -  (3)
+[2024.12.19-13.38.22:389][881]LogInterchangeEngine: Display: Interchange start importing source [E:/YNOV/B3/Escape/Pr...ureMaps/T_Flashlight/T_N.png]
+[2024.12.19-13.38.22:457][882]LogTexture: Display: Building textures: /Game/Assets/Textures/Props/Flashlight/T_Flashlight/T_BC.T_BC (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 124.145823 MB), EncodeSpeed: Fast
+[2024.12.19-13.38.22:493][882]LogTexture: Display: Building textures: /Game/Assets/Textures/Props/Flashlight/T_Flashlight/T_AORM.T_AORM (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 124.145823 MB), EncodeSpeed: Fast
+[2024.12.19-13.38.22:584][882]LogInterchangePipeline: Display: Auto-detected normal map
+[2024.12.19-13.38.22:586][882]LogTexture: Display: Building textures: /Game/Assets/Textures/Props/Flashlight/T_Flashlight/T_N.T_N (TFO_BC5, 1024x1024 x1x1x1) (Required Memory Estimate: 213.562488 MB), EncodeSpeed: Fast
+[2024.12.19-13.38.22:622][882]LogInterchangeEngine: [Pending] Importing -  (3)
+[2024.12.19-13.38.22:624][882]LogInterchangeEngine: [Pending] Importing -  (2)
+[2024.12.19-13.38.22:624][882]LogInterchangeEngine: [Pending] Importing -  (1)
+[2024.12.19-13.38.22:680][882]LogInterchangeEngine: [Success] Import Done
+[2024.12.19-13.38.22:838][883]LogInterchangeEngine: [Success] Import Done
+[2024.12.19-13.38.31:582][344]LogUObjectHash: Compacting FUObjectHashTables data took   2.96ms
+[2024.12.19-13.38.32:592][344]LogSlate: Window 'Delete Assets' being destroyed
+[2024.12.19-13.38.32:638][344]LogUObjectHash: Compacting FUObjectHashTables data took   2.20ms
+[2024.12.19-13.38.32:664][344]LogUObjectHash: Compacting FUObjectHashTables data took   2.09ms
+[2024.12.19-13.38.32:685][344]LogUObjectHash: Compacting FUObjectHashTables data took   0.94ms
+[2024.12.19-13.38.39:132][698]LogContentBrowser: Deferred new asset file creation: NewMaterial
+[2024.12.19-13.38.39:168][698]LogContentBrowser: Creating deferred item: NewMaterial
+[2024.12.19-13.38.39:186][699]LogContentBrowser: Renaming the item being created (Deferred Item: NewMaterial).
+[2024.12.19-13.38.43:624][966]LogContentBrowser: Attempting asset rename: NewMaterial -> M_Flashlight
+[2024.12.19-13.38.43:625][966]LogContentBrowser: End creating deferred item NewMaterial
+[2024.12.19-13.38.44:839][ 27]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/Assets/Materials/Props/M_Flashlight.M_Flashlight
+[2024.12.19-13.38.44:851][ 27]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.12.19-13.38.44:851][ 27]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.12.19-13.38.45:298][ 27]MaterialEditorStats: Texture samplers: 0/16
+[2024.12.19-13.38.45:298][ 27]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.12.19-13.38.45:298][ 27]MaterialEditorStats: Shader Count: 0
+[2024.12.19-13.38.45:315][ 27]LogViewport: Scene viewport resized to 376x444, mode Windowed.
+[2024.12.19-13.38.45:376][ 28]LogShaderCompilers: Display: ================================================
+[2024.12.19-13.38.45:376][ 28]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.12.19-13.38.45:376][ 28]LogShaderCompilers: Display: Total job queries 135, among them cache hits 69 (51.11%)
+[2024.12.19-13.38.45:376][ 28]LogShaderCompilers: Display: Tracking 66 distinct input hashes that result in 28 distinct outputs (42.42%)
+[2024.12.19-13.38.45:376][ 28]LogShaderCompilers: Display: RAM used: 1,49 MiB of 819,20 MiB budget. Usage: 0.18%
+[2024.12.19-13.38.45:376][ 28]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.12.19-13.38.45:376][ 28]LogShaderCompilers: Display: Shaders Compiled: 42
+[2024.12.19-13.38.45:376][ 28]LogShaderCompilers: Display: Jobs assigned 42, completed 42 (100%)
+[2024.12.19-13.38.45:376][ 28]LogShaderCompilers: Display: Average time worker was idle: 27.67 s
+[2024.12.19-13.38.45:376][ 28]LogShaderCompilers: Display: Time job spent in pending queue: average 0.11 s, longest 0.73 s
+[2024.12.19-13.38.45:376][ 28]LogShaderCompilers: Display: Job execution time: average 0.88 s, max 2.63 s
+[2024.12.19-13.38.45:376][ 28]LogShaderCompilers: Display: Job life time (pending + execution): average 0.99 s, max 2.68
+[2024.12.19-13.38.45:376][ 28]LogShaderCompilers: Display: Shader code size: average 41,525 KiB, min 32,148 KiB, max 62,719 KiB
+[2024.12.19-13.38.45:376][ 28]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 7.55 s
+[2024.12.19-13.38.45:376][ 28]LogShaderCompilers: Display: Jobs were issued in 42 batches (only local compilation was used), average 1.00 jobs/batch
+[2024.12.19-13.38.45:376][ 28]LogShaderCompilers: Display: Average processing rate: 5.56 jobs/sec
+[2024.12.19-13.38.45:376][ 28]LogShaderCompilers: Display: Total thread time: 25,852 s
+[2024.12.19-13.38.45:376][ 28]LogShaderCompilers: Display: Total thread preprocess time: 7,189 s
+[2024.12.19-13.38.45:376][ 28]LogShaderCompilers: Display: Percentage time preprocessing: 27.81%
+[2024.12.19-13.38.45:376][ 28]LogShaderCompilers: Display: Effective parallelization: 3.42 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2024.12.19-13.38.45:377][ 28]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2024.12.19-13.38.45:377][ 28]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled    5 times, average 0.90 sec, max 1.72 sec, min 0.49 sec)
+[2024.12.19-13.38.45:377][ 28]LogShaderCompilers: Display:                                                 FLumenCardVS (compiled    4 times, average 0.83 sec, max 1.44 sec, min 0.47 sec)
+[2024.12.19-13.38.45:377][ 28]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy (compiled    5 times, average 0.81 sec, max 1.47 sec, min 0.47 sec)
+[2024.12.19-13.38.45:377][ 28]LogShaderCompilers: Display:       TBasePassPSFCachedVolumeIndirectLightingPolicySkylight (compiled    2 times, average 0.66 sec, max 0.68 sec, min 0.63 sec)
+[2024.12.19-13.38.45:377][ 28]LogShaderCompilers: Display:        TBasePassPSFCachedPointIndirectLightingPolicySkylight (compiled    2 times, average 0.65 sec, max 0.69 sec, min 0.61 sec)
+[2024.12.19-13.38.45:377][ 28]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2024.12.19-13.38.45:377][ 28]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 17.38% of total time (compiled    5 times, average 0.90 sec, max 1.72 sec, min 0.49 sec)
+[2024.12.19-13.38.45:377][ 28]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 15.58% of total time (compiled    5 times, average 0.81 sec, max 1.47 sec, min 0.47 sec)
+[2024.12.19-13.38.45:377][ 28]LogShaderCompilers: Display:                                                 FLumenCardVS - 12.79% of total time (compiled    4 times, average 0.83 sec, max 1.44 sec, min 0.47 sec)
+[2024.12.19-13.38.45:377][ 28]LogShaderCompilers: Display:                                          FLumenCardPS<false> - 7.79% of total time (compiled    4 times, average 0.50 sec, max 1.09 sec, min 0.19 sec)
+[2024.12.19-13.38.45:377][ 28]LogShaderCompilers: Display:       TBasePassPSFCachedVolumeIndirectLightingPolicySkylight - 5.07% of total time (compiled    2 times, average 0.66 sec, max 0.68 sec, min 0.63 sec)
+[2024.12.19-13.38.45:377][ 28]LogShaderCompilers: Display: ================================================
+[2024.12.19-13.38.45:426][ 29]MaterialEditorStats: Base pass shader: 187 instructions
+[2024.12.19-13.38.45:426][ 29]MaterialEditorStats: Base pass vertex shader: 131 instructions
+[2024.12.19-13.38.45:426][ 29]MaterialEditorStats: Texture samplers: 2/16
+[2024.12.19-13.38.45:426][ 29]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.12.19-13.38.45:426][ 29]MaterialEditorStats: Shader Count: 4
+[2024.12.19-13.38.52:572][290]MaterialEditorStats: Texture samplers: 0/16
+[2024.12.19-13.38.52:572][290]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.12.19-13.38.52:572][290]MaterialEditorStats: Shader Count: 0
+[2024.12.19-13.38.52:645][291]MaterialEditorStats: Base pass shader: 187 instructions
+[2024.12.19-13.38.52:645][291]MaterialEditorStats: Base pass vertex shader: 131 instructions
+[2024.12.19-13.38.52:645][291]MaterialEditorStats: Texture samplers: 2/16
+[2024.12.19-13.38.52:645][291]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.12.19-13.38.52:645][291]MaterialEditorStats: Shader Count: 4
+[2024.12.19-13.38.54:618][362]MaterialEditorStats: Texture samplers: 0/16
+[2024.12.19-13.38.54:618][362]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2024.12.19-13.38.54:618][362]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.12.19-13.38.54:618][362]MaterialEditorStats: Shader Count: 0
+[2024.12.19-13.38.54:672][364]MaterialEditorStats: Base pass shader: 194 instructions
+[2024.12.19-13.38.54:672][364]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2024.12.19-13.38.54:672][364]MaterialEditorStats: Texture samplers: 3/16
+[2024.12.19-13.38.54:672][364]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2024.12.19-13.38.54:672][364]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.12.19-13.38.54:672][364]MaterialEditorStats: Shader Count: 4
+[2024.12.19-13.39.00:203][581]MaterialEditorStats: Texture samplers: 0/16
+[2024.12.19-13.39.00:203][581]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(2)
+[2024.12.19-13.39.00:203][581]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.12.19-13.39.00:203][581]MaterialEditorStats: Shader Count: 0
+[2024.12.19-13.39.02:686][645]MaterialEditorStats: Texture samplers: 1/16
+[2024.12.19-13.39.02:686][645]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(2)
+[2024.12.19-13.39.02:686][645]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.12.19-13.39.02:686][645]MaterialEditorStats: Shader Count: 1
+[2024.12.19-13.39.02:886][652]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2024.12.19-13.39.02:886][652]MaterialEditorStats: Texture samplers: 1/16
+[2024.12.19-13.39.02:886][652]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(2)
+[2024.12.19-13.39.02:886][652]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.12.19-13.39.02:886][652]MaterialEditorStats: Shader Count: 3
+[2024.12.19-13.39.03:016][655]MaterialEditorStats: Texture samplers: 0/16
+[2024.12.19-13.39.03:016][655]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(2)
+[2024.12.19-13.39.03:016][655]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.12.19-13.39.03:016][655]MaterialEditorStats: Shader Count: 0
+[2024.12.19-13.39.03:506][667]MaterialEditorStats: Texture samplers: 2/16
+[2024.12.19-13.39.03:506][667]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(2)
+[2024.12.19-13.39.03:506][667]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.12.19-13.39.03:506][667]MaterialEditorStats: Shader Count: 1
+[2024.12.19-13.39.03:764][670]MaterialEditorStats: Base pass shader: 199 instructions
+[2024.12.19-13.39.03:764][670]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2024.12.19-13.39.03:764][670]MaterialEditorStats: Texture samplers: 4/16
+[2024.12.19-13.39.03:764][670]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(2)
+[2024.12.19-13.39.03:764][670]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.12.19-13.39.03:764][670]MaterialEditorStats: Shader Count: 4
+[2024.12.19-13.39.04:754][700]MaterialEditorStats: Texture samplers: 0/16
+[2024.12.19-13.39.04:754][700]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2024.12.19-13.39.04:754][700]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.12.19-13.39.04:754][700]MaterialEditorStats: Shader Count: 0
+[2024.12.19-13.39.04:807][702]MaterialEditorStats: Base pass shader: 206 instructions
+[2024.12.19-13.39.04:807][702]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2024.12.19-13.39.04:807][702]MaterialEditorStats: Texture samplers: 5/16
+[2024.12.19-13.39.04:807][702]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2024.12.19-13.39.04:807][702]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.12.19-13.39.04:807][702]MaterialEditorStats: Shader Count: 4
+[2024.12.19-13.39.06:595][771]LogAssetEditorSubsystem: Opening Asset editor for Texture2D /Game/Assets/Textures/Props/Flashlight/T_BC.T_BC
+[2024.12.19-13.39.06:752][771]MaterialEditorStats: Texture samplers: 0/16
+[2024.12.19-13.39.06:752][771]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2024.12.19-13.39.06:752][771]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.12.19-13.39.06:752][771]MaterialEditorStats: Shader Count: 0
+[2024.12.19-13.39.06:769][771]LogViewport: Scene viewport resized to 1424x890, mode Windowed.
+[2024.12.19-13.39.06:870][772]MaterialEditorStats: Base pass shader: 206 instructions
+[2024.12.19-13.39.06:870][772]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2024.12.19-13.39.06:870][772]MaterialEditorStats: Texture samplers: 5/16
+[2024.12.19-13.39.06:870][772]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2024.12.19-13.39.06:870][772]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.12.19-13.39.06:870][772]MaterialEditorStats: Shader Count: 4
+[2024.12.19-13.39.12:832][ 23]MaterialEditorStats: Texture samplers: 0/16
+[2024.12.19-13.39.12:832][ 23]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2024.12.19-13.39.12:832][ 23]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.12.19-13.39.12:832][ 23]MaterialEditorStats: Shader Count: 0
+[2024.12.19-13.39.13:246][ 37]MaterialEditorStats: Texture samplers: 3/16
+[2024.12.19-13.39.13:246][ 37]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2024.12.19-13.39.13:246][ 37]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.12.19-13.39.13:246][ 37]MaterialEditorStats: Shader Count: 1
+[2024.12.19-13.39.13:573][ 49]MaterialEditorStats: Base pass shader: 206 instructions
+[2024.12.19-13.39.13:573][ 49]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2024.12.19-13.39.13:573][ 49]MaterialEditorStats: Texture samplers: 5/16
+[2024.12.19-13.39.13:573][ 49]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2024.12.19-13.39.13:573][ 49]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.12.19-13.39.13:573][ 49]MaterialEditorStats: Shader Count: 4
+[2024.12.19-13.39.15:168][ 99]MaterialEditorStats: Texture samplers: 0/16
+[2024.12.19-13.39.15:168][ 99]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2024.12.19-13.39.15:168][ 99]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.12.19-13.39.15:168][ 99]MaterialEditorStats: Shader Count: 0
+[2024.12.19-13.39.15:570][112]MaterialEditorStats: Texture samplers: 3/16
+[2024.12.19-13.39.15:570][112]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2024.12.19-13.39.15:570][112]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.12.19-13.39.15:570][112]MaterialEditorStats: Shader Count: 1
+[2024.12.19-13.39.15:940][122]MaterialEditorStats: Base pass shader: 206 instructions
+[2024.12.19-13.39.15:940][122]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2024.12.19-13.39.15:940][122]MaterialEditorStats: Texture samplers: 5/16
+[2024.12.19-13.39.15:940][122]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2024.12.19-13.39.15:940][122]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.12.19-13.39.15:940][122]MaterialEditorStats: Shader Count: 4
+[2024.12.19-13.39.16:940][159]MaterialEditorStats: Texture samplers: 0/16
+[2024.12.19-13.39.16:941][159]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(2)
+[2024.12.19-13.39.16:941][159]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.12.19-13.39.16:941][159]MaterialEditorStats: Shader Count: 0
+[2024.12.19-13.39.17:406][175]MaterialEditorStats: Texture samplers: 2/16
+[2024.12.19-13.39.17:408][175]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(2)
+[2024.12.19-13.39.17:408][175]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.12.19-13.39.17:408][175]MaterialEditorStats: Shader Count: 1
+[2024.12.19-13.39.17:716][186]MaterialEditorStats: Base pass shader: 199 instructions
+[2024.12.19-13.39.17:716][186]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2024.12.19-13.39.17:716][186]MaterialEditorStats: Texture samplers: 4/16
+[2024.12.19-13.39.17:716][186]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(2)
+[2024.12.19-13.39.17:716][186]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.12.19-13.39.17:716][186]MaterialEditorStats: Shader Count: 4
+[2024.12.19-13.39.20:507][292]MaterialEditorStats: Texture samplers: 0/16
+[2024.12.19-13.39.20:507][292]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(2)
+[2024.12.19-13.39.20:507][292]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.12.19-13.39.20:507][292]MaterialEditorStats: Shader Count: 0
+[2024.12.19-13.39.20:556][293]MaterialEditorStats: Base pass shader: 199 instructions
+[2024.12.19-13.39.20:556][293]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2024.12.19-13.39.20:556][293]MaterialEditorStats: Texture samplers: 4/16
+[2024.12.19-13.39.20:556][293]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(2)
+[2024.12.19-13.39.20:556][293]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.12.19-13.39.20:556][293]MaterialEditorStats: Shader Count: 4
+[2024.12.19-13.39.21:187][320]MaterialEditorStats: Texture samplers: 0/16
+[2024.12.19-13.39.21:188][320]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(2)
+[2024.12.19-13.39.21:188][320]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.12.19-13.39.21:188][320]MaterialEditorStats: Shader Count: 0
+[2024.12.19-13.39.21:580][333]MaterialEditorStats: Texture samplers: 2/16
+[2024.12.19-13.39.21:580][333]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(2)
+[2024.12.19-13.39.21:580][333]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.12.19-13.39.21:580][333]MaterialEditorStats: Shader Count: 1
+[2024.12.19-13.39.21:794][341]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2024.12.19-13.39.21:795][341]MaterialEditorStats: Texture samplers: 2/16
+[2024.12.19-13.39.21:795][341]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(2)
+[2024.12.19-13.39.21:795][341]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.12.19-13.39.21:795][341]MaterialEditorStats: Shader Count: 2
+[2024.12.19-13.39.21:894][345]MaterialEditorStats: Base pass shader: 195 instructions
+[2024.12.19-13.39.21:895][345]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2024.12.19-13.39.21:895][345]MaterialEditorStats: Texture samplers: 4/16
+[2024.12.19-13.39.21:895][345]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(2)
+[2024.12.19-13.39.21:895][345]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.12.19-13.39.21:895][345]MaterialEditorStats: Shader Count: 4
+[2024.12.19-13.39.24:273][433]MaterialEditorStats: Texture samplers: 0/16
+[2024.12.19-13.39.24:273][433]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(2)
+[2024.12.19-13.39.24:273][433]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.12.19-13.39.24:273][433]MaterialEditorStats: Shader Count: 0
+[2024.12.19-13.39.24:667][446]MaterialEditorStats: Texture samplers: 2/16
+[2024.12.19-13.39.24:667][446]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(2)
+[2024.12.19-13.39.24:667][446]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.12.19-13.39.24:667][446]MaterialEditorStats: Shader Count: 1
+[2024.12.19-13.39.24:958][456]MaterialEditorStats: Base pass shader: 200 instructions
+[2024.12.19-13.39.24:958][456]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2024.12.19-13.39.24:958][456]MaterialEditorStats: Texture samplers: 4/16
+[2024.12.19-13.39.24:958][456]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(2)
+[2024.12.19-13.39.24:958][456]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.12.19-13.39.24:958][456]MaterialEditorStats: Shader Count: 4
+[2024.12.19-13.39.26:151][501]LogAssetEditorSubsystem: Opening Asset editor for Texture2D /Game/Assets/Textures/Props/Flashlight/T_AORM.T_AORM
+[2024.12.19-13.39.26:301][501]MaterialEditorStats: Texture samplers: 0/16
+[2024.12.19-13.39.26:301][501]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(2)
+[2024.12.19-13.39.26:301][501]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.12.19-13.39.26:301][501]MaterialEditorStats: Shader Count: 0
+[2024.12.19-13.39.26:315][501]LogViewport: Scene viewport resized to 1424x890, mode Windowed.
+[2024.12.19-13.39.26:410][502]MaterialEditorStats: Base pass shader: 200 instructions
+[2024.12.19-13.39.26:410][502]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2024.12.19-13.39.26:410][502]MaterialEditorStats: Texture samplers: 4/16
+[2024.12.19-13.39.26:410][502]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(2)
+[2024.12.19-13.39.26:410][502]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.12.19-13.39.26:410][502]MaterialEditorStats: Shader Count: 4
+[2024.12.19-13.39.27:529][561]LogTexture: Display: Building textures: /Game/Assets/Textures/Props/Flashlight/T_AORM.T_AORM (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 124.145823 MB), EncodeSpeed: Final
+[2024.12.19-13.39.27:569][561]LogMaterial: Warning: [AssetLog] /Engine/Transient.M_Flashlight: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	(Node TextureSample) Sampler type is Color, should be Linear Color for /Game/Assets/Textures/Props/Flashlight/T_AORM.T_AORM
+
+[2024.12.19-13.39.27:579][561]MaterialEditorStats: Error: [SM6] (Node TextureSample) Sampler type is Color, should be Linear Color for /Game/Assets/Textures/Props/Flashlight/T_AORM.T_AORM
+[2024.12.19-13.39.29:990][656]MaterialEditorStats: Texture samplers: 0/16
+[2024.12.19-13.39.29:990][656]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(2)
+[2024.12.19-13.39.29:990][656]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.12.19-13.39.29:990][656]MaterialEditorStats: Shader Count: 0
+[2024.12.19-13.39.30:427][668]MaterialEditorStats: Texture samplers: 2/16
+[2024.12.19-13.39.30:428][668]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(2)
+[2024.12.19-13.39.30:428][668]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.12.19-13.39.30:428][668]MaterialEditorStats: Shader Count: 1
+[2024.12.19-13.39.30:732][677]MaterialEditorStats: Base pass shader: 200 instructions
+[2024.12.19-13.39.30:732][677]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2024.12.19-13.39.30:732][677]MaterialEditorStats: Texture samplers: 4/16
+[2024.12.19-13.39.30:733][677]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(2)
+[2024.12.19-13.39.30:733][677]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.12.19-13.39.30:733][677]MaterialEditorStats: Shader Count: 3
+[2024.12.19-13.39.30:790][679]LogMaterialEditor: Applying material M_Flashlight
+[2024.12.19-13.39.31:571][679]LogUObjectHash: Compacting FUObjectHashTables data took   1.91ms
+[2024.12.19-13.39.32:170][679]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2024.12.19-13.39.32:193][679]MaterialEditorStats: Texture samplers: 2/16
+[2024.12.19-13.39.32:193][679]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(2)
+[2024.12.19-13.39.32:193][679]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.12.19-13.39.32:193][679]MaterialEditorStats: Shader Count: 2
+[2024.12.19-13.39.32:666][699]LogMaterialEditor: Saving and Compiling material M_Flashlight
+[2024.12.19-13.39.32:671][699]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.12.19-13.39.33:867][699]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Materials/Props/M_Flashlight" FILE="E:/YNOV/B3/Escape/Prod/EscapeUE5/Escape/Content/Assets/Materials/Props/M_Flashlight.uasset" SILENT=true
+[2024.12.19-13.39.33:945][699]LogSavePackage: Moving output files for package: /Game/Assets/Materials/Props/M_Flashlight
+[2024.12.19-13.39.33:945][699]LogSavePackage: Moving 'E:/YNOV/B3/Escape/Prod/EscapeUE5/Escape/Saved/M_Flashlight3D0DAC414587B39D744AC9B4E42238CE.tmp' to 'E:/YNOV/B3/Escape/Prod/EscapeUE5/Escape/Content/Assets/Materials/Props/M_Flashlight.uasset'
+[2024.12.19-13.39.33:968][699]LogFileHelpers: InternalPromptForCheckoutAndSave took 1.29 sec (total: 8.64 sec)
+[2024.12.19-13.39.33:970][699]AssetCheck: New page: Asset Save: M_Flashlight
+[2024.12.19-13.39.33:970][699]LogContentValidation: Display: Validating /Script/Engine.Material /Game/Assets/Materials/Props/M_Flashlight.M_Flashlight
+[2024.12.19-13.39.33:970][699]MaterialEditorStats: Base pass shader: 200 instructions
+[2024.12.19-13.39.33:971][699]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2024.12.19-13.39.33:971][699]MaterialEditorStats: MaxSampler: 263 instructions
+[2024.12.19-13.39.33:971][699]MaterialEditorStats: Texture samplers: 5/16
+[2024.12.19-13.39.33:971][699]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(2)
+[2024.12.19-13.39.33:971][699]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.12.19-13.39.33:971][699]MaterialEditorStats: Shader Count: 16
+[2024.12.19-13.39.34:412][713]LogWorld: UWorld::CleanupWorld for World_12, bSessionEnded=true, bCleanupResources=true
+[2024.12.19-13.39.34:412][713]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.19-13.39.34:897][737]LogSlate: Window 'T_AORM' being destroyed
+[2024.12.19-13.39.42:016][122]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/Assets/Meshes/Props/SM-Flashlight.SM-Flashlight
+[2024.12.19-13.39.42:132][122]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.12.19-13.39.42:132][122]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.12.19-13.39.42:987][122]LogViewport: Scene viewport resized to 1405x894, mode Windowed.
+[2024.12.19-13.39.55:190][612]LogEditorTransaction: Undo StaticMesh: Material changed
+[2024.12.19-13.40.02:371][869]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.12.19-13.40.02:511][869]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Meshes/Props/SM-Flashlight" FILE="E:/YNOV/B3/Escape/Prod/EscapeUE5/Escape/Content/Assets/Meshes/Props/SM-Flashlight.uasset" SILENT=true
+[2024.12.19-13.40.02:654][869]LogSavePackage: Moving output files for package: /Game/Assets/Meshes/Props/SM-Flashlight
+[2024.12.19-13.40.02:654][869]LogSavePackage: Moving 'E:/YNOV/B3/Escape/Prod/EscapeUE5/Escape/Saved/SM-Flashlight184796BF4642C80EB37DABB0F879143C.tmp' to 'E:/YNOV/B3/Escape/Prod/EscapeUE5/Escape/Content/Assets/Meshes/Props/SM-Flashlight.uasset'
+[2024.12.19-13.40.02:670][869]LogFileHelpers: InternalPromptForCheckoutAndSave took 298 ms (total: 8.94 sec)
+[2024.12.19-13.40.02:672][869]AssetCheck: New page: Asset Save: SM-Flashlight
+[2024.12.19-13.40.02:672][869]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/Assets/Meshes/Props/SM-Flashlight.SM-Flashlight
+[2024.12.19-13.40.03:683][912]LogSlate: Window 'SM-Flashlight' being destroyed
+[2024.12.19-13.40.03:835][912]LogWorld: UWorld::CleanupWorld for World_13, bSessionEnded=true, bCleanupResources=true
+[2024.12.19-13.40.03:835][912]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.19-13.40.09:424][181]LogUObjectHash: Compacting FUObjectHashTables data took   1.78ms
+[2024.12.19-13.40.10:150][181]LogSlate: Window 'Save Content' being destroyed
+[2024.12.19-13.40.10:185][181]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.12.19-13.40.10:312][181]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Textures/Props/Flashlight/T_AORM" FILE="E:/YNOV/B3/Escape/Prod/EscapeUE5/Escape/Content/Assets/Textures/Props/Flashlight/T_AORM.uasset" SILENT=true
+[2024.12.19-13.40.10:359][181]LogSavePackage: Moving output files for package: /Game/Assets/Textures/Props/Flashlight/T_AORM
+[2024.12.19-13.40.10:359][181]LogSavePackage: Moving 'E:/YNOV/B3/Escape/Prod/EscapeUE5/Escape/Saved/T_AORMCD92921740E0F4E0A59A94A87D5BB05F.tmp' to 'E:/YNOV/B3/Escape/Prod/EscapeUE5/Escape/Content/Assets/Textures/Props/Flashlight/T_AORM.uasset'
+[2024.12.19-13.40.10:365][181]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Textures/Props/Flashlight/T_BC" FILE="E:/YNOV/B3/Escape/Prod/EscapeUE5/Escape/Content/Assets/Textures/Props/Flashlight/T_BC.uasset" SILENT=true
+[2024.12.19-13.40.10:445][181]LogSavePackage: Moving output files for package: /Game/Assets/Textures/Props/Flashlight/T_BC
+[2024.12.19-13.40.10:445][181]LogSavePackage: Moving 'E:/YNOV/B3/Escape/Prod/EscapeUE5/Escape/Saved/T_BCE6AD8C8A478349683F0656B46317D645.tmp' to 'E:/YNOV/B3/Escape/Prod/EscapeUE5/Escape/Content/Assets/Textures/Props/Flashlight/T_BC.uasset'
+[2024.12.19-13.40.10:450][181]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Textures/Props/Flashlight/T_N" FILE="E:/YNOV/B3/Escape/Prod/EscapeUE5/Escape/Content/Assets/Textures/Props/Flashlight/T_N.uasset" SILENT=true
+[2024.12.19-13.40.10:544][181]LogSavePackage: Moving output files for package: /Game/Assets/Textures/Props/Flashlight/T_N
+[2024.12.19-13.40.10:544][181]LogSavePackage: Moving 'E:/YNOV/B3/Escape/Prod/EscapeUE5/Escape/Saved/T_N65D29A0B4EFDF569099AABA20F71AFF2.tmp' to 'E:/YNOV/B3/Escape/Prod/EscapeUE5/Escape/Content/Assets/Textures/Props/Flashlight/T_N.uasset'
+[2024.12.19-13.40.10:559][181]LogFileHelpers: InternalPromptForCheckoutAndSave took 374 ms (total: 9.32 sec)
+[2024.12.19-13.40.10:560][181]AssetCheck: New page: Asset Save: multiple assets
+[2024.12.19-13.40.10:560][181]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Assets/Textures/Props/Flashlight/T_AORM.T_AORM
+[2024.12.19-13.40.10:560][181]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Assets/Textures/Props/Flashlight/T_BC.T_BC
+[2024.12.19-13.40.10:560][181]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Assets/Textures/Props/Flashlight/T_N.T_N
