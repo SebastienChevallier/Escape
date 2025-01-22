@@ -72,3 +72,8 @@ Plugins/**/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+/Saved/Logs
+Saved/Logs/Escape.log
+Saved/Autosaves/PackageRestoreData.json
+Saved/Config/WindowsEditor/EditorPerProjectUserSettings.ini
+Saved/Config/WorldState/3696693374.json
