@@ -5314,3 +5314,326 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2025.03.05-09.13.10:886][855]LogFileHelpers: InternalPromptForCheckoutAndSave took 152 ms (total: 340 ms)
 [2025.03.05-09.13.10:888][855]AssetCheck: New page: Asset Save: LVL_Escape
 [2025.03.05-09.13.10:888][855]LogContentValidation: Display: Validating /Script/Engine.World /Game/Maps/LVL_Escape.LVL_Escape
+[2025.03.05-09.24.40:183][275]LogContentBrowser: Deferred new asset file creation: BP_Enigme_Child
+[2025.03.05-09.24.40:218][275]LogContentBrowser: Creating deferred item: BP_Enigme_Child
+[2025.03.05-09.24.40:239][276]LogContentBrowser: Renaming the item being created (Deferred Item: BP_Enigme_Child).
+[2025.03.05-09.24.46:903][676]LogContentBrowser: Attempting asset rename: BP_Enigme_Child -> ChessEngime
+[2025.03.05-09.24.46:931][676]LogContentBrowser: End creating deferred item BP_Enigme_Child
+[2025.03.05-09.24.54:006][ 25]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Enigmes/ChessEngime.ChessEngime_C
+[2025.03.05-09.24.54:006][ 25]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Enigmes/ChessEngime.ChessEngime_C
+[2025.03.05-09.24.54:008][ 25]LogActorFactory: Actor Factory spawned Blueprint /Game/Enigmes/ChessEngime.ChessEngime as actor: ChessEngime_C /Game/Maps/LVL_Escape.LVL_Escape:PersistentLevel.ChessEngime_C_0
+[2025.03.05-09.24.54:008][ 25]LogActorFactory: Actor Factory spawned Blueprint /Game/Enigmes/ChessEngime.ChessEngime as actor: ChessEngime_C /Game/Maps/LVL_Escape.LVL_Escape:PersistentLevel.ChessEngime_C_0
+[2025.03.05-09.24.55:305][ 97]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Enigmes/ChessEngime.ChessEngime_C
+[2025.03.05-09.24.55:305][ 97]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Enigmes/ChessEngime.ChessEngime_C
+[2025.03.05-09.24.55:306][ 97]LogActorFactory: Actor Factory spawned Blueprint /Game/Enigmes/ChessEngime.ChessEngime as actor: ChessEngime_C /Game/Maps/LVL_Escape.LVL_Escape:PersistentLevel.ChessEngime_C_1
+[2025.03.05-09.24.55:306][ 97]LogActorFactory: Actor Factory spawned Blueprint /Game/Enigmes/ChessEngime.ChessEngime as actor: ChessEngime_C /Game/Maps/LVL_Escape.LVL_Escape:PersistentLevel.ChessEngime_C_1
+[2025.03.05-09.24.56:000][137]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Enigmes/ChessEngime.ChessEngime_C
+[2025.03.05-09.24.56:000][137]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Enigmes/ChessEngime.ChessEngime_C
+[2025.03.05-09.24.56:002][137]LogActorFactory: Actor Factory spawned Blueprint /Game/Enigmes/ChessEngime.ChessEngime as actor: ChessEngime_C /Game/Maps/LVL_Escape.LVL_Escape:PersistentLevel.ChessEngime_C_2
+[2025.03.05-09.24.56:003][137]LogActorFactory: Actor Factory spawned Blueprint /Game/Enigmes/ChessEngime.ChessEngime as actor: ChessEngime_C /Game/Maps/LVL_Escape.LVL_Escape:PersistentLevel.ChessEngime_C_2
+[2025.03.05-09.25.41:588][368]LogUObjectHash: Compacting FUObjectHashTables data took   1.81ms
+[2025.03.05-09.25.41:591][368]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/LVL_Escape" FILE="../../../../../Users/orian/Documents/GitHub/Escape/Saved/Autosaves/Game/Maps/LVL_Escape_Auto2.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2025.03.05-09.25.41:616][368]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Maps/LVL_Escape_Auto2
+[2025.03.05-09.25.41:617][368]LogSavePackage: Moving '../../../../../Users/orian/Documents/GitHub/Escape/Saved/LVL_Escape_Auto2A6DCD6D641079BB6C785969980F2F871.tmp' to '../../../../../Users/orian/Documents/GitHub/Escape/Saved/Autosaves/Game/Maps/LVL_Escape_Auto2.umap'
+[2025.03.05-09.25.41:618][368]LogAssetRegistry: Warning: ScanPathsSynchronous: ../../../../../Users/orian/Documents/GitHub/Escape/Saved/Autosaves/Game/Maps/LVL_Escape_Auto2.umap is in the /Temp path, will not scan.
+[2025.03.05-09.25.41:618][368]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/LVL_Escape' took 0.051
+[2025.03.05-09.25.41:618][368]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.051
+[2025.03.05-09.25.41:619][368]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Enigmes/ChessEngime] ([2] browsable assets)...
+[2025.03.05-09.25.41:619][368]OBJ SavePackage: Finished generating thumbnails for package [/Game/Enigmes/ChessEngime]
+[2025.03.05-09.25.41:619][368]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Enigmes/ChessEngime" FILE="../../../../../Users/orian/Documents/GitHub/Escape/Saved/Autosaves/Game/Enigmes/ChessEngime_Auto2.uasset" SILENT=false AUTOSAVING=true
+[2025.03.05-09.25.41:637][368]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Enigmes/ChessEngime_Auto2
+[2025.03.05-09.25.41:637][368]LogSavePackage: Moving '../../../../../Users/orian/Documents/GitHub/Escape/Saved/ChessEngime_Auto21031CFE9459144B0917E6F905527C9EF.tmp' to '../../../../../Users/orian/Documents/GitHub/Escape/Saved/Autosaves/Game/Enigmes/ChessEngime_Auto2.uasset'
+[2025.03.05-09.25.41:638][368]LogFileHelpers: Auto-saving content packages took 0.020
+[2025.03.05-09.27.36:670][525]LogContentBrowser: Deferred new asset file creation: BP_Task_Child
+[2025.03.05-09.27.36:708][525]LogContentBrowser: Creating deferred item: BP_Task_Child
+[2025.03.05-09.27.36:745][526]LogContentBrowser: Renaming the item being created (Deferred Item: BP_Task_Child).
+[2025.03.05-09.27.49:543][318]LogContentBrowser: Attempting asset rename: BP_Task_Child -> ChessTask
+[2025.03.05-09.27.49:558][318]LogContentBrowser: End creating deferred item BP_Task_Child
+[2025.03.05-09.27.53:827][550]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2025.03.05-09.27.53:850][550]LogContentBrowser: Creating deferred item: NewFolder
+[2025.03.05-09.27.53:864][551]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2025.03.05-09.27.57:062][730]LogContentBrowser: Attempting asset rename: NewFolder -> Chess
+[2025.03.05-09.27.57:065][730]LogContentBrowser: End creating deferred item NewFolder
+[2025.03.05-09.33.05:684][212]LogDerivedDataCache: C:/Users/orian/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:01.297 and deleted 0 files with total size 0 MiB and 1 empty folders. Scanned 643 files in 1144 folders with total size 30 MiB.
+[2025.03.05-09.34.29:460][711]LogViewport: Scene viewport resized to 1031x855, mode Windowed.
+[2025.03.05-09.34.29:516][712]LogViewport: Scene viewport resized to 1038x855, mode Windowed.
+[2025.03.05-09.34.29:563][713]LogViewport: Scene viewport resized to 1047x855, mode Windowed.
+[2025.03.05-09.34.29:613][714]LogViewport: Scene viewport resized to 1072x855, mode Windowed.
+[2025.03.05-09.34.29:701][715]LogViewport: Scene viewport resized to 1210x855, mode Windowed.
+[2025.03.05-09.34.29:777][716]LogViewport: Scene viewport resized to 1383x855, mode Windowed.
+[2025.03.05-09.34.29:866][717]LogViewport: Scene viewport resized to 1519x855, mode Windowed.
+[2025.03.05-09.34.29:940][718]LogViewport: Scene viewport resized to 1558x855, mode Windowed.
+[2025.03.05-09.34.30:043][719]LogViewport: Scene viewport resized to 1622x855, mode Windowed.
+[2025.03.05-09.34.30:133][720]LogViewport: Scene viewport resized to 1637x855, mode Windowed.
+[2025.03.05-09.34.30:232][721]LogViewport: Scene viewport resized to 1644x855, mode Windowed.
+[2025.03.05-09.34.30:310][722]LogViewport: Scene viewport resized to 1650x855, mode Windowed.
+[2025.03.05-09.34.30:370][723]LogViewport: Scene viewport resized to 1652x855, mode Windowed.
+[2025.03.05-09.34.30:445][725]LogViewport: Scene viewport resized to 1656x855, mode Windowed.
+[2025.03.05-09.34.30:495][726]LogViewport: Scene viewport resized to 1660x855, mode Windowed.
+[2025.03.05-09.35.41:988][151]LogUObjectHash: Compacting FUObjectHashTables data took   2.10ms
+[2025.03.05-09.35.41:990][151]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/LVL_Escape' took 0.019
+[2025.03.05-09.35.41:991][151]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Enigmes/ChessTask] ([2] browsable assets)...
+[2025.03.05-09.35.41:991][151]OBJ SavePackage: Finished generating thumbnails for package [/Game/Enigmes/ChessTask]
+[2025.03.05-09.35.41:991][151]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Enigmes/ChessTask" FILE="../../../../../Users/orian/Documents/GitHub/Escape/Saved/Autosaves/Game/Enigmes/ChessTask_Auto3.uasset" SILENT=false AUTOSAVING=true
+[2025.03.05-09.35.41:995][151]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Enigmes/ChessTask_Auto3
+[2025.03.05-09.35.41:995][151]LogSavePackage: Moving '../../../../../Users/orian/Documents/GitHub/Escape/Saved/ChessTask_Auto35AEC61A944C4378511F4EA8BCDBE3298.tmp' to '../../../../../Users/orian/Documents/GitHub/Escape/Saved/Autosaves/Game/Enigmes/ChessTask_Auto3.uasset'
+[2025.03.05-09.35.41:996][151]LogFileHelpers: Auto-saving content packages took 0.006
+[2025.03.05-09.48.44:034][439]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@1] File [Scalability]
+[2025.03.05-09.48.44:036][439]LogConfig: Set CVar [[r.SkeletalMeshLODBias:1]]
+[2025.03.05-09.48.44:038][439]LogConfig: Set CVar [[r.ViewDistanceScale:0.6]]
+[2025.03.05-09.48.44:038][439]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@1] File [Scalability]
+[2025.03.05-09.48.44:038][439]LogConfig: Set CVar [[r.FXAA.Quality:1]]
+[2025.03.05-09.48.44:039][439]LogConfig: Set CVar [[r.TemporalAA.Quality:1]]
+[2025.03.05-09.48.44:039][439]LogConfig: Set CVar [[r.TSR.History.ScreenPercentage:100]]
+[2025.03.05-09.48.44:039][439]LogConfig: Set CVar [[r.TSR.History.UpdateQuality:1]]
+[2025.03.05-09.48.44:039][439]LogConfig: Set CVar [[r.TSR.ShadingRejection.Flickering:0]]
+[2025.03.05-09.48.44:039][439]LogConfig: Set CVar [[r.TSR.ShadingRejection.TileOverscan:2]]
+[2025.03.05-09.48.44:041][439]LogConfig: CVar [[r.TSR.Velocity.Extrapolation:0]] deferred - dummy variable created
+[2025.03.05-09.48.44:041][439]LogConfig: Set CVar [[r.TSR.RejectionAntiAliasingQuality:1]]
+[2025.03.05-09.48.44:041][439]LogConfig: Applying CVar settings from Section [ShadowQuality@1] File [Scalability]
+[2025.03.05-09.48.44:041][439]LogConfig: Set CVar [[r.ShadowQuality:3]]
+[2025.03.05-09.48.44:042][439]LogConfig: Set CVar [[r.Shadow.CSM.MaxCascades:1]]
+[2025.03.05-09.48.44:042][439]LogConfig: Set CVar [[r.Shadow.MaxResolution:1024]]
+[2025.03.05-09.48.44:042][439]LogConfig: Set CVar [[r.Shadow.MaxCSMResolution:1024]]
+[2025.03.05-09.48.44:042][439]LogConfig: Set CVar [[r.Shadow.RadiusThreshold:0.05]]
+[2025.03.05-09.48.44:042][439]LogConfig: Set CVar [[r.Shadow.DistanceScale:0.7]]
+[2025.03.05-09.48.44:042][439]LogConfig: Set CVar [[r.Shadow.CSM.TransitionScale:0.25]]
+[2025.03.05-09.48.44:042][439]LogConfig: Set CVar [[r.Shadow.PreShadowResolutionFactor:0.5]]
+[2025.03.05-09.48.44:042][439]LogConfig: Set CVar [[r.DistanceFieldShadowing:0]]
+[2025.03.05-09.48.44:042][439]LogConfig: Set CVar [[r.VolumetricFog:0]]
+[2025.03.05-09.48.44:042][439]LogConfig: Set CVar [[r.LightMaxDrawDistanceScale:.5]]
+[2025.03.05-09.48.44:043][439]LogConfig: Set CVar [[r.Shadow.Virtual.MaxPhysicalPages:512]]
+[2025.03.05-09.48.44:043][439]LogConfig: Set CVar [[r.Shadow.Virtual.ResolutionLodBiasDirectional:0.0]]
+[2025.03.05-09.48.44:043][439]LogConfig: Set CVar [[r.Shadow.Virtual.ResolutionLodBiasDirectionalMoving:0.0]]
+[2025.03.05-09.48.44:043][439]LogConfig: Set CVar [[r.Shadow.Virtual.ResolutionLodBiasLocal:1.0]]
+[2025.03.05-09.48.44:043][439]LogConfig: Set CVar [[r.Shadow.Virtual.ResolutionLodBiasLocalMoving:2.0]]
+[2025.03.05-09.48.44:043][439]LogConfig: Set CVar [[r.Shadow.Virtual.SMRT.RayCountDirectional:4]]
+[2025.03.05-09.48.44:043][439]LogConfig: Set CVar [[r.Shadow.Virtual.SMRT.SamplesPerRayDirectional:2]]
+[2025.03.05-09.48.44:043][439]LogConfig: Set CVar [[r.Shadow.Virtual.SMRT.RayCountLocal:4]]
+[2025.03.05-09.48.44:043][439]LogConfig: Set CVar [[r.Shadow.Virtual.SMRT.SamplesPerRayLocal:2]]
+[2025.03.05-09.48.44:043][439]LogConfig: Applying CVar settings from Section [GlobalIlluminationQuality@1] File [Scalability]
+[2025.03.05-09.48.44:043][439]LogConfig: Set CVar [[r.AOQuality:1]]
+[2025.03.05-09.48.44:044][439]LogConfig: Set CVar [[r.Lumen.DiffuseIndirect.Allow:0]]
+[2025.03.05-09.48.44:044][439]LogConfig: Applying CVar settings from Section [ReflectionQuality@1] File [Scalability]
+[2025.03.05-09.48.44:045][439]LogConfig: Set CVar [[r.SSR.Quality:2]]
+[2025.03.05-09.48.44:045][439]LogConfig: Set CVar [[r.SSR.HalfResSceneColor:1]]
+[2025.03.05-09.48.44:045][439]LogConfig: Set CVar [[r.Lumen.Reflections.Allow:0]]
+[2025.03.05-09.48.44:045][439]LogConfig: Applying CVar settings from Section [PostProcessQuality@1] File [Scalability]
+[2025.03.05-09.48.44:045][439]LogConfig: Set CVar [[r.MotionBlurQuality:3]]
+[2025.03.05-09.48.44:045][439]LogConfig: Set CVar [[r.MotionBlur.HalfResGather:1]]
+[2025.03.05-09.48.44:045][439]LogConfig: Set CVar [[r.AmbientOcclusionMipLevelFactor:1.0]]
+[2025.03.05-09.48.44:045][439]LogConfig: Set CVar [[r.AmbientOcclusionMaxQuality:60]]
+[2025.03.05-09.48.44:045][439]LogConfig: Set CVar [[r.AmbientOcclusionRadiusScale:1.5]]
+[2025.03.05-09.48.44:045][439]LogConfig: Set CVar [[r.DepthOfFieldQuality:1]]
+[2025.03.05-09.48.44:045][439]LogConfig: Set CVar [[r.RenderTargetPoolMin:350]]
+[2025.03.05-09.48.44:045][439]LogConfig: Set CVar [[r.LensFlareQuality:0]]
+[2025.03.05-09.48.44:045][439]LogConfig: Set CVar [[r.SceneColorFringeQuality:0]]
+[2025.03.05-09.48.44:045][439]LogConfig: Set CVar [[r.BloomQuality:4]]
+[2025.03.05-09.48.44:045][439]LogConfig: Set CVar [[r.Bloom.ScreenPercentage:35.355]]
+[2025.03.05-09.48.44:045][439]LogConfig: Set CVar [[r.FastBlurThreshold:2]]
+[2025.03.05-09.48.44:045][439]LogConfig: Set CVar [[r.Upscale.Quality:2]]
+[2025.03.05-09.48.44:045][439]LogConfig: Set CVar [[r.LightShaftQuality:0]]
+[2025.03.05-09.48.44:045][439]LogConfig: Set CVar [[r.Filter.SizeScale:0.7]]
+[2025.03.05-09.48.44:046][439]LogConfig: Set CVar [[r.Tonemapper.Quality:2]]
+[2025.03.05-09.48.44:046][439]LogConfig: Set CVar [[r.DOF.Gather.AccumulatorQuality:0        ; lower gathering accumulator quality]]
+[2025.03.05-09.48.44:046][439]LogConfig: Set CVar [[r.DOF.Gather.PostfilterMethod:2          ; Max3x3 postfilering method]]
+[2025.03.05-09.48.44:046][439]LogConfig: Set CVar [[r.DOF.Gather.RingCount:3                 ; low number of samples when gathering]]
+[2025.03.05-09.48.44:046][439]LogConfig: Set CVar [[r.DOF.Scatter.ForegroundCompositing:0    ; no foreground scattering]]
+[2025.03.05-09.48.44:046][439]LogConfig: Set CVar [[r.DOF.Scatter.BackgroundCompositing:0    ; no foreground scattering]]
+[2025.03.05-09.48.44:046][439]LogConfig: Set CVar [[r.DOF.Recombine.Quality:0                ; no slight out of focus]]
+[2025.03.05-09.48.44:046][439]LogConfig: Set CVar [[r.DOF.TemporalAAQuality:0                ; faster temporal accumulation]]
+[2025.03.05-09.48.44:046][439]LogConfig: Set CVar [[r.DOF.Kernel.MaxForegroundRadius:0.006   ; required because low gathering and no scattering and not looking great at 1080p]]
+[2025.03.05-09.48.44:047][439]LogConfig: Set CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.006   ; required because low gathering and no scattering and not looking great at 1080p]]
+[2025.03.05-09.48.44:047][439]LogConfig: Applying CVar settings from Section [TextureQuality@1] File [Scalability]
+[2025.03.05-09.48.44:047][439]LogConfig: Set CVar [[r.Streaming.MipBias:1]]
+[2025.03.05-09.48.44:047][439]LogConfig: Set CVar [[r.MaxAnisotropy:2]]
+[2025.03.05-09.48.44:047][439]LogConfig: Set CVar [[r.VT.MaxAnisotropy:4]]
+[2025.03.05-09.48.44:047][439]LogConfig: Set CVar [[r.Streaming.LimitPoolSizeToVRAM:1]]
+[2025.03.05-09.48.44:047][439]LogConfig: Set CVar [[r.Streaming.PoolSize:600]]
+[2025.03.05-09.48.44:047][439]LogConfig: Applying CVar settings from Section [EffectsQuality@1] File [Scalability]
+[2025.03.05-09.48.44:047][439]LogConfig: Set CVar [[r.TranslucencyLightingVolumeDim:32]]
+[2025.03.05-09.48.44:047][439]LogConfig: Set CVar [[r.RefractionQuality:0]]
+[2025.03.05-09.48.44:047][439]LogConfig: Set CVar [[r.SceneColorFormat:3]]
+[2025.03.05-09.48.44:047][439]LogConfig: Set CVar [[r.DetailMode:1]]
+[2025.03.05-09.48.44:047][439]LogConfig: Set CVar [[r.TranslucencyVolumeBlur:0]]
+[2025.03.05-09.48.44:047][439]LogConfig: Set CVar [[r.MaterialQualityLevel:2 ; Medium quality]]
+[2025.03.05-09.48.44:047][439]LogConfig: Set CVar [[r.SSS.Scale:0.75]]
+[2025.03.05-09.48.44:047][439]LogConfig: Set CVar [[r.SSS.SampleSet:0]]
+[2025.03.05-09.48.44:047][439]LogConfig: Set CVar [[r.SSS.Quality:0]]
+[2025.03.05-09.48.44:047][439]LogConfig: Set CVar [[r.SSS.HalfRes:1]]
+[2025.03.05-09.48.44:048][439]LogConfig: Set CVar [[r.SSGI.Quality:1]]
+[2025.03.05-09.48.44:048][439]LogConfig: Set CVar [[r.EmitterSpawnRateScale:0.25]]
+[2025.03.05-09.48.44:048][439]LogConfig: Set CVar [[r.ParticleLightQuality:0]]
+[2025.03.05-09.48.44:048][439]LogConfig: Set CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:1]]
+[2025.03.05-09.48.44:048][439]LogConfig: Set CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:32.0]]
+[2025.03.05-09.48.44:048][439]LogConfig: Set CVar [[r.SkyAtmosphere.SampleCountMax:32.0]]
+[2025.03.05-09.48.44:049][439]LogConfig: Set CVar [[r.SkyLight.RealTimeReflectionCapture:0]]
+[2025.03.05-09.48.44:049][439]LogConfig: Set CVar [[fx.Niagara.QualityLevel:1]]
+[2025.03.05-09.48.44:049][439]LogConfig: Applying CVar settings from Section [FoliageQuality@1] File [Scalability]
+[2025.03.05-09.48.44:049][439]LogConfig: Set CVar [[foliage.DensityScale:0.4]]
+[2025.03.05-09.48.44:050][439]LogConfig: Set CVar [[grass.DensityScale:0.4]]
+[2025.03.05-09.48.44:050][439]LogConfig: Applying CVar settings from Section [ShadingQuality@1] File [Scalability]
+[2025.03.05-09.48.44:050][439]LogConfig: Set CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:1]]
+[2025.03.05-09.48.44:050][439]LogConfig: Set CVar [[r.AnisotropicMaterials:0]]
+[2025.03.05-09.48.44:175][439]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2025.03.05-09.48.44:238][439]LogContentStreaming: Texture pool size now 600 MB
+[2025.03.05-09.48.44:287][441]LogRenderer: Display: Recreating Shadow.Virtual.PhysicalPagePool due to size or flags change. This will also drop any cached pages.
+[2025.03.05-09.48.45:997][491]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@0] File [Scalability]
+[2025.03.05-09.48.45:997][491]LogConfig: Set CVar [[r.SkeletalMeshLODBias:2]]
+[2025.03.05-09.48.45:997][491]LogConfig: Set CVar [[r.ViewDistanceScale:0.4]]
+[2025.03.05-09.48.45:997][491]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@0] File [Scalability]
+[2025.03.05-09.48.45:997][491]LogConfig: Set CVar [[r.FXAA.Quality:0]]
+[2025.03.05-09.48.45:997][491]LogConfig: Set CVar [[r.TemporalAA.Quality:0]]
+[2025.03.05-09.48.45:997][491]LogConfig: Set CVar [[r.TSR.History.UpdateQuality:0]]
+[2025.03.05-09.48.45:997][491]LogConfig: CVar [[r.TSR.Velocity.Extrapolation:0]] deferred - dummy variable created
+[2025.03.05-09.48.45:997][491]LogConfig: Set CVar [[r.TSR.RejectionAntiAliasingQuality:0]]
+[2025.03.05-09.48.45:997][491]LogConfig: Applying CVar settings from Section [ShadowQuality@0] File [Scalability]
+[2025.03.05-09.48.45:997][491]LogConfig: Set CVar [[r.LightFunctionQuality:0]]
+[2025.03.05-09.48.45:997][491]LogConfig: Set CVar [[r.ShadowQuality:0]]
+[2025.03.05-09.48.45:997][491]LogConfig: Set CVar [[r.Shadow.MaxResolution:512]]
+[2025.03.05-09.48.45:997][491]LogConfig: Set CVar [[r.Shadow.MaxCSMResolution:512]]
+[2025.03.05-09.48.45:997][491]LogConfig: Set CVar [[r.Shadow.RadiusThreshold:0.06]]
+[2025.03.05-09.48.45:997][491]LogConfig: Set CVar [[r.Shadow.DistanceScale:0.6]]
+[2025.03.05-09.48.45:997][491]LogConfig: Set CVar [[r.Shadow.CSM.TransitionScale:0]]
+[2025.03.05-09.48.45:997][491]LogConfig: Set CVar [[r.LightMaxDrawDistanceScale:0]]
+[2025.03.05-09.48.45:997][491]LogConfig: Set CVar [[r.CapsuleShadows:0]]
+[2025.03.05-09.48.45:997][491]LogConfig: Set CVar [[r.Shadow.Virtual.SMRT.RayCountDirectional:0]]
+[2025.03.05-09.48.45:997][491]LogConfig: Set CVar [[r.Shadow.Virtual.SMRT.RayCountLocal:0]]
+[2025.03.05-09.48.45:997][491]LogConfig: Applying CVar settings from Section [GlobalIlluminationQuality@0] File [Scalability]
+[2025.03.05-09.48.45:997][491]LogConfig: Set CVar [[r.DistanceFieldAO:0]]
+[2025.03.05-09.48.45:997][491]LogConfig: Applying CVar settings from Section [ReflectionQuality@0] File [Scalability]
+[2025.03.05-09.48.45:997][491]LogConfig: Set CVar [[r.SSR.Quality:0]]
+[2025.03.05-09.48.45:997][491]LogConfig: Applying CVar settings from Section [PostProcessQuality@0] File [Scalability]
+[2025.03.05-09.48.46:006][491]LogConfig: Set CVar [[r.MotionBlurQuality:0]]
+[2025.03.05-09.48.46:006][491]LogConfig: Set CVar [[r.AmbientOcclusionMaxQuality:0]]
+[2025.03.05-09.48.46:006][491]LogConfig: Set CVar [[r.AmbientOcclusionLevels:0]]
+[2025.03.05-09.48.46:006][491]LogConfig: Set CVar [[r.AmbientOcclusionRadiusScale:1.2]]
+[2025.03.05-09.48.46:006][491]LogConfig: Set CVar [[r.DepthOfFieldQuality:0]]
+[2025.03.05-09.48.46:006][491]LogConfig: Set CVar [[r.RenderTargetPoolMin:300]]
+[2025.03.05-09.48.46:006][491]LogConfig: Set CVar [[r.Bloom.ScreenPercentage:25.000]]
+[2025.03.05-09.48.46:006][491]LogConfig: Set CVar [[r.FastBlurThreshold:0]]
+[2025.03.05-09.48.46:006][491]LogConfig: Set CVar [[r.Upscale.Quality:1]]
+[2025.03.05-09.48.46:007][491]LogConfig: Set CVar [[r.Filter.SizeScale:0.6]]
+[2025.03.05-09.48.46:007][491]LogConfig: Set CVar [[r.Tonemapper.Quality:0]]
+[2025.03.05-09.48.46:007][491]LogConfig: Applying CVar settings from Section [TextureQuality@0] File [Scalability]
+[2025.03.05-09.48.46:007][491]LogConfig: Set CVar [[r.Streaming.MipBias:16]]
+[2025.03.05-09.48.46:007][491]LogConfig: Set CVar [[r.Streaming.AmortizeCPUToGPUCopy:1]]
+[2025.03.05-09.48.46:007][491]LogConfig: Set CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:1]]
+[2025.03.05-09.48.46:007][491]LogConfig: Set CVar [[r.Streaming.Boost:0.3]]
+[2025.03.05-09.48.46:007][491]LogConfig: Set CVar [[r.MaxAnisotropy:0]]
+[2025.03.05-09.48.46:007][491]LogConfig: Set CVar [[r.Streaming.PoolSize:400]]
+[2025.03.05-09.48.46:007][491]LogConfig: Applying CVar settings from Section [EffectsQuality@0] File [Scalability]
+[2025.03.05-09.48.46:007][491]LogConfig: Set CVar [[r.TranslucencyLightingVolumeDim:24]]
+[2025.03.05-09.48.46:007][491]LogConfig: Set CVar [[r.DetailMode:0]]
+[2025.03.05-09.48.46:007][491]LogConfig: Set CVar [[r.MaterialQualityLevel:0 ; Low quality]]
+[2025.03.05-09.48.46:007][491]LogConfig: Set CVar [[r.SSS.Scale:0]]
+[2025.03.05-09.48.46:007][491]LogConfig: Set CVar [[r.SSGI.Quality:0]]
+[2025.03.05-09.48.46:007][491]LogConfig: Set CVar [[r.EmitterSpawnRateScale:0.125]]
+[2025.03.05-09.48.46:007][491]LogConfig: Set CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:8.0]]
+[2025.03.05-09.48.46:007][491]LogConfig: Set CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:2.0]]
+[2025.03.05-09.48.46:007][491]LogConfig: Set CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:16.0]]
+[2025.03.05-09.48.46:007][491]LogConfig: Set CVar [[r.SkyAtmosphere.SampleCountMin:2.0]]
+[2025.03.05-09.48.46:007][491]LogConfig: Set CVar [[r.SkyAtmosphere.SampleCountMax:16.0]]
+[2025.03.05-09.48.46:007][491]LogConfig: Set CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:1]]
+[2025.03.05-09.48.46:007][491]LogConfig: Set CVar [[fx.Niagara.QualityLevel:0]]
+[2025.03.05-09.48.46:007][491]LogConfig: Applying CVar settings from Section [FoliageQuality@0] File [Scalability]
+[2025.03.05-09.48.46:007][491]LogConfig: Set CVar [[foliage.DensityScale:0]]
+[2025.03.05-09.48.46:007][491]LogConfig: Set CVar [[grass.DensityScale:0]]
+[2025.03.05-09.48.46:007][491]LogConfig: Applying CVar settings from Section [ShadingQuality@0] File [Scalability]
+[2025.03.05-09.48.46:018][491]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2025.03.05-09.48.46:419][495]LogContentStreaming: Texture pool size now 400 MB
+[2025.03.05-09.48.55:359][ 20]LogViewport: Scene viewport resized to 1656x855, mode Windowed.
+[2025.03.05-09.48.55:376][ 21]LogViewport: Scene viewport resized to 1652x855, mode Windowed.
+[2025.03.05-09.48.55:396][ 22]LogViewport: Scene viewport resized to 1644x855, mode Windowed.
+[2025.03.05-09.48.55:418][ 23]LogViewport: Scene viewport resized to 1636x855, mode Windowed.
+[2025.03.05-09.48.55:440][ 24]LogViewport: Scene viewport resized to 1627x855, mode Windowed.
+[2025.03.05-09.48.55:473][ 25]LogViewport: Scene viewport resized to 1624x855, mode Windowed.
+[2025.03.05-09.48.55:497][ 26]LogViewport: Scene viewport resized to 1623x855, mode Windowed.
+[2025.03.05-09.48.55:521][ 27]LogViewport: Scene viewport resized to 1627x855, mode Windowed.
+[2025.03.05-09.48.55:552][ 28]LogViewport: Scene viewport resized to 1637x855, mode Windowed.
+[2025.03.05-09.48.55:570][ 29]LogViewport: Scene viewport resized to 1643x855, mode Windowed.
+[2025.03.05-09.48.55:596][ 30]LogViewport: Scene viewport resized to 1646x855, mode Windowed.
+[2025.03.05-09.48.55:650][ 33]LogViewport: Scene viewport resized to 1641x855, mode Windowed.
+[2025.03.05-09.48.55:668][ 34]LogViewport: Scene viewport resized to 1637x855, mode Windowed.
+[2025.03.05-09.48.55:687][ 35]LogViewport: Scene viewport resized to 1631x855, mode Windowed.
+[2025.03.05-09.48.55:707][ 36]LogViewport: Scene viewport resized to 1626x855, mode Windowed.
+[2025.03.05-09.48.55:731][ 37]LogViewport: Scene viewport resized to 1622x855, mode Windowed.
+[2025.03.05-09.48.55:753][ 38]LogViewport: Scene viewport resized to 1613x855, mode Windowed.
+[2025.03.05-09.48.55:775][ 39]LogViewport: Scene viewport resized to 1604x855, mode Windowed.
+[2025.03.05-09.48.55:804][ 40]LogViewport: Scene viewport resized to 1587x855, mode Windowed.
+[2025.03.05-09.48.55:832][ 41]LogViewport: Scene viewport resized to 1573x855, mode Windowed.
+[2025.03.05-09.48.55:903][ 44]LogViewport: Scene viewport resized to 1571x855, mode Windowed.
+[2025.03.05-09.48.55:926][ 45]LogViewport: Scene viewport resized to 1567x855, mode Windowed.
+[2025.03.05-09.48.55:948][ 46]LogViewport: Scene viewport resized to 1558x855, mode Windowed.
+[2025.03.05-09.48.55:973][ 47]LogViewport: Scene viewport resized to 1541x855, mode Windowed.
+[2025.03.05-09.48.55:995][ 48]LogViewport: Scene viewport resized to 1523x855, mode Windowed.
+[2025.03.05-09.48.56:016][ 49]LogViewport: Scene viewport resized to 1506x855, mode Windowed.
+[2025.03.05-09.48.56:040][ 50]LogViewport: Scene viewport resized to 1476x855, mode Windowed.
+[2025.03.05-09.48.56:061][ 51]LogViewport: Scene viewport resized to 1460x855, mode Windowed.
+[2025.03.05-09.48.56:086][ 52]LogViewport: Scene viewport resized to 1439x855, mode Windowed.
+[2025.03.05-09.48.56:109][ 53]LogViewport: Scene viewport resized to 1424x855, mode Windowed.
+[2025.03.05-09.48.56:142][ 54]LogViewport: Scene viewport resized to 1407x855, mode Windowed.
+[2025.03.05-09.48.56:165][ 55]LogViewport: Scene viewport resized to 1399x855, mode Windowed.
+[2025.03.05-09.48.56:190][ 56]LogViewport: Scene viewport resized to 1397x855, mode Windowed.
+[2025.03.05-09.48.56:248][ 59]LogViewport: Scene viewport resized to 1396x855, mode Windowed.
+[2025.03.05-09.48.56:265][ 60]LogViewport: Scene viewport resized to 1395x855, mode Windowed.
+[2025.03.05-10.08.26:642][795]LogAudioMixer: Warning: AudioMixerPlatformInterface Timeout [ 5 Seconds] waiting for h/w. InstanceID=1
+[2025.03.05-10.08.26:837][796]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=4544
+[2025.03.05-10.08.27:173][796]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=2, SampleRate=48000, DeviceID={0.0.0.00000000}.{44dbe48f-f534-4625-82ca-1d540e557096}, Name=Haut-parleurs (Realtek(R) Audio)), Reason=AudioMixerPlatformInterface. Timeout waiting for h/w., InstanceID=1, DurationMS=73.11
+[2025.03.05-10.08.27:175][796]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2025.03.05-10.08.27:177][796]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2025.03.05-10.54.27:104][741]LogMetaData: Removing '/Game/Enigmes/Chess/ChessEngime.ChessEngime:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/Enigmes/ChessEngime.PackageMetaData'
+[2025.03.05-10.54.27:107][741]LogMetaData: Removing '/Game/Enigmes/Chess/ChessEngime.SKEL_ChessEngime_C:UserConstructionScript' ref from Metadata '/Game/Enigmes/ChessEngime.PackageMetaData'
+[2025.03.05-10.54.27:107][741]LogMetaData: Removing '/Game/Enigmes/Chess/ChessEngime.SKEL_ChessEngime_C' ref from Metadata '/Game/Enigmes/ChessEngime.PackageMetaData'
+[2025.03.05-10.54.27:107][741]LogMetaData: Removing '/Game/Enigmes/Chess/ChessEngime.ChessEngime_C' ref from Metadata '/Game/Enigmes/ChessEngime.PackageMetaData'
+[2025.03.05-10.54.27:107][741]LogMetaData: Removing '/Game/Enigmes/Chess/ChessEngime.ChessEngime:EventGraph.K2Node_Event_0' ref from Metadata '/Game/Enigmes/ChessEngime.PackageMetaData'
+[2025.03.05-10.54.27:107][741]LogMetaData: Removing '/Game/Enigmes/Chess/ChessEngime.ChessEngime:EventGraph.K2Node_CallParentFunction_0' ref from Metadata '/Game/Enigmes/ChessEngime.PackageMetaData'
+[2025.03.05-10.54.27:108][741]LogMetaData: Removing '/Game/Enigmes/Chess/ChessEngime.ChessEngime:EventGraph.K2Node_Event_1' ref from Metadata '/Game/Enigmes/ChessEngime.PackageMetaData'
+[2025.03.05-10.54.27:108][741]LogMetaData: Removing '/Game/Enigmes/Chess/ChessEngime.ChessEngime:EventGraph.K2Node_Event_2' ref from Metadata '/Game/Enigmes/ChessEngime.PackageMetaData'
+[2025.03.05-10.54.27:178][741]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.03.05-10.54.27:288][741]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Enigmes/Chess/ChessEngime" FILE="../../../../../Users/orian/Documents/GitHub/Escape/Content/Enigmes/Chess/ChessEngime.uasset" SILENT=true
+[2025.03.05-10.54.27:331][741]LogSavePackage: Moving output files for package: /Game/Enigmes/Chess/ChessEngime
+[2025.03.05-10.54.27:331][741]LogSavePackage: Moving '../../../../../Users/orian/Documents/GitHub/Escape/Saved/ChessEngimeA50EB8624616049D738CB0A6F4A5F949.tmp' to '../../../../../Users/orian/Documents/GitHub/Escape/Content/Enigmes/Chess/ChessEngime.uasset'
+[2025.03.05-10.54.27:412][741]LogFileHelpers: InternalPromptForCheckoutAndSave took 235 ms (total: 575 ms)
+[2025.03.05-10.54.27:618][741]LogUObjectHash: Compacting FUObjectHashTables data took  15.71ms
+[2025.03.05-10.54.27:679][741]LogUObjectHash: Compacting FUObjectHashTables data took   1.76ms
+[2025.03.05-10.54.27:694][741]LogUObjectHash: Compacting FUObjectHashTables data took   0.94ms
+[2025.03.05-10.54.27:723][741]AssetCheck: New page: Asset Save: ChessEngime
+[2025.03.05-10.54.27:724][741]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Enigmes/Chess/ChessEngime.ChessEngime
+[2025.03.05-10.54.30:189][873]LogMetaData: Removing '/Game/Enigmes/Chess/ChessTask.ChessTask:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/Enigmes/ChessTask.PackageMetaData'
+[2025.03.05-10.54.30:189][873]LogMetaData: Removing '/Game/Enigmes/Chess/ChessTask.SKEL_ChessTask_C:UserConstructionScript' ref from Metadata '/Game/Enigmes/ChessTask.PackageMetaData'
+[2025.03.05-10.54.30:189][873]LogMetaData: Removing '/Game/Enigmes/Chess/ChessTask.SKEL_ChessTask_C' ref from Metadata '/Game/Enigmes/ChessTask.PackageMetaData'
+[2025.03.05-10.54.30:189][873]LogMetaData: Removing '/Game/Enigmes/Chess/ChessTask.ChessTask_C' ref from Metadata '/Game/Enigmes/ChessTask.PackageMetaData'
+[2025.03.05-10.54.30:189][873]LogMetaData: Removing '/Game/Enigmes/Chess/ChessTask.ChessTask:EventGraph.K2Node_Event_0' ref from Metadata '/Game/Enigmes/ChessTask.PackageMetaData'
+[2025.03.05-10.54.30:189][873]LogMetaData: Removing '/Game/Enigmes/Chess/ChessTask.ChessTask:EventGraph.K2Node_CallParentFunction_0' ref from Metadata '/Game/Enigmes/ChessTask.PackageMetaData'
+[2025.03.05-10.54.30:190][873]LogMetaData: Removing '/Game/Enigmes/Chess/ChessTask.ChessTask:EventGraph.K2Node_Event_1' ref from Metadata '/Game/Enigmes/ChessTask.PackageMetaData'
+[2025.03.05-10.54.30:190][873]LogMetaData: Removing '/Game/Enigmes/Chess/ChessTask.ChessTask:EventGraph.K2Node_CallParentFunction_1' ref from Metadata '/Game/Enigmes/ChessTask.PackageMetaData'
+[2025.03.05-10.54.30:190][873]LogMetaData: Removing '/Game/Enigmes/Chess/ChessTask.ChessTask:EventGraph.K2Node_Event_2' ref from Metadata '/Game/Enigmes/ChessTask.PackageMetaData'
+[2025.03.05-10.54.30:190][873]LogMetaData: Removing '/Game/Enigmes/Chess/ChessTask.ChessTask:EventGraph.K2Node_CallParentFunction_2' ref from Metadata '/Game/Enigmes/ChessTask.PackageMetaData'
+[2025.03.05-10.54.30:192][873]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.03.05-10.54.30:243][873]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Enigmes/Chess/ChessTask" FILE="../../../../../Users/orian/Documents/GitHub/Escape/Content/Enigmes/Chess/ChessTask.uasset" SILENT=true
+[2025.03.05-10.54.30:248][873]LogSavePackage: Moving output files for package: /Game/Enigmes/Chess/ChessTask
+[2025.03.05-10.54.30:248][873]LogSavePackage: Moving '../../../../../Users/orian/Documents/GitHub/Escape/Saved/ChessTask50DE25224B286A5FD0B512A55EC20479.tmp' to '../../../../../Users/orian/Documents/GitHub/Escape/Content/Enigmes/Chess/ChessTask.uasset'
+[2025.03.05-10.54.30:261][873]LogFileHelpers: InternalPromptForCheckoutAndSave took 69 ms (total: 644 ms)
+[2025.03.05-10.54.30:300][873]LogUObjectHash: Compacting FUObjectHashTables data took   1.54ms
+[2025.03.05-10.54.30:328][873]LogUObjectHash: Compacting FUObjectHashTables data took   1.61ms
+[2025.03.05-10.54.30:343][873]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2025.03.05-10.54.30:371][873]AssetCheck: New page: Asset Save: ChessTask
+[2025.03.05-10.54.30:371][873]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Enigmes/Chess/ChessTask.ChessTask
+[2025.03.05-10.54.33:161][ 37]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Enigmes/Chess/ChessTask.ChessTask
+[2025.03.05-10.54.33:228][ 37]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.03.05-10.54.33:257][ 37]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.03.05-10.54.34:232][ 37]LogViewport: Scene viewport resized to 895x649, mode Windowed.
+[2025.03.05-10.54.36:486][159]LogViewport: Scene viewport resized to 517x257, mode Windowed.
+[2025.03.05-10.54.43:710][549]LogDerivedDataCache: C:/Users/orian/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.245 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 644 files in 1146 folders with total size 30 MiB.
+[2025.03.05-10.54.55:452][214]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.03.05-10.54.59:573][431]LogViewport: Scene viewport resized to 895x649, mode Windowed.
+[2025.03.05-10.55.38:970][342]LogUObjectHash: Compacting FUObjectHashTables data took   2.54ms
+[2025.03.05-10.55.38:972][342]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/LVL_Escape' took 0.031
+[2025.03.05-10.55.38:976][342]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Enigmes/Chess/ChessTask] ([2] browsable assets)...
+[2025.03.05-10.55.38:988][342]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.03.05-10.55.39:045][342]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Enigmes/Chess/ChessTask.ChessTask]
+[2025.03.05-10.55.39:045][342]OBJ SavePackage: Finished generating thumbnails for package [/Game/Enigmes/Chess/ChessTask]
+[2025.03.05-10.55.39:055][342]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Enigmes/Chess/ChessTask_Auto4
+[2025.03.05-10.55.39:055][342]LogSavePackage: Moving '../../../../../Users/orian/Documents/GitHub/Escape/Saved/ChessTask_Auto42F60590B467ADC2BF7DCC08719AF5A3C.tmp' to '../../../../../Users/orian/Documents/GitHub/Escape/Saved/Autosaves/Game/Enigmes/Chess/ChessTask_Auto4.uasset'
+[2025.03.05-10.55.39:056][342]LogFileHelpers: Auto-saving content packages took 0.083

@@ -6,6 +6,8 @@
 			"description": "Default Uncontrolled Changelist",
 			"files": [
 				"C:/Users/orian/Documents/GitHub/Escape/Content/Maps/LVL_Escape.umap",
+				"C:/Users/orian/Documents/GitHub/Escape/Content/Enigmes/Chess/ChessEngime.uasset",
+				"C:/Users/orian/Documents/GitHub/Escape/Content/Enigmes/Chess/ChessTask.uasset",
 				"C:/Users/schev/source/repos/Escape/Escape/Content/Maps/LVL_Escape.umap",
 				"C:/Users/schev/source/repos/Escape/Escape/Content/Managers/BP_Manager/BP_EventManager.uasset",
 				"C:/Users/schev/source/repos/Escape/Escape/Content/Events/Blueprint/BP_Event.uasset",
