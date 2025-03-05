@@ -38324,3 +38324,27 @@ Script Stack (0 frames) :
 [2025.03.05-10.57.04:822][460]LogUObjectHash: Compacting FUObjectHashTables data took   1.00ms
 [2025.03.05-10.57.04:959][461]LogPlayLevel: Display: Destroying online subsystem :Context_28
 [2025.03.05-11.02.31:710][727]LogDerivedDataCache: C:/Users/schev/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.049 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 496 files in 894 folders with total size 28 MiB.
+[2025.03.05-11.07.10:365][374]LogUObjectHash: Compacting FUObjectHashTables data took   0.94ms
+[2025.03.05-11.07.10:428][374]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.03.05-11.07.10:432][374]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Maps/LVL_Escape.LVL_Escape
+[2025.03.05-11.07.10:433][374]Cmd: MAP LOAD FILE="../../../../../../Users/schev/source/repos/Escape/Escape/Content/Maps/LVL_Escape.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2025.03.05-11.07.10:433][374]LightingResults: New page: Lighting Build
+[2025.03.05-11.07.10:446][374]LoadErrors: New page: Loading map: LVL_Escape.umap
+[2025.03.05-11.07.10:941][374]LogWorld: UWorld::CleanupWorld for LVL_EscapeLD, bSessionEnded=true, bCleanupResources=true
+[2025.03.05-11.07.10:941][374]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.05-11.07.10:941][374]MapCheck: New page: Map Check
+[2025.03.05-11.07.10:941][374]LightingResults: New page: Lighting Build
+[2025.03.05-11.07.10:952][374]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.03.05-11.07.10:956][374]LogUObjectHash: Compacting FUObjectHashTables data took   1.11ms
+[2025.03.05-11.07.10:961][374]LogWorld: UWorld::CleanupWorld for LVL_Escape, bSessionEnded=true, bCleanupResources=true
+[2025.03.05-11.07.10:961][374]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.05-11.07.10:973][374]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2025.03.05-11.07.10:983][374]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2025.03.05-11.07.10:989][374]LogAudio: Display: Audio Device (ID: 1) registered with world 'LVL_Escape'.
+[2025.03.05-11.07.10:989][374]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.03.05-11.07.10:990][374]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.03.05-11.07.10:990][374]LogAIModule: Creating AISystem for world LVL_Escape
+[2025.03.05-11.07.11:017][374]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2025.03.05-11.07.11:029][374]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2025.03.05-11.07.11:031][374]Cmd: MAP CHECKDEP NOCLEARLOG
+[2025.03.05-11.07.11:031][374]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,093ms to complete.
