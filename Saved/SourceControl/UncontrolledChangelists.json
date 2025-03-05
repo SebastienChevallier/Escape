@@ -5,6 +5,9 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/schev/source/repos/Escape/Escape/Content/Maps/LVL_EscapeLD.umap",
+				"C:/Users/schev/source/repos/Escape/Escape/Content/Events/Blueprint/BP_Event_DecorsMovement.uasset",
+				"C:/Users/schev/source/repos/Escape/Escape/Content/Events/PostProcessEvent/M_PP_Hallu.uasset",
 				"E:/YNOV/B3/Escape/Prod/EscapeUE5/Escape/Content/Maps/LVL_Escape.umap",
 				"E:/YNOV/B3/Escape/Prod/EscapeUE5/Escape/Content/Assets/Textures/Props/Door/T_Door/T_Door_BC.uasset",
 				"E:/YNOV/B3/Escape/Prod/EscapeUE5/Escape/Content/Assets/Textures/Props/Door/T_Door/T_Door_N.uasset",
