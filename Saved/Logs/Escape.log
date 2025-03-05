@@ -1143,3 +1143,116 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2025.03.05-08.00.52:785][  2]LogD3D12RHI: Cannot end block when stack is empty
 [2025.03.05-08.00.53:317][ 21]LogSlate: Took 0.022603 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
 [2025.03.05-08.02.31:987][242]LogDerivedDataCache: C:/Users/schev/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.327 and deleted 188 files with total size 18 MiB and 189 empty folders. Scanned 387 files in 711 folders with total size 19 MiB.
+[2025.03.05-08.04.06:439][691]LogSlate: Took 0.006573 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2025.03.05-08.04.10:353][900]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2025.03.05-08.04.10:685][900]LogStaticMesh: Display: Building static mesh Mannequin_unreal...
+[2025.03.05-08.04.10:687][900]LogTexture: Display: Building textures: /Game/Assets/Textures/Props/T_PanneauLiege/T_Paneau_Liege_ORM.T_Paneau_Liege_ORM (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 124.145823 MB), EncodeSpeed: Fast
+[2025.03.05-08.04.10:687][900]LogTexture: Display: Building textures: /Game/Assets/Textures/Props/T_PanneauLiege/T_Paneau_Liege_BC.T_Paneau_Liege_BC (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 124.145823 MB), EncodeSpeed: Fast
+[2025.03.05-08.04.10:691][900]LogTexture: Display: Building textures: /Game/Assets/Textures/Props/T_PanneauLiege/T_Paneau_Liege_N.T_Paneau_Liege_N (TFO_BC5, 1024x1024 x1x1x1) (Required Memory Estimate: 213.562488 MB), EncodeSpeed: Fast
+[2025.03.05-08.04.10:713][900]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.03.05-08.04.10:719][900]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Maps/LVL_EscapeLD.LVL_EscapeLD
+[2025.03.05-08.04.10:719][900]Cmd: MAP LOAD FILE="../../../../../../Users/schev/source/repos/Escape/Escape/Content/Maps/LVL_EscapeLD.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2025.03.05-08.04.10:719][900]LightingResults: New page: Lighting Build
+[2025.03.05-08.04.10:719][900]LoadErrors: New page: Loading map: LVL_EscapeLD.umap
+[2025.03.05-08.04.10:736][900]LogTexture: Display: Building textures: /Game/Assets/Textures/Props/Meubles/T_Billard/T_Billard_BC.T_Billard_BC (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 288.062484 MB), EncodeSpeed: Fast
+[2025.03.05-08.04.10:742][900]LogTexture: Display: Building textures: /Game/Assets/Textures/Props/Meubles/T_Billard/T_Billard_ORM.T_Billard_ORM (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 288.062484 MB), EncodeSpeed: Fast
+[2025.03.05-08.04.10:757][900]LogWorld: UWorld::CleanupWorld for FirstPersonMap, bSessionEnded=true, bCleanupResources=true
+[2025.03.05-08.04.10:757][900]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.05-08.04.10:759][900]LogContentBundle: [FirstPersonMap(Standalone)] Deleting container.
+[2025.03.05-08.04.10:760][900]MapCheck: New page: Map Check
+[2025.03.05-08.04.10:760][900]LightingResults: New page: Lighting Build
+[2025.03.05-08.04.10:771][900]LogStaticMesh: Display: Building static mesh SM_Door_SM_Cadran_KitchenDoor_001...
+[2025.03.05-08.04.10:777][900]LogStaticMesh: Display: Building static mesh SM_Door_SM_KitchenDoor_001...
+[2025.03.05-08.04.10:784][900]LogStaticMesh: Display: Building static mesh SM_Walls_SM_Wall_001...
+[2025.03.05-08.04.10:791][900]LogTexture: Display: Building textures: /Game/Assets/Textures/Props/Meubles/T_Billard/T_Billard_N.T_Billard_N (TFO_BC5, 2048x2048 x1x1x1) (Required Memory Estimate: 381.562488 MB), EncodeSpeed: Fast
+[2025.03.05-08.04.10:795][900]LogStaticMesh: Built static mesh [0.01s] /Game/Assets/Meshes/Buildings/SM_Walls_SM_Wall_001.SM_Walls_SM_Wall_001
+[2025.03.05-08.04.10:795][900]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.03.05-08.04.10:797][900]LogStaticMesh: Built static mesh [0.03s] /Game/Assets/Meshes/Buildings/SM_Door_SM_Cadran_KitchenDoor_001.SM_Door_SM_Cadran_KitchenDoor_001
+[2025.03.05-08.04.10:798][900]LogStaticMesh: Display: Building static mesh SM_Walls_SM_Wall_002...
+[2025.03.05-08.04.10:800][900]LogUObjectHash: Compacting FUObjectHashTables data took   1.29ms
+[2025.03.05-08.04.10:803][900]LogStaticMesh: Display: Building static mesh SM_Tableau_Liege...
+[2025.03.05-08.04.10:806][900]LogStaticMesh: Display: Building static mesh SM_Billard...
+[2025.03.05-08.04.10:806][900]LogStaticMesh: Display: Building static mesh SM_Chess_low...
+[2025.03.05-08.04.10:807][900]LogStaticMesh: Built static mesh [0.01s] /Game/Assets/Meshes/Buildings/SM_Walls_SM_Wall_002.SM_Walls_SM_Wall_002
+[2025.03.05-08.04.10:808][900]LogStaticMesh: Display: Building static mesh SM_MeubleTV...
+[2025.03.05-08.04.10:808][900]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/Meshes/Props/SM_Tableau_Liege.SM_Tableau_Liege
+[2025.03.05-08.04.10:809][900]LogStaticMesh: Display: Building static mesh SM_Walls_SM_Wall_Door_001...
+[2025.03.05-08.04.10:810][900]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/Meshes/Props/SM_Chess_low.SM_Chess_low
+[2025.03.05-08.04.10:811][900]LogStaticMesh: Display: Building static mesh SM_table_Basse...
+[2025.03.05-08.04.10:814][900]LogStaticMesh: Built static mesh [0.01s] /Game/Assets/Meshes/Buildings/SM_Walls_SM_Wall_Door_001.SM_Walls_SM_Wall_Door_001
+[2025.03.05-08.04.10:827][900]LogStaticMesh: Display: Waiting for static meshes to be ready 3/11 (/Game/Assets/Meshes/Props/Meubles/SM_Billard) ...
+[2025.03.05-08.04.10:827][900]LogStaticMesh: Built static mesh [0.02s] /Game/Assets/Meshes/Props/Meubles/SM_MeubleTV.SM_MeubleTV
+[2025.03.05-08.04.10:836][900]LogStaticMesh: Built static mesh [0.03s] /Game/Assets/Meshes/Props/Meubles/SM_table_Basse.SM_table_Basse
+[2025.03.05-08.04.10:843][900]LogStaticMesh: Built static mesh [0.07s] /Game/Assets/Meshes/Buildings/SM_Door_SM_KitchenDoor_001.SM_Door_SM_KitchenDoor_001
+[2025.03.05-08.04.10:882][900]LogStaticMesh: Built static mesh [0.08s] /Game/Assets/Meshes/Props/Meubles/SM_Billard.SM_Billard
+[2025.03.05-08.04.10:912][900]LogStaticMesh: Display: Waiting for static meshes to be ready 4/11 (/Game/Assets/Meshes/Buildings/Mannequin_unreal) ...
+[2025.03.05-08.04.10:995][900]LogTexture: Display: Building textures: /Game/Assets/Textures/Buildings/T_Walls/T_WallWood_002/T_WallWood_002_BC.T_WallWood_002_BC (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 124.145823 MB), EncodeSpeed: Fast
+[2025.03.05-08.04.11:003][900]LogTexture: Display: Building textures: /Game/Assets/Textures/Buildings/T_Walls/T_WallWood_002/T_WallWood_002_N.T_WallWood_002_N (TFO_BC5, 1024x1024 x1x1x1) (Required Memory Estimate: 213.562488 MB), EncodeSpeed: Fast
+[2025.03.05-08.04.11:006][900]LogTexture: Display: Building textures: /Game/Assets/Textures/Buildings/T_Walls/T_WallWood_002/T_WallWood_002_ORM.T_WallWood_002_ORM (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 124.145823 MB), EncodeSpeed: Fast
+[2025.03.05-08.04.11:015][900]LogTexture: Display: Building textures: /Game/Assets/Textures/Buildings/T_Door/T_Door_ORM.T_Door_ORM (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 288.062484 MB), EncodeSpeed: Fast
+[2025.03.05-08.04.11:016][900]LogTexture: Display: Building textures: /Game/Assets/Textures/Buildings/T_Door/T_Door_BC.T_Door_BC (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 288.062484 MB), EncodeSpeed: Fast
+[2025.03.05-08.04.11:019][900]LogTexture: Display: Building textures: /Game/Assets/Textures/Buildings/T_Door/T_Door_N.T_Door_N (TFO_BC5, 2048x2048 x1x1x1) (Required Memory Estimate: 381.562488 MB), EncodeSpeed: Fast
+[2025.03.05-08.04.11:253][900]LogTexture: Display: Building textures: /Game/Assets/Textures/Buildings/T_Walls/T_WallWood_001/T_WallWood_BC.T_WallWood_BC (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 124.145823 MB), EncodeSpeed: Fast
+[2025.03.05-08.04.11:255][900]LogTexture: Display: Building textures: /Game/Assets/Textures/Buildings/T_Walls/T_WallWood_001/T_WallWood_N.T_WallWood_N (TFO_BC5, 1024x1024 x1x1x1) (Required Memory Estimate: 213.562488 MB), EncodeSpeed: Fast
+[2025.03.05-08.04.11:289][900]LogTexture: Display: Building textures: /Game/Assets/Textures/Buildings/T_Walls/T_Tapisserie.T_Tapisserie (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 288.062484 MB), EncodeSpeed: Fast
+[2025.03.05-08.04.11:334][900]LogTexture: Display: Building textures: /Game/Assets/Textures/Buildings/T_Walls/T_WallWood_Door_002/T_WallWood_Door_002_BC.T_WallWood_Door_002_BC (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 124.145823 MB), EncodeSpeed: Fast
+[2025.03.05-08.04.11:338][900]LogTexture: Display: Building textures: /Game/Assets/Textures/Buildings/T_Walls/T_WallWood_Door_002/T_WallWood_Door_002_ORM.T_WallWood_Door_002_ORM (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 124.145823 MB), EncodeSpeed: Fast
+[2025.03.05-08.04.11:345][900]LogTexture: Display: Building textures: /Game/Assets/Textures/Buildings/T_Walls/T_WallWood_001/T_WallWood_ORM.T_WallWood_ORM (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 124.145823 MB), EncodeSpeed: Fast
+[2025.03.05-08.04.11:347][900]LogTexture: Display: Building textures: /Game/Assets/Textures/Buildings/T_Walls/T_WallWood_Door_002/T_WallWood_Door_002_N.T_WallWood_Door_002_N (TFO_BC5, 1024x1024 x1x1x1) (Required Memory Estimate: 213.562488 MB), EncodeSpeed: Fast
+[2025.03.05-08.04.11:348][900]LogTexture: Display: Building textures: /Game/Assets/Textures/Props/Meubles/T_MeubleTV/T_MeubleTV_BC.T_MeubleTV_BC (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 124.145823 MB), EncodeSpeed: Fast
+[2025.03.05-08.04.11:457][900]LogTexture: Display: Building textures: /Game/Assets/Textures/Props/Meubles/T_MeubleTV/T_MeubleTV_ORM.T_MeubleTV_ORM (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 124.145823 MB), EncodeSpeed: Fast
+[2025.03.05-08.04.11:461][900]LogTexture: Display: Building textures: /Game/Assets/Textures/Props/T_TableBasse/T_Table_Basse_N.T_Table_Basse_N (TFO_BC5, 512x512 x1x1x1) (Required Memory Estimate: 81.562488 MB), EncodeSpeed: Fast
+[2025.03.05-08.04.11:461][900]LogTexture: Display: Building textures: /Game/Assets/Textures/Props/Meubles/T_MeubleTV/T_MeubleTV_N.T_MeubleTV_N (TFO_BC5, 1024x1024 x1x1x1) (Required Memory Estimate: 213.562488 MB), EncodeSpeed: Fast
+[2025.03.05-08.04.11:464][900]LogTexture: Display: Building textures: /Game/Assets/Textures/Props/T_TableBasse/T_Table_Basse_ORM.T_Table_Basse_ORM (TFO_AutoDXT, 512x512 x1x1x1) (Required Memory Estimate: 45.145823 MB), EncodeSpeed: Fast
+[2025.03.05-08.04.11:464][900]LogTexture: Display: Building textures: /Game/Assets/Textures/Props/T_TableBasse/T_Table_Basse_BC.T_Table_Basse_BC (TFO_AutoDXT, 512x512 x1x1x1) (Required Memory Estimate: 45.145823 MB), EncodeSpeed: Fast
+[2025.03.05-08.04.11:522][900]LogTexture: Display: Building textures: /Game/Assets/Textures/Props/Chess/T_Chess/T_Chess_ORM.T_Chess_ORM (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 124.145823 MB), EncodeSpeed: Fast
+[2025.03.05-08.04.11:525][900]LogTexture: Display: Building textures: /Game/Assets/Textures/Props/Chess/T_Chess/T_Chess_N.T_Chess_N (TFO_BC5, 1024x1024 x1x1x1) (Required Memory Estimate: 213.562488 MB), EncodeSpeed: Fast
+[2025.03.05-08.04.11:532][900]LogTexture: Display: Building textures: /Game/Assets/Textures/Props/Chess/T_Chess/T_Chess_BC.T_Chess_BC (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 124.145823 MB), EncodeSpeed: Fast
+[2025.03.05-08.04.11:780][900]LogStaticMesh: Built static mesh [1.09s] /Game/Assets/Meshes/Buildings/Mannequin_unreal.Mannequin_unreal
+[2025.03.05-08.04.12:159][900]LogWorld: UWorld::CleanupWorld for LVL_EscapeLD, bSessionEnded=true, bCleanupResources=true
+[2025.03.05-08.04.12:159][900]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.05-08.04.12:163][900]LogUObjectHash: Compacting FUObjectHashTables data took   0.39ms
+[2025.03.05-08.04.12:165][900]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2025.03.05-08.04.12:171][900]LogAudio: Display: Audio Device (ID: 1) registered with world 'LVL_EscapeLD'.
+[2025.03.05-08.04.12:171][900]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.03.05-08.04.12:171][900]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.03.05-08.04.12:171][900]LogAIModule: Creating AISystem for world LVL_EscapeLD
+[2025.03.05-08.04.12:197][900]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2025.03.05-08.04.12:202][900]LogUObjectHash: Compacting FUObjectHashTables data took   0.35ms
+[2025.03.05-08.04.12:204][900]Cmd: MAP CHECKDEP NOCLEARLOG
+[2025.03.05-08.04.12:205][900]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,106ms to complete.
+[2025.03.05-08.04.12:893][920]LogShaderCompilers: Display: ================================================
+[2025.03.05-08.04.12:893][920]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2025.03.05-08.04.12:893][920]LogShaderCompilers: Display: Total job queries 40, among them cache hits 0 (0.00%)
+[2025.03.05-08.04.12:893][920]LogShaderCompilers: Display: Tracking 1 distinct input hashes that result in 1 distinct outputs (100.00%)
+[2025.03.05-08.04.12:893][920]LogShaderCompilers: Display: RAM used: 20,33 KiB of 819,20 MiB budget. Usage: 0.00%
+[2025.03.05-08.04.12:893][920]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2025.03.05-08.04.12:893][920]LogShaderCompilers: Display: Shaders Compiled: 1
+[2025.03.05-08.04.12:893][920]LogShaderCompilers: Display: Jobs assigned 9, completed 1 (11.11%)
+[2025.03.05-08.04.12:893][920]LogShaderCompilers: Display: Average time worker was idle: 0.00 s
+[2025.03.05-08.04.12:893][920]LogShaderCompilers: Display: Time job spent in pending queue: average 0.10 s, longest 0.58 s
+[2025.03.05-08.04.12:893][920]LogShaderCompilers: Display: Job execution time: average 0.55 s, max 0.55 s
+[2025.03.05-08.04.12:893][920]LogShaderCompilers: Display: Job life time (pending + execution): average 0.60 s, max 0.60
+[2025.03.05-08.04.12:893][920]LogShaderCompilers: Display: Shader code size: average 32,969 KiB, min 32,969 KiB, max 32,969 KiB
+[2025.03.05-08.04.12:893][920]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 0.60 s
+[2025.03.05-08.04.12:893][920]LogShaderCompilers: Display: Jobs were issued in 9 batches (only local compilation was used), average 1.00 jobs/batch
+[2025.03.05-08.04.12:893][920]LogShaderCompilers: Display: Average processing rate: 1.67 jobs/sec
+[2025.03.05-08.04.12:893][920]LogShaderCompilers: Display: Total thread time: 0,151 s
+[2025.03.05-08.04.12:893][920]LogShaderCompilers: Display: Total thread preprocess time: 0,031 s
+[2025.03.05-08.04.12:893][920]LogShaderCompilers: Display: Percentage time preprocessing: 20.60%
+[2025.03.05-08.04.12:893][920]LogShaderCompilers: Display: Effective parallelization: 0.25 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2025.03.05-08.04.12:893][920]LogShaderCompilers: Display: Top 1 most expensive shader types by average time:
+[2025.03.05-08.04.12:893][920]LogShaderCompilers: Display:                                          FLumenCardPS<false> (compiled    1 times, average 0.15 sec, max 0.15 sec, min 0.15 sec)
+[2025.03.05-08.04.12:893][920]LogShaderCompilers: Display: Top 1 shader types by total compile time:
+[2025.03.05-08.04.12:893][920]LogShaderCompilers: Display:                                          FLumenCardPS<false> - 100.00% of total time (compiled    1 times, average 0.15 sec, max 0.15 sec, min 0.15 sec)
+[2025.03.05-08.04.12:893][920]LogShaderCompilers: Display: ================================================
+[2025.03.05-08.05.40:092][101]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.03.05-08.06.31:057][115]Cmd: TRANSACTION UNDO
+[2025.03.05-08.06.31:058][115]LogEditorTransaction: Undo Move Elements
+[2025.03.05-08.14.10:477][965]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2025.03.05-08.14.10:488][965]LogPackageLocalizationCache: Processed 46 localized package path(s) for 1 prioritized culture(s) in 0.005557 seconds
+[2025.03.05-08.14.10:507][965]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Maps/LVL_EscapeLD_Auto1
+[2025.03.05-08.14.10:507][965]LogSavePackage: Moving '../../../../../../Users/schev/source/repos/Escape/Escape/Saved/LVL_EscapeLD_Auto11C3B220C444B9A5F0A7C308B0DC3419D.tmp' to '../../../../../../Users/schev/source/repos/Escape/Escape/Saved/Autosaves/Game/Maps/LVL_EscapeLD_Auto1.umap'
+[2025.03.05-08.14.10:510][965]LogAssetRegistry: Warning: ScanPathsSynchronous: ../../../../../../Users/schev/source/repos/Escape/Escape/Saved/Autosaves/Game/Maps/LVL_EscapeLD_Auto1.umap is in the /Temp path, will not scan.
+[2025.03.05-08.14.10:511][965]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/LVL_EscapeLD' took 0.041
+[2025.03.05-08.14.10:511][965]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.041
