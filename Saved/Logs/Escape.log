@@ -5637,3 +5637,79 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2025.03.05-10.55.39:055][342]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Enigmes/Chess/ChessTask_Auto4
 [2025.03.05-10.55.39:055][342]LogSavePackage: Moving '../../../../../Users/orian/Documents/GitHub/Escape/Saved/ChessTask_Auto42F60590B467ADC2BF7DCC08719AF5A3C.tmp' to '../../../../../Users/orian/Documents/GitHub/Escape/Saved/Autosaves/Game/Enigmes/Chess/ChessTask_Auto4.uasset'
 [2025.03.05-10.55.39:056][342]LogFileHelpers: Auto-saving content packages took 0.083
+[2025.03.05-11.03.05:464][682]LogSlate: Window 'ChessTask' being destroyed
+[2025.03.05-11.03.05:476][682]LogSlate: Window 'ChessTask' being destroyed
+[2025.03.05-11.03.05:500][682]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2025.03.05-11.03.05:509][682]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.05-11.03.05:721][682]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2025.03.05-11.03.05:721][682]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2025.03.05-11.03.05:721][682]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.05-11.03.05:815][682]LogUObjectHash: Compacting FUObjectHashTables data took   1.79ms
+[2025.03.05-11.03.08:096][682]LogSlate: Window 'Save Content' being destroyed
+[2025.03.05-11.03.08:140][682]LogUObjectHash: Compacting FUObjectHashTables data took   1.70ms
+[2025.03.05-11.03.10:354][689]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2025.03.05-11.03.11:567][689]LogSlate: Window 'Save Content' being destroyed
+[2025.03.05-11.03.11:609][689]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.03.05-11.03.11:665][689]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/LVL_Escape" FILE="../../../../../Users/orian/Documents/GitHub/Escape/Content/Maps/LVL_Escape.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2025.03.05-11.03.11:713][689]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2025.03.05-11.03.11:763][689]LogSavePackage: Moving output files for package: /Game/Maps/LVL_Escape
+[2025.03.05-11.03.11:764][689]LogSavePackage: Moving '../../../../../Users/orian/Documents/GitHub/Escape/Saved/LVL_EscapeA99BCF3F42766EF8716F80959B9AF5C6.tmp' to '../../../../../Users/orian/Documents/GitHub/Escape/Content/Maps/LVL_Escape.umap'
+[2025.03.05-11.03.11:775][689]LogFileHelpers: Saving map 'LVL_Escape' took 0.110
+[2025.03.05-11.03.11:775][689]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Enigmes/Chess/ChessTask" FILE="../../../../../Users/orian/Documents/GitHub/Escape/Content/Enigmes/Chess/ChessTask.uasset" SILENT=true
+[2025.03.05-11.03.11:780][689]LogSavePackage: Moving output files for package: /Game/Enigmes/Chess/ChessTask
+[2025.03.05-11.03.11:781][689]LogSavePackage: Moving '../../../../../Users/orian/Documents/GitHub/Escape/Saved/ChessTask72FA3EE84353458FC4463EBE78C82148.tmp' to '../../../../../Users/orian/Documents/GitHub/Escape/Content/Enigmes/Chess/ChessTask.uasset'
+[2025.03.05-11.03.11:789][689]LogFileHelpers: InternalPromptForCheckoutAndSave took 179 ms (total: 824 ms)
+[2025.03.05-11.03.11:791][689]LogStall: Shutdown...
+[2025.03.05-11.03.11:819][689]LogStall: Shutdown complete.
+[2025.03.05-11.03.11:873][689]LogSlate: Window 'Escape - Unreal Editor' being destroyed
+[2025.03.05-11.03.12:116][689]AssetCheck: New page: Asset Save: multiple assets
+[2025.03.05-11.03.12:116][689]LogContentValidation: Display: Validating /Script/Engine.World /Game/Maps/LVL_Escape.LVL_Escape
+[2025.03.05-11.03.12:116][689]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Enigmes/Chess/ChessTask.ChessTask
+[2025.03.05-11.03.12:119][690]Cmd: QUIT_EDITOR
+[2025.03.05-11.03.12:120][690]LogCore: Engine exit requested (reason: UUnrealEdEngine::CloseEditor())
+[2025.03.05-11.03.12:131][690]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2025.03.05-11.03.12:136][690]LogStaticMesh: Abandoning remaining async distance field tasks for shutdown
+[2025.03.05-11.03.12:137][690]LogStaticMesh: Abandoning remaining async card representation tasks for shutdown
+[2025.03.05-11.03.12:160][690]LogWorld: UWorld::CleanupWorld for LVL_Escape, bSessionEnded=true, bCleanupResources=true
+[2025.03.05-11.03.12:164][690]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.05-11.03.12:241][690]LogLevelSequenceEditor: LevelSequenceEditor subsystem deinitialized.
+[2025.03.05-11.03.13:258][690]LogAudio: Display: Beginning Audio Device Manager Shutdown (Module: AudioMixerXAudio2)...
+[2025.03.05-11.03.13:258][690]LogAudio: Display: Destroying 1 Remaining Audio Device(s)...
+[2025.03.05-11.03.13:259][690]LogAudio: Display: Audio Device unregistered from world 'LVL_Escape'.
+[2025.03.05-11.03.13:260][690]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 1
+[2025.03.05-11.03.13:289][690]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1
+[2025.03.05-11.03.13:304][690]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1
+[2025.03.05-11.03.13:370][690]LogAudio: Display: Audio Device Manager Shutdown
+[2025.03.05-11.03.13:373][690]LogWindowsTextInputMethodSystem: Activated input method: Français (France) - (Keyboard).
+[2025.03.05-11.03.13:394][690]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2025.03.05-11.03.13:396][690]LogExit: Preparing to exit.
+[2025.03.05-11.03.13:540][690]LogUObjectHash: Compacting FUObjectHashTables data took   1.62ms
+[2025.03.05-11.03.13:549][690]LogPython: Display: Object '/Engine/PythonTypes.add_controls_for_selected_options' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.03.05-11.03.13:550][690]LogPython: Display: Object '/Engine/PythonTypes.add_controls_for_selected' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.03.05-11.03.13:565][690]LogPython: Display: Object '/Engine/PythonTypes.add_null_above_selected' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.03.05-11.03.13:566][690]LogPython: Display: Object '/Engine/PythonTypes.align_translation_rotation' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.03.05-11.03.13:567][690]LogPython: Display: Object '/Engine/PythonTypes.align_translation_all' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.03.05-11.03.13:567][690]LogPython: Display: Object '/Engine/PythonTypes.align_translation_x' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.03.05-11.03.13:567][690]LogPython: Display: Object '/Engine/PythonTypes.align_translation_y' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.03.05-11.03.13:567][690]LogPython: Display: Object '/Engine/PythonTypes.align_translation_z' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.03.05-11.03.13:567][690]LogPython: Display: Object '/Engine/PythonTypes.align_rotation' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.03.05-11.03.13:567][690]LogPython: Display: Object '/Engine/PythonTypes.align_scale' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.03.05-11.03.13:567][690]LogPython: Display: Object '/Engine/PythonTypes.search_replace_name_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.03.05-11.03.13:567][690]LogPython: Display: Object '/Engine/PythonTypes.search_replace_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.03.05-11.03.13:569][690]LogPython: Display: Object '/Engine/PythonTypes.add_prefix_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.03.05-11.03.13:569][690]LogPython: Display: Object '/Engine/PythonTypes.add_prefix_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.03.05-11.03.13:569][690]LogPython: Display: Object '/Engine/PythonTypes.add_suffix_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.03.05-11.03.13:569][690]LogPython: Display: Object '/Engine/PythonTypes.add_suffix_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.03.05-11.03.13:569][690]LogPython: Display: Object '/Engine/PythonTypes.do_rename_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.03.05-11.03.13:569][690]LogPython: Display: Object '/Engine/PythonTypes.do_rename_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.03.05-11.03.13:571][690]LogPython: Display: Object '/Engine/PythonTypes.set_bone_reference_pose' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.03.05-11.03.13:572][690]LogPython: Display: Object '/Engine/PythonTypes.ControlOutputFormat' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.03.05-11.03.14:940][690]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2025.03.05-11.03.14:941][690]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2025.03.05-11.03.14:943][690]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2025.03.05-11.03.14:944][690]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2025.03.05-11.03.14:945][690]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2025.03.05-11.03.14:947][690]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2025.03.05-11.03.15:400][690]LogDemo: Cleaned up 0 splitscreen connections, owner deletion: enabled
+[2025.03.05-11.03.15:853][690]LogExit: Editor shut down
+[2025.03.05-11.03.15:882][690]LogExit: Transaction tracking system shut down
