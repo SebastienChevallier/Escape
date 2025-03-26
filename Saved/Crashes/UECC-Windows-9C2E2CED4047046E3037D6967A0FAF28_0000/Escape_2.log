@@ -2,7 +2,11 @@
 ﻿Log file open, 12/19/24 13:31:21
 ========
 ﻿Log file open, 12/18/24 10:44:40
+<<<<<<< HEAD
 >>>>>>>> Player:Saved/Crashes/UECC-Windows-BB9302BA43624BF3049F32909D1B6495_0000/Escape.log
+=======
+>>>>>>>> origin/Player:Saved/Crashes/UECC-Windows-BB9302BA43624BF3049F32909D1B6495_0000/Escape.log
+>>>>>>> origin/EnigmeManager
 LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
 LogWindows: File 'aqProf.dll' does not exist
 LogProfilingDebugging: Loading WinPixEventRuntime.dll for PIX profiling (from ../../../Engine/Binaries/ThirdParty/Windows/WinPixEventRuntime/x64).
@@ -15,7 +19,11 @@ LogWindows: Started CrashReportClient (pid=18348)
 ========
 LogWindows: Started CrashReportClient (pid=8868)
 LogWindows: Enabling Tpause support
+<<<<<<< HEAD
 >>>>>>>> Player:Saved/Crashes/UECC-Windows-BB9302BA43624BF3049F32909D1B6495_0000/Escape.log
+=======
+>>>>>>>> origin/Player:Saved/Crashes/UECC-Windows-BB9302BA43624BF3049F32909D1B6495_0000/Escape.log
+>>>>>>> origin/EnigmeManager
 LogWindows: Custom abort handler registered for crash reporting.
 LogInit: Display: Running engine for game: Escape
 LogCore: UnrealTraceServer: Trace store launch successful
@@ -32,7 +40,11 @@ LogCsvProfiler: Display: Metadata set : cpu="AuthenticAMD|AMD Ryzen 7 4800H with
 ========
 LogCsvProfiler: Display: Metadata set : os="Windows 11 (23H2) [10.0.22631.4541] "
 LogCsvProfiler: Display: Metadata set : cpu="GenuineIntel|13th Gen Intel(R) Core(TM) i7-13620H"
+<<<<<<< HEAD
 >>>>>>>> Player:Saved/Crashes/UECC-Windows-BB9302BA43624BF3049F32909D1B6495_0000/Escape.log
+=======
+>>>>>>>> origin/Player:Saved/Crashes/UECC-Windows-BB9302BA43624BF3049F32909D1B6495_0000/Escape.log
+>>>>>>> origin/EnigmeManager
 LogCsvProfiler: Display: Metadata set : pgoenabled="0"
 LogCsvProfiler: Display: Metadata set : pgoprofilingenabled="0"
 LogCsvProfiler: Display: Metadata set : ltoenabled="0"
@@ -71,7 +83,11 @@ LogConfig: Display: Loading Windows ini files took 0.07 seconds
 LogConfig: Display: Loading TVOS ini files took 0.07 seconds
 LogConfig: Display: Loading Unix ini files took 0.07 seconds
 LogAssetRegistry: Display: Asset registry cache read as 16.3 MiB from ../../../../../../Users/hugof/Documents/Ynov/Cours/B2/Ydays - Escape/Escape/Intermediate/CachedAssetRegistry_0.bin
+<<<<<<< HEAD
 >>>>>>>> Player:Saved/Crashes/UECC-Windows-BB9302BA43624BF3049F32909D1B6495_0000/Escape.log
+=======
+>>>>>>>> origin/Player:Saved/Crashes/UECC-Windows-BB9302BA43624BF3049F32909D1B6495_0000/Escape.log
+>>>>>>> origin/EnigmeManager
 LogConfig: Display: Loading LinuxArm64 ini files took 0.08 seconds
 LogConfig: Display: Loading Linux ini files took 0.08 seconds
 LogPluginManager: Mounting Engine plugin Bridge
@@ -83,7 +99,11 @@ LogPluginManager: Mounting Engine plugin MeshPainting
 ========
 LogPluginManager: Mounting Engine plugin Fab
 LogPluginManager: Mounting Engine plugin FastBuildController
+<<<<<<< HEAD
 >>>>>>>> Player:Saved/Crashes/UECC-Windows-BB9302BA43624BF3049F32909D1B6495_0000/Escape.log
+=======
+>>>>>>>> origin/Player:Saved/Crashes/UECC-Windows-BB9302BA43624BF3049F32909D1B6495_0000/Escape.log
+>>>>>>> origin/EnigmeManager
 LogPluginManager: Mounting Engine plugin TraceUtilities
 LogPluginManager: Mounting Engine plugin MeshPainting
 LogPluginManager: Mounting Engine plugin XGEController
@@ -149,7 +169,11 @@ LogPluginManager: Mounting Engine plugin InterchangeEditor
 LogPluginManager: Mounting Engine plugin AndroidMedia
 LogPluginManager: Mounting Engine plugin AvfMedia
 LogPluginManager: Mounting Engine plugin Interchange
+<<<<<<< HEAD
 >>>>>>>> Player:Saved/Crashes/UECC-Windows-BB9302BA43624BF3049F32909D1B6495_0000/Escape.log
+=======
+>>>>>>>> origin/Player:Saved/Crashes/UECC-Windows-BB9302BA43624BF3049F32909D1B6495_0000/Escape.log
+>>>>>>> origin/EnigmeManager
 LogPluginManager: Mounting Engine plugin ImgMedia
 LogPluginManager: Mounting Engine plugin MediaPlate
 LogPluginManager: Mounting Engine plugin MediaCompositing
@@ -264,7 +288,11 @@ LogPluginManager: Mounting Engine plugin InterchangeTests
 LogPluginManager: Mounting Engine plugin EOSShared
 LogPluginManager: Mounting Engine plugin OodleNetwork
 LogPluginManager: Mounting Engine plugin OnlineBase
+<<<<<<< HEAD
 >>>>>>>> Player:Saved/Crashes/UECC-Windows-BB9302BA43624BF3049F32909D1B6495_0000/Escape.log
+=======
+>>>>>>>> origin/Player:Saved/Crashes/UECC-Windows-BB9302BA43624BF3049F32909D1B6495_0000/Escape.log
+>>>>>>> origin/EnigmeManager
 LogPluginManager: Mounting Engine plugin OnlineServices
 LogPluginManager: Mounting Engine plugin OnlineBase
 LogPluginManager: Mounting Engine plugin OnlineSubsystem
@@ -406,7 +434,11 @@ LogPluginManager: Mounting Engine plugin OnlineSubsystemIOS
 LogPluginManager: Mounting Engine plugin ContentBrowserClassDataSource
 LogPluginManager: Mounting Engine plugin OnlineSubsystemGooglePlay
 LogPluginManager: Mounting Engine plugin PortableObjectFileDataSource
+<<<<<<< HEAD
 >>>>>>>> Player:Saved/Crashes/UECC-Windows-BB9302BA43624BF3049F32909D1B6495_0000/Escape.log
+=======
+>>>>>>>> origin/Player:Saved/Crashes/UECC-Windows-BB9302BA43624BF3049F32909D1B6495_0000/Escape.log
+>>>>>>> origin/EnigmeManager
 LogPluginManager: Mounting Engine plugin LightMixer
 LogPluginManager: Mounting Engine plugin ObjectMixer
 LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Bridge/Content/' mounted to '/Bridge/'
@@ -494,7 +526,11 @@ LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Editor/
 LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Editor/SpeedTreeImporter/Content/' mounted to '/SpeedTreeImporter/'
 LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Editor/UVEditor/Content/' mounted to '/UVEditor/'
 LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/VirtualProduction/Takes/Content/' mounted to '/Takes/'
+<<<<<<< HEAD
 >>>>>>>> Player:Saved/Crashes/UECC-Windows-BB9302BA43624BF3049F32909D1B6495_0000/Escape.log
+=======
+>>>>>>>> origin/Player:Saved/Crashes/UECC-Windows-BB9302BA43624BF3049F32909D1B6495_0000/Escape.log
+>>>>>>> origin/EnigmeManager
 LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Editor/ObjectMixer/LightMixer/Content/' mounted to '/LightMixer/'
 LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Editor/ObjectMixer/ObjectMixer/Content/' mounted to '/ObjectMixer/'
 SourceControl: Revision control is disabled
@@ -508,7 +544,11 @@ LogConfig: Applying CVar settings from Section [/Script/RenderDocPlugin.RenderDo
 RenderDocPlugin: Display: RenderDoc plugin will not be loaded. Use '-AttachRenderDoc' on the cmd line or enable 'renderdoc.AutoAttach' in the plugin settings.
 ========
 LogEOSSDK: Initializing EOSSDK Version:1.16.1-27379709
+<<<<<<< HEAD
 >>>>>>>> Player:Saved/Crashes/UECC-Windows-BB9302BA43624BF3049F32909D1B6495_0000/Escape.log
+=======
+>>>>>>>> origin/Player:Saved/Crashes/UECC-Windows-BB9302BA43624BF3049F32909D1B6495_0000/Escape.log
+>>>>>>> origin/EnigmeManager
 LogInit: Using libcurl 8.4.0
 LogInit:  - built for Windows
 LogInit:  - supports SSL with OpenSSL/1.1.1t
@@ -538,7 +578,11 @@ LogInit: Net CL: 27405482
 LogInit: OS: Windows 11 (23H2) [10.0.22631.4602] (), CPU: AMD Ryzen 7 4800H with Radeon Graphics         , GPU: AMD Radeon(TM) Graphics
 ========
 LogInit: OS: Windows 11 (23H2) [10.0.22631.4541] (), CPU: 13th Gen Intel(R) Core(TM) i7-13620H, GPU: Intel(R) UHD Graphics
+<<<<<<< HEAD
 >>>>>>>> Player:Saved/Crashes/UECC-Windows-BB9302BA43624BF3049F32909D1B6495_0000/Escape.log
+=======
+>>>>>>>> origin/Player:Saved/Crashes/UECC-Windows-BB9302BA43624BF3049F32909D1B6495_0000/Escape.log
+>>>>>>> origin/EnigmeManager
 LogInit: Compiled (64-bit): Nov  3 2023 16:09:16
 LogInit: Architecture: x64
 LogInit: Compiled with Visual C++: 19.36.32537.00
@@ -548,7 +592,11 @@ LogInit: Branch Name: ++UE5+Release-5.3
 LogInit: Command Line: -AUTH_LOGIN=unused -AUTH_PASSWORD=93220a6879e94f8a8b161d9cfac45714 -AUTH_TYPE=exchangecode -epicapp=UE_5.3 -epicenv=Prod -EpicPortal -epicusername=PingouinToxic -epicuserid=aa5dfc89ff41423094986522f343decf -epiclocale=fr -epicsandboxid=ue
 ========
 LogInit: Command Line: -AUTH_LOGIN=unused -AUTH_PASSWORD=b81f5fb0d05f497fb50243db4dbf6f94 -AUTH_TYPE=exchangecode -epicapp=UE_5.3 -epicenv=Prod -EpicPortal -epicusername=Cahimo -epicuserid=2577778220c840f691226e035c5e24e5 -epiclocale=fr -epicsandboxid=ue
+<<<<<<< HEAD
 >>>>>>>> Player:Saved/Crashes/UECC-Windows-BB9302BA43624BF3049F32909D1B6495_0000/Escape.log
+=======
+>>>>>>>> origin/Player:Saved/Crashes/UECC-Windows-BB9302BA43624BF3049F32909D1B6495_0000/Escape.log
+>>>>>>> origin/EnigmeManager
 LogInit: Base Directory: C:/Program Files/Epic Games/UE_5.3/Engine/Binaries/Win64/
 LogInit: Allocator: Mimalloc
 LogInit: Installed Engine Build: 1
@@ -3065,4 +3113,8 @@ LogConfig: CVar [[con.DebugLateCheat:1]] deferred - dummy variable created
 [2024.12.18-09.50.07:629][ 69]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
 [2024.12.18-09.50.07:702][ 69]LogSlate: Warning: The command 'BlueprintEditorSpawnNodes.AddActorRefAction->CommandInfo' has the same default chord as 'BlueprintEditorSpawnNodes.(Class=/Script/BlueprintGraph.K2Node_Knot Key=R Shift=false Ctrl=false Alt=false)' [R]
 [2024.12.18-09.50.09:634][ 69]LogStall: Stall detector 'UAssetEditorSubsystem::OpenEditorForAsset' exceeded budget of 2.000000s, reporting...
+<<<<<<< HEAD
 >>>>>>>> Player:Saved/Crashes/UECC-Windows-BB9302BA43624BF3049F32909D1B6495_0000/Escape.log
+=======
+>>>>>>>> origin/Player:Saved/Crashes/UECC-Windows-BB9302BA43624BF3049F32909D1B6495_0000/Escape.log
+>>>>>>> origin/EnigmeManager
