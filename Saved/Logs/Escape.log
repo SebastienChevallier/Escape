@@ -1385,3 +1385,10 @@ Make sure 'BP_FirstPersonCharacter' has been compiled for  Get Mode
 [2025.03.26-09.52.12:176][503]LogViewport: Scene viewport resized to 924x813, mode Windowed.
 [2025.03.26-09.52.12:260][507]LogViewport: Scene viewport resized to 925x813, mode Windowed.
 [2025.03.26-09.52.12:277][508]LogViewport: Scene viewport resized to 926x813, mode Windowed.
+[2025.03.26-09.53.37:799][197]LogUObjectHash: Compacting FUObjectHashTables data took   1.38ms
+[2025.03.26-09.53.37:813][197]LogPackageLocalizationCache: Processed 47 localized package path(s) for 1 prioritized culture(s) in 0.007614 seconds
+[2025.03.26-09.53.37:863][197]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Maps/LVL_EscapeLD_Auto1
+[2025.03.26-09.53.37:863][197]LogSavePackage: Moving '../../../../../../Users/schev/source/repos/Escape/Escape/Saved/LVL_EscapeLD_Auto13AAFD0B54EF8CCBBC7865AAF55AB0BF3.tmp' to '../../../../../../Users/schev/source/repos/Escape/Escape/Saved/Autosaves/Game/Maps/LVL_EscapeLD_Auto1.umap'
+[2025.03.26-09.53.37:866][197]LogAssetRegistry: Warning: ScanPathsSynchronous: ../../../../../../Users/schev/source/repos/Escape/Escape/Saved/Autosaves/Game/Maps/LVL_EscapeLD_Auto1.umap is in the /Temp path, will not scan.
+[2025.03.26-09.53.37:866][197]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/LVL_EscapeLD' took 0.088
+[2025.03.26-09.53.37:866][197]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.088
