@@ -1296,3 +1296,92 @@ Make sure 'BP_FirstPersonCharacter' has been compiled for  Get Mode
 [2025.03.26-09.47.48:474][250]LogSlate: Window 'BP_BookShelf' being destroyed
 [2025.03.26-09.47.48:481][250]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
 [2025.03.26-09.47.48:481][250]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.26-09.48.25:418][477]LogViewport: Scene viewport resized to 1122x813, mode Windowed.
+[2025.03.26-09.48.25:465][478]LogViewport: Scene viewport resized to 1114x813, mode Windowed.
+[2025.03.26-09.48.25:498][479]LogViewport: Scene viewport resized to 1110x813, mode Windowed.
+[2025.03.26-09.48.25:546][480]LogViewport: Scene viewport resized to 1102x813, mode Windowed.
+[2025.03.26-09.48.25:593][481]LogViewport: Scene viewport resized to 1091x813, mode Windowed.
+[2025.03.26-09.48.25:643][482]LogViewport: Scene viewport resized to 1077x813, mode Windowed.
+[2025.03.26-09.48.25:688][483]LogViewport: Scene viewport resized to 1067x813, mode Windowed.
+[2025.03.26-09.48.25:735][484]LogViewport: Scene viewport resized to 1054x813, mode Windowed.
+[2025.03.26-09.48.25:780][485]LogViewport: Scene viewport resized to 1047x813, mode Windowed.
+[2025.03.26-09.48.25:827][486]LogViewport: Scene viewport resized to 1043x813, mode Windowed.
+[2025.03.26-09.48.25:872][487]LogViewport: Scene viewport resized to 1042x813, mode Windowed.
+[2025.03.26-09.48.25:919][488]LogViewport: Scene viewport resized to 1039x813, mode Windowed.
+[2025.03.26-09.48.25:964][489]LogViewport: Scene viewport resized to 1038x813, mode Windowed.
+[2025.03.26-09.48.26:436][515]LogViewport: Scene viewport resized to 1039x813, mode Windowed.
+[2025.03.26-09.48.26:707][531]LogViewport: Scene viewport resized to 1041x813, mode Windowed.
+[2025.03.26-09.48.26:740][533]LogViewport: Scene viewport resized to 1043x813, mode Windowed.
+[2025.03.26-09.48.26:840][539]LogViewport: Scene viewport resized to 1044x813, mode Windowed.
+[2025.03.26-09.48.26:890][542]LogViewport: Scene viewport resized to 1045x813, mode Windowed.
+[2025.03.26-09.48.26:941][545]LogViewport: Scene viewport resized to 1049x813, mode Windowed.
+[2025.03.26-09.48.27:013][549]LogViewport: Scene viewport resized to 1050x813, mode Windowed.
+[2025.03.26-09.48.27:096][554]LogViewport: Scene viewport resized to 1054x813, mode Windowed.
+[2025.03.26-09.48.27:135][556]LogViewport: Scene viewport resized to 1056x813, mode Windowed.
+[2025.03.26-09.48.27:179][558]LogViewport: Scene viewport resized to 1059x813, mode Windowed.
+[2025.03.26-09.48.27:236][561]LogViewport: Scene viewport resized to 1061x813, mode Windowed.
+[2025.03.26-09.48.27:322][565]LogViewport: Scene viewport resized to 1063x813, mode Windowed.
+[2025.03.26-09.49.59:631][967]Cmd: TRANSACTION UNDO
+[2025.03.26-09.49.59:631][967]LogEditorTransaction: Undo Scale Elements
+[2025.03.26-09.49.59:989][978]Cmd: TRANSACTION UNDO
+[2025.03.26-09.49.59:989][978]LogEditorTransaction: Undo Scale Elements
+[2025.03.26-09.50.03:556][157]Cmd: TRANSACTION UNDO
+[2025.03.26-09.50.03:556][157]LogEditorTransaction: Undo Clicking on Elements
+[2025.03.26-09.50.17:376][856]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Events/Blueprint/BP_Event_DecorsMovement.BP_Event_DecorsMovement
+[2025.03.26-09.50.17:376][856]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.03.26-09.50.17:376][856]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.03.26-09.50.18:635][923]LogViewport: Scene viewport resized to 833x798, mode Windowed.
+[2025.03.26-09.50.25:712][299]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.03.26-09.50.34:848][727]LogSlate: Took 0.005301 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2025.03.26-09.50.35:039][735]LogShaderCompilers: Display: ================================================
+[2025.03.26-09.50.35:039][735]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2025.03.26-09.50.35:039][735]LogShaderCompilers: Display: Total job queries 152, among them cache hits 78 (51.32%)
+[2025.03.26-09.50.35:039][735]LogShaderCompilers: Display: Tracking 56 distinct input hashes that result in 37 distinct outputs (66.07%)
+[2025.03.26-09.50.35:039][735]LogShaderCompilers: Display: RAM used: 950,04 KiB of 819,20 MiB budget. Usage: 0.11%
+[2025.03.26-09.50.35:039][735]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2025.03.26-09.50.35:039][735]LogShaderCompilers: Display: Shaders Compiled: 18
+[2025.03.26-09.50.35:039][735]LogShaderCompilers: Display: Jobs assigned 18, completed 18 (100%)
+[2025.03.26-09.50.35:039][735]LogShaderCompilers: Display: Time job spent in pending queue: average 0.02 s, longest 0.02 s
+[2025.03.26-09.50.35:039][735]LogShaderCompilers: Display: Job execution time: average 0.60 s, max 0.77 s
+[2025.03.26-09.50.35:039][735]LogShaderCompilers: Display: Job life time (pending + execution): average 0.62 s, max 0.79
+[2025.03.26-09.50.35:039][735]LogShaderCompilers: Display: Shader code size: average 6,383 KiB, min 2,18 KiB, max 19,094 KiB
+[2025.03.26-09.50.35:039][735]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 0.79 s
+[2025.03.26-09.50.35:039][735]LogShaderCompilers: Display: Jobs were issued in 6 batches (only local compilation was used), average 3.00 jobs/batch
+[2025.03.26-09.50.35:039][735]LogShaderCompilers: Display: Average processing rate: 22.72 jobs/sec
+[2025.03.26-09.50.35:039][735]LogShaderCompilers: Display: Total thread time: 1,022 s
+[2025.03.26-09.50.35:039][735]LogShaderCompilers: Display: Total thread preprocess time: 0,282 s
+[2025.03.26-09.50.35:039][735]LogShaderCompilers: Display: Percentage time preprocessing: 27.57%
+[2025.03.26-09.50.35:039][735]LogShaderCompilers: Display: Effective parallelization: 1.29 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2025.03.26-09.50.35:039][735]LogShaderCompilers: Display: Top 1 most expensive shader types by average time:
+[2025.03.26-09.50.35:039][735]LogShaderCompilers: Display:                                               FNiagaraShader (compiled   18 times, average 0.06 sec, max 0.19 sec, min 0.03 sec)
+[2025.03.26-09.50.35:039][735]LogShaderCompilers: Display: Top 1 shader types by total compile time:
+[2025.03.26-09.50.35:039][735]LogShaderCompilers: Display:                                               FNiagaraShader - 100.00% of total time (compiled   18 times, average 0.06 sec, max 0.19 sec, min 0.03 sec)
+[2025.03.26-09.50.35:039][735]LogShaderCompilers: Display: ================================================
+[2025.03.26-09.50.35:900][759]LogSlate: Took 0.011081 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf' (3848K)
+[2025.03.26-09.51.27:735][159]LogViewport: Scene viewport resized to 1057x813, mode Windowed.
+[2025.03.26-09.51.27:772][160]LogViewport: Scene viewport resized to 1029x813, mode Windowed.
+[2025.03.26-09.51.27:788][161]LogViewport: Scene viewport resized to 1012x813, mode Windowed.
+[2025.03.26-09.51.27:814][162]LogViewport: Scene viewport resized to 982x813, mode Windowed.
+[2025.03.26-09.51.27:859][163]LogViewport: Scene viewport resized to 910x813, mode Windowed.
+[2025.03.26-09.51.27:900][164]LogViewport: Scene viewport resized to 859x813, mode Windowed.
+[2025.03.26-09.51.27:930][165]LogViewport: Scene viewport resized to 838x813, mode Windowed.
+[2025.03.26-09.51.27:967][166]LogViewport: Scene viewport resized to 834x813, mode Windowed.
+[2025.03.26-09.51.28:000][167]LogViewport: Scene viewport resized to 833x813, mode Windowed.
+[2025.03.26-09.51.28:036][168]LogViewport: Scene viewport resized to 828x813, mode Windowed.
+[2025.03.26-09.51.28:070][169]LogViewport: Scene viewport resized to 806x813, mode Windowed.
+[2025.03.26-09.51.28:109][170]LogViewport: Scene viewport resized to 779x813, mode Windowed.
+[2025.03.26-09.51.28:139][171]LogViewport: Scene viewport resized to 775x813, mode Windowed.
+[2025.03.26-09.52.11:846][492]LogViewport: Scene viewport resized to 778x813, mode Windowed.
+[2025.03.26-09.52.11:866][493]LogViewport: Scene viewport resized to 783x813, mode Windowed.
+[2025.03.26-09.52.11:887][494]LogViewport: Scene viewport resized to 793x813, mode Windowed.
+[2025.03.26-09.52.11:914][495]LogViewport: Scene viewport resized to 811x813, mode Windowed.
+[2025.03.26-09.52.11:943][496]LogViewport: Scene viewport resized to 834x813, mode Windowed.
+[2025.03.26-09.52.11:980][497]LogViewport: Scene viewport resized to 866x813, mode Windowed.
+[2025.03.26-09.52.12:006][498]LogViewport: Scene viewport resized to 885x813, mode Windowed.
+[2025.03.26-09.52.12:040][499]LogViewport: Scene viewport resized to 899x813, mode Windowed.
+[2025.03.26-09.52.12:072][500]LogViewport: Scene viewport resized to 904x813, mode Windowed.
+[2025.03.26-09.52.12:105][501]LogViewport: Scene viewport resized to 910x813, mode Windowed.
+[2025.03.26-09.52.12:139][502]LogViewport: Scene viewport resized to 919x813, mode Windowed.
+[2025.03.26-09.52.12:176][503]LogViewport: Scene viewport resized to 924x813, mode Windowed.
+[2025.03.26-09.52.12:260][507]LogViewport: Scene viewport resized to 925x813, mode Windowed.
+[2025.03.26-09.52.12:277][508]LogViewport: Scene viewport resized to 926x813, mode Windowed.
