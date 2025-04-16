@@ -4942,3 +4942,128 @@ Scale3D: 1.000000 1.000000 1.000000
 [2025.03.26-15.40.50:920][273]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=37
 [2025.03.26-15.40.50:930][273]LogUObjectHash: Compacting FUObjectHashTables data took   1.80ms
 [2025.03.26-15.40.51:076][274]LogPlayLevel: Display: Destroying online subsystem :Context_60
+[2025.03.26-15.45.05:077][114]LogDerivedDataCache: C:/Users/orian/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:01.178 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 1051 files in 1786 folders with total size 71 MiB.
+[2025.03.26-15.50.49:084][818]LogUObjectHash: Compacting FUObjectHashTables data took   1.80ms
+[2025.03.26-15.50.49:087][818]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/LVL_EscapeLD' took 0.024
+[2025.03.26-15.50.49:145][818]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Enigmes/DebugEnigme/BP_MoveEnigme] ([2] browsable assets)...
+[2025.03.26-15.50.49:145][818]OBJ SavePackage: Finished generating thumbnails for package [/Game/Enigmes/DebugEnigme/BP_MoveEnigme]
+[2025.03.26-15.50.49:152][818]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Enigmes/DebugEnigme/BP_MoveEnigme_Auto8
+[2025.03.26-15.50.49:152][818]LogSavePackage: Moving '../../../../../Users/orian/Documents/GitHub/Escape/Saved/BP_MoveEnigme_Auto87C74F20A403FA59F642BA3A051E1D2CE.tmp' to '../../../../../Users/orian/Documents/GitHub/Escape/Saved/Autosaves/Game/Enigmes/DebugEnigme/BP_MoveEnigme_Auto8.uasset'
+[2025.03.26-15.50.49:154][818]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Enigmes/Picture/BP_PictureEnigme] ([2] browsable assets)...
+[2025.03.26-15.50.49:179][818]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Enigmes/Picture/BP_PictureEnigme.BP_PictureEnigme]
+[2025.03.26-15.50.49:179][818]OBJ SavePackage: Finished generating thumbnails for package [/Game/Enigmes/Picture/BP_PictureEnigme]
+[2025.03.26-15.50.49:196][818]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Enigmes/Picture/BP_PictureEnigme_Auto8
+[2025.03.26-15.50.49:197][818]LogSavePackage: Moving '../../../../../Users/orian/Documents/GitHub/Escape/Saved/BP_PictureEnigme_Auto8651C1B3D476459FFCCE69885C0689E29.tmp' to '../../../../../Users/orian/Documents/GitHub/Escape/Saved/Autosaves/Game/Enigmes/Picture/BP_PictureEnigme_Auto8.uasset'
+[2025.03.26-15.50.49:198][818]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Events/TriggerZone/BP_TriggerZone] ([2] browsable assets)...
+[2025.03.26-15.50.49:198][818]OBJ SavePackage: Finished generating thumbnails for package [/Game/Events/TriggerZone/BP_TriggerZone]
+[2025.03.26-15.50.49:208][818]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Events/TriggerZone/BP_TriggerZone_Auto8
+[2025.03.26-15.50.49:208][818]LogSavePackage: Moving '../../../../../Users/orian/Documents/GitHub/Escape/Saved/BP_TriggerZone_Auto86C0E095241F2DC33A9A239A0D13816FE.tmp' to '../../../../../Users/orian/Documents/GitHub/Escape/Saved/Autosaves/Game/Events/TriggerZone/BP_TriggerZone_Auto8.uasset'
+[2025.03.26-15.50.49:209][818]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Enigmes/Chess/ChessEngime] ([2] browsable assets)...
+[2025.03.26-15.50.49:217][818]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Enigmes/Chess/ChessEngime.ChessEngime]
+[2025.03.26-15.50.49:217][818]OBJ SavePackage: Finished generating thumbnails for package [/Game/Enigmes/Chess/ChessEngime]
+[2025.03.26-15.50.49:225][818]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Enigmes/Chess/ChessEngime_Auto8
+[2025.03.26-15.50.49:225][818]LogSavePackage: Moving '../../../../../Users/orian/Documents/GitHub/Escape/Saved/ChessEngime_Auto80A2BF2034D31DC910927DDBC279652E7.tmp' to '../../../../../Users/orian/Documents/GitHub/Escape/Saved/Autosaves/Game/Enigmes/Chess/ChessEngime_Auto8.uasset'
+[2025.03.26-15.50.49:226][818]LogFileHelpers: Auto-saving content packages took 0.139
+[2025.03.26-15.59.23:651][714]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2025.03.26-15.59.25:489][714]LogSlate: Window 'Save Content' being destroyed
+[2025.03.26-15.59.25:499][714]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.03.26-15.59.25:564][714]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Enigmes/DebugEnigme/BP_MoveEnigme" FILE="../../../../../Users/orian/Documents/GitHub/Escape/Content/Enigmes/DebugEnigme/BP_MoveEnigme.uasset" SILENT=true
+[2025.03.26-15.59.25:569][714]LogSavePackage: Moving output files for package: /Game/Enigmes/DebugEnigme/BP_MoveEnigme
+[2025.03.26-15.59.25:569][714]LogSavePackage: Moving '../../../../../Users/orian/Documents/GitHub/Escape/Saved/BP_MoveEnigme03CC99BE4905FB5CB26898B18738A097.tmp' to '../../../../../Users/orian/Documents/GitHub/Escape/Content/Enigmes/DebugEnigme/BP_MoveEnigme.uasset'
+[2025.03.26-15.59.25:571][714]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Enigmes/Picture/BP_PictureEnigme" FILE="../../../../../Users/orian/Documents/GitHub/Escape/Content/Enigmes/Picture/BP_PictureEnigme.uasset" SILENT=true
+[2025.03.26-15.59.25:583][714]LogSavePackage: Moving output files for package: /Game/Enigmes/Picture/BP_PictureEnigme
+[2025.03.26-15.59.25:584][714]LogSavePackage: Moving '../../../../../Users/orian/Documents/GitHub/Escape/Saved/BP_PictureEnigme4C82FC474236E6339A0C109775D1E364.tmp' to '../../../../../Users/orian/Documents/GitHub/Escape/Content/Enigmes/Picture/BP_PictureEnigme.uasset'
+[2025.03.26-15.59.25:585][714]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Events/TriggerZone/BP_TriggerZone" FILE="../../../../../Users/orian/Documents/GitHub/Escape/Content/Events/TriggerZone/BP_TriggerZone.uasset" SILENT=true
+[2025.03.26-15.59.25:594][714]LogSavePackage: Moving output files for package: /Game/Events/TriggerZone/BP_TriggerZone
+[2025.03.26-15.59.25:595][714]LogSavePackage: Moving '../../../../../Users/orian/Documents/GitHub/Escape/Saved/BP_TriggerZoneFC4971B6469021691ABE0A80E9B3522A.tmp' to '../../../../../Users/orian/Documents/GitHub/Escape/Content/Events/TriggerZone/BP_TriggerZone.uasset'
+[2025.03.26-15.59.25:596][714]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Enigmes/Chess/ChessEngime" FILE="../../../../../Users/orian/Documents/GitHub/Escape/Content/Enigmes/Chess/ChessEngime.uasset" SILENT=true
+[2025.03.26-15.59.25:603][714]LogSavePackage: Moving output files for package: /Game/Enigmes/Chess/ChessEngime
+[2025.03.26-15.59.25:604][714]LogSavePackage: Moving '../../../../../Users/orian/Documents/GitHub/Escape/Saved/ChessEngimeAF4E297A46F71F6A3ED6E0B716844F94.tmp' to '../../../../../Users/orian/Documents/GitHub/Escape/Content/Enigmes/Chess/ChessEngime.uasset'
+[2025.03.26-15.59.25:611][714]LogFileHelpers: InternalPromptForCheckoutAndSave took 112 ms (total: 8.03 sec)
+[2025.03.26-15.59.25:612][714]LogStall: Shutdown...
+[2025.03.26-15.59.25:625][714]LogStall: Shutdown complete.
+[2025.03.26-15.59.25:667][714]LogWorld: UWorld::CleanupWorld for World_22, bSessionEnded=true, bCleanupResources=true
+[2025.03.26-15.59.25:667][714]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.26-15.59.25:825][714]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2025.03.26-15.59.25:825][714]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2025.03.26-15.59.25:825][714]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.26-15.59.26:063][714]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2025.03.26-15.59.26:063][714]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2025.03.26-15.59.26:063][714]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.26-15.59.26:172][714]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2025.03.26-15.59.26:172][714]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2025.03.26-15.59.26:172][714]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.26-15.59.26:269][714]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2025.03.26-15.59.26:269][714]LogWorld: UWorld::CleanupWorld for World_10, bSessionEnded=true, bCleanupResources=true
+[2025.03.26-15.59.26:269][714]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.26-15.59.26:364][714]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2025.03.26-15.59.26:364][714]LogWorld: UWorld::CleanupWorld for World_11, bSessionEnded=true, bCleanupResources=true
+[2025.03.26-15.59.26:364][714]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.26-15.59.26:449][714]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2025.03.26-15.59.26:449][714]LogWorld: UWorld::CleanupWorld for World_16, bSessionEnded=true, bCleanupResources=true
+[2025.03.26-15.59.26:449][714]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.26-15.59.26:511][714]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2025.03.26-15.59.26:512][714]LogWorld: UWorld::CleanupWorld for World_23, bSessionEnded=true, bCleanupResources=true
+[2025.03.26-15.59.26:512][714]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.26-15.59.26:584][714]LogSlate: Window 'Message Log' being destroyed
+[2025.03.26-15.59.26:588][714]LogSlate: Window 'Escape - Unreal Editor' being destroyed
+[2025.03.26-15.59.26:754][714]AssetCheck: New page: Asset Save: multiple assets
+[2025.03.26-15.59.26:754][714]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Enigmes/DebugEnigme/BP_MoveEnigme.BP_MoveEnigme
+[2025.03.26-15.59.26:754][714]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Enigmes/Picture/BP_PictureEnigme.BP_PictureEnigme
+[2025.03.26-15.59.26:754][714]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Events/TriggerZone/BP_TriggerZone.BP_TriggerZone
+[2025.03.26-15.59.26:754][714]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Enigmes/Chess/ChessEngime.ChessEngime
+[2025.03.26-15.59.26:757][715]Cmd: QUIT_EDITOR
+[2025.03.26-15.59.26:758][715]LogCore: Engine exit requested (reason: UUnrealEdEngine::CloseEditor())
+[2025.03.26-15.59.26:774][715]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2025.03.26-15.59.26:777][715]LogStaticMesh: Abandoning remaining async distance field tasks for shutdown
+[2025.03.26-15.59.26:777][715]LogStaticMesh: Abandoning remaining async card representation tasks for shutdown
+[2025.03.26-15.59.26:792][715]LogWorld: UWorld::CleanupWorld for LVL_EscapeLD, bSessionEnded=true, bCleanupResources=true
+[2025.03.26-15.59.26:792][715]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.26-15.59.26:845][715]LogLevelSequenceEditor: LevelSequenceEditor subsystem deinitialized.
+[2025.03.26-15.59.27:929][715]LogAudio: Display: Beginning Audio Device Manager Shutdown (Module: AudioMixerXAudio2)...
+[2025.03.26-15.59.27:929][715]LogAudio: Display: Destroying 1 Remaining Audio Device(s)...
+[2025.03.26-15.59.27:929][715]LogAudio: Display: Audio Device unregistered from world 'LVL_EscapeLD'.
+[2025.03.26-15.59.27:929][715]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 1
+[2025.03.26-15.59.27:936][715]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1
+[2025.03.26-15.59.27:940][715]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1
+[2025.03.26-15.59.27:967][715]LogAudio: Display: Audio Device Manager Shutdown
+[2025.03.26-15.59.27:968][715]LogWindowsTextInputMethodSystem: Activated input method: Français (France) - (Keyboard).
+[2025.03.26-15.59.27:980][715]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2025.03.26-15.59.27:982][715]LogExit: Preparing to exit.
+[2025.03.26-15.59.28:089][715]LogUObjectHash: Compacting FUObjectHashTables data took   1.65ms
+[2025.03.26-15.59.28:114][715]LogPython: Display: Object '/Engine/PythonTypes.add_controls_for_selected_options' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.03.26-15.59.28:115][715]LogPython: Display: Object '/Engine/PythonTypes.add_controls_for_selected' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.03.26-15.59.28:132][715]LogPython: Display: Object '/Engine/PythonTypes.add_null_above_selected' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.03.26-15.59.28:135][715]LogPython: Display: Object '/Engine/PythonTypes.align_translation_rotation' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.03.26-15.59.28:136][715]LogPython: Display: Object '/Engine/PythonTypes.align_translation_all' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.03.26-15.59.28:136][715]LogPython: Display: Object '/Engine/PythonTypes.align_translation_x' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.03.26-15.59.28:136][715]LogPython: Display: Object '/Engine/PythonTypes.align_translation_y' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.03.26-15.59.28:136][715]LogPython: Display: Object '/Engine/PythonTypes.align_translation_z' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.03.26-15.59.28:136][715]LogPython: Display: Object '/Engine/PythonTypes.align_rotation' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.03.26-15.59.28:136][715]LogPython: Display: Object '/Engine/PythonTypes.align_scale' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.03.26-15.59.28:136][715]LogPython: Display: Object '/Engine/PythonTypes.search_replace_name_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.03.26-15.59.28:136][715]LogPython: Display: Object '/Engine/PythonTypes.search_replace_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.03.26-15.59.28:137][715]LogPython: Display: Object '/Engine/PythonTypes.add_prefix_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.03.26-15.59.28:137][715]LogPython: Display: Object '/Engine/PythonTypes.add_prefix_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.03.26-15.59.28:137][715]LogPython: Display: Object '/Engine/PythonTypes.add_suffix_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.03.26-15.59.28:137][715]LogPython: Display: Object '/Engine/PythonTypes.add_suffix_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.03.26-15.59.28:138][715]LogPython: Display: Object '/Engine/PythonTypes.do_rename_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.03.26-15.59.28:138][715]LogPython: Display: Object '/Engine/PythonTypes.do_rename_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.03.26-15.59.28:140][715]LogPython: Display: Object '/Engine/PythonTypes.set_bone_reference_pose' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.03.26-15.59.28:141][715]LogPython: Display: Object '/Engine/PythonTypes.ControlOutputFormat' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.03.26-15.59.29:670][715]LogWorld: UWorld::CleanupWorld for World_17, bSessionEnded=true, bCleanupResources=true
+[2025.03.26-15.59.29:673][715]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2025.03.26-15.59.29:675][715]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2025.03.26-15.59.29:678][715]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2025.03.26-15.59.29:680][715]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2025.03.26-15.59.29:683][715]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2025.03.26-15.59.29:685][715]LogWorld: UWorld::CleanupWorld for World_15, bSessionEnded=true, bCleanupResources=true
+[2025.03.26-15.59.29:688][715]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2025.03.26-15.59.29:690][715]LogWorld: UWorld::CleanupWorld for World_21, bSessionEnded=true, bCleanupResources=true
+[2025.03.26-15.59.29:692][715]LogWorld: UWorld::CleanupWorld for World_12, bSessionEnded=true, bCleanupResources=true
+[2025.03.26-15.59.29:694][715]LogWorld: UWorld::CleanupWorld for World_20, bSessionEnded=true, bCleanupResources=true
+[2025.03.26-15.59.29:697][715]LogWorld: UWorld::CleanupWorld for World_18, bSessionEnded=true, bCleanupResources=true
+[2025.03.26-15.59.29:699][715]LogWorld: UWorld::CleanupWorld for World_19, bSessionEnded=true, bCleanupResources=true
+[2025.03.26-15.59.30:016][715]LogDemo: Cleaned up 0 splitscreen connections, owner deletion: enabled
+[2025.03.26-15.59.30:313][715]LogExit: Editor shut down
+[2025.03.26-15.59.30:336][715]LogExit: Transaction tracking system shut down
