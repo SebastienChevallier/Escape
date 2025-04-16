@@ -1676,3 +1676,19 @@ LogConfig: CVar [[con.DebugLateDefault:1]] deferred - dummy variable created
 [2025.04.16-07.45.27:818][511]LogContentBrowser: Attempting asset rename: LVL_EscapeLD1 -> ESCAPE_FINALLVL
 [2025.04.16-07.45.27:856][511]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
 [2025.04.16-07.45.27:887][511]LogContentBrowser: End creating deferred item LVL_EscapeLD1
+[2025.04.16-07.46.06:989][ 62]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2025.04.16-07.46.09:747][ 62]LogDerivedDataCache: C:/Users/gregb/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:02.121 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 1762 files in 2830 folders with total size 237 MiB.
+[2025.04.16-07.46.10:037][ 62]LogSlate: Window 'Save Content' being destroyed
+[2025.04.16-07.46.11:219][131]LogUObjectHash: Compacting FUObjectHashTables data took   0.30ms
+[2025.04.16-07.46.12:028][131]LogSlate: Window 'Save Content' being destroyed
+[2025.04.16-07.46.12:065][131]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.04.16-07.46.12:182][131]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.04.16-07.46.12:206][131]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/ESCAPE_FINALLVL" FILE="E:/YNOV/B3/Escape/Prod/EscapeUE5/Escape/Content/Maps/ESCAPE_FINALLVL.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2025.04.16-07.46.12:212][131]LogUObjectHash: Compacting FUObjectHashTables data took   0.34ms
+[2025.04.16-07.46.12:224][131]LogPackageLocalizationCache: Processed 46 localized package path(s) for 1 prioritized culture(s) in 0.008302 seconds
+[2025.04.16-07.46.44:758][131]LogSavePackage: Moving output files for package: /Game/Maps/ESCAPE_FINALLVL
+[2025.04.16-07.46.44:759][131]LogSavePackage: Moving 'E:/YNOV/B3/Escape/Prod/EscapeUE5/Escape/Saved/ESCAPE_FINALLVL3C9972D54A518CBE040D25B981C6B23F.tmp' to 'E:/YNOV/B3/Escape/Prod/EscapeUE5/Escape/Content/Maps/ESCAPE_FINALLVL.umap'
+[2025.04.16-07.46.44:780][131]LogFileHelpers: Saving map 'ESCAPE_FINALLVL' took 32.600
+[2025.04.16-07.46.44:789][131]LogFileHelpers: InternalPromptForCheckoutAndSave took 32.7 sec
+[2025.04.16-07.46.44:791][131]AssetCheck: New page: Asset Save: ESCAPE_FINALLVL
+[2025.04.16-07.46.44:791][131]LogContentValidation: Display: Validating /Script/Engine.World /Game/Maps/ESCAPE_FINALLVL.ESCAPE_FINALLVL
