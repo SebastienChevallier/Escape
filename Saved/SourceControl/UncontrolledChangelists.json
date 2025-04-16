@@ -7,6 +7,7 @@
 			"files": [
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 				"C:/Users/orian/Documents/GitHub/Escape/Content/Maps/LVL_EscapeLD.umap",
 				"C:/Users/orian/Documents/GitHub/Escape/Content/Maps/LVL_Escape.umap",
@@ -21,6 +22,11 @@
 				"C:/Users/orian/Documents/GitHub/Escape/Content/Events/TriggerZone/BP_TriggerZone.uasset",
 				"C:/Users/orian/Documents/GitHub/Escape/Content/Enigmes/DebugEnigme/BP_MoveEnigme.uasset",
 >>>>>>> origin/EnigmeManager
+=======
+				"C:/Users/hugof/Documents/Ynov/Cours/B2/Ydays - Escape/Escape/Content/Blueprints/BP_BookShelf.uasset",
+				"C:/Users/hugof/Documents/Ynov/Cours/B2/Ydays - Escape/Escape/Content/Maps/LVL_EscapeLD.umap",
+				"C:/Users/hugof/Documents/Ynov/Cours/B2/Ydays - Escape/Escape/Content/Blueprints/BP_WoodLocker.uasset",
+>>>>>>> origin/Patch
 				"C:/Users/schev/source/repos/Escape/Escape/Content/Maps/LVL_EscapeLD.umap",
 				"C:/Users/schev/source/repos/Escape/Escape/Content/Events/Blueprint/BP_Tapis.uasset",
 				"C:/Users/schev/source/repos/Escape/Escape/Content/Managers/Enum_Event.uasset",
